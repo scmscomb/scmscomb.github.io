@@ -21,7 +21,7 @@ Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distrib
 
 Talk II: We will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
 
-### June 18th, 2020, 10:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
+### June 25th, 2020, 10:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   
  
 Abstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
