@@ -1,25 +1,21 @@
-## Welcome to GitHub Pages
+This online seminar is organized by Hehui Wu, Qiqin Xie and Ping Hu.
 
-You can use the [editor on GitHub](https://github.com/scmscomb/scmscomb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There is a seminar mailing list. If you wish to be added to (or removed from) this mailing list, please contact Ping Hu at huping9 at mail.sysu.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Current schedule
+### June 11th, 15:00 - 16:00 China Standard Time (UTC+8) Wojciech Samotij (Tel Aviv University)
+_Large deviations of triangle counts in the binomial random graph I_
+Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
 
-### Markdown
+Talk I: We will give a very gentle introduction to the theory of large deviations and discuss the history of the large deviation problem for triangle counts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### June 18th, 15:00 - 16:00 China Standard Time (UTC+8) Wojciech Samotij (Tel Aviv University)
+_Large deviations of triangle counts in the binomial random graph II_
+Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
 
-```markdown
-Syntax highlighted code block
+Talk II: We will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,10 +24,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scmscomb/scmscomb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Past talks
