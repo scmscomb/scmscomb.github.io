@@ -17,7 +17,5 @@ Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distrib
 
 Talk II: We will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
 
-
-
-**Bold** and _Italic_ and `Code` text
 ## Past talks
+### Hong Liu (University of Warwick) Basics on the hypergraph container method
