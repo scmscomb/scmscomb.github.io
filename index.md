@@ -37,8 +37,8 @@ _**Basics on the hypergraph container method I - V**_
 
 This is a gentle introduction to basics of the hypergraph container method introduced independently by Balogh, Samotij and Morris, and Saxton and Thomason. The method has seen numerous applications in extremal combinatorics and other related areas in the past decade. We will focus mostly on examples, illustrating how to apply this method on various types of problems.
 
--Talk I: [video](https://www.bilibili.com/video/BV1Ug4y1q7M3) and [slides](/slides/container-note-20200507.pdf)
--Talk II: [video](https://www.bilibili.com/video/BV1SZ4y1s7ev) and [slides](/slides/container-note-20200514.pdf)
--Talk III: [video](https://www.bilibili.com/video/BV1D5411s7iW) and [slides](/slides/container-note-20200521.pdf)
--Talk IV: [video](https://www.bilibili.com/video/BV1kC4y1p7FB) and [slides](/slides/container-note-20200528.pdf)
--Talk V: [video](https://www.bilibili.com/video/BV1sz4y197gR) and [slides](/slides/container-note-20200604.pdf)
+*Talk I: [video](https://www.bilibili.com/video/BV1Ug4y1q7M3) and [slides](/slides/container-note-20200507.pdf)
+*Talk II: [video](https://www.bilibili.com/video/BV1SZ4y1s7ev) and [slides](/slides/container-note-20200514.pdf)
+*Talk III: [video](https://www.bilibili.com/video/BV1D5411s7iW) and [slides](/slides/container-note-20200521.pdf)
+*Talk IV: [video](https://www.bilibili.com/video/BV1kC4y1p7FB) and [slides](/slides/container-note-20200528.pdf)
+*Talk V: [video](https://www.bilibili.com/video/BV1sz4y197gR) and [slides](/slides/container-note-20200604.pdf)
