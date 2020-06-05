@@ -5,7 +5,7 @@ There is a seminar mailing list. If you wish to be added to (or removed from) th
 The presentations are live using Zoom, with password 061801.
 
 ## Current schedule
-### June 11th 2020, 15:00 (UTC+8): [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University)
+### June 11th, 2020, 15:00 (UTC+8): [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University)
 _**Large deviations of triangle counts in the binomial random graph I**_  
 [zoom](https://zoom.com.cn/j/92368341744)
 
@@ -13,7 +13,7 @@ Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distrib
 
 Talk I: We will give a very gentle introduction to the theory of large deviations and discuss the history of the large deviation problem for triangle counts.
 
-### June 18th 2020, 15:00 (UTC+8): [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University)
+### June 18th, 2020, 15:00 (UTC+8): [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University)
 _**Large deviations of triangle counts in the binomial random graph II**_   
 [zoom](https://zoom.com.cn/j/93815617744)
 
@@ -21,7 +21,7 @@ Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distrib
 
 Talk II: We will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
 
-### June 18th 2020, 10:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
+### June 18th, 2020, 10:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   
  
 Abstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
@@ -32,7 +32,7 @@ The proofs use Sapozhenko's graph container lemma, and a recently developed meth
 This is a joint work with with Jozsef Balogh and Ramon I. Garcia.
 
 ## Past talks
-### May 7th - June 4th 2020, [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
+### May 7th - June 4th, 2020: [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**Basics on the hypergraph container method I - V**_   
 
 This is a gentle introduction to basics of the hypergraph container method introduced independently by Balogh, Samotij and Morris, and Saxton and Thomason. The method has seen numerous applications in extremal combinatorics and other related areas in the past decade. We will focus mostly on examples, illustrating how to apply this method on various types of problems.
