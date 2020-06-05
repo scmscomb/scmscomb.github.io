@@ -5,9 +5,9 @@ There is a seminar mailing list. If you wish to be added to (or removed from) th
 The presentations are live using Zoom, with password 061801.
 
 ## Current schedule
-### June 11th, 2020, 15:00 (UTC+8): [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University)
+### June 11th, 2020, 15:00 (UTC+8): [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
 _**Large deviations of triangle counts in the binomial random graph I**_  
-[zoom](https://zoom.com.cn/j/92368341744) [poster](/poster/200611_Wojciech_Samotij.pdf)
+[zoom](https://zoom.com.cn/j/92368341744) and [poster](/poster/200611_Wojciech_Samotij.pdf)
 
 Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
 
@@ -15,7 +15,7 @@ Talk I: We will give a very gentle introduction to the theory of large deviation
 
 ### June 18th, 2020, 15:00 (UTC+8): [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University)
 _**Large deviations of triangle counts in the binomial random graph II**_   
-[zoom](https://zoom.com.cn/j/93815617744) [poster](/poster/200618_Wojciech_Samotij.pdf)
+[zoom](https://zoom.com.cn/j/93815617744) and [poster](/poster/200618_Wojciech_Samotij.pdf)
 
 Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
 
