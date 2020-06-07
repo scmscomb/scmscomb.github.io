@@ -1,6 +1,8 @@
 This online seminar is organized by Hehui Wu, Qiqin Xie and Ping Hu.
 
-There is a seminar mailing list. If you wish to be added to (or removed from) this mailing list, please contact Ping Hu at huping9 at mail.sysu.edu.cn
+There is a seminar mailing list. If you wish to be added to (or removed from) this mailing list, please contact Ping Hu at huping9 at mail.sysu.edu.cn.
+
+You may also check our seminar schedule through [Google Calendar Subscription](https://calendar.google.com/calendar?cid=NHA1amZrM2c3c2M4N3RrOWgxaGc4dDVhZm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
 The presentations are live using Zoom, with password 061801.
 
