@@ -30,7 +30,7 @@ This is a joint work with Jozsef Balogh and Ramon I. Garcia.
 
 ### June 11th, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
 _**Large deviations of triangle counts in the binomial random graph I**_  
-video, slides and [poster](/poster/200611_Wojciech_Samotij.pdf)
+[video](https://www.bilibili.com/video/BV1E54y1Q74j/), slides and [poster](/poster/200611_Wojciech_Samotij.pdf)
 
 Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
 
