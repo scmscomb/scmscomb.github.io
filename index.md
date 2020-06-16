@@ -4,13 +4,11 @@ There is a seminar mailing list. If you wish to be added to (or removed from) th
 
 You may also check our seminar schedule through [Google Calendar Subscription](https://calendar.google.com/calendar?cid=NHA1amZrM2c3c2M4N3RrOWgxaGc4dDVhZm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
-The presentations are live using Zoom, with password 061801.
-
 ## Current schedule
 
 ### June 18th, 2020, 15:00 (UTC+8): [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University)
 _**Large deviations of triangle counts in the binomial random graph II**_   
-[zoom](https://zoom.com.cn/j/93815617744) and [poster](/poster/200618_Wojciech_Samotij.pdf)
+[zoom](https://zoom.com.cn/j/93815617744) (password 061801) and [poster](/poster/200618_Wojciech_Samotij.pdf)
 
 Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
 
@@ -18,13 +16,16 @@ Talk II: We will present a complete solution to the upper tail problem for trian
 
 ### June 25th, 2020, 10:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   
- 
+[zoom](https://zoom.com.cn/j/96786380622) (password 016801)
+
 Abstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
 The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.  
-For an odd integer n=2d-1, let \mathcal{B}(n, d) be the subgraph of the hypercube induced by the two largest layers. 
-Our new results describe the typical structure of independent sets in \mathcal{B}(n, d) and also give precise asymptotics on the number of them.   
+For an odd integer n=2d-1, let B(n, d) be the subgraph of the hypercube induced by the two largest layers. 
+Our new results describe the typical structure of independent sets in B(n, d) and also give precise asymptotics on the number of them.   
 The proofs use Sapozhenko's graph container lemma, and a recently developed method of Jenssen and Perkins, which combines Sapozhenko's graph container lemma with a classcal tool from statistical physics, the cluster expansion for polymer models.  
 This is a joint work with Jozsef Balogh and Ramon I. Garcia.
+
+### July 2nd, 2020, 16:00 (UTC+8): [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
 
 ## Past talks
 
