@@ -16,7 +16,7 @@ Talk II: We will present a complete solution to the upper tail problem for trian
 
 ### June 25th, 2020, 10:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   
-[zoom](https://zoom.com.cn/j/96786380622) (password 016801)
+[zoom](https://zoom.com.cn/j/96786380622) (password 016801) and [poster](/poster/200625_Lina_Li.pdf)
 
 Abstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
 The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.  
