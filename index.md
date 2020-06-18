@@ -6,14 +6,6 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ## Current schedule
 
-### June 18th, 2020, 15:00 (UTC+8): [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University)
-_**Large deviations of triangle counts in the binomial random graph II**_   
-[zoom](https://zoom.com.cn/j/93815617744) (password 061801) and [poster](/poster/200618_Wojciech_Samotij.pdf)
-
-Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
-
-Talk II: We will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
-
 ### June 25th, 2020, 10:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   
 [zoom](https://zoom.com.cn/j/96786380622) (password 016801) and [poster](/poster/200625_Lina_Li.pdf)
@@ -29,13 +21,14 @@ This is a joint work with Jozsef Balogh and Ramon I. Garcia.
 
 ## Past talks
 
-### June 11th, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
-_**Large deviations of triangle counts in the binomial random graph I**_  
-[video](https://www.bilibili.com/video/BV1E54y1Q74j/), [slides](/slides/large-deviations-1.pdf) and [poster](/poster/200611_Wojciech_Samotij.pdf)
+### June 11 - 18th, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
+_**Large deviations of triangle counts in the binomial random graph**_  
+* Talk I: [video](https://www.bilibili.com/video/BV1E54y1Q74j/), [slides](/slides/large-deviations-1.pdf) and [poster](/poster/200611_Wojciech_Samotij.pdf)   
+* Talk II: Video, [slides](/slides/large-deviations-2.pdf) and [poster](/poster/200618_Wojciech_Samotij.pdf)
 
 Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
 
-Talk I: We will give a very gentle introduction to the theory of large deviations and discuss the history of the large deviation problem for triangle counts.
+The first talk of the series will give a very gentle introduction to the theory of large deviations and discuss the history of the large deviation problem for triangle counts. The second talk of the series will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
 
 ### May 7th - June 4th, 2020: [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**Basics on the hypergraph container method I - V**_   
