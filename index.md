@@ -22,7 +22,7 @@ This is a joint work with Jozsef Balogh and Ramon I. Garcia.
 ## Past talks
 
 ### June 11 - 18th, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
-_**Large deviations of triangle counts in the binomial random graph**_  
+_**Large deviations of triangle counts in the binomial random graph I - II**_  
 * Talk I: [video](https://www.bilibili.com/video/BV1E54y1Q74j/), [slides](/slides/large-deviations-1.pdf) and [poster](/poster/200611_Wojciech_Samotij.pdf)   
 * Talk II: [video](https://www.bilibili.com/video/BV1XC4y1a7uk/), [slides](/slides/large-deviations-2.pdf) and [poster](/poster/200618_Wojciech_Samotij.pdf)
 
