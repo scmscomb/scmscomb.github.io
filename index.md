@@ -14,7 +14,7 @@ Abstract: In recent decades, independent sets in the discrete hypercube has rece
 The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.  
 For an odd integer n=2d-1, let B(n, d) be the subgraph of the hypercube induced by the two largest layers. 
 Our new results describe the typical structure of independent sets in B(n, d) and also give precise asymptotics on the number of them.   
-The proofs use Sapozhenko's graph container lemma, and a recently developed method of Jenssen and Perkins, which combines Sapozhenko's graph container lemma with a classcal tool from statistical physics, the cluster expansion for polymer models.  
+The proofs use Sapozhenko's graph container lemma, and a recently developed method of Jenssen and Perkins, which combines Sapozhenko's graph container lemma with a classical tool from statistical physics, the cluster expansion for polymer models.  
 This is a joint work with Jozsef Balogh and Ramon I. Garcia.
 
 ### July 2nd, 2020, 16:00 (UTC+8): [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
