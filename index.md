@@ -6,9 +6,15 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ## Current schedule
 
-### June 25th, 2020, 10:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
+### July 2nd, 2020, 16:00 (UTC+8): [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
+
+### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
+
+## Past talks
+
+### June 25th, 2020: [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   
-[zoom](https://zoom.com.cn/j/96786380622) (password 016801) and [poster](/poster/200625_Lina_Li.pdf)
+video, [slides](/slides/mid_layers_20200625.pdf) and [poster](/poster/200625_Lina_Li.pdf)
 
 Abstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
 The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.  
@@ -16,12 +22,6 @@ For an odd integer n=2d-1, let B(n, d) be the subgraph of the hypercube induced 
 Our new results describe the typical structure of independent sets in B(n, d) and also give precise asymptotics on the number of them.   
 The proofs use Sapozhenko's graph container lemma, and a recently developed method of Jenssen and Perkins, which combines Sapozhenko's graph container lemma with a classical tool from statistical physics, the cluster expansion for polymer models.  
 This is a joint work with Jozsef Balogh and Ramon I. Garcia.
-
-### July 2nd, 2020, 16:00 (UTC+8): [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
-
-### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
-
-## Past talks
 
 ### June 11 - 18th, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
 _**Large deviations of triangle counts in the binomial random graph I - II**_  
