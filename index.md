@@ -1,7 +1,5 @@
 This online seminar is organized by Hehui Wu, Qiqin Xie and Ping Hu.
 
-There is a seminar mailing list. If you wish to be added to (or removed from) this mailing list, please contact Ping Hu at huping9 at mail.sysu.edu.cn.
-
 You may also check our seminar schedule through [Google Calendar Subscription](https://calendar.google.com/calendar?cid=NHA1amZrM2c3c2M4N3RrOWgxaGc4dDVhZm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
 ## Current schedule
@@ -14,7 +12,7 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ### June 25th, 2020: [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   
-video, [slides](/slides/mid_layers_20200625.pdf) and [poster](/poster/200625_Lina_Li.pdf)
+[video](https://www.bilibili.com/video/BV1NV41167rD/), [slides](/slides/mid_layers_20200625.pdf) and [poster](/poster/200625_Lina_Li.pdf)
 
 Abstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
 The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.  
