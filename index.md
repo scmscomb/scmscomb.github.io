@@ -6,7 +6,7 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ### July 2nd, 2020, 16:00 (UTC+8): [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
 
-### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
+### July 9th, 2020, 10:00 (UTC+8): [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
 
 ## Past talks
 
