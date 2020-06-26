@@ -5,8 +5,10 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 ## Current schedule
 
 ### July 2nd, 2020, 16:00 (UTC+8): [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
+[zoom](https://zoom.com.cn/j/92027452557) password: 121323
 
 ### July 9th, 2020, 10:00 (UTC+8): [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
+[zoom](https://zoom.com.cn/j/94081170971) password: 061801
 
 ## Past talks
 
