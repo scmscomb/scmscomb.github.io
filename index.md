@@ -15,10 +15,12 @@ an integer k are given to us as the input. Robertson and Seymour (and
 the speaker) proved that this problem is FPT (fixed-parameter
 tractable). However, it is wide open whether the value of g(G) can be
 approximated.  
+
 The speaker will give an overview of this problem, describe underlying
 conjectures, and present a complete solution for the case when the graph
 is dense. The solution uses Szemeredi Regularity Lemma and a result on
 the genus of quasi-random graphs.   
+
 This is joint work with Yifan Jing.
 
 ### July 9th, 2020, 10:00 (UTC+8): [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
@@ -32,9 +34,11 @@ _**Independent sets in middle two layers of Boolean lattice**_
 
 Abstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
 The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.  
+
 For an odd integer n=2d-1, let B(n, d) be the subgraph of the hypercube induced by the two largest layers. 
 Our new results describe the typical structure of independent sets in B(n, d) and also give precise asymptotics on the number of them.   
 The proofs use Sapozhenko's graph container lemma, and a recently developed method of Jenssen and Perkins, which combines Sapozhenko's graph container lemma with a classical tool from statistical physics, the cluster expansion for polymer models.  
+
 This is a joint work with Jozsef Balogh and Ramon I. Garcia.
 
 ### June 11 - 18th, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
