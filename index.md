@@ -24,7 +24,7 @@ the genus of quasi-random graphs.
 This is joint work with Yifan Jing.
 
 ### July 9th, 2020, 10:00 (UTC+8): [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
-_**Structures of sets with minimum measure growth**_ 
+_**Structures of sets with minimum measure growth**_   
 [zoom](https://zoom.com.cn/j/94081170971) (password 061801)
 
 Abstract: Let G be a connected unimodular group. We give a classification of groups G, and sets A, B, such that A, B have minimal measure growth in G. This is the first general result of its kind in nonabelian continuous settings and, at the same time, provides a complete answer to a question asked by Kemperman in 1964. We also get near equality versions of the above results with uniform linear bound for connected compact groups, confirming conjectures made by Griesmer and by Tao. As an application, we obtain a general measure expansion result for connected compact simple Lie groups. (Joint work with Chieu-Minh Tran)
