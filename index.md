@@ -6,7 +6,7 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ### July 2nd, 2020, 16:00 (UTC+8): [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
 _**Can the genus of a graph be approximated?**_   
-[zoom](https://zoom.com.cn/j/92027452557) (password 121323)
+[zoom](https://zoom.com.cn/j/92027452557) (password 121323) and [poster](/poster/200702_Bojan_Mohar.pdf)
 
 Abstract: The genus g(G) of a graph G is defined as the minimum genus of a surface
 in which G can be embedded (drawn without crossings). Thomassen proved
