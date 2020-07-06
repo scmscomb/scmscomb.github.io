@@ -4,9 +4,17 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ## Current schedule
 
-### July 2nd, 2020, 16:00 (UTC+8): [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
+### July 9th, 2020, 10:00 (UTC+8): [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
+_**Structures of sets with minimum measure growth**_   
+[zoom](https://zoom.com.cn/j/94081170971) (password 061801)
+
+Abstract: Let G be a connected unimodular group. We give a classification of groups G, and sets A, B, such that A, B have minimal measure growth in G. This is the first general result of its kind in nonabelian continuous settings and, at the same time, provides a complete answer to a question asked by Kemperman in 1964. We also get near equality versions of the above results with uniform linear bound for connected compact groups, confirming conjectures made by Griesmer and by Tao. As an application, we obtain a general measure expansion result for connected compact simple Lie groups. (Joint work with Chieu-Minh Tran)
+
+## Past talks
+
+### July 2nd, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
 _**Can the genus of a graph be approximated?**_   
-[zoom](https://zoom.com.cn/j/92027452557) (password 121323) and [poster](/poster/200702_Bojan_Mohar.pdf)
+[video](https://www.bilibili.com/video/BV1aT4y1772D/) and [poster](/poster/200702_Bojan_Mohar.pdf)
 
 Abstract: The genus g(G) of a graph G is defined as the minimum genus of a surface
 in which G can be embedded (drawn without crossings). Thomassen proved
@@ -22,14 +30,6 @@ is dense. The solution uses Szemeredi Regularity Lemma and a result on
 the genus of quasi-random graphs.   
 
 This is joint work with Yifan Jing.
-
-### July 9th, 2020, 10:00 (UTC+8): [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
-_**Structures of sets with minimum measure growth**_   
-[zoom](https://zoom.com.cn/j/94081170971) (password 061801)
-
-Abstract: Let G be a connected unimodular group. We give a classification of groups G, and sets A, B, such that A, B have minimal measure growth in G. This is the first general result of its kind in nonabelian continuous settings and, at the same time, provides a complete answer to a question asked by Kemperman in 1964. We also get near equality versions of the above results with uniform linear bound for connected compact groups, confirming conjectures made by Griesmer and by Tao. As an application, we obtain a general measure expansion result for connected compact simple Lie groups. (Joint work with Chieu-Minh Tran)
-
-## Past talks
 
 ### June 25th, 2020: [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   
