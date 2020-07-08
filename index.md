@@ -6,7 +6,7 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ### July 9th, 2020, 10:00 (UTC+8): [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
 _**Structures of sets with minimum measure growth**_   
-[zoom](https://zoom.com.cn/j/94081170971) (password 061801)
+[zoom](https://zoom.com.cn/j/94081170971) (password 061801) and [poster](/poster/200709_Yifan_Jing.pdf)
 
 Abstract: Let G be a connected unimodular group equipped with a Haar measure $\mu_G$, and suppose A,B are nonempty measurable subsets of G. An inequality by Kemperman gives us
 
