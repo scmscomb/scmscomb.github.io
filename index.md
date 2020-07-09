@@ -3,18 +3,23 @@ This online seminar is organized by Hehui Wu, Qiqin Xie and Ping Hu.
 You may also check our seminar schedule through [Google Calendar Subscription](https://calendar.google.com/calendar?cid=NHA1amZrM2c3c2M4N3RrOWgxaGc4dDVhZm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
 ## Current schedule
+### July 16th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
+_**TBD Lecture I**_ 
 
-### July 9th, 2020, 10:00 (UTC+8): [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
+### July 23th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
+_**TBD Lecture II**_ 
+
+## Past talks
+
+### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
 _**Structures of sets with minimum measure growth**_   
-[zoom](https://zoom.com.cn/j/94081170971) (password 061801) and [poster](/poster/200709_Yifan_Jing.pdf)
+[video](https://www.bilibili.com/video/BV1Sv411i7zA/) and [poster](/poster/200709_Yifan_Jing.pdf)
 
 Abstract: Let G be a connected unimodular group equipped with a Haar measure $\mu_G$, and suppose A,B are nonempty measurable subsets of G. An inequality by Kemperman gives us
 
 mu_G(AB) \geq \min \{ \mu_G(A)+\mu_G(B), \mu_G(G)\}.
 
 We obtain characterizations of groups G, and sets A, B, such that the equality holds. This is the first general result of its kind in nonabelian continuous settings and, at the same time, provides a complete answer to a question asked by Kemperman in 1964. We also get near equality versions of the above result with uniform linear bound for connected compact groups, confirming conjectures made by Griesmer and by Tao. As an application, we obtain a measure expansion result for connected compact simple Lie groups. (Joint work with Chieu-Minh Tran)
-
-## Past talks
 
 ### July 2nd, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
 _**Can the genus of a graph be approximated?**_   
