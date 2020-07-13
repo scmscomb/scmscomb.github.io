@@ -3,10 +3,10 @@ This online seminar is organized by Hehui Wu, Qiqin Xie and Ping Hu.
 You may also check our seminar schedule through [Google Calendar Subscription](https://calendar.google.com/calendar?cid=NHA1amZrM2c3c2M4N3RrOWgxaGc4dDVhZm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
 ## Current schedule
-### July 16th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
+### July 23th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
 _**TBD Lecture I**_ 
 
-### July 23th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
+### July 30th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
 _**TBD Lecture II**_ 
 
 ## Past talks
