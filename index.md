@@ -9,6 +9,12 @@ _**TBD Lecture I**_
 ### July 30th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
 _**TBD Lecture II**_ 
 
+### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (MIT)
+_**TBD**_ 
+
+### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (MIT)
+_**TBD**_ 
+
 ## Past talks
 
 ### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
