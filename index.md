@@ -14,6 +14,8 @@ _**TBD**_
 
 ### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (MIT)
 _**TBD**_ 
+### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)
+_**TBD**_ 
 
 ## Past talks
 
