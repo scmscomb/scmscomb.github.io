@@ -19,7 +19,7 @@ _**TBD**_
 
 ## Past talks
 ### July 16th, 2020: [Bobo Hua](http://homepage.fudan.edu.cn/bobohua/) (Fudan University)
-_**Planar graphs with positive curvature**_
+_**Planar graphs with positive curvature**_    
 [video](https://www.bilibili.com/video/BV1bp4y1S7Xd/) (in Chinese)
 
 Abstract: A curvature notion on CW complexes was introduced by Forman. In this talk, we classify the set of planar tessellations with positive Forman curvature. This is joint work with Yohji Akama, Yanhui Su, and Haohang Zhang.
