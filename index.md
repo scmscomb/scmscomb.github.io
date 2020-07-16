@@ -18,6 +18,11 @@ _**TBD**_
 _**TBD**_ 
 
 ## Past talks
+### July 16th, 2020: [Bobo Hua](http://homepage.fudan.edu.cn/bobohua/) (Fudan University)
+_**Planar graphs with positive curvature**_
+[video](https://www.bilibili.com/video/BV1bp4y1S7Xd/) (in Chinese)
+
+Abstract: A curvature notion on CW complexes was introduced by Forman. In this talk, we classify the set of planar tessellations with positive Forman curvature. This is joint work with Yohji Akama, Yanhui Su, and Haohang Zhang.
 
 ### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
 _**Structures of sets with minimum measure growth**_   
