@@ -4,16 +4,25 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ## Current schedule
 ### July 23th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
-_**TBD Lecture I**_ 
+_**A model theoretic approach to sparsity I**_   
+[zoom](https://zoom.com.cn/j/67742946227) password 122331 and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)
+Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is the point of differentiating between sparse and dense structures?
+Is there an objective and essential boundary between sparse and dense structures?
+The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
 
 ### July 30th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
-_**TBD Lecture II**_ 
+_**A model theoretic approach to sparsity II**_ 
+[zoom](https://zoom.com.cn/j/69543766775) password 122331 and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)
+Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is the point of differentiating between sparse and dense structures?
+Is there an objective and essential boundary between sparse and dense structures?
+The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
 
 ### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (MIT)
 _**TBD**_ 
 
 ### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (MIT)
 _**TBD**_ 
+
 ### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)
 _**TBD**_ 
 
