@@ -19,10 +19,10 @@ Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is t
 Is there an objective and essential boundary between sparse and dense structures?
 The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
 
-### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (MIT)
+### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
 _**TBD**_ 
 
-### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (MIT)
+### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
 _**TBD**_ 
 
 ### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)
