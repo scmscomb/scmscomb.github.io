@@ -1,4 +1,4 @@
-This online seminar is organized by Hehui Wu, Qiqin Xie and Ping Hu.
+This online seminar is organized by Hehui Wu, Qiqin Xie and [Ping Hu](https://hupple.github.io/).
 
 You may also check our seminar schedule through [Google Calendar Subscription](https://calendar.google.com/calendar?cid=NHA1amZrM2c3c2M4N3RrOWgxaGc4dDVhZm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
