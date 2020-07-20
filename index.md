@@ -20,13 +20,15 @@ Is there an objective and essential boundary between sparse and dense structures
 The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
 
 ### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
-_**TBD**_ 
 
 ### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
-_**TBD**_ 
 
 ### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)
-_**TBD**_ 
+
+### September 10th, 2020: [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)   
+### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)   
+### September 24th, 2020: [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University)   
+
 
 ## Past talks
 ### July 16th, 2020: [Bobo Hua](http://homepage.fudan.edu.cn/bobohua/) (Fudan University)
