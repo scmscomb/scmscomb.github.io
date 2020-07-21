@@ -25,7 +25,7 @@ The aim of this talk is to address, at least partially, these questions, from th
 
 ### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)
 
-### September 10th, 2020: [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)   
+### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)   
 ### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)   
 ### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University)   
 
