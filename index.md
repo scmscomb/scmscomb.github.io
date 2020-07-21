@@ -27,7 +27,7 @@ The aim of this talk is to address, at least partially, these questions, from th
 
 ### September 10th, 2020: [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)   
 ### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)   
-### September 24th, 2020: [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University)   
+### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University)   
 
 
 ## Past talks
