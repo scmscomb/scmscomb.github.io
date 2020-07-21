@@ -3,7 +3,7 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 You may also check our seminar schedule through [Google Calendar Subscription](https://calendar.google.com/calendar?cid=NHA1amZrM2c3c2M4N3RrOWgxaGc4dDVhZm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
 ## Current schedule
-### July 23th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
+### July 23th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
 _**A model theoretic approach to sparsity I**_   
 [zoom](https://zoom.com.cn/j/67742946227) password 122331 and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
 
@@ -11,7 +11,7 @@ Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is t
 Is there an objective and essential boundary between sparse and dense structures?
 The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
 
-### July 30th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendz](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
+### July 30th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
 _**A model theoretic approach to sparsity II**_   
 [zoom](https://zoom.com.cn/j/69543766775) password 122331 and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)  
 
