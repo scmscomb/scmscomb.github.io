@@ -27,7 +27,7 @@ The aim of this talk is to address, at least partially, these questions, from th
 
 ### July 23th, 2020: [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
 _**A model theoretic approach to sparsity I**_   
-[video] [slides](./slides/sparsity_20200723.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
+[video](https://www.bilibili.com/video/BV15v411q7nj/), [slides](./slides/sparsity_20200723.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
 
 Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is the point of differentiating between sparse and dense structures?
 Is there an objective and essential boundary between sparse and dense structures?
