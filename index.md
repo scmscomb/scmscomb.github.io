@@ -51,7 +51,7 @@ We obtain characterizations of groups G, and sets A, B, such that the equality h
 
 ### July 2nd, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
 _**Can the genus of a graph be approximated?**_   
-[video](https://www.bilibili.com/video/BV1aT4y1772D/) and [poster](/poster/200702_Bojan_Mohar.pdf)
+[video](https://www.bilibili.com/video/BV1aT4y1772D/), [slides](/slides/genus_20200702.pdf) and [poster](/poster/200702_Bojan_Mohar.pdf)
 
 Abstract: The genus g(G) of a graph G is defined as the minimum genus of a surface
 in which G can be embedded (drawn without crossings). Thomassen proved
