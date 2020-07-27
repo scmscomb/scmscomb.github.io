@@ -12,7 +12,20 @@ Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is t
 Is there an objective and essential boundary between sparse and dense structures?
 The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
 
-### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
+### August 6th, 2020, 10:00 (UTC+8): [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
+_**Equiangular lines, spherical two-distance sets, and spectral graph theory**_   
+[zoom](https://zoom.com.cn/j/66882417285) password 111317
+
+Abstract:
+
+Solving a longstanding problem on equiangular lines, we determine, for each given fixed angle and in all sufficiently large dimensions, the maximum number of lines pairwise separated by the given angle. The answer is expressed in terms of spectral radii of graphs.  
+
+Generalizing to spherical two-distance sets, we conjecturally relate the problem to a certain eigenvalue problem for signed graphs, and solve it in a number of cases.   
+
+A key ingredient is a new result in spectral graph theory: the adjacency matrix of a connected bounded degree graph has sublinear second eigenvalue multiplicity.  
+
+Joint work with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang (all MIT) https://arxiv.org/abs/1907.12466
+https://arxiv.org/abs/2006.06633
 
 ### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
 
