@@ -26,7 +26,12 @@ A key ingredient is a new result in spectral graph theory: the adjacency matrix 
 Joint work with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang (all MIT) https://arxiv.org/abs/1907.12466
 https://arxiv.org/abs/2006.06633
 
-### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
+### August 13th, 2020, 10:00 (UTC+8): [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
+_**Negligible obstructions and Turán exponents**_ 
+
+Abstract:The conjecture on the realizability of rational exponents states that for every rational number r in (1,2) there is a graph F such that ex(n, F) = Θ(n^r). In their beautiful work, Bukh and Conlon resolved a weaker version of the conjecture, where F is allowed to be a family of graphs. Subsequent work has been focusing on narrowing this family down to a single graph. We formulate a framework, that is taking shape in recent work, to attack the conjecture, and we showcase an application of the framework to obtain infinitely many new Turán exponents.
+
+Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 
 ### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)
 
