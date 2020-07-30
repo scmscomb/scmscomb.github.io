@@ -4,14 +4,6 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ## Current schedule
 
-### July 30th, 2020, 15:00 (UTC+8): [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
-_**A model theoretic approach to sparsity II**_   
-[zoom](https://zoom.com.cn/j/69543766775) password 122331 and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)  
-
-Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is the point of differentiating between sparse and dense structures?
-Is there an objective and essential boundary between sparse and dense structures?
-The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
-
 ### August 6th, 2020, 10:00 (UTC+8): [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
 _**Equiangular lines, spherical two-distance sets, and spectral graph theory**_   
 [zoom](https://zoom.com.cn/j/66882417285) password 111317
@@ -34,6 +26,7 @@ Abstract:The conjecture on the realizability of rational exponents states that f
 Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 
 ### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)
+[zoom](https://zoom.com.cn/j/66310294149) password 111317
 
 ### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)   
 ### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)   
@@ -42,9 +35,10 @@ Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 
 ## Past talks
 
-### July 23th, 2020: [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
-_**A model theoretic approach to sparsity I**_   
-[video](https://www.bilibili.com/video/BV15v411q7nj/), [slides](./slides/sparsity_20200723.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
+### July 23 - 30th, 2020: [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
+_**A model theoretic approach to sparsity I - II**_   
+* Talk I: [video](https://www.bilibili.com/video/BV15v411q7nj/), [slides](./slides/sparsity_20200723.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
+* Talk I: [video](https://www.bilibili.com/video/BV1w54y1D7aS/), [slides](./slides/sparsity_20200730.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
 
 Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is the point of differentiating between sparse and dense structures?
 Is there an objective and essential boundary between sparse and dense structures?
