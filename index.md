@@ -55,9 +55,13 @@ _**A model theoretic approach to sparsity I - II**_
 * Talk I: [video](https://www.bilibili.com/video/BV15v411q7nj/), [slides](./slides/sparsity_20200723.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
 * Talk I: [video](https://www.bilibili.com/video/BV1w54y1D7aS/), [slides](./slides/sparsity_20200730.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
 
+<details>
+  <summary>Abstract</summary>
 Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is the point of differentiating between sparse and dense structures?
 Is there an objective and essential boundary between sparse and dense structures?
 The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
+</details>
+
 
 ### July 16th, 2020: [Bobo Hua](http://homepage.fudan.edu.cn/bobohua/) (Fudan University)
 _**Planar graphs with positive curvature**_    
@@ -144,9 +148,3 @@ _**A Strengthening of Erdős-Gallai Theorem and Proof of Woodall’s Conjecture*
 
 ### March 19th, 2020: Jie Ma (USTC)
 _**The number of critical subgraphs in k-critical graphs**_
-
-
-<details>
-  <summary>### March 19th, 2020: Jie Ma (USTC)###</summary>
-_**The number of critical subgraphs in k-critical graphs**_
-</details>
