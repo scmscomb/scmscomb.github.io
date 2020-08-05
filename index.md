@@ -146,4 +146,7 @@ _**A Strengthening of Erdős-Gallai Theorem and Proof of Woodall’s Conjecture*
 _**The number of critical subgraphs in k-critical graphs**_
 
 
-
+<details>
+  <summary>### March 19th, 2020: Jie Ma (USTC)###</summary>
+_**The number of critical subgraphs in k-critical graphs**_
+</details>
