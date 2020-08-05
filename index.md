@@ -57,7 +57,7 @@ _**A model theoretic approach to sparsity I - II**_
 
 <details>
   <summary>Abstract</summary>
-Abstract: What does it mean for a structure to be _sparse_ or _dense_? What is the point of differentiating between sparse and dense structures?
+What does it mean for a structure to be _sparse_ or _dense_? What is the point of differentiating between sparse and dense structures?
 Is there an objective and essential boundary between sparse and dense structures?
 The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
 </details>
@@ -67,23 +67,31 @@ The aim of this talk is to address, at least partially, these questions, from th
 _**Planar graphs with positive curvature**_    
 [video](https://www.bilibili.com/video/BV1bp4y1S7Xd/) (in Chinese)
 
-Abstract: A curvature notion on CW complexes was introduced by Forman. In this talk, we classify the set of planar tessellations with positive Forman curvature. This is joint work with Yohji Akama, Yanhui Su, and Haohang Zhang.
+<details>
+  <summary>Abstract</summary>
+  A curvature notion on CW complexes was introduced by Forman. In this talk, we classify the set of planar tessellations with positive Forman curvature. This is joint work with Yohji Akama, Yanhui Su, and Haohang Zhang.
+</details>
 
 ### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
 _**Structures of sets with minimum measure growth**_   
 [video](https://www.bilibili.com/video/BV1Sv411i7zA/) and [poster](/poster/200709_Yifan_Jing.pdf)
 
-Abstract: Let G be a connected unimodular group equipped with a Haar measure $\mu_G$, and suppose A,B are nonempty measurable subsets of G. An inequality by Kemperman gives us
+<details>
+  <summary>Abstract</summary>
+  Let G be a connected unimodular group equipped with a Haar measure $\mu_G$, and suppose A,B are nonempty measurable subsets of G. An inequality by Kemperman gives us
 
 mu_G(AB) \geq \min \{ \mu_G(A)+\mu_G(B), \mu_G(G)\}.
 
 We obtain characterizations of groups G, and sets A, B, such that the equality holds. This is the first general result of its kind in nonabelian continuous settings and, at the same time, provides a complete answer to a question asked by Kemperman in 1964. We also get near equality versions of the above result with uniform linear bound for connected compact groups, confirming conjectures made by Griesmer and by Tao. As an application, we obtain a measure expansion result for connected compact simple Lie groups. (Joint work with Chieu-Minh Tran)
+</details>
 
 ### July 2nd, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
 _**Can the genus of a graph be approximated?**_   
 [video](https://www.bilibili.com/video/BV1aT4y1772D/), [slides](/slides/genus_20200702.pdf) and [poster](/poster/200702_Bojan_Mohar.pdf)
 
-Abstract: The genus g(G) of a graph G is defined as the minimum genus of a surface
+<details>
+  <summary>Abstract</summary>
+  The genus g(G) of a graph G is defined as the minimum genus of a surface
 in which G can be embedded (drawn without crossings). Thomassen proved
 that it is NP-hard to determine whether g(G) < k, when the graph G and
 an integer k are given to us as the input. Robertson and Seymour (and
@@ -97,12 +105,15 @@ is dense. The solution uses Szemeredi Regularity Lemma and a result on
 the genus of quasi-random graphs.   
 
 This is joint work with Yifan Jing.
+</details>
 
 ### June 25th, 2020: [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   
 [video](https://www.bilibili.com/video/BV1NV41167rD/), [slides](/slides/mid_layers_20200625.pdf) and [poster](/poster/200625_Lina_Li.pdf)
 
-Abstract: In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
+<details>
+  <summary>Abstract</summary>
+  In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
 The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.  
 
 For an odd integer n=2d-1, let B(n, d) be the subgraph of the hypercube induced by the two largest layers. 
@@ -110,6 +121,7 @@ Our new results describe the typical structure of independent sets in B(n, d) an
 The proofs use Sapozhenko's graph container lemma, and a recently developed method of Jenssen and Perkins, which combines Sapozhenko's graph container lemma with a classical tool from statistical physics, the cluster expansion for polymer models.  
 
 This is a joint work with Jozsef Balogh and Ramon I. Garcia.
+</details>
 
 ### June 11 - 18th, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
 _**Large deviations of triangle counts in the binomial random graph I - II**_  
