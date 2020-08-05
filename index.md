@@ -27,7 +27,18 @@ Abstract:The conjecture on the realizability of rational exponents states that f
 Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 
 ### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
+_**Rainbow Turán number of even cycles**_    
 [zoom](https://zoom.com.cn/j/66310294149) password 111317
+
+Abstract:Plain text version: The rainbow Turán number ex*(n,H) of a graph H is
+the maximum possible number of edges in a properly edge-coloured
+n-vertex graph with no rainbow subgraph isomorphic to H. We prove that
+for any integer k\geq 2, ex*(n,C_{2k})=O(n^{1+1/k}). This is tight and
+establishes a conjecture of Keevash, Mubayi, Sudakov and Verstraete. We
+use the same method to prove several other conjectures in various
+topics. For example, we give an upper bound for the Turán number of the
+blow-ups of even cycles, which can be used to disprove a conjecture of
+Erdős and Simonovits.
 
 ### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)     
 
