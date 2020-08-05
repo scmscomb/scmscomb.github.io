@@ -54,7 +54,6 @@ Erdős and Simonovits.
 _**A model theoretic approach to sparsity I - II**_   
 * Talk I: [video](https://www.bilibili.com/video/BV15v411q7nj/), [slides](./slides/sparsity_20200723.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
 * Talk I: [video](https://www.bilibili.com/video/BV1w54y1D7aS/), [slides](./slides/sparsity_20200730.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
-
 <details>
   <summary>Abstract</summary>
   
