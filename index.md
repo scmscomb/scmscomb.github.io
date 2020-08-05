@@ -126,4 +126,24 @@ _**Basics on the hypergraph container method I - V**_
 
 This is a gentle introduction to basics of the hypergraph container method introduced independently by Balogh, Samotij and Morris, and Saxton and Thomason. The method has seen numerous applications in extremal combinatorics and other related areas in the past decade. We will focus mostly on examples, illustrating how to apply this method on various types of problems.
 
+### April 30th, 2020: Baoxuan Zhu (JSNU)
+_**Positivity in combinatorics**_ 
+
+
+### April 16th - 23rd, 2020: Jinsong Xu (XJTLU) 
+_**Applications of Hodge theory in matroid theory I - II**_
+
+### April 9th, 2020: Xuding Zhu (ZJNU)
+_**Coloring, sparseness and girth**_
+
+### April 2nd, 2020: Xiaolan Hu (CCNU)
+_**A 4-choosable graph that is not (8 : 2)-choosable**_
+
+### March 26th, 2020: Binlong Li (NPU)
+_**A Strengthening of Erdős-Gallai Theorem and Proof of Woodall’s Conjecture**_
+
+### March 19th, 2020: Jie Ma (USTC)
+_**The number of critical subgraphs in k-critical graphs**_
+
+
 
