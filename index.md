@@ -57,6 +57,7 @@ _**A model theoretic approach to sparsity I - II**_
 
 <details>
   <summary>Abstract</summary>
+  
 What does it mean for a structure to be _sparse_ or _dense_? What is the point of differentiating between sparse and dense structures?
 Is there an objective and essential boundary between sparse and dense structures?
 The aim of this talk is to address, at least partially, these questions, from the points of view of model theory, structural graph theory, and theoretical computer science.
@@ -69,6 +70,7 @@ _**Planar graphs with positive curvature**_
 
 <details>
   <summary>Abstract</summary>
+  
   A curvature notion on CW complexes was introduced by Forman. In this talk, we classify the set of planar tessellations with positive Forman curvature. This is joint work with Yohji Akama, Yanhui Su, and Haohang Zhang.
 </details>
 
@@ -93,6 +95,7 @@ _**Can the genus of a graph be approximated?**_
 
 <details>
   <summary>Abstract</summary>
+  
   The genus g(G) of a graph G is defined as the minimum genus of a surface
 in which G can be embedded (drawn without crossings). Thomassen proved
 that it is NP-hard to determine whether g(G) < k, when the graph G and
@@ -115,6 +118,7 @@ _**Independent sets in middle two layers of Boolean lattice**_
 
 <details>
   <summary>Abstract</summary>
+  
   In recent decades, independent sets in the discrete hypercube has received a lot of attention from many notable researchers.
 The classical result of Korshunov and Sapozhenko in 1983 counts the number of independent sets in the hypercube, and then shows that typical independent sets are not far from the trivial construction.  
 
@@ -132,6 +136,7 @@ _**Large deviations of triangle counts in the binomial random graph I - II**_
 
 <details>
   <summary>Abstract</summary>
+  
   Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
 
 The first talk of the series will give a very gentle introduction to the theory of large deviations and discuss the history of the large deviation problem for triangle counts. The second talk of the series will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
@@ -146,6 +151,7 @@ _**Basics on the hypergraph container method I - V**_
 * Talk V: [video](https://www.bilibili.com/video/BV1sz4y197gR) and [slides](/slides/container-note-20200604.pdf)
 <details>
   <summary>Abstract</summary>
+  
 This is a gentle introduction to basics of the hypergraph container method introduced independently by Balogh, Samotij and Morris, and Saxton and Thomason. The method has seen numerous applications in extremal combinatorics and other related areas in the past decade. We will focus mostly on examples, illustrating how to apply this method on various types of problems.
 </details>
 
