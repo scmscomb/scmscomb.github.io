@@ -128,9 +128,12 @@ _**Large deviations of triangle counts in the binomial random graph I - II**_
 * Talk I: [video](https://www.bilibili.com/video/BV1E54y1Q74j/), [slides](/slides/large-deviations-1.pdf) and [poster](/poster/200611_Wojciech_Samotij.pdf)   
 * Talk II: [video](https://www.bilibili.com/video/BV1XC4y1a7uk/), [slides](/slides/large-deviations-2.pdf) and [poster](/poster/200618_Wojciech_Samotij.pdf)
 
-Abstract: Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
+<details>
+  <summary>Abstract</summary>
+  Suppose that Y_1, …, Y_N are i.i.d. (independent identically distributed) random variables and let X = Y_1 + … + Y_N. The classical theory of large deviations allows one to accurately estimate the probability of the tail events X < (1-c)E[X] and X > (1+c)E[X] for any positive c. However, the methods involved strongly rely on the fact that X is a linear function of the independent variables Y_1, …, Y_N. There has been considerable interest—both theoretical and practical—in developing tools for estimating such tail probabilities also when X is a nonlinear function of the Y_i. One archetypal example studied by both the combinatorics and the probability communities is when X is the number of triangles in the binomial random graph G(n,p).
 
 The first talk of the series will give a very gentle introduction to the theory of large deviations and discuss the history of the large deviation problem for triangle counts. The second talk of the series will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
+</details>
 
 ### May 7th - June 4th, 2020: [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**Basics on the hypergraph container method I - V**_   
@@ -139,8 +142,10 @@ _**Basics on the hypergraph container method I - V**_
 * Talk III: [video](https://www.bilibili.com/video/BV1D5411s7iW) and [slides](/slides/container-note-20200521.pdf)
 * Talk IV: [video](https://www.bilibili.com/video/BV1kC4y1p7FB) and [slides](/slides/container-note-20200528.pdf)
 * Talk V: [video](https://www.bilibili.com/video/BV1sz4y197gR) and [slides](/slides/container-note-20200604.pdf)
-
+<details>
+  <summary>Abstract</summary>
 This is a gentle introduction to basics of the hypergraph container method introduced independently by Balogh, Samotij and Morris, and Saxton and Thomason. The method has seen numerous applications in extremal combinatorics and other related areas in the past decade. We will focus mostly on examples, illustrating how to apply this method on various types of problems.
+</details>
 
 ### April 30th, 2020: Baoxuan Zhu (JSNU)
 _**Positivity in combinatorics**_ 
