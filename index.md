@@ -78,11 +78,13 @@ _**Structures of sets with minimum measure growth**_
 
 <details>
   <summary>Abstract</summary>
+  
   Let G be a connected unimodular group equipped with a Haar measure $\mu_G$, and suppose A,B are nonempty measurable subsets of G. An inequality by Kemperman gives us
 
 mu_G(AB) \geq \min \{ \mu_G(A)+\mu_G(B), \mu_G(G)\}.
 
 We obtain characterizations of groups G, and sets A, B, such that the equality holds. This is the first general result of its kind in nonabelian continuous settings and, at the same time, provides a complete answer to a question asked by Kemperman in 1964. We also get near equality versions of the above result with uniform linear bound for connected compact groups, confirming conjectures made by Griesmer and by Tao. As an application, we obtain a measure expansion result for connected compact simple Lie groups. (Joint work with Chieu-Minh Tran)
+
 </details>
 
 ### July 2nd, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
