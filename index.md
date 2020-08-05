@@ -22,7 +22,7 @@ https://arxiv.org/abs/2006.06633
 _**Negligible obstructions and Turán exponents**_    
 [zoom](https://zoom.com.cn/j/67409785703) password 111317, [poster](./poster/200813_Zilin_Jiang.pdf)     
 
-Abstract:The conjecture on the realizability of rational exponents states that for every rational number r in (1,2) there is a graph F such that ex(n, F) = Θ(n^r). In their beautiful work, Bukh and Conlon resolved a weaker version of the conjecture, where F is allowed to be a family of graphs. Subsequent work has been focusing on narrowing this family down to a single graph. We formulate a framework, that is taking shape in recent work, to attack the conjecture, and we showcase an application of the framework to obtain infinitely many new Turán exponents.
+Abstract: The conjecture on the realizability of rational exponents states that for every rational number r in (1,2) there is a graph F such that ex(n, F) = Θ(n^r). In their beautiful work, Bukh and Conlon resolved a weaker version of the conjecture, where F is allowed to be a family of graphs. Subsequent work has been focusing on narrowing this family down to a single graph. We formulate a framework, that is taking shape in recent work, to attack the conjecture, and we showcase an application of the framework to obtain infinitely many new Turán exponents.
 
 Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 
@@ -30,7 +30,7 @@ Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 _**Rainbow Turán number of even cycles**_    
 [zoom](https://zoom.com.cn/j/66310294149) password 111317
 
-Abstract:Plain text version: The rainbow Turán number ex*(n,H) of a graph H is
+Abstract: The rainbow Turán number ex*(n,H) of a graph H is
 the maximum possible number of edges in a properly edge-coloured
 n-vertex graph with no rainbow subgraph isomorphic to H. We prove that
 for any integer k\geq 2, ex*(n,C_{2k})=O(n^{1+1/k}). This is tight and
