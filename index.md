@@ -66,7 +66,6 @@ The aim of this talk is to address, at least partially, these questions, from th
 ### July 16th, 2020: [Bobo Hua](http://homepage.fudan.edu.cn/bobohua/) (Fudan University)
 _**Planar graphs with positive curvature**_    
 [video](https://www.bilibili.com/video/BV1bp4y1S7Xd/) (in Chinese)
-
 <details>
   <summary>Abstract</summary>
   
