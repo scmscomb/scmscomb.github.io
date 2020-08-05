@@ -5,8 +5,8 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 ## Current schedule
 
 ### August 6th, 2020, 10:00 (UTC+8): [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
-_**Equiangular lines, spherical two-distance sets, and spectral graph theory**_   
-[zoom](https://zoom.com.cn/j/66882417285) password 111317, [poster](./poster/200806_Yufei_Zhao.pdf)
+_**Equiangular lines, spherical two-distance sets, and spectral graph theory**_      
+[zoom](https://zoom.com.cn/j/66882417285) password 111317, [poster](./poster/200806_Yufei_Zhao.pdf)     
 
 Abstract: 
 Solving a longstanding problem on equiangular lines, we determine, for each given fixed angle and in all sufficiently large dimensions, the maximum number of lines pairwise separated by the given angle. The answer is expressed in terms of spectral radii of graphs.  
@@ -19,22 +19,22 @@ Joint work with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang (all 
 https://arxiv.org/abs/2006.06633
 
 ### August 13th, 2020, 10:00 (UTC+8): [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
-_**Negligible obstructions and Turán exponents**_ 
-[zoom](https://zoom.com.cn/j/67409785703) password 111317, [poster](./poster/200813_Zilin_Jiang.pdf)
+_**Negligible obstructions and Turán exponents**_    
+[zoom](https://zoom.com.cn/j/67409785703) password 111317, [poster](./poster/200813_Zilin_Jiang.pdf)     
 
 Abstract:The conjecture on the realizability of rational exponents states that for every rational number r in (1,2) there is a graph F such that ex(n, F) = Θ(n^r). In their beautiful work, Bukh and Conlon resolved a weaker version of the conjecture, where F is allowed to be a family of graphs. Subsequent work has been focusing on narrowing this family down to a single graph. We formulate a framework, that is taking shape in recent work, to attack the conjecture, and we showcase an application of the framework to obtain infinitely many new Turán exponents.
 
 Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 
-### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)
+### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
 [zoom](https://zoom.com.cn/j/66310294149) password 111317
 
-### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)
+### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)     
 
-### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)   
+### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)      
 [zoom](https://zoom.com.cn/j/68157689985) password 061801
-### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)   
-### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University)   
+### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)      
+### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University)        
 
 
 ## Past talks
