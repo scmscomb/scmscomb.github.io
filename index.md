@@ -26,13 +26,15 @@ topics. For example, we give an upper bound for the Turán number of the
 blow-ups of even cycles, which can be used to disprove a conjecture of
 Erdős and Simonovits.
 
-### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)     
+### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)        
+### September 3rd, 2020, 15:00 (UTC+8): [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU)      
+This talk will be in Chinese, and through Tencent Meeting.
 
-### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)      
-[zoom](https://zoom.com.cn/j/68157689985) password 061801
-### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)      
-### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University)        
-
+### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
+[zoom](https://zoom.com.cn/j/68157689985) password 061801      
+### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)        
+### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University)          
+ 
 
 ## Past talks
 
