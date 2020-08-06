@@ -4,20 +4,6 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ## Current schedule
 
-### August 6th, 2020, 10:00 (UTC+8): [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
-_**Equiangular lines, spherical two-distance sets, and spectral graph theory**_      
-[zoom](https://zoom.com.cn/j/66882417285) password 111317, [poster](./poster/200806_Yufei_Zhao.pdf)     
-
-Abstract: 
-Solving a longstanding problem on equiangular lines, we determine, for each given fixed angle and in all sufficiently large dimensions, the maximum number of lines pairwise separated by the given angle. The answer is expressed in terms of spectral radii of graphs.  
-
-Generalizing to spherical two-distance sets, we conjecturally relate the problem to a certain eigenvalue problem for signed graphs, and solve it in a number of cases.   
-
-A key ingredient is a new result in spectral graph theory: the adjacency matrix of a connected bounded degree graph has sublinear second eigenvalue multiplicity.  
-
-Joint work with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang (all MIT) https://arxiv.org/abs/1907.12466
-https://arxiv.org/abs/2006.06633
-
 ### August 13th, 2020, 10:00 (UTC+8): [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
 _**Negligible obstructions and Turán exponents**_    
 [zoom](https://zoom.com.cn/j/67409785703) password 111317, [poster](./poster/200813_Zilin_Jiang.pdf)     
@@ -49,6 +35,24 @@ Erdős and Simonovits.
 
 
 ## Past talks
+
+### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
+_**Equiangular lines, spherical two-distance sets, and spectral graph theory**_      
+[video](https://www.bilibili.com/video/BV1UA411Y7ME/), [slides](./slides/equiangular_20200806.pdf) and [poster](./poster/200806_Yufei_Zhao.pdf)     
+
+<details>
+  <summary>Abstract</summary>
+  
+Solving a longstanding problem on equiangular lines, we determine, for each given fixed angle and in all sufficiently large dimensions, the maximum number of lines pairwise separated by the given angle. The answer is expressed in terms of spectral radii of graphs.  
+
+Generalizing to spherical two-distance sets, we conjecturally relate the problem to a certain eigenvalue problem for signed graphs, and solve it in a number of cases.   
+
+A key ingredient is a new result in spectral graph theory: the adjacency matrix of a connected bounded degree graph has sublinear second eigenvalue multiplicity.  
+
+Joint work with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang (all MIT) https://arxiv.org/abs/1907.12466
+https://arxiv.org/abs/2006.06633
+
+</details>
 
 ### July 23 - 30th, 2020: [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
 _**A model theoretic approach to sparsity I - II**_   
