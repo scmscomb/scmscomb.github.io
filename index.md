@@ -16,7 +16,7 @@ Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 _**Rainbow Turán number of even cycles**_    
 [zoom](https://zoom.com.cn/j/66310294149) password 111317
 
-Abstract: The rainbow Turán number ex*(n,H) of a graph H is
+Abstract: The rainbow Turán number ex\*(n,H) of a graph H is
 the maximum possible number of edges in a properly edge-coloured
 n-vertex graph with no rainbow subgraph isomorphic to H. We prove that
 for any integer k\geq 2, ex*(n,C_{2k})=O(n^{1+1/k}). This is tight and
