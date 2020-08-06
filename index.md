@@ -19,7 +19,7 @@ _**Rainbow Turán number of even cycles**_
 Abstract: The rainbow Turán number ex\*(n,H) of a graph H is
 the maximum possible number of edges in a properly edge-coloured
 n-vertex graph with no rainbow subgraph isomorphic to H. We prove that
-for any integer k\geq 2, ex*(n,C_{2k})=O(n^{1+1/k}). This is tight and
+for any integer k>= 2, ex\*(n,C_{2k})=O(n^{1+1/k}). This is tight and
 establishes a conjecture of Keevash, Mubayi, Sudakov and Verstraete. We
 use the same method to prove several other conjectures in various
 topics. For example, we give an upper bound for the Turán number of the
