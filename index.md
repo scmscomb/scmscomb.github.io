@@ -79,7 +79,7 @@ _**Planar graphs with positive curvature**_
 </details>
 
 ### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
-_**Structures of sets with minimum measure growth**_   
+_**Structures of sets with minimum measure growth**_  
 [video](https://www.bilibili.com/video/BV1Sv411i7zA/) and [poster](/poster/200709_Yifan_Jing.pdf)
 
 <details>
@@ -94,7 +94,7 @@ We obtain characterizations of groups G, and sets A, B, such that the equality h
 </details>
 
 ### July 2nd, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
-_**Can the genus of a graph be approximated?**_   
+_**Can the genus of a graph be approximated?**_ 
 [video](https://www.bilibili.com/video/BV1aT4y1772D/), [slides](/slides/genus_20200702.pdf) and [poster](/poster/200702_Bojan_Mohar.pdf)
 
 <details>
@@ -117,7 +117,7 @@ This is joint work with Yifan Jing.
 </details>
 
 ### June 25th, 2020: [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
-_**Independent sets in middle two layers of Boolean lattice**_   
+_**Independent sets in middle two layers of Boolean lattice**_
 [video](https://www.bilibili.com/video/BV1NV41167rD/), [slides](/slides/mid_layers_20200625.pdf) and [poster](/poster/200625_Lina_Li.pdf)
 
 <details>
