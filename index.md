@@ -39,7 +39,7 @@ This talk will be in Chinese, and through Tencent Meeting.
 ## Past talks
 
 ### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
-_**Equiangular lines, spherical two-distance sets, and spectral graph theory**_      
+_**Equiangular lines, spherical two-distance sets, and spectral graph theory**_       
 [video](https://www.bilibili.com/video/BV1UA411Y7ME/), [slides](./slides/equiangular_20200806.pdf) and [poster](./poster/200806_Yufei_Zhao.pdf)     
 
 <details>
@@ -57,7 +57,7 @@ https://arxiv.org/abs/2006.06633
 </details>
 
 ### July 23 - 30th, 2020: [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
-_**A model theoretic approach to sparsity I - II**_   
+_**A model theoretic approach to sparsity I - II**_     
 * Talk I: [video](https://www.bilibili.com/video/BV15v411q7nj/), [slides](./slides/sparsity_20200723.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
 * Talk I: [video](https://www.bilibili.com/video/BV1w54y1D7aS/), [slides](./slides/sparsity_20200730.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
 <details>
@@ -70,7 +70,7 @@ The aim of this talk is to address, at least partially, these questions, from th
 
 
 ### July 16th, 2020: [Bobo Hua](http://homepage.fudan.edu.cn/bobohua/) (Fudan University)
-_**Planar graphs with positive curvature**_    
+_**Planar graphs with positive curvature**_      
 [video](https://www.bilibili.com/video/BV1bp4y1S7Xd/) (in Chinese)
 <details>
   <summary>Abstract</summary>
@@ -79,9 +79,8 @@ _**Planar graphs with positive curvature**_
 </details>
 
 ### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
-_**Structures of sets with minimum measure growth**_  
-[video](https://www.bilibili.com/video/BV1Sv411i7zA/) and [poster](/poster/200709_Yifan_Jing.pdf)
-
+_**Structures of sets with minimum measure growth**_     
+[video](https://www.bilibili.com/video/BV1Sv411i7zA/) and [poster](/poster/200709_Yifan_Jing.pdf)    
 <details>
   <summary>Abstract</summary>
   
@@ -94,9 +93,8 @@ We obtain characterizations of groups G, and sets A, B, such that the equality h
 </details>
 
 ### July 2nd, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
-_**Can the genus of a graph be approximated?**_ 
-[video](https://www.bilibili.com/video/BV1aT4y1772D/), [slides](/slides/genus_20200702.pdf) and [poster](/poster/200702_Bojan_Mohar.pdf)
-
+_**Can the genus of a graph be approximated?**_    
+[video](https://www.bilibili.com/video/BV1aT4y1772D/), [slides](/slides/genus_20200702.pdf) and [poster](/poster/200702_Bojan_Mohar.pdf)   
 <details>
   <summary>Abstract</summary>
   
@@ -117,7 +115,7 @@ This is joint work with Yifan Jing.
 </details>
 
 ### June 25th, 2020: [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
-_**Independent sets in middle two layers of Boolean lattice**_
+_**Independent sets in middle two layers of Boolean lattice**_    
 [video](https://www.bilibili.com/video/BV1NV41167rD/), [slides](/slides/mid_layers_20200625.pdf) and [poster](/poster/200625_Lina_Li.pdf)
 
 <details>
@@ -134,7 +132,7 @@ This is a joint work with Jozsef Balogh and Ramon I. Garcia.
 </details>
 
 ### June 11 - 18th, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
-_**Large deviations of triangle counts in the binomial random graph I - II**_  
+_**Large deviations of triangle counts in the binomial random graph I - II**_    
 * Talk I: [video](https://www.bilibili.com/video/BV1E54y1Q74j/), [slides](/slides/large-deviations-1.pdf) and [poster](/poster/200611_Wojciech_Samotij.pdf)   
 * Talk II: [video](https://www.bilibili.com/video/BV1XC4y1a7uk/), [slides](/slides/large-deviations-2.pdf) and [poster](/poster/200618_Wojciech_Samotij.pdf)
 
@@ -167,7 +165,7 @@ _**Positivity in combinatorics**_
 _**Applications of Hodge theory in matroid theory I - II**_
 
 ### April 9th, 2020: Xuding Zhu (ZJNU)
-_**Coloring, sparseness and girth**_
+_**Coloring, sparseness and girth**_    
 [Video](https://www.bilibili.com/video/BV1VK4y1t7a2/)
 ### April 2nd, 2020: Xiaolan Hu (CCNU)
 _**A 4-choosable graph that is not (8 : 2)-choosable**_
