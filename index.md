@@ -4,14 +4,6 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ## Current schedule
 
-### August 13th, 2020, 10:00 (UTC+8): [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
-_**Negligible obstructions and Turán exponents**_    
-[zoom](https://zoom.com.cn/j/67409785703) password 111317, [poster](./poster/200813_Zilin_Jiang.pdf)     
-
-Abstract: The conjecture on the realizability of rational exponents states that for every rational number r in (1,2) there is a graph F such that ex(n, F) = Θ(n^r). In their beautiful work, Bukh and Conlon resolved a weaker version of the conjecture, where F is allowed to be a family of graphs. Subsequent work has been focusing on narrowing this family down to a single graph. We formulate a framework, that is taking shape in recent work, to attack the conjecture, and we showcase an application of the framework to obtain infinitely many new Turán exponents.
-
-Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
-
 ### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
 _**Rainbow Turán number of even cycles**_    
 [zoom](https://zoom.com.cn/j/66310294149) password 111317
@@ -37,6 +29,19 @@ This talk will be in Chinese, and through Tencent Meeting.
  
 
 ## Past talks
+
+### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
+_**Negligible obstructions and Turán exponents**_    
+[video](https://www.bilibili.com/video/BV1z54y1i7ka/) and [poster](./poster/200813_Zilin_Jiang.pdf)     
+
+<details>
+  <summary>Abstract</summary>
+ 
+The conjecture on the realizability of rational exponents states that for every rational number r in (1,2) there is a graph F such that ex(n, F) = Θ(n^r). In their beautiful work, Bukh and Conlon resolved a weaker version of the conjecture, where F is allowed to be a family of graphs. Subsequent work has been focusing on narrowing this family down to a single graph. We formulate a framework, that is taking shape in recent work, to attack the conjecture, and we showcase an application of the framework to obtain infinitely many new Turán exponents.
+
+Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
+</details>
+
 
 ### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
 _**Equiangular lines, spherical two-distance sets, and spectral graph theory**_       
