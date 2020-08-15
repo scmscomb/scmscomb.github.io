@@ -6,7 +6,7 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
 _**Rainbow Turán number of even cycles**_    
-[zoom](https://zoom.com.cn/j/66310294149) password 111317
+[zoom](https://zoom.com.cn/j/66310294149) password 111317 and [poster](./poster/200820_Oliver_Janzer.pdf)   
 
 Abstract: The rainbow Turán number ex\*(n,H) of a graph H is
 the maximum possible number of edges in a properly edge-coloured
@@ -32,7 +32,7 @@ This talk will be in Chinese, and through Tencent Meeting.
 
 ### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
 _**Negligible obstructions and Turán exponents**_    
-[video](https://www.bilibili.com/video/BV1z54y1i7ka/) and [poster](./poster/200813_Zilin_Jiang.pdf)     
+[video](https://www.bilibili.com/video/BV1z54y1i7ka/), [slides](./slides/turan_20200813.pdf) and [poster](./poster/200813_Zilin_Jiang.pdf)     
 
 <details>
   <summary>Abstract</summary>
