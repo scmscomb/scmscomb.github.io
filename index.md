@@ -27,7 +27,7 @@ This talk will be in Chinese, and through Tencent Meeting.
 ### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)        
 ### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
 
-### October 15th, 2020,10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
+### October 15th, 2020, 10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
 _**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_ 
 
 Abstract: For each integer k >= 2, we determine a sharp bound on
