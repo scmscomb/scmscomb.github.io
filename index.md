@@ -34,8 +34,8 @@ Erdős and Simonovits.
 [zoom](https://zoom.com.cn/j/67503269186) password 061801     
 
 ### October 15th, 2020, 10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
-_**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_ 
-[zoom](https://zoom.com.cn/j/65493874834) password 061801     
+_**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
+[zoom](https://zoom.com.cn/j/65493874834) password 061801      
 
 Abstract: For each integer k >= 2, we determine a sharp bound on
 mad(G) such that V(G) can be partitioned into sets I and F_k, where I
