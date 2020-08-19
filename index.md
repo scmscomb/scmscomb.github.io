@@ -18,17 +18,24 @@ topics. For example, we give an upper bound for the Turán number of the
 blow-ups of even cycles, which can be used to disprove a conjecture of
 Erdős and Simonovits.
 
-### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)        
+### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)    
+[zoom](https://zoom.com.cn/j/68309816533) password 121323    
+      
 ### September 3rd, 2020, 15:00 (UTC+8): [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU)      
-This talk will be in Chinese, and through Tencent Meeting.
+[zoom](https://zoom.com.cn/j/66232484143) password 121323     
 
 ### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
-[zoom](https://zoom.com.cn/j/68157689985) password 061801      
-### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)        
+[zoom](https://zoom.com.cn/j/66414740654) password 121323     
+
+### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)       
+[zoom](https://zoom.com.cn/j/61305595836) password 121323    
+
 ### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
+[zoom](https://zoom.com.cn/j/67503269186) password 061801     
 
 ### October 15th, 2020, 10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
 _**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_ 
+[zoom](https://zoom.com.cn/j/65493874834) password 061801     
 
 Abstract: For each integer k >= 2, we determine a sharp bound on
 mad(G) such that V(G) can be partitioned into sets I and F_k, where I
