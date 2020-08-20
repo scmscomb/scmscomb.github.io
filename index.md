@@ -4,20 +4,6 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 
 ## Current schedule
 
-### August 20th, 2020, 16:00 (UTC+8): [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
-_**Rainbow Turán number of even cycles**_    
-[zoom](https://zoom.com.cn/j/66310294149) password 111317 and [poster](./poster/200820_Oliver_Janzer.pdf)   
-
-Abstract: The rainbow Turán number ex\*(n,H) of a graph H is
-the maximum possible number of edges in a properly edge-coloured
-n-vertex graph with no rainbow subgraph isomorphic to H. We prove that
-for any integer k>= 2, ex\*(n,C_{2k})=O(n^{1+1/k}). This is tight and
-establishes a conjecture of Keevash, Mubayi, Sudakov and Verstraete. We
-use the same method to prove several other conjectures in various
-topics. For example, we give an upper bound for the Turán number of the
-blow-ups of even cycles, which can be used to disprove a conjecture of
-Erdős and Simonovits.
-
 ### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)    
 [zoom](https://zoom.com.cn/j/68309816533) password 121323    
       
@@ -52,6 +38,25 @@ Matthew Yancey.
 
 
 ## Past talks
+
+### August 20th, 2020: [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
+_**Rainbow Turán number of even cycles**_    
+[video](https://www.bilibili.com/video/BV1jz4y1f7Dr/), [slides](./slides/rainbow_turan_20200820.pdf) and [poster](./poster/200820_Oliver_Janzer.pdf)   
+
+<details>
+  <summary>Abstract</summary>
+
+The rainbow Turán number ex\*(n,H) of a graph H is
+the maximum possible number of edges in a properly edge-coloured
+n-vertex graph with no rainbow subgraph isomorphic to H. We prove that
+for any integer k>= 2, ex\*(n,C_{2k})=O(n^{1+1/k}). This is tight and
+establishes a conjecture of Keevash, Mubayi, Sudakov and Verstraete. We
+use the same method to prove several other conjectures in various
+topics. For example, we give an upper bound for the Turán number of the
+blow-ups of even cycles, which can be used to disprove a conjecture of
+Erdős and Simonovits.
+
+</details>
 
 ### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
 _**Negligible obstructions and Turán exponents**_    
