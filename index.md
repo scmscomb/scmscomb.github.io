@@ -5,9 +5,8 @@ You may also check our seminar schedule through [Google Calendar Subscription](h
 ## Current schedule
 
 ### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)    
-[zoom](https://zoom.com.cn/j/68309816533) password 121323 
-
 _**Counting cliques in 1-planar graphs**_    
+[zoom](https://zoom.com.cn/j/68309816533) password 121323     
 Abstract: 
 A 1-planar graph is a graph which can be drawn in the plane so that every edge is crossed at most once. It is well known that the maximum number of edges in a 1-planar graph is 4n-8. It is natural consider extending this result to larger cliques. We precisely determine the maximum number of cliques of any given size in a 1-planar graph, and also determine the family of 1-planar graphs which are extremal for this question. This is joint work with Pascal Gollin, Abhishek Methuku, Casey Tompkins and Xin Zhang.   
       
