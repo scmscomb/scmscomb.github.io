@@ -11,8 +11,13 @@ _**Counting cliques in 1-planar graphs**_
 Abstract: 
 A 1-planar graph is a graph which can be drawn in the plane so that every edge is crossed at most once. It is well known that the maximum number of edges in a 1-planar graph is 4n-8. It is natural consider extending this result to larger cliques. We precisely determine the maximum number of cliques of any given size in a 1-planar graph, and also determine the family of 1-planar graphs which are extremal for this question. This is joint work with Pascal Gollin, Abhishek Methuku, Casey Tompkins and Xin Zhang.   
       
-### September 3rd, 2020, 15:00 (UTC+8): [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU)      
-[zoom](https://zoom.com.cn/j/66232484143) password 121323     
+### September 3rd, 2020, 15:00 (UTC+8): [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU) 
+_**Co-degree condition for  matchings in k-partite k-graphs**_         
+[zoom](https://zoom.com.cn/j/66232484143) password 121323    
+
+Abstract:
+Let H be a k-partite k-graph with n vertices in each partition class,  and let
+$\delta_{k-1}(H)$ denote the minimum co-degree of H. We characterize those H with $\delta_{k-1}(H) \geq n/2$ and with no perfect matching. As a consequence we give an affirmative answer to the following question of Rödl and Ruciński: If k is even or $n \not\equiv 2 \pmod 4$, does $\delta_{k-1}(H) \geq n/2$ imply that H has a perfect matching? We  give an example indicating that it is not sufficient to impose this degree bound on only two types of (k-1)-sets. For near perfect matching, we gave a tight sufficient condition in term of co-degree, which is also independently obtained by Han, Zang and Zhao. Moreover, I would like to introduce several problems I am interested in.
 
 ### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
 [zoom](https://zoom.com.cn/j/66414740654) password 121323     
