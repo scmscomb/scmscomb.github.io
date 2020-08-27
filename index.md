@@ -2,14 +2,7 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 You may also check our seminar schedule through [Google Calendar Subscription](https://calendar.google.com/calendar?cid=NHA1amZrM2c3c2M4N3RrOWgxaGc4dDVhZm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
-## Current schedule
-
-### August 27th, 2020, 15:00 (UTC+8): [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)    
-_**Counting cliques in 1-planar graphs**_    
-[zoom](https://zoom.com.cn/j/68309816533) password 121323 and [poster](./poster/200827_Kevin_Hendrey.pdf)     
-
-Abstract: 
-A 1-planar graph is a graph which can be drawn in the plane so that every edge is crossed at most once. It is well known that the maximum number of edges in a 1-planar graph is 4n-8. It is natural consider extending this result to larger cliques. We precisely determine the maximum number of cliques of any given size in a 1-planar graph, and also determine the family of 1-planar graphs which are extremal for this question. This is joint work with Pascal Gollin, Abhishek Methuku, Casey Tompkins and Xin Zhang.   
+## Current schedule  
       
 ### September 3rd, 2020, 15:00 (UTC+8): [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU) 
 _**Co-degree condition for  matchings in k-partite k-graphs**_         
@@ -47,6 +40,16 @@ Matthew Yancey.
 
 
 ## Past talks
+
+### August 27th, 2020: [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)    
+_**Counting cliques in 1-planar graphs**_    
+[video](https://www.bilibili.com/video/BV1Dy4y1C7Hs/) and [poster](./poster/200827_Kevin_Hendrey.pdf)     
+
+<details>
+  <summary>Abstract</summary>
+      
+A 1-planar graph is a graph which can be drawn in the plane so that every edge is crossed at most once. It is well known that the maximum number of edges in a 1-planar graph is 4n-8. It is natural consider extending this result to larger cliques. We precisely determine the maximum number of cliques of any given size in a 1-planar graph, and also determine the family of 1-planar graphs which are extremal for this question. This is joint work with Pascal Gollin, Abhishek Methuku, Casey Tompkins and Xin Zhang. 
+</details>
 
 ### August 20th, 2020: [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
 _**Rainbow Turán number of even cycles**_    
