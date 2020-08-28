@@ -38,6 +38,9 @@ Previously, the only values known were g(1,4/3) and g(1,2). We find
 the value of g(1,b) whenever 4/3 < b < 2. This is joint work with
 Matthew Yancey.
 
+### October 22nd, 2020, 10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University)
+
+### October 29th, 2020, 15:00 (UTC+8): [Jiaao Li](http://my.nankai.edu.cn/sms/lja_en/list.htm) (Nankai University)
 
 ## Past talks
 
