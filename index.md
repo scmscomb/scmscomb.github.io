@@ -6,7 +6,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
       
 ### September 3rd, 2020, 15:00 (UTC+8): [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU) 
 _**Co-degree condition for  matchings in k-partite k-graphs**_         
-[zoom](https://zoom.com.cn/j/66232484143) password 121323    
+[zoom](https://zoom.com.cn/j/66232484143) password 121323 and [poster](./poster/200903_Hongliang_Lu.pdf)       
 
 Abstract:
 Let H be a k-partite k-graph with n vertices in each partition class,  and let
