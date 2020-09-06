@@ -5,7 +5,10 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 ## Current schedule  
       
 ### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
-[zoom](https://zoom.com.cn/j/66414740654) password 121323     
+_**Extremal density for sparse minors and subdivisions**_    
+[zoom](https://zoom.com.cn/j/66414740654) password 121323    
+
+Abstract: We prove an asymptotically tight bound on the extremal density guaranteeing subdivisions of bounded-degree bipartite graphs with a separability condition. As corollaries, we answered several questions of Reed and Wood on embedding sparse minors. In particular, we prove that a graph with average degree (3/2+ o(1))t contains every t-vertex planar graph as a minor and this constant 3/2 is best possible. This is joint work with John Haslegrave and Hong Liu.
 
 ### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague)       
 [zoom](https://zoom.com.cn/j/61305595836) password 121323    
