@@ -12,9 +12,7 @@ Abstract: We prove an asymptotically tight bound on the extremal density guarant
 
 ### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague) 
 _**Non-bipartite k-common graphs**_    
-[zoom](https://zoom.com.cn/j/61305595836) password 121323    
-
-Non-bipartite k-common graphs
+[zoom](https://zoom.com.cn/j/61305595836) password 121323     
 
 For a given integer k>=2, a graph H is said to be "k-common" if the number of
 monochromatic copies of H in a k-coloring of the edges of an n-vertex complete
