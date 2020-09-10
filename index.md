@@ -20,8 +20,10 @@ For a given integer k>=2, a graph H is said to be "k-common" if the number of
 monochromatic copies of H in a k-coloring of the edges of an n-vertex complete
 graph is asymptotically minimized by a random coloring. Note that the case k=2
 coincides with the notion of common graphs introduced in 1960s.    
+
 We construct the first examples of non-bipartite k-common graphs for k>=3,
 which resolves a problem of Jagger, Stovícek and Thomason from 1996.    
+
 This is a joint work with Dan Kral, Jon Noel, Sergey Norin and Fan Wei.        
 
 ### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
