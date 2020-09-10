@@ -21,7 +21,7 @@ This is a joint work with Dan Kral, Jon Noel, Sergey Norin and Fan Wei.
 ### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
 [zoom](https://zoom.com.cn/j/67503269186) password 061801     
 
-### No semianr on October 1st & 8th, 2020 (Holiday break)
+### No seminar on October 1st & 8th, 2020 (Holiday break)
 
 ### October 15th, 2020, 10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
 _**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
