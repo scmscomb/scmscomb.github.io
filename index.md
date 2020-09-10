@@ -3,12 +3,6 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
 ## Current schedule  
-      
-### September 10th, 2020, 15:00 (UTC+8): [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
-_**Extremal density for sparse minors and subdivisions**_    
-[zoom](https://zoom.com.cn/j/66414740654) password 121323    
-
-Abstract: We prove an asymptotically tight bound on the extremal density guaranteeing subdivisions of bounded-degree bipartite graphs with a separability condition. As corollaries, we answered several questions of Reed and Wood on embedding sparse minors. In particular, we prove that a graph with average degree (3/2+ o(1))t contains every t-vertex planar graph as a minor and this constant 3/2 is best possible. This is joint work with John Haslegrave and Hong Liu.
 
 ### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague) 
 _**Non-bipartite k-common graphs**_    
@@ -52,6 +46,16 @@ Abstract: Flow theory of signed graphs was introduced by  Bouchet as dual notion
 
 
 ## Past talks
+
+### September 10th, 2020: [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
+_**Extremal density for sparse minors and subdivisions**_    
+[video](https://www.bilibili.com/video/BV1yp4y1e7fF/)    
+
+<details>
+  <summary>Abstract</summary>
+
+We prove an asymptotically tight bound on the extremal density guaranteeing subdivisions of bounded-degree bipartite graphs with a separability condition. As corollaries, we answered several questions of Reed and Wood on embedding sparse minors. In particular, we prove that a graph with average degree (3/2+ o(1))t contains every t-vertex planar graph as a minor and this constant 3/2 is best possible. This is joint work with John Haslegrave and Hong Liu.
+</details>
 
 ### September 3rd, 2020: [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU) 
 _**Co-degree condition for  matchings in k-partite k-graphs**_         
