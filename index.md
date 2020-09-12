@@ -6,7 +6,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague) 
 _**Non-bipartite k-common graphs**_    
-[zoom](https://zoom.com.cn/j/61305595836) password 121323     
+[zoom](https://zoom.com.cn/j/61305595836) password 121323 and [poster](./poster/200917_Jan_Volec.pdf)       
 
 For a given integer k>=2, a graph H is said to be "k-common" if the number of
 monochromatic copies of H in a k-coloring of the edges of an n-vertex complete
@@ -51,7 +51,7 @@ Abstract: Flow theory of signed graphs was introduced by  Bouchet as dual notion
 
 ### September 10th, 2020: [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
 _**Extremal density for sparse minors and subdivisions**_    
-[video](https://www.bilibili.com/video/BV1yp4y1e7fF/)    
+[video](https://www.bilibili.com/video/BV1yp4y1e7fF/) and [poster](./poster/200910_Jaehoon_Kim.pdf)      
 
 <details>
   <summary>Abstract</summary>
