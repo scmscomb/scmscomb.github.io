@@ -2,21 +2,7 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
-## Current schedule  
-
-### September 17th, 2020, 15:00 (UTC+8): [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague) 
-_**Non-bipartite k-common graphs**_    
-[zoom](https://zoom.com.cn/j/61305595836) password 121323 and [poster](./poster/200917_Jan_Volec.pdf)       
-
-For a given integer k>=2, a graph H is said to be "k-common" if the number of
-monochromatic copies of H in a k-coloring of the edges of an n-vertex complete
-graph is asymptotically minimized by a random coloring. Note that the case k=2
-coincides with the notion of common graphs introduced in 1960s.    
-
-We construct the first examples of non-bipartite k-common graphs for k>=3,
-which resolves a problem of Jagger, Stovícek and Thomason from 1996.    
-
-This is a joint work with Dan Kral, Jon Noel, Sergey Norin and Fan Wei.        
+## Current schedule       
 
 ### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
 [zoom](https://zoom.com.cn/j/67503269186) password 061801     
@@ -48,6 +34,23 @@ Abstract: Flow theory of signed graphs was introduced by  Bouchet as dual notion
 
 
 ## Past talks
+
+### September 17th, 2020: [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague) 
+_**Non-bipartite k-common graphs**_    
+[video](https://www.bilibili.com/video/BV1AT4y1A7iR), [slides](./slides/kcommon_20200917.pdf) and [poster](./poster/200917_Jan_Volec.pdf)         
+<details>
+  <summary>Abstract</summary>
+  
+For a given integer k>=2, a graph H is said to be "k-common" if the number of
+monochromatic copies of H in a k-coloring of the edges of an n-vertex complete
+graph is asymptotically minimized by a random coloring. Note that the case k=2
+coincides with the notion of common graphs introduced in 1960s.    
+
+We construct the first examples of non-bipartite k-common graphs for k>=3,
+which resolves a problem of Jagger, Stovícek and Thomason from 1996.    
+
+This is a joint work with Dan Kral, Jon Noel, Sergey Norin and Fan Wei.   
+</details>
 
 ### September 10th, 2020: [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
 _**Extremal density for sparse minors and subdivisions**_    
