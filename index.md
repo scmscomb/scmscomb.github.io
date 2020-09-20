@@ -5,7 +5,17 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 ## Current schedule       
 
 ### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
+_**Some degenerate hypergraph Turan problems**_     
 [zoom](https://zoom.com.cn/j/67503269186) password 061801     
+
+Given an r-uniform hypergraph H, the Turan number ex(n,H) is the
+maximum number of edges in an r-uniform hypergraph that does not
+contain H as a subgraph. When ex(n,H)=o(n^r), we will say that the problem
+is degenerate, mirroring the graph case.
+
+In this talk, we will discuss some degenerate hypergraph Turan problems,
+particularly problems in which ex(n,H) is in the \Theta(n^{r-1}) range.
+
 
 ### No seminar on October 1st & 8th, 2020 (Holiday break)
 
