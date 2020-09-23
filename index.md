@@ -5,16 +5,26 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 ## Current schedule       
 
 ### September 24th, 2020, 10:00 (UTC+8): [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
-_**Some degenerate hypergraph Turan problems**_     
+_**Linear cycles of given lengths in linear hypergraphs**_     
 [zoom](https://zoom.com.cn/j/67503269186) password 061801     
 
-Given an r-uniform hypergraph H, the Turan number ex(n,H) is the
-maximum number of edges in an r-uniform hypergraph that does not
-contain H as a subgraph. When ex(n,H)=o(n^r), we will say that the problem
-is degenerate, mirroring the graph case.
+A well-known result of Verstraete states that for each integer k\geq 2 every graph G with
+average degree at least 8k contains cycles of k consecutive even lengths, the shortest of which
+is at most twice the radius of G.    
 
-In this talk, we will discuss some degenerate hypergraph Turan problems,
-particularly problems in which ex(n,H) is in the \Theta(n^{r-1}) range.
+In this talk, we extend Verstraete's result for linear cycles in linear r-uniform hypergraphs, where r\geq 3.  
+We show that for each k\geq 2, there exist constants c_1,c_2 depending only on r such
+that every linear r-graph with average degree at least c_1 k contains linear cycles of k
+consecutive even lengths and every linear r-graph with average degree at c_2k contains
+linear cycles of k consecutive lengths. For the even consecutive lengths case, our bound
+on the shortest cycle length among the cycles obtained is tight, which also yields improved
+upper bound on the linear Turan number of an even cycle of given length. For the consecutive
+lengths case, our bound on the shortest cycle length is tight within a constant factor.    
+
+The talk will focus on the tools used in establishing the results. We think that these tools
+can find further applications to other extremal problems on cycles in the hypergraph setting.     
+
+This is joint work with Jie Ma and Liana Yepremyan.
 
 
 ### No seminar on October 1st & 8th, 2020 (Holiday break)
