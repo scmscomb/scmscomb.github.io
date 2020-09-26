@@ -14,7 +14,7 @@ Note that the vertices of the n-dimensional cube {0, 1}^n can be covered by two 
 
 In this talk, we consider the following natural generalization of the Alon-Füredi theorem: what is the minimum number of affine hyperplanes such that the vertices in {0, 1}^n-{0} are covered at least k times, and 0 is uncovered? We answer the problem for k<=3 and show that a minimum of n+3 affine hyperplanes is needed for k=3, using a punctured version of the Combinatorial Nullstellensatz. We also develop an analogue of the Lubell-Yamamoto-Meshalkin inequality for subset sums, and solve the problem asymptotically for fixed n and k->∞, and pose a conjecture for fixed k and large n.
 
-Joint work with Alexander Clifton.
+Joint work with Alexander Clifton (Emory University).
 
 ### October 15th, 2020, 10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
 _**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
