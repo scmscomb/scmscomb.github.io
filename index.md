@@ -4,7 +4,17 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### No seminar on October 1st & 8th, 2020 (Holiday break)
+### No seminar on October 1st, 2020 (Holiday break)
+
+### October 8th, 2020, 10:00 (UTC+8): [Hao Huang](http://www.mathcs.emory.edu/~hhuan30/) (Emory University)
+_**Covering cubes by hyperplanes**_    
+[zoom](https://zoom.com.cn/j/64871754356) password 121323
+
+Note that the vertices of the n-dimensional cube {0, 1}^n can be covered by two affine hyperplanes x_1=1 and x_1=0. However if we leave one vertex uncovered, then suddenly at least n affine hyperplanes are needed. This was a classical result of Alon and Füredi, followed from the Combinatorial Nullstellensatz.
+
+In this talk, we consider the following natural generalization of the Alon-Füredi theorem: what is the minimum number of affine hyperplanes such that the vertices in {0, 1}^n-{0} are covered at least k times, and 0 is uncovered? We answer the problem for k<=3 and show that a minimum of n+3 affine hyperplanes is needed for k=3, using a punctured version of the Combinatorial Nullstellensatz. We also develop an analogue of the Lubell-Yamamoto-Meshalkin inequality for subset sums, and solve the problem asymptotically for fixed n and k->∞, and pose a conjecture for fixed k and large n.
+
+Joint work with Alexander Clifton.
 
 ### October 15th, 2020, 10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
 _**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
@@ -24,9 +34,13 @@ the value of g(1,b) whenever 4/3 < b < 2. This is joint work with
 Matthew Yancey.
 
 ### October 22nd, 2020, 10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University)
+[zoom](https://zoom.com.cn/j/66722757129) password 121323    
+
 
 ### October 29th, 2020, 15:00 (UTC+8): [Jiaao Li](http://my.nankai.edu.cn/sms/lja_en/list.htm) (Nankai University)
-_**Flows and Cycle Covers of Signed Graphs**_      
+_**Flows and Cycle Covers of Signed Graphs**_   
+[zoom](https://zoom.com.cn/j/63524651549) password 121323    
+
 Abstract: Flow theory of signed graphs was introduced by  Bouchet as dual notion to local tensions of graphs embedded on non-orientable surfaces, which generalized Tutte's flow theory of ordinary graphs. Recently, we prove that every flow-admissible signed graph admits a nowhere-zero balanced $Z_2\times Z_3$-flow. This extends Seymour's 6-flow theorem from ordinary graphs (which are signed graphs without unbalanced circuit) to long-barbell-free signed graphs  (which are signed graphs without vertex-disjoint unbalanced circuits). In this talk, we will show how to apply this theorem to extend some classical results on flow and cycle decomposition/cover, due to  Jaeger, Fan, Alon-Tarsi, etc., to some signed graphs. Those classical results may not be tight for ordinary graphs, whose expected improvements are known as Tutte's $5$-flow Conjecture, Berge-Fulkerson Conjecture, Cycle Double Cover Conjecture and Shortest Cycle Cover Conjecture. In contrast, we shall see that the signed analogies of  those classical results are indeed sharp for certain signed graphs.
 
 
