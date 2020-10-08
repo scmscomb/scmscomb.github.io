@@ -6,16 +6,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ### No seminar on October 1st, 2020 (Holiday break)
 
-### October 8th, 2020, 10:00 (UTC+8): [Hao Huang](http://www.mathcs.emory.edu/~hhuan30/) (Emory University)
-_**Covering cubes by hyperplanes**_    
-[zoom](https://zoom.com.cn/j/64871754356) password 121323
-
-Note that the vertices of the n-dimensional cube {0, 1}^n can be covered by two affine hyperplanes x_1=1 and x_1=0. However if we leave one vertex uncovered, then suddenly at least n affine hyperplanes are needed. This was a classical result of Alon and Füredi, followed from the Combinatorial Nullstellensatz.
-
-In this talk, we consider the following natural generalization of the Alon-Füredi theorem: what is the minimum number of affine hyperplanes such that the vertices in {0, 1}^n-{0} are covered at least k times, and 0 is uncovered? We answer the problem for k<=3 and show that a minimum of n+3 affine hyperplanes is needed for k=3, using a punctured version of the Combinatorial Nullstellensatz. We also develop an analogue of the Lubell-Yamamoto-Meshalkin inequality for subset sums, and solve the problem asymptotically for fixed n and k->∞, and pose a conjecture for fixed k and large n.
-
-Joint work with Alexander Clifton (Emory University).
-
 ### October 15th, 2020, 10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
 _**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
 [zoom](https://zoom.com.cn/j/65493874834) password 061801      
@@ -45,6 +35,19 @@ Abstract: Flow theory of signed graphs was introduced by  Bouchet as dual notion
 
 
 ## Past talks
+
+### October 8th, 2020: [Hao Huang](http://www.mathcs.emory.edu/~hhuan30/) (Emory University)
+_**Covering cubes by hyperplanes**_    
+[video](https://www.bilibili.com/video/bv1U54y1k7eT) and [slides](./slides/cube_cover_20201008.pdf)       
+<details>
+  <summary>Abstract</summary>
+  
+Note that the vertices of the n-dimensional cube {0, 1}^n can be covered by two affine hyperplanes x_1=1 and x_1=0. However if we leave one vertex uncovered, then suddenly at least n affine hyperplanes are needed. This was a classical result of Alon and Füredi, followed from the Combinatorial Nullstellensatz.
+
+In this talk, we consider the following natural generalization of the Alon-Füredi theorem: what is the minimum number of affine hyperplanes such that the vertices in {0, 1}^n-{0} are covered at least k times, and 0 is uncovered? We answer the problem for k<=3 and show that a minimum of n+3 affine hyperplanes is needed for k=3, using a punctured version of the Combinatorial Nullstellensatz. We also develop an analogue of the Lubell-Yamamoto-Meshalkin inequality for subset sums, and solve the problem asymptotically for fixed n and k->∞, and pose a conjecture for fixed k and large n.
+
+Joint work with Alexander Clifton (Emory University).
+</details>
 
 ### September 24th, 2020: [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
 _**Linear cycles of given lengths in linear hypergraphs**_     
