@@ -4,7 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### No seminar on October 1st, 2020 (Holiday break)
 
 ### October 15th, 2020, 10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
 _**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
