@@ -22,8 +22,11 @@ Previously, the only values known were g(1,4/3) and g(1,2). We find
 the value of g(1,b) whenever 4/3 < b < 2. This is joint work with
 Matthew Yancey.
 
-### October 22nd, 2020, 10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University)
+### October 22nd, 2020, 10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University)    
+_**Some variants of regularity lemma**_     
 [zoom](https://zoom.com.cn/j/66722757129) password 121323    
+
+Among the numerous applications of the regularity lemma, a classical one is the graph removal lemma. It has applications in fields such as number theory and theoretical computer science. For every fixed graph H, the H-removal lemma gives a highly nontrivial equivalence between the density of H in G and the L1 distance between a graph G to the set of H-free graphs. Whether the huge bound in the quantitative estimate is necessary remains a big open question in graph theory. In this talk, I will discuss some recent works on a strengthening of the usual graph removal lemma.  This talk is based on some joint work with Jacob Fox. 
 
 
 ### October 29th, 2020, 15:00 (UTC+8): [Jiaao Li](http://my.nankai.edu.cn/sms/lja_en/list.htm) (Nankai University)
