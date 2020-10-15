@@ -35,6 +35,11 @@ _**Flows and Cycle Covers of Signed Graphs**_
 
 Abstract: Flow theory of signed graphs was introduced by  Bouchet as dual notion to local tensions of graphs embedded on non-orientable surfaces, which generalized Tutte's flow theory of ordinary graphs. Recently, we prove that every flow-admissible signed graph admits a nowhere-zero balanced $Z_2\times Z_3$-flow. This extends Seymour's 6-flow theorem from ordinary graphs (which are signed graphs without unbalanced circuit) to long-barbell-free signed graphs  (which are signed graphs without vertex-disjoint unbalanced circuits). In this talk, we will show how to apply this theorem to extend some classical results on flow and cycle decomposition/cover, due to  Jaeger, Fan, Alon-Tarsi, etc., to some signed graphs. Those classical results may not be tight for ordinary graphs, whose expected improvements are known as Tutte's $5$-flow Conjecture, Berge-Fulkerson Conjecture, Cycle Double Cover Conjecture and Shortest Cycle Cover Conjecture. In contrast, we shall see that the signed analogies of  those classical results are indeed sharp for certain signed graphs.
 
+### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
+In Chinese    
+
+
+### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 
 ## Past talks
 
