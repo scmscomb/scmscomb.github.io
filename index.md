@@ -27,7 +27,7 @@ In Chinese
 
 ### October 15th, 2020: [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
 _**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
-video and [slides](./slides/vertex_partitions_20201015.pdf)       
+[video](https://www.bilibili.com/video/BV1Ha4y1L7JH/) and [slides](./slides/vertex_partitions_20201015.pdf)       
 
 <details>
   <summary>Abstract</summary>
