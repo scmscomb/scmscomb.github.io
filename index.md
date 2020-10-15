@@ -4,24 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-
-### October 15th, 2020, 10:00 (UTC+8): [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
-_**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
-[zoom](https://zoom.com.cn/j/65493874834) password 061801      
-
-Abstract: For each integer k >= 2, we determine a sharp bound on
-mad(G) such that V(G) can be partitioned into sets I and F_k, where I
-is an independent set and G[F_k] is a forest in which each component
-has at most k vertices. For each k we construct an infinite family of
-examples showing our result is best possible. Hendrey, Norin, and Wood
-asked for the largest function g(a,b) such that if mad(G) < g(a,b)
-then V(G) has a partition into sets A and B such that mad(G[A]) < a
-and mad(G[B])<b. They specifically asked for the value of g(1,b),
-which corresponds to the case that A is an independent set.
-Previously, the only values known were g(1,4/3) and g(1,2). We find
-the value of g(1,b) whenever 4/3 < b < 2. This is joint work with
-Matthew Yancey.
-
 ### October 22nd, 2020, 10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University)    
 _**Some variants of regularity lemma**_     
 [zoom](https://zoom.com.cn/j/66722757129) password 121323    
@@ -42,6 +24,27 @@ In Chinese
 ### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 
 ## Past talks
+
+### October 15th, 2020: [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
+_**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
+video and [slides](./slides/vertex_partitions_20201015.pdf)       
+
+<details>
+  <summary>Abstract</summary>
+
+For each integer k >= 2, we determine a sharp bound on
+mad(G) such that V(G) can be partitioned into sets I and F_k, where I
+is an independent set and G[F_k] is a forest in which each component
+has at most k vertices. For each k we construct an infinite family of
+examples showing our result is best possible. Hendrey, Norin, and Wood
+asked for the largest function g(a,b) such that if mad(G) < g(a,b)
+then V(G) has a partition into sets A and B such that mad(G[A]) < a
+and mad(G[B])<b. They specifically asked for the value of g(1,b),
+which corresponds to the case that A is an independent set.
+Previously, the only values known were g(1,4/3) and g(1,2). We find
+the value of g(1,b) whenever 4/3 < b < 2. This is joint work with
+Matthew Yancey.
+</details>
 
 ### October 8th, 2020: [Hao Huang](http://www.mathcs.emory.edu/~hhuan30/) (Emory University)
 _**Covering cubes by hyperplanes**_    
