@@ -5,7 +5,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 ## Current schedule       
 
 ### October 22nd, 2020, 10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University)    
-_**Some variants of regularity lemma**_     
+_**Some variants of the graph removal lemma**_     
 [zoom](https://zoom.com.cn/j/66722757129) password 121323    
 
 Among the numerous applications of the regularity lemma, a classical one is the graph removal lemma. It has applications in fields such as number theory and theoretical computer science. For every fixed graph H, the H-removal lemma gives a highly nontrivial equivalence between the density of H in G and the L1 distance between a graph G to the set of H-free graphs. Whether the huge bound in the quantitative estimate is necessary remains a big open question in graph theory. In this talk, I will discuss some recent works on a strengthening of the usual graph removal lemma.  This talk is based on some joint work with Jacob Fox. 
