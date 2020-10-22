@@ -22,7 +22,7 @@ In Chinese
 
 ## Past talks
 
-### October 22nd, 2020: [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University)    
+**October 22nd, 2020: [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University)**    
 _**Some variants of the graph removal lemma**_ 
 
 <details>
