@@ -3,8 +3,15 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
 ## Current schedule       
-### November 5th, 2020, 15:00 (UTC+8): [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)
+### November 5th, 2020, 15:00 (UTC+8): [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
+_**F-factors in graphs with randomness conditions**_      
 [zoom](https://zoom.com.cn/j/68042797455) password 121323    
+
+Abstract: The celebrated Hajnal-Szemerédi Theorem is a cornerstone in extremal graph theory and has many applications and extensions. We will focus on a class of extensions where the host graph enjoys mild randomness conditions (e.g., does not have large independent set, or contains a small amount of random edges) and discuss some recent problems and developments.
+
+
+
+
 
 ### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
 In Chinese    
