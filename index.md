@@ -20,7 +20,7 @@ In Chinese
 [zoom](https://zoom.com.cn/j/66630591827) password 121323    
 
 ### December 17th, 2020, 15:00 (UTC+8): [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)
--**Ranking Tournaments with No Errors**-       
+_**Ranking Tournaments with No Errors**_           
 
 We examine the classical problem of ranking a set of players on the basis of a set of
 pairwise comparisons arising from a sports tournament, with the objective of minimizing the total number of upsets,
