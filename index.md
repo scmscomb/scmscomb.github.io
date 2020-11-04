@@ -10,17 +10,33 @@ _**F-factors in graphs with randomness conditions**_
 Abstract: The celebrated Hajnal-Szemerédi Theorem is a cornerstone in extremal graph theory and has many applications and extensions. We will focus on a class of extensions where the host graph enjoys mild randomness conditions (e.g., does not have large independent set, or contains a small amount of random edges) and discuss some recent problems and developments.
 
 
-
-
-
 ### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
 In Chinese    
 
 ### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 [zoom](https://zoom.com.cn/j/69235234837) password 121323    
 
-### December 10th, 2020, 10:00 (UTC+8): [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) ( Georgia Institute of Technology)
+### December 10th, 2020, 10:00 (UTC+8): [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)
 [zoom](https://zoom.com.cn/j/66630591827) password 121323    
+
+### December 17th, 2020, 15:00 (UTC+8): [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)
+-**Ranking Tournaments with No Errors**-       
+
+We examine the classical problem of ranking a set of players on the basis of a set of
+pairwise comparisons arising from a sports tournament, with the objective of minimizing the total number of upsets,
+where an _upset_ occurs if a higher ranked player was actually defeated by a lower ranked player. This problem
+can be rephrased as the so-called minimum feedback arc set problem on tournaments, which arises in a rich variety
+of applications and has been a subject of extensive research. We study this NP-hard problem using
+structure-driven and linear programming approaches.
+
+Let T=(V,A) be a tournament with a nonnegative integral weight
+w(e) on each arc e. A subset F of arcs is called a _feedback arc set_ if T\F contains no cycles
+(directed). A collection **C** of cycles (with repetition allowed) is called a _cycle packing_ if each arc
+e is used at most w(e) times by members of **C**.  We call T _cycle Mengerian_  if, for every nonnegative
+integral function w defined on A, the minimum total weight of a feedback arc set is equal to the maximum
+size of a cycle packing. In this talk, we
+will discuss the characterization that a tournament is cycle Mengerian if and only if it contains none of
+four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
 
 ## Past talks
 ### October 29th, 2020: [Jiaao Li](http://my.nankai.edu.cn/sms/lja_en/list.htm) (Nankai University)
