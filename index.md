@@ -13,6 +13,9 @@ Abstract: The celebrated Hajnal-Szemerédi Theorem is a cornerstone in extremal 
 ### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
 In Chinese    
 
+
+### November 19th, 2020, 10:00 (UTC+8): [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)
+
 ### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 [zoom](https://zoom.com.cn/j/69235234837) password 121323    
 
