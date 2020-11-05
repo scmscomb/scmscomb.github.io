@@ -3,16 +3,17 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
 ## Current schedule       
-### November 5th, 2020, 15:00 (UTC+8): [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
-_**F-factors in graphs with randomness conditions**_      
-[zoom](https://zoom.com.cn/j/68042797455) password 121323    
-
-Abstract: The celebrated Hajnal-Szemerédi Theorem is a cornerstone in extremal graph theory and has many applications and extensions. We will focus on a class of extensions where the host graph enjoys mild randomness conditions (e.g., does not have large independent set, or contains a small amount of random edges) and discuss some recent problems and developments.
-
 
 ### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
-In Chinese    
+_**Simultaneous Colorings of Plane Graphs (In Chinese)**_ 
 
+Given a plane graph G = (V, E, F), we can define the vertex coloring for V,
+the edge coloring for E, the face coloring for F, the total coloring for V∪E,
+the coupled coloring for V∪F, the edge-face coloring for E∪F, and the entire
+coloring V∪E∪F, such that adjacent or incident elements have different
+colors. In this talk we shall give a survey on these colorings and list colorings
+of plane graphs. Some recent results and open problems about this direction
+are mentioned.
 
 ### November 19th, 2020, 10:00 (UTC+8): [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)
 
@@ -42,6 +43,16 @@ will discuss the characterization that a tournament is cycle Mengerian if and on
 four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
 
 ## Past talks
+### November 5th, 2020: [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
+_**F-factors in graphs with randomness conditions**_      
+[video](https://www.bilibili.com/video/BV1vr4y1w7xE) 
+<details>
+  <summary>Abstract</summary>
+  
+  The celebrated Hajnal-Szemerédi Theorem is a cornerstone in extremal graph theory and has many applications and extensions. We will focus on a class of extensions where the host graph enjoys mild randomness conditions (e.g., does not have large independent set, or contains a small amount of random edges) and discuss some recent problems and developments.
+</details>
+
+
 ### October 29th, 2020: [Jiaao Li](http://my.nankai.edu.cn/sms/lja_en/list.htm) (Nankai University)
 _**Flows and Cycle Covers of Signed Graphs**_   
 [video](https://www.bilibili.com/video/bv1UK4y177Uw)   
