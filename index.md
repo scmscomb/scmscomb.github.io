@@ -20,6 +20,8 @@ are mentioned.
 ### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 [zoom](https://zoom.com.cn/j/69235234837) password 121323    
 
+### December 3rd, 2020, 10:00 (UTC+8): [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University)
+
 ### December 10th, 2020, 10:00 (UTC+8): [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)
 [zoom](https://zoom.com.cn/j/66630591827) password 121323    
 
@@ -41,6 +43,8 @@ integral function w defined on A, the minimum total weight of a feedback arc set
 size of a cycle packing. In this talk, we
 will discuss the characterization that a tournament is cycle Mengerian if and only if it contains none of
 four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
+
+### December 31rd, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)
 
 ## Past talks
 ### November 5th, 2020: [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
