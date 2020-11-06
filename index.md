@@ -5,7 +5,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 ## Current schedule       
 
 ### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
-_**Simultaneous Colorings of Plane Graphs (In Chinese)**_ 
+_**Simultaneous Colorings of Plane Graphs (In Chinese)**_     
 [zoom](https://zoom.com.cn/j/61769638996) password 121323     
 
 Given a plane graph G = (V, E, F), we can define the vertex coloring for V,
