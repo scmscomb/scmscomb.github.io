@@ -70,6 +70,7 @@ will discuss the characterization that a tournament is cycle Mengerian if and on
 four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
 
 ### December 31rd, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
+[zoom](https://zoom.com.cn/j/65828004995) password 030303    
 
 ### January 7th, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
 [zoom](https://zoom.com.cn/j/63906289807) password 030303    
