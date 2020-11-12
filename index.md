@@ -23,7 +23,7 @@ Hadwiger (Hajos and Gerards and Seymour, respectively) conjectured that
 the vertices of  every graph with no K_{t+1} minor (topological minor 
 and odd minor, respectively) can be  colored with t colors such that any 
 pair of adjacent vertices receive different colors. These conjectures 
-are stronger than the Four Color Theorem and are either open or false  
+are stronger than the Four Color Theorem and are either open or false 
 in general. A weakening of these conjectures is to consider clustered 
 coloring which only requires every monochromatic component to have 
 bounded size instead of size 1. It is known that t colors are still 
