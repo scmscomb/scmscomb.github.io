@@ -16,7 +16,28 @@ colors. In this talk we shall give a survey on these colorings and list coloring
 of plane graphs. Some recent results and open problems about this direction
 are mentioned.
 
-### November 19th, 2020, 10:00 (UTC+8): [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)
+### November 19th, 2020, 10:00 (UTC+8): [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)     
+_**Clustered coloring for Hadwiger type problems**_        
+
+Hadwiger (Hajos and Gerards and Seymour, respectively) conjectured that 
+the vertices of  every graph with no K_{t+1} minor (topological minor 
+and odd minor, respectively) can be  colored with t colors such that any 
+pair of adjacent vertices receive different colors. These conjectures 
+are stronger than the Four Color Theorem and are either open or false  
+in general. A weakening of these conjectures is to consider clustered 
+coloring which only requires every monochromatic component to have 
+bounded size instead of size 1. It is known that t colors are still 
+necessary for the clustered coloring version of those three conjectures. 
+Joint with David Wood, we prove a series of tight results about 
+clustered coloring on graphs with no subgraph isomorphic to a fixed 
+complete bipartite graph. These results have a number of applications. 
+In particular, they imply that the clustered coloring version of Hajos’ 
+conjecture is true for bounded treewidth graphs in a stronger sense: 
+K_{t+1} topological minor free graphs of bounded treewidth are clustered 
+t-list-colorable. They also lead to the first linear upper bound for the 
+clustered coloring version of Hajos’ conjecture and the currently best 
+upper bound for the clustered coloring version of the Gerards-Seymour 
+conjecture.
 
 ### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 [zoom](https://zoom.com.cn/j/69235234837) password 121323    
