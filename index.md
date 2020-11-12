@@ -18,6 +18,7 @@ are mentioned.
 
 ### November 19th, 2020, 10:00 (UTC+8): [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)     
 _**Clustered coloring for Hadwiger type problems**_        
+[zoom](https://zoom.com.cn/j/65368299350) password 030332   
 
 Hadwiger (Hajos and Gerards and Seymour, respectively) conjectured that 
 the vertices of  every graph with no K_{t+1} minor (topological minor 
@@ -42,13 +43,15 @@ conjecture.
 ### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 [zoom](https://zoom.com.cn/j/69235234837) password 121323    
 
-### December 3rd, 2020, 10:00 (UTC+8): [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University)
+### December 3rd, 2020, 10:00 (UTC+8): [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University)     
+[zoom](https://zoom.com.cn/j/69963023053) password 030303    
 
 ### December 10th, 2020, 10:00 (UTC+8): [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)
 [zoom](https://zoom.com.cn/j/66630591827) password 121323    
 
 ### December 17th, 2020, 15:00 (UTC+8): [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)
 _**Ranking Tournaments with No Errors**_           
+[zoom](https://zoom.com.cn/j/67668743861) password 121323     
 
 We examine the classical problem of ranking a set of players on the basis of a set of
 pairwise comparisons arising from a sports tournament, with the objective of minimizing the total number of upsets,
@@ -66,10 +69,10 @@ size of a cycle packing. In this talk, we
 will discuss the characterization that a tournament is cycle Mengerian if and only if it contains none of
 four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
 
-### December 31rd, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)
+### December 31rd, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
 
 ### January 7th, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
-
+[zoom](https://zoom.com.cn/j/63906289807) password 030303    
 
 ## Past talks
 ### November 5th, 2020: [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
