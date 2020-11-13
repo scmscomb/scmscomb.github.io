@@ -4,18 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
-_**Simultaneous Colorings of Plane Graphs (In Chinese)**_     
-[zoom](https://zoom.com.cn/j/61769638996) password 121323     
-
-Given a plane graph G = (V, E, F), we can define the vertex coloring for V,
-the edge coloring for E, the face coloring for F, the total coloring for V∪E,
-the coupled coloring for V∪F, the edge-face coloring for E∪F, and the entire
-coloring V∪E∪F, such that adjacent or incident elements have different
-colors. In this talk we shall give a survey on these colorings and list colorings
-of plane graphs. Some recent results and open problems about this direction
-are mentioned.
-
 ### November 19th, 2020, 10:00 (UTC+8): [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)     
 _**Clustered coloring for Hadwiger type problems**_        
 [zoom](https://zoom.com.cn/j/65368299350) password 030332   
@@ -76,6 +64,22 @@ four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and
 [zoom](https://zoom.com.cn/j/63906289807) password 030303    
 
 ## Past talks
+
+### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
+_**Simultaneous Colorings of Plane Graphs (In Chinese)**_     
+[video](https://www.bilibili.com/video/bv1rK4y1Z7sB)        
+<details>
+  <summary>Abstract</summary>
+  
+Given a plane graph G = (V, E, F), we can define the vertex coloring for V,
+the edge coloring for E, the face coloring for F, the total coloring for V∪E,
+the coupled coloring for V∪F, the edge-face coloring for E∪F, and the entire
+coloring V∪E∪F, such that adjacent or incident elements have different
+colors. In this talk we shall give a survey on these colorings and list colorings
+of plane graphs. Some recent results and open problems about this direction
+are mentioned.
+</details>
+
 ### November 5th, 2020: [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
 _**F-factors in graphs with randomness conditions**_      
 [video](https://www.bilibili.com/video/BV1vr4y1w7xE) 
