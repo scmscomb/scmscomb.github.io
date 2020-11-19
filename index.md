@@ -4,30 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### November 19th, 2020, 10:00 (UTC+8): [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)     
-_**Clustered coloring for Hadwiger type problems**_        
-[zoom](https://zoom.com.cn/j/65368299350) password 030332   
-
-Hadwiger (Hajos and Gerards and Seymour, respectively) conjectured that 
-the vertices of  every graph with no K_{t+1} minor (topological minor 
-and odd minor, respectively) can be  colored with t colors such that any 
-pair of adjacent vertices receive different colors. These conjectures 
-are stronger than the Four Color Theorem and are either open or false 
-in general. A weakening of these conjectures is to consider clustered 
-coloring which only requires every monochromatic component to have 
-bounded size instead of size 1. It is known that t colors are still 
-necessary for the clustered coloring version of those three conjectures. 
-Joint with David Wood, we prove a series of tight results about 
-clustered coloring on graphs with no subgraph isomorphic to a fixed 
-complete bipartite graph. These results have a number of applications. 
-In particular, they imply that the clustered coloring version of Hajos’ 
-conjecture is true for bounded treewidth graphs in a stronger sense: 
-K_{t+1} topological minor free graphs of bounded treewidth are clustered 
-t-list-colorable. They also lead to the first linear upper bound for the 
-clustered coloring version of Hajos’ conjecture and the currently best 
-upper bound for the clustered coloring version of the Gerards-Seymour 
-conjecture.
-
 ### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 _**Further progress towards Hadwiger's conjecture**_   
 [zoom](https://zoom.com.cn/j/69235234837) password 121323    
@@ -68,6 +44,33 @@ four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and
 
 ## Past talks
 
+### November 19th, 2020: [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)     
+_**Clustered coloring for Hadwiger type problems**_[video](https://www.bilibili.com/video/bv11A411j7DF)
+
+<details>
+  <summary>Abstract</summary>
+  
+Hadwiger (Hajos and Gerards and Seymour, respectively) conjectured that 
+the vertices of  every graph with no K_{t+1} minor (topological minor 
+and odd minor, respectively) can be  colored with t colors such that any 
+pair of adjacent vertices receive different colors. These conjectures 
+are stronger than the Four Color Theorem and are either open or false 
+in general. A weakening of these conjectures is to consider clustered 
+coloring which only requires every monochromatic component to have 
+bounded size instead of size 1. It is known that t colors are still 
+necessary for the clustered coloring version of those three conjectures. 
+Joint with David Wood, we prove a series of tight results about 
+clustered coloring on graphs with no subgraph isomorphic to a fixed 
+complete bipartite graph. These results have a number of applications. 
+In particular, they imply that the clustered coloring version of Hajos’ 
+conjecture is true for bounded treewidth graphs in a stronger sense: 
+K_{t+1} topological minor free graphs of bounded treewidth are clustered 
+t-list-colorable. They also lead to the first linear upper bound for the 
+clustered coloring version of Hajos’ conjecture and the currently best 
+upper bound for the clustered coloring version of the Gerards-Seymour 
+conjecture.
+</details>
+
 ### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
 _**Simultaneous Colorings of Plane Graphs (In Chinese)**_     
 [video](https://www.bilibili.com/video/bv1rK4y1Z7sB)        
@@ -81,7 +84,7 @@ coloring V∪E∪F, such that adjacent or incident elements have different
 colors. In this talk we shall give a survey on these colorings and list colorings
 of plane graphs. Some recent results and open problems about this direction
 are mentioned.
-</details>
+
 
 ### November 5th, 2020: [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
 _**F-factors in graphs with randomness conditions**_      
