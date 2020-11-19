@@ -45,7 +45,7 @@ four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and
 ## Past talks
 
 ### November 19th, 2020: [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)     
-_**Clustered coloring for Hadwiger type problems**_[video](https://www.bilibili.com/video/bv11A411j7DF)
+_**Clustered coloring for Hadwiger type problems**_  [video](https://www.bilibili.com/video/bv11A411j7DF)
 
 <details>
   <summary>Abstract</summary>
@@ -72,8 +72,7 @@ conjecture.
 </details>
 
 ### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
-_**Simultaneous Colorings of Plane Graphs (In Chinese)**_     
-[video](https://www.bilibili.com/video/bv1rK4y1Z7sB)        
+_**Simultaneous Colorings of Plane Graphs (In Chinese)**_    [video](https://www.bilibili.com/video/bv1rK4y1Z7sB)        
 <details>
   <summary>Abstract</summary>
   
