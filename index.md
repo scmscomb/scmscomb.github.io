@@ -83,11 +83,10 @@ coloring V∪E∪F, such that adjacent or incident elements have different
 colors. In this talk we shall give a survey on these colorings and list colorings
 of plane graphs. Some recent results and open problems about this direction
 are mentioned.
-
+</details>
 
 ### November 5th, 2020: [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
-_**F-factors in graphs with randomness conditions**_      
-[video](https://www.bilibili.com/video/BV1vr4y1w7xE) 
+_**F-factors in graphs with randomness conditions**_      [video](https://www.bilibili.com/video/BV1vr4y1w7xE) 
 <details>
   <summary>Abstract</summary>
   
@@ -96,8 +95,7 @@ _**F-factors in graphs with randomness conditions**_
 
 
 ### October 29th, 2020: [Jiaao Li](http://my.nankai.edu.cn/sms/lja_en/list.htm) (Nankai University)
-_**Flows and Cycle Covers of Signed Graphs**_   
-[video](https://www.bilibili.com/video/bv1UK4y177Uw)   
+_**Flows and Cycle Covers of Signed Graphs**_   [video](https://www.bilibili.com/video/bv1UK4y177Uw)   
 
 <details>
   <summary>Abstract</summary>
@@ -116,8 +114,7 @@ Among the numerous applications of the regularity lemma, a classical one is the 
 </details>
 
 ### October 15th, 2020: [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
-_**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      
-[video](https://www.bilibili.com/video/BV1Ha4y1L7JH/) and [slides](./slides/vertex_partitions_20201015.pdf)       
+_**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      [video](https://www.bilibili.com/video/BV1Ha4y1L7JH/) and [slides](./slides/vertex_partitions_20201015.pdf)       
 
 <details>
   <summary>Abstract</summary>
@@ -137,8 +134,7 @@ Matthew Yancey.
 </details>
 
 ### October 8th, 2020: [Hao Huang](http://www.mathcs.emory.edu/~hhuan30/) (Emory University)
-_**Covering cubes by hyperplanes**_    
-[video](https://www.bilibili.com/video/bv1U54y1k7eT) and [slides](./slides/cube_cover_20201008.pdf)       
+_**Covering cubes by hyperplanes**_    [video](https://www.bilibili.com/video/bv1U54y1k7eT) and [slides](./slides/cube_cover_20201008.pdf)       
 <details>
   <summary>Abstract</summary>
   
@@ -150,8 +146,7 @@ Joint work with Alexander Clifton (Emory University).
 </details>
 
 ### September 24th, 2020: [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
-_**Linear cycles of given lengths in linear hypergraphs**_     
-[video](https://www.bilibili.com/video/BV1DK411K7MH)  
+_**Linear cycles of given lengths in linear hypergraphs**_     [video](https://www.bilibili.com/video/BV1DK411K7MH)  
 <details>
   <summary>Abstract</summary>
   
@@ -175,8 +170,7 @@ This is joint work with Jie Ma and Liana Yepremyan.
 </details>
 
 ### September 17th, 2020: [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague) 
-_**Non-bipartite k-common graphs**_    
-[video](https://www.bilibili.com/video/BV1AT4y1A7iR), [slides](./slides/kcommon_20200917.pdf) and [poster](./poster/200917_Jan_Volec.pdf)         
+_**Non-bipartite k-common graphs**_    [video](https://www.bilibili.com/video/BV1AT4y1A7iR), [slides](./slides/kcommon_20200917.pdf) and [poster](./poster/200917_Jan_Volec.pdf)         
 <details>
   <summary>Abstract</summary>
   
@@ -192,8 +186,7 @@ This is a joint work with Dan Kral, Jon Noel, Sergey Norin and Fan Wei.
 </details>
 
 ### September 10th, 2020: [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
-_**Extremal density for sparse minors and subdivisions**_    
-[video](https://www.bilibili.com/video/BV1yp4y1e7fF/) and [poster](./poster/200910_Jaehoon_Kim.pdf)      
+_**Extremal density for sparse minors and subdivisions**_    [video](https://www.bilibili.com/video/BV1yp4y1e7fF/) and [poster](./poster/200910_Jaehoon_Kim.pdf)      
 
 <details>
   <summary>Abstract</summary>
@@ -202,8 +195,7 @@ We prove an asymptotically tight bound on the extremal density guaranteeing subd
 </details>
 
 ### September 3rd, 2020: [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU) 
-_**Co-degree condition for  matchings in k-partite k-graphs**_         
-[video](https://www.bilibili.com/video/BV14a4y1E7me/) and [poster](./poster/200903_Hongliang_Lu.pdf)         
+_**Co-degree condition for  matchings in k-partite k-graphs**_         [video](https://www.bilibili.com/video/BV14a4y1E7me/) and [poster](./poster/200903_Hongliang_Lu.pdf)         
 
 <details>
   <summary>Abstract</summary>
@@ -213,8 +205,7 @@ $\delta_{k-1}(H)$ denote the minimum co-degree of H. We characterize those H wit
 </details>
 
 ### August 27th, 2020: [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)    
-_**Counting cliques in 1-planar graphs**_    
-[video](https://www.bilibili.com/video/BV1Dy4y1C7Hs/) and [poster](./poster/200827_Kevin_Hendrey.pdf)     
+_**Counting cliques in 1-planar graphs**_    [video](https://www.bilibili.com/video/BV1Dy4y1C7Hs/) and [poster](./poster/200827_Kevin_Hendrey.pdf)     
 
 <details>
   <summary>Abstract</summary>
@@ -223,8 +214,7 @@ A 1-planar graph is a graph which can be drawn in the plane so that every edge i
 </details>
 
 ### August 20th, 2020: [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
-_**Rainbow Turán number of even cycles**_    
-[video](https://www.bilibili.com/video/BV1jz4y1f7Dr/), [slides](./slides/rainbow_turan_20200820.pdf) and [poster](./poster/200820_Oliver_Janzer.pdf)   
+_**Rainbow Turán number of even cycles**_    [video](https://www.bilibili.com/video/BV1jz4y1f7Dr/), [slides](./slides/rainbow_turan_20200820.pdf) and [poster](./poster/200820_Oliver_Janzer.pdf)   
 
 <details>
   <summary>Abstract</summary>
@@ -242,8 +232,7 @@ Erdős and Simonovits.
 </details>
 
 ### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
-_**Negligible obstructions and Turán exponents**_    
-[video](https://www.bilibili.com/video/BV1z54y1i7ka/), [slides](./slides/turan_20200813.pdf) and [poster](./poster/200813_Zilin_Jiang.pdf)     
+_**Negligible obstructions and Turán exponents**_    [video](https://www.bilibili.com/video/BV1z54y1i7ka/), [slides](./slides/turan_20200813.pdf) and [poster](./poster/200813_Zilin_Jiang.pdf)     
 
 <details>
   <summary>Abstract</summary>
@@ -255,8 +244,7 @@ Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 
 
 ### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
-_**Equiangular lines, spherical two-distance sets, and spectral graph theory**_       
-[video](https://www.bilibili.com/video/BV1UA411Y7ME/), [slides](./slides/equiangular_20200806.pdf) and [poster](./poster/200806_Yufei_Zhao.pdf)     
+_**Equiangular lines, spherical two-distance sets, and spectral graph theory**_       [video](https://www.bilibili.com/video/BV1UA411Y7ME/), [slides](./slides/equiangular_20200806.pdf) and [poster](./poster/200806_Yufei_Zhao.pdf)     
 
 <details>
   <summary>Abstract</summary>
@@ -286,8 +274,7 @@ The aim of this talk is to address, at least partially, these questions, from th
 
 
 ### July 16th, 2020: [Bobo Hua](http://homepage.fudan.edu.cn/bobohua/) (Fudan University)
-_**Planar graphs with positive curvature**_      
-[video](https://www.bilibili.com/video/BV1bp4y1S7Xd/) (in Chinese)
+_**Planar graphs with positive curvature**_      [video](https://www.bilibili.com/video/BV1bp4y1S7Xd/) (in Chinese)
 <details>
   <summary>Abstract</summary>
   
@@ -295,8 +282,7 @@ _**Planar graphs with positive curvature**_
 </details>
 
 ### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
-_**Structures of sets with minimum measure growth**_     
-[video](https://www.bilibili.com/video/BV1Sv411i7zA/) and [poster](/poster/200709_Yifan_Jing.pdf)    
+_**Structures of sets with minimum measure growth**_     [video](https://www.bilibili.com/video/BV1Sv411i7zA/) and [poster](/poster/200709_Yifan_Jing.pdf)    
 <details>
   <summary>Abstract</summary>
   
@@ -309,8 +295,7 @@ We obtain characterizations of groups G, and sets A, B, such that the equality h
 </details>
 
 ### July 2nd, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
-_**Can the genus of a graph be approximated?**_    
-[video](https://www.bilibili.com/video/BV1aT4y1772D/), [slides](/slides/genus_20200702.pdf) and [poster](/poster/200702_Bojan_Mohar.pdf)   
+_**Can the genus of a graph be approximated?**_    [video](https://www.bilibili.com/video/BV1aT4y1772D/), [slides](/slides/genus_20200702.pdf) and [poster](/poster/200702_Bojan_Mohar.pdf)   
 <details>
   <summary>Abstract</summary>
   
@@ -331,8 +316,7 @@ This is joint work with Yifan Jing.
 </details>
 
 ### June 25th, 2020: [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
-_**Independent sets in middle two layers of Boolean lattice**_    
-[video](https://www.bilibili.com/video/BV1NV41167rD/), [slides](/slides/mid_layers_20200625.pdf) and [poster](/poster/200625_Lina_Li.pdf)
+_**Independent sets in middle two layers of Boolean lattice**_   [video](https://www.bilibili.com/video/BV1NV41167rD/), [slides](/slides/mid_layers_20200625.pdf) and [poster](/poster/200625_Lina_Li.pdf)
 
 <details>
   <summary>Abstract</summary>
@@ -375,7 +359,6 @@ This is a gentle introduction to basics of the hypergraph container method intro
 
 ### April 30th, 2020: Baoxuan Zhu (JSNU)
 _**Positivity in combinatorics**_ 
-
 
 ### April 16th - 23rd, 2020: Jinsong Xu (XJTLU) 
 _**Applications of Hodge theory in matroid theory I - II**_
