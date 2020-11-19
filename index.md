@@ -48,7 +48,9 @@ four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and
 _**Clustered coloring for Hadwiger type problems**_  [video](https://www.bilibili.com/video/bv11A411j7DF)
 
 <details>
-  <summary>Abstract</summary>
+  <summary>Clustered coloring for Hadwiger type problems  [video](https://www.bilibili.com/video/bv11A411j7DF)  </summary>
+  
+  
   
 Hadwiger (Hajos and Gerards and Seymour, respectively) conjectured that 
 the vertices of  every graph with no K_{t+1} minor (topological minor 
