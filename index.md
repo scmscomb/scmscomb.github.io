@@ -364,8 +364,7 @@ _**Positivity in combinatorics**_
 _**Applications of Hodge theory in matroid theory I - II**_
 
 ### April 9th, 2020: Xuding Zhu (ZJNU)
-_**Coloring, sparseness and girth**_    
-[Video](https://www.bilibili.com/video/BV1VK4y1t7a2/)
+_**Coloring, sparseness and girth**_    [Video](https://www.bilibili.com/video/BV1VK4y1t7a2/)
 ### April 2nd, 2020: Xiaolan Hu (CCNU)
 _**A 4-choosable graph that is not (8 : 2)-choosable**_
 
