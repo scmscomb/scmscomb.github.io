@@ -42,7 +42,7 @@ four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and
 ### January 7th, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
 [zoom](https://zoom.com.cn/j/63906289807) password 030303   
 
-### January 7th, 2021, 15:00 (UTC+8): [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
+### January 14th, 2021, 15:00 (UTC+8): [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**A solution to Erdős and Hajnal's odd cycle problem**_    
 
 In 1981, Erdős and Hajnal asked whether the sum of the reciprocals of the odd cycle lengths in a graph with infinite chromatic number is necessarily infinite. Let C(G) be the set of cycle lengths in a graph G and let C_odd(G) be the set of odd numbers in C(G). We prove that, if G has chromatic number k, then ∑_{ℓ∈C_odd(G)} 1/ℓ≥(1/2−o_k(1))log k. This solves Erdős and Hajnal's odd cycle problem, and, furthermore, this bound is asymptotically optimal.   
