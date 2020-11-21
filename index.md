@@ -40,7 +40,17 @@ four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and
 [zoom](https://zoom.com.cn/j/65828004995) password 030303    
 
 ### January 7th, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
-[zoom](https://zoom.com.cn/j/63906289807) password 030303    
+[zoom](https://zoom.com.cn/j/63906289807) password 030303   
+
+### January 7th, 2021, 15:00 (UTC+8): [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
+_**A solution to Erdős and Hajnal's odd cycle problem**_    
+
+In 1981, Erdős and Hajnal asked whether the sum of the reciprocals of the odd cycle lengths in a graph with infinite chromatic number is necessarily infinite. Let C(G) be the set of cycle lengths in a graph G and let C_odd(G) be the set of odd numbers in C(G). We prove that, if G has chromatic number k, then ∑_{ℓ∈C_odd(G)} 1/ℓ≥(1/2−o_k(1))log k. This solves Erdős and Hajnal's odd cycle problem, and, furthermore, this bound is asymptotically optimal.   
+In 1984, Erdős asked whether there is some d such that each graph with chromatic number at least d (or perhaps even only average degree at least d) has a cycle whose length is a power of 2. We show that an average degree condition is sufficient for this problem, solving it with methods that apply to a wide range of sequences in addition to the powers of 2.     
+Finally, we use our methods to show that, for every k, there is some d so that every graph with average degree at least d has a subdivision of the complete graph K_k in which each edge is subdivided the same number of times. This confirms a conjecture of Thomassen from 1984.     
+Joint work with Richard Montgomery.
+
+
 
 ## Past talks
 
