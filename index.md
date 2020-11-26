@@ -4,12 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
-_**Further progress towards Hadwiger's conjecture**_   
-[zoom](https://zoom.com.cn/j/69235234837) password 121323    
-
-In 1943, Hadwiger conjectured that every graph with no $K_t$ minor is $(t-1)$-colorable for every $t\ge 1$. In the 1980s, Kostochka and Thomason independently proved that every graph with no $K_t$ minor has average degree $O(t\sqrt{\log t})$ and hence is $O(t\sqrt{\log t})$-colorable.  Recently, Norin, Song and I showed that every graph with no $K_t$ minor is $O(t(\log t)^{\beta})$-colorable for every $\beta > 1/4$, making the first improvement on the order of magnitude of the $O(t\sqrt{\log t})$ bound. Here we show that every graph with no $K_t$ minor is $O(t (\log t)^{\beta})$-colorable for every $\beta > 0$; more specifically, they are $O(t (\log \log t)^{6})$-colorable.
-
 ### December 3rd, 2020, 10:00 (UTC+8): [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University)     
 [zoom](https://zoom.com.cn/j/69963023053) password 030303    
 
@@ -53,6 +47,15 @@ Joint work with Richard Montgomery.
 
 
 ## Past talks
+
+### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
+_**Further progress towards Hadwiger's conjecture**_   [video](https://www.bilibili.com/video/BV1SK4y1j7T4/)    
+
+<details>
+  <summary>abstract</summary>
+  
+In 1943, Hadwiger conjectured that every graph with no $K_t$ minor is $(t-1)$-colorable for every $t\ge 1$. In the 1980s, Kostochka and Thomason independently proved that every graph with no $K_t$ minor has average degree $O(t\sqrt{\log t})$ and hence is $O(t\sqrt{\log t})$-colorable.  Recently, Norin, Song and I showed that every graph with no $K_t$ minor is $O(t(\log t)^{\beta})$-colorable for every $\beta > 1/4$, making the first improvement on the order of magnitude of the $O(t\sqrt{\log t})$ bound. Here we show that every graph with no $K_t$ minor is $O(t (\log t)^{\beta})$-colorable for every $\beta > 0$; more specifically, they are $O(t (\log \log t)^{6})$-colorable.
+</details>
 
 ### November 19th, 2020: [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)     
 _**Clustered coloring for Hadwiger type problems**_  [video](https://www.bilibili.com/video/bv11A411j7DF)
