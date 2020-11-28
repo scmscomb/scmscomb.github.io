@@ -4,8 +4,11 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### December 3rd, 2020, 10:00 (UTC+8): [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University)     
+### December 3rd, 2020, 10:00 (UTC+8): [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University) 
+_**Graph Edge Coloring**_     
 [zoom](https://zoom.com.cn/j/69963023053) password 030303    
+
+Graph edge coloring is a well established subject in the field of graph theory, it is one of the basic combinatorial optimization problems:  color the edges of a graph G with as few colors as possible such that each edge receives a color and adjacent edges, that is, different edges incident to a common vertex, receive different colors. The minimum number of colors needed for such a coloring of G is called the _chromatic index_ of G, written χ(G). By a result of Holyer, the determination of the chromatic index is an NP-hard optimization problem. The NP-hardness gives rise to the necessity of using heuristic algorithms. In particular, we are interested in upper bounds for the chromatic index that can be efficiently realized by a coloring algorithm. In this talk, we will start with  the well-known Goldberg-Seymour conjecture and its proof, then talk about the recent development of recoloring techniques and its applications to a number of classic problems in critical class 2 simple graphs.  
 
 ### December 10th, 2020, 10:00 (UTC+8): [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)
 [zoom](https://zoom.com.cn/j/66630591827) password 121323    
