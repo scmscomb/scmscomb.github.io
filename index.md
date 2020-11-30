@@ -33,6 +33,9 @@ size of a cycle packing. In this talk, we
 will discuss the characterization that a tournament is cycle Mengerian if and only if it contains none of
 four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
 
+### December 24rd, 2020, 15:00 (UTC+8): [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) (SUFE)  
+[zoom](https://zoom.com.cn/j/69289958087) password 030303   
+
 ### December 31rd, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
 [zoom](https://zoom.com.cn/j/65828004995) password 030303    
 
