@@ -50,9 +50,13 @@ Joint work with Richard Montgomery.
 
 ### December 3rd, 2020: [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University) 
 _**Graph Edge Coloring**_     
-[video](https://www.bilibili.com/video/bv1ot4y1a7Yd)      
+[video](https://www.bilibili.com/video/bv1ot4y1a7Yd) and [slides](./slides/edge_coloring_20201203.pdf)   
 
+<details>
+  <summary>abstract</summary>
+  
 Graph edge coloring is a well established subject in the field of graph theory, it is one of the basic combinatorial optimization problems:  color the edges of a graph G with as few colors as possible such that each edge receives a color and adjacent edges, that is, different edges incident to a common vertex, receive different colors. The minimum number of colors needed for such a coloring of G is called the _chromatic index_ of G, written χ(G). By a result of Holyer, the determination of the chromatic index is an NP-hard optimization problem. The NP-hardness gives rise to the necessity of using heuristic algorithms. In particular, we are interested in upper bounds for the chromatic index that can be efficiently realized by a coloring algorithm. In this talk, we will start with  the well-known Goldberg-Seymour conjecture and its proof, then talk about the recent development of recoloring techniques and its applications to a number of classic problems in critical class 2 simple graphs.  
+</details>
 
 ### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 _**Further progress towards Hadwiger's conjecture**_   [video](https://www.bilibili.com/video/BV1SK4y1j7T4/)    
