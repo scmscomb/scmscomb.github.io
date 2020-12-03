@@ -49,8 +49,7 @@ Joint work with Richard Montgomery.
 ## Past talks
 
 ### December 3rd, 2020: [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University) 
-_**Graph Edge Coloring**_     
-[video](https://www.bilibili.com/video/bv1ot4y1a7Yd) and [slides](./slides/edge_coloring_20201203.pdf)   
+_**Graph Edge Coloring**_      [video](https://www.bilibili.com/video/bv1ot4y1a7Yd) and [slides](./slides/edge_coloring_20201203.pdf)   
 
 <details>
   <summary>abstract</summary>
