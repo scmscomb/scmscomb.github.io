@@ -4,14 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### December 10th, 2020, 10:00 (UTC+8): [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)   
-_**Packing A-paths and cycles with modularity constraints**_    
-[zoom](https://zoom.com.cn/j/66630591827) password 121323    
-
-Abstract: We study the approximate packing-covering duality, also known as the Erdős-Pósa property, of various families of paths and cycles with modularity constraints. Our main tool is a structure theorem for undirected group-labelled graphs refining the flat wall theorem of Robertson and Seymour, and as a first consequence we obtain the Erdős-Pósa property of cycles of length L mod m for any integer L and odd prime power m.
-This partially answers a question of Dejter and Neumann-Lara from 1987 on characterizing all such integer pairs L and m. With some more work, we also prove the Erdős-Pósa property of A-paths of length 0 mod p for prime p, resolving a recent question of Bruhn and Ulmer and thereby characterizing when A-paths of length L mod m satisfy the Erdős-Pósa property. Joint work with Robin Thomas.
-
-
 ### December 17th, 2020, 15:00 (UTC+8): [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)   
 _**Ranking Tournaments with No Errors**_           
 [zoom](https://zoom.com.cn/j/67668743861) password 121323     
@@ -52,6 +44,16 @@ Joint work with Richard Montgomery.
 
 
 ## Past talks
+
+### December 10th, 2020: [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)   
+_**Packing A-paths and cycles with modularity constraints**_    [video](https://www.bilibili.com/video/BV155411G7ct/)
+
+<details>
+  <summary>abstract</summary>
+  
+ We study the approximate packing-covering duality, also known as the Erdős-Pósa property, of various families of paths and cycles with modularity constraints. Our main tool is a structure theorem for undirected group-labelled graphs refining the flat wall theorem of Robertson and Seymour, and as a first consequence we obtain the Erdős-Pósa property of cycles of length L mod m for any integer L and odd prime power m.
+This partially answers a question of Dejter and Neumann-Lara from 1987 on characterizing all such integer pairs L and m. With some more work, we also prove the Erdős-Pósa property of A-paths of length 0 mod p for prime p, resolving a recent question of Bruhn and Ulmer and thereby characterizing when A-paths of length L mod m satisfy the Erdős-Pósa property. Joint work with Robin Thomas.
+</details>
 
 ### December 3rd, 2020: [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University) 
 _**Graph Edge Coloring**_      [video](https://www.bilibili.com/video/bv1ot4y1a7Yd) and [slides](./slides/edge_coloring_20201203.pdf)   
