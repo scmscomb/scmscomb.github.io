@@ -46,7 +46,7 @@ Joint work with Richard Montgomery.
 ## Past talks
 
 ### December 10th, 2020: [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)   
-_**Packing A-paths and cycles with modularity constraints**_    [video](https://www.bilibili.com/video/BV155411G7ct/)
+_**Packing A-paths and cycles with modularity constraints**_    [video](https://www.bilibili.com/video/BV155411G7ct/) and [slides](./slides/packing_20201210.pdf)   
 
 <details>
   <summary>abstract</summary>
