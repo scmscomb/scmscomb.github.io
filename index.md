@@ -24,8 +24,11 @@ size of a cycle packing. In this talk, we
 will discuss the characterization that a tournament is cycle Mengerian if and only if it contains none of
 four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
 
-### December 24rd, 2020, 15:00 (UTC+8): [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) (SUFE)  
+### December 24rd, 2020, 15:00 (UTC+8): [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) (SUFE)    
+_**Classifying Computational Counting Problems**_    
 [zoom](https://zoom.com.cn/j/69289958087) password 030303   
+
+Abstract: The main theme of theoretical computer science is to classify various computational problems in terms of their inherent computational difficulty. In this talk, I will try to demonstrate this general theme by some cases study of my own research on the algorithms and complexity for counting problems defined on graphs.
 
 ### December 31rd, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
 [zoom](https://zoom.com.cn/j/65828004995) password 030303    
