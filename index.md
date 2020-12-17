@@ -30,7 +30,7 @@ Joint work with Richard Montgomery.
 ## Past talks
 
 ### December 17th, 2020: [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)   
-_**Ranking Tournaments with No Errors**_           [video](https://www.bilibili.com/video/BV1uf4y1e7JN/)      
+_**Ranking Tournaments with No Errors**_           [video](https://www.bilibili.com/video/BV1uf4y1e7JN/)  and [slides](./slides/tournament_20201217.pdf)   
 
 <details>
   <summary>abstract</summary>
