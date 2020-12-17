@@ -4,25 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### December 17th, 2020, 15:00 (UTC+8): [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)   
-_**Ranking Tournaments with No Errors**_           
-[zoom](https://zoom.com.cn/j/67668743861) password 121323     
-
-We examine the classical problem of ranking a set of players on the basis of a set of
-pairwise comparisons arising from a sports tournament, with the objective of minimizing the total number of upsets,
-where an _upset_ occurs if a higher ranked player was actually defeated by a lower ranked player. This problem
-can be rephrased as the so-called minimum feedback arc set problem on tournaments, which arises in a rich variety
-of applications and has been a subject of extensive research. We study this NP-hard problem using
-structure-driven and linear programming approaches.
-
-Let T=(V,A) be a tournament with a nonnegative integral weight
-w(e) on each arc e. A subset F of arcs is called a _feedback arc set_ if T\F contains no cycles
-(directed). A collection **C** of cycles (with repetition allowed) is called a _cycle packing_ if each arc
-e is used at most w(e) times by members of **C**.  We call T _cycle Mengerian_  if, for every nonnegative
-integral function w defined on A, the minimum total weight of a feedback arc set is equal to the maximum
-size of a cycle packing. In this talk, we
-will discuss the characterization that a tournament is cycle Mengerian if and only if it contains none of
-four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
 
 ### December 24rd, 2020, 15:00 (UTC+8): [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) (SUFE)    
 _**Classifying Computational Counting Problems**_    
@@ -47,6 +28,29 @@ Joint work with Richard Montgomery.
 
 
 ## Past talks
+
+### December 17th, 2020: [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)   
+_**Ranking Tournaments with No Errors**_           [video](https://www.bilibili.com/video/BV1uf4y1e7JN/)      
+
+<details>
+  <summary>abstract</summary>
+  
+We examine the classical problem of ranking a set of players on the basis of a set of
+pairwise comparisons arising from a sports tournament, with the objective of minimizing the total number of upsets,
+where an _upset_ occurs if a higher ranked player was actually defeated by a lower ranked player. This problem
+can be rephrased as the so-called minimum feedback arc set problem on tournaments, which arises in a rich variety
+of applications and has been a subject of extensive research. We study this NP-hard problem using
+structure-driven and linear programming approaches.
+
+Let T=(V,A) be a tournament with a nonnegative integral weight
+w(e) on each arc e. A subset F of arcs is called a _feedback arc set_ if T\F contains no cycles
+(directed). A collection **C** of cycles (with repetition allowed) is called a _cycle packing_ if each arc
+e is used at most w(e) times by members of **C**.  We call T _cycle Mengerian_  if, for every nonnegative
+integral function w defined on A, the minimum total weight of a feedback arc set is equal to the maximum
+size of a cycle packing. In this talk, we
+will discuss the characterization that a tournament is cycle Mengerian if and only if it contains none of
+four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
+</details>
 
 ### December 10th, 2020: [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)   
 _**Packing A-paths and cycles with modularity constraints**_    [video](https://www.bilibili.com/video/BV155411G7ct/) and [slides](./slides/packing_20201210.pdf)   
