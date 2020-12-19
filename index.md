@@ -4,20 +4,19 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-
-### December 24rd, 2020, 15:00 (UTC+8): [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) (SUFE)    
+### December 24, 2020, 15:00 (UTC+8): [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) (SUFE)    
 _**Classifying Computational Counting Problems**_    
 [zoom](https://zoom.com.cn/j/69289958087) password 030303   
 
 Abstract: The main theme of theoretical computer science is to classify various computational problems in terms of their inherent computational difficulty. In this talk, I will try to demonstrate this general theme by some cases study of my own research on the algorithms and complexity for counting problems defined on graphs.
 
-### December 31rd, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
+### December 31, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
 [zoom](https://zoom.com.cn/j/65828004995) password 030303    
 
-### January 7th, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
+### January 7, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
 [zoom](https://zoom.com.cn/j/63906289807) password 030303   
 
-### January 14th, 2021, 15:00 (UTC+8): [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
+### January 14, 2021, 15:00 (UTC+8): [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**A solution to Erdős and Hajnal's odd cycle problem**_    
 
 In 1981, Erdős and Hajnal asked whether the sum of the reciprocals of the odd cycle lengths in a graph with infinite chromatic number is necessarily infinite. Let C(G) be the set of cycle lengths in a graph G and let C_odd(G) be the set of odd numbers in C(G). We prove that, if G has chromatic number k, then ∑_{ℓ∈C_odd(G)} 1/ℓ≥(1/2−o_k(1))log k. This solves Erdős and Hajnal's odd cycle problem, and, furthermore, this bound is asymptotically optimal.   
@@ -25,11 +24,12 @@ In 1984, Erdős asked whether there is some d such that each graph with chromati
 Finally, we use our methods to show that, for every k, there is some d so that every graph with average degree at least d has a subdivision of the complete graph K_k in which each edge is subdivided the same number of times. This confirms a conjecture of Thomassen from 1984.     
 Joint work with Richard Montgomery.
 
+### January 21, 2021, 19:00 (UTC+8): [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/) (University College London)    
 
 
 ## Past talks
 
-### December 17th, 2020: [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)   
+### December 17, 2020: [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)   
 _**Ranking Tournaments with No Errors**_           [video](https://www.bilibili.com/video/BV1uf4y1e7JN/)  and [slides](./slides/tournament_20201217.pdf)   
 
 <details>
@@ -52,7 +52,7 @@ will discuss the characterization that a tournament is cycle Mengerian if and on
 four Möbius ladders as a subgraph. (Joint work with Guoli Ding, Wenan Zang, and Qiulan Zhao.)
 </details>
 
-### December 10th, 2020: [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)   
+### December 10, 2020: [Youngho Yoo](http://people.math.gatech.edu/~yyoo41/) (Georgia Institute of Technology)   
 _**Packing A-paths and cycles with modularity constraints**_    [video](https://www.bilibili.com/video/BV155411G7ct/) and [slides](./slides/packing_20201210.pdf)   
 
 <details>
@@ -62,7 +62,7 @@ _**Packing A-paths and cycles with modularity constraints**_    [video](https://
 This partially answers a question of Dejter and Neumann-Lara from 1987 on characterizing all such integer pairs L and m. With some more work, we also prove the Erdős-Pósa property of A-paths of length 0 mod p for prime p, resolving a recent question of Bruhn and Ulmer and thereby characterizing when A-paths of length L mod m satisfy the Erdős-Pósa property. Joint work with Robin Thomas.
 </details>
 
-### December 3rd, 2020: [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University) 
+### December 3, 2020: [Guantao Chen](https://math.gsu.edu/gchen/) (Georgia State University) 
 _**Graph Edge Coloring**_      [video](https://www.bilibili.com/video/bv1ot4y1a7Yd) and [slides](./slides/edge_coloring_20201203.pdf)   
 
 <details>
@@ -71,7 +71,7 @@ _**Graph Edge Coloring**_      [video](https://www.bilibili.com/video/bv1ot4y1a7
 Graph edge coloring is a well established subject in the field of graph theory, it is one of the basic combinatorial optimization problems:  color the edges of a graph G with as few colors as possible such that each edge receives a color and adjacent edges, that is, different edges incident to a common vertex, receive different colors. The minimum number of colors needed for such a coloring of G is called the _chromatic index_ of G, written χ(G). By a result of Holyer, the determination of the chromatic index is an NP-hard optimization problem. The NP-hardness gives rise to the necessity of using heuristic algorithms. In particular, we are interested in upper bounds for the chromatic index that can be efficiently realized by a coloring algorithm. In this talk, we will start with  the well-known Goldberg-Seymour conjecture and its proof, then talk about the recent development of recoloring techniques and its applications to a number of classic problems in critical class 2 simple graphs.  
 </details>
 
-### November 26th, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
+### November 26, 2020, 10:00 (UTC+8): [Luke Postle](https://www.math.uwaterloo.ca/~lpostle/) (University of Waterloo)
 _**Further progress towards Hadwiger's conjecture**_   [video](https://www.bilibili.com/video/BV1SK4y1j7T4/)    
 
 <details>
@@ -80,7 +80,7 @@ _**Further progress towards Hadwiger's conjecture**_   [video](https://www.bilib
 In 1943, Hadwiger conjectured that every graph with no $K_t$ minor is $(t-1)$-colorable for every $t\ge 1$. In the 1980s, Kostochka and Thomason independently proved that every graph with no $K_t$ minor has average degree $O(t\sqrt{\log t})$ and hence is $O(t\sqrt{\log t})$-colorable.  Recently, Norin, Song and I showed that every graph with no $K_t$ minor is $O(t(\log t)^{\beta})$-colorable for every $\beta > 1/4$, making the first improvement on the order of magnitude of the $O(t\sqrt{\log t})$ bound. Here we show that every graph with no $K_t$ minor is $O(t (\log t)^{\beta})$-colorable for every $\beta > 0$; more specifically, they are $O(t (\log \log t)^{6})$-colorable.
 </details>
 
-### November 19th, 2020: [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)     
+### November 19, 2020: [Chun-Hung Liu](https://www.math.tamu.edu/~chliu/) (Texas A&M University)     
 _**Clustered coloring for Hadwiger type problems**_  [video](https://www.bilibili.com/video/bv11A411j7DF)
 
 <details>
