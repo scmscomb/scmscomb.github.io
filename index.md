@@ -107,7 +107,7 @@ upper bound for the clustered coloring version of the Gerards-Seymour
 conjecture.
 </details>
 
-### November 12th, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
+### November 12, 2020, 15:00 (UTC+8): [Weifan Wang](http://mypage.zjnu.edu.cn/WWF/zh_CN/index/113851/list/index.htm) (Zhejing Normal University)
 _**Simultaneous Colorings of Plane Graphs (In Chinese)**_    [video](https://www.bilibili.com/video/bv1rK4y1Z7sB)        
 <details>
   <summary>Abstract</summary>
@@ -121,7 +121,7 @@ of plane graphs. Some recent results and open problems about this direction
 are mentioned.
 </details>
 
-### November 5th, 2020: [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
+### November 5, 2020: [Jie Han](https://sites.google.com/site/jiehanshome/home) (University of Rhode Island)   
 _**F-factors in graphs with randomness conditions**_      [video](https://www.bilibili.com/video/BV1vr4y1w7xE) 
 <details>
   <summary>Abstract</summary>
@@ -130,7 +130,7 @@ _**F-factors in graphs with randomness conditions**_      [video](https://www.bi
 </details>
 
 
-### October 29th, 2020: [Jiaao Li](http://my.nankai.edu.cn/sms/lja_en/list.htm) (Nankai University)
+### October 29, 2020: [Jiaao Li](http://my.nankai.edu.cn/sms/lja_en/list.htm) (Nankai University)
 _**Flows and Cycle Covers of Signed Graphs**_   [video](https://www.bilibili.com/video/bv1UK4y177Uw)   
 
 <details>
@@ -140,7 +140,7 @@ _**Flows and Cycle Covers of Signed Graphs**_   [video](https://www.bilibili.com
 </details>
 
 
-### October 22nd, 2020: [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University) 
+### October 22, 2020: [Fan Wei](https://sites.google.com/view/fan-wei/) (Princeton University) 
 _**Some variants of the graph removal lemma**_ 
 
 <details>
@@ -149,7 +149,7 @@ _**Some variants of the graph removal lemma**_
 Among the numerous applications of the regularity lemma, a classical one is the graph removal lemma. It has applications in fields such as number theory and theoretical computer science. For every fixed graph H, the H-removal lemma gives a highly nontrivial equivalence between the density of H in G and the L1 distance between a graph G to the set of H-free graphs. Whether the huge bound in the quantitative estimate is necessary remains a big open question in graph theory. In this talk, I will discuss some recent works on a strengthening of the usual graph removal lemma.  This talk is based on some joint work with Jacob Fox. 
 </details>
 
-### October 15th, 2020: [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
+### October 15, 2020: [Daniel Cranston](http://www.people.vcu.edu/~dcranston/) (Virginia Commonwealth University)
 _**Vertex Partitions into an Independent Set and a Forest with Each Component Small**_      [video](https://www.bilibili.com/video/BV1Ha4y1L7JH/) and [slides](./slides/vertex_partitions_20201015.pdf)       
 
 <details>
@@ -169,7 +169,7 @@ the value of g(1,b) whenever 4/3 < b < 2. This is joint work with
 Matthew Yancey.
 </details>
 
-### October 8th, 2020: [Hao Huang](http://www.mathcs.emory.edu/~hhuan30/) (Emory University)
+### October 8, 2020: [Hao Huang](http://www.mathcs.emory.edu/~hhuan30/) (Emory University)
 _**Covering cubes by hyperplanes**_    [video](https://www.bilibili.com/video/bv1U54y1k7eT) and [slides](./slides/cube_cover_20201008.pdf)       
 <details>
   <summary>Abstract</summary>
@@ -181,7 +181,7 @@ In this talk, we consider the following natural generalization of the Alon-Füre
 Joint work with Alexander Clifton (Emory University).
 </details>
 
-### September 24th, 2020: [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
+### September 24, 2020: [Tao Jiang](http://www.users.miamioh.edu/jiangt/) (Miami University) 
 _**Linear cycles of given lengths in linear hypergraphs**_     [video](https://www.bilibili.com/video/BV1DK411K7MH)  
 <details>
   <summary>Abstract</summary>
@@ -205,7 +205,7 @@ can find further applications to other extremal problems on cycles in the hyperg
 This is joint work with Jie Ma and Liana Yepremyan.
 </details>
 
-### September 17th, 2020: [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague) 
+### September 17, 2020: [Jan Volec](http://honza.ucw.cz/) (Czech Technical University in Prague) 
 _**Non-bipartite k-common graphs**_    [video](https://www.bilibili.com/video/BV1AT4y1A7iR), [slides](./slides/kcommon_20200917.pdf) and [poster](./poster/200917_Jan_Volec.pdf)         
 <details>
   <summary>Abstract</summary>
@@ -221,7 +221,7 @@ which resolves a problem of Jagger, Stovícek and Thomason from 1996.
 This is a joint work with Dan Kral, Jon Noel, Sergey Norin and Fan Wei.   
 </details>
 
-### September 10th, 2020: [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
+### September 10, 2020: [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim) (KAIST)        
 _**Extremal density for sparse minors and subdivisions**_    [video](https://www.bilibili.com/video/BV1yp4y1e7fF/) and [poster](./poster/200910_Jaehoon_Kim.pdf)      
 
 <details>
@@ -230,7 +230,7 @@ _**Extremal density for sparse minors and subdivisions**_    [video](https://www
 We prove an asymptotically tight bound on the extremal density guaranteeing subdivisions of bounded-degree bipartite graphs with a separability condition. As corollaries, we answered several questions of Reed and Wood on embedding sparse minors. In particular, we prove that a graph with average degree (3/2+ o(1))t contains every t-vertex planar graph as a minor and this constant 3/2 is best possible. This is joint work with John Haslegrave and Hong Liu.
 </details>
 
-### September 3rd, 2020: [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU) 
+### September 3, 2020: [Hongliang Lu](http://gr.xjtu.edu.cn/web/luhongliang) (XJTU) 
 _**Co-degree condition for  matchings in k-partite k-graphs**_         [video](https://www.bilibili.com/video/BV14a4y1E7me/) and [poster](./poster/200903_Hongliang_Lu.pdf)         
 
 <details>
@@ -240,7 +240,7 @@ Let H be a k-partite k-graph with n vertices in each partition class,  and let
 $\delta_{k-1}(H)$ denote the minimum co-degree of H. We characterize those H with $\delta_{k-1}(H) \geq n/2$ and with no perfect matching. As a consequence we give an affirmative answer to the following question of Rödl and Ruciński: If k is even or $n \not\equiv 2 \pmod 4$, does $\delta_{k-1}(H) \geq n/2$ imply that H has a perfect matching? We  give an example indicating that it is not sufficient to impose this degree bound on only two types of (k-1)-sets. For near perfect matching, we gave a tight sufficient condition in term of co-degree, which is also independently obtained by Han, Zang and Zhao. Moreover, I would like to introduce several problems I am interested in.
 </details>
 
-### August 27th, 2020: [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)    
+### August 27, 2020: [Kevin Hendrey](https://sites.google.com/view/kevinhendrey) (IBS)    
 _**Counting cliques in 1-planar graphs**_    [video](https://www.bilibili.com/video/BV1Dy4y1C7Hs/) and [poster](./poster/200827_Kevin_Hendrey.pdf)     
 
 <details>
@@ -249,7 +249,7 @@ _**Counting cliques in 1-planar graphs**_    [video](https://www.bilibili.com/vi
 A 1-planar graph is a graph which can be drawn in the plane so that every edge is crossed at most once. It is well known that the maximum number of edges in a 1-planar graph is 4n-8. It is natural consider extending this result to larger cliques. We precisely determine the maximum number of cliques of any given size in a 1-planar graph, and also determine the family of 1-planar graphs which are extremal for this question. This is joint work with Pascal Gollin, Abhishek Methuku, Casey Tompkins and Xin Zhang. 
 </details>
 
-### August 20th, 2020: [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
+### August 20, 2020: [Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) (University of Cambridge)    
 _**Rainbow Turán number of even cycles**_    [video](https://www.bilibili.com/video/BV1jz4y1f7Dr/), [slides](./slides/rainbow_turan_20200820.pdf) and [poster](./poster/200820_Oliver_Janzer.pdf)   
 
 <details>
@@ -267,7 +267,7 @@ Erdős and Simonovits.
 
 </details>
 
-### August 13th, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
+### August 13, 2020: [Zilin Jiang](https://www.zilin.one/) (Massachusetts Institute of Technology)   
 _**Negligible obstructions and Turán exponents**_    [video](https://www.bilibili.com/video/BV1z54y1i7ka/), [slides](./slides/turan_20200813.pdf) and [poster](./poster/200813_Zilin_Jiang.pdf)     
 
 <details>
@@ -279,7 +279,7 @@ Joint work with Tao Jiang and Jie Ma. https://arxiv.org/abs/2007.02975
 </details>
 
 
-### August 6th, 2020: [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
+### August 6, 2020: [Yufei Zhao](http://yufeizhao.com/) (Massachusetts Institute of Technology)   
 _**Equiangular lines, spherical two-distance sets, and spectral graph theory**_       [video](https://www.bilibili.com/video/BV1UA411Y7ME/), [slides](./slides/equiangular_20200806.pdf) and [poster](./poster/200806_Yufei_Zhao.pdf)     
 
 <details>
@@ -296,7 +296,7 @@ https://arxiv.org/abs/2006.06633
 
 </details>
 
-### July 23 - 30th, 2020: [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
+### July 23 - 30, 2020: [Patrice Ossona de Mendez](http://madezhi.free.fr/) (Charles University; CAMS, CNRS/EHESS; Zhejiang Normal University)
 _**A model theoretic approach to sparsity I - II**_     
 * Talk I: [video](https://www.bilibili.com/video/BV15v411q7nj/), [slides](./slides/sparsity_20200723.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
 * Talk I: [video](https://www.bilibili.com/video/BV1w54y1D7aS/), [slides](./slides/sparsity_20200730.pdf) and [poster](./poster/200723_Patrice_Ossona_de_Mendez.pdf)   
@@ -309,7 +309,7 @@ The aim of this talk is to address, at least partially, these questions, from th
 </details>
 
 
-### July 16th, 2020: [Bobo Hua](http://homepage.fudan.edu.cn/bobohua/) (Fudan University)
+### July 16, 2020: [Bobo Hua](http://homepage.fudan.edu.cn/bobohua/) (Fudan University)
 _**Planar graphs with positive curvature**_      [video](https://www.bilibili.com/video/BV1bp4y1S7Xd/) (in Chinese)
 <details>
   <summary>Abstract</summary>
@@ -317,7 +317,7 @@ _**Planar graphs with positive curvature**_      [video](https://www.bilibili.co
   A curvature notion on CW complexes was introduced by Forman. In this talk, we classify the set of planar tessellations with positive Forman curvature. This is joint work with Yohji Akama, Yanhui Su, and Haohang Zhang.
 </details>
 
-### July 9th, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
+### July 9, 2020: [Yifan Jing](https://yifanjing.wordpress.com/) (University of Illinois at Urbana-Champaign)
 _**Structures of sets with minimum measure growth**_     [video](https://www.bilibili.com/video/BV1Sv411i7zA/) and [poster](/poster/200709_Yifan_Jing.pdf)    
 <details>
   <summary>Abstract</summary>
@@ -330,7 +330,7 @@ We obtain characterizations of groups G, and sets A, B, such that the equality h
 
 </details>
 
-### July 2nd, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
+### July 2, 2020: [Bojan Mohar](https://www.sfu.ca/~mohar/) (Simon Fraser University) 
 _**Can the genus of a graph be approximated?**_    [video](https://www.bilibili.com/video/BV1aT4y1772D/), [slides](/slides/genus_20200702.pdf) and [poster](/poster/200702_Bojan_Mohar.pdf)   
 <details>
   <summary>Abstract</summary>
@@ -351,7 +351,7 @@ the genus of quasi-random graphs.
 This is joint work with Yifan Jing.
 </details>
 
-### June 25th, 2020: [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
+### June 25, 2020: [Lina Li](https://sites.google.com/view/linali/) (University of Illinois at Urbana-Champaign)
 _**Independent sets in middle two layers of Boolean lattice**_   [video](https://www.bilibili.com/video/BV1NV41167rD/), [slides](/slides/mid_layers_20200625.pdf) and [poster](/poster/200625_Lina_Li.pdf)
 
 <details>
@@ -367,7 +367,7 @@ The proofs use Sapozhenko's graph container lemma, and a recently developed meth
 This is a joint work with Jozsef Balogh and Ramon I. Garcia.
 </details>
 
-### June 11 - 18th, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
+### June 11 - 18, 2020: [Wojciech Samotij](http://www.math.tau.ac.il/~samotij/) (Tel Aviv University) 
 _**Large deviations of triangle counts in the binomial random graph I - II**_    
 * Talk I: [video](https://www.bilibili.com/video/BV1E54y1Q74j/), [slides](/slides/large-deviations-1.pdf) and [poster](/poster/200611_Wojciech_Samotij.pdf)   
 * Talk II: [video](https://www.bilibili.com/video/BV1XC4y1a7uk/), [slides](/slides/large-deviations-2.pdf) and [poster](/poster/200618_Wojciech_Samotij.pdf)
@@ -380,7 +380,7 @@ _**Large deviations of triangle counts in the binomial random graph I - II**_
 The first talk of the series will give a very gentle introduction to the theory of large deviations and discuss the history of the large deviation problem for triangle counts. The second talk of the series will present a complete solution to the upper tail problem for triangle counts in G(n,p) that was obtained recently in a joint work with Matan Harel and Frank Mousset.
 </details>
 
-### May 7th - June 4th, 2020: [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
+### May 7 - June 4, 2020: [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**Basics on the hypergraph container method I - V**_   
 * Talk I: [video](https://www.bilibili.com/video/BV1Ug4y1q7M3) and [slides](/slides/container-note-20200507.pdf)
 * Talk II: [video](https://www.bilibili.com/video/BV1SZ4y1s7ev) and [slides](/slides/container-note-20200514.pdf)
@@ -393,19 +393,19 @@ _**Basics on the hypergraph container method I - V**_
 This is a gentle introduction to basics of the hypergraph container method introduced independently by Balogh, Samotij and Morris, and Saxton and Thomason. The method has seen numerous applications in extremal combinatorics and other related areas in the past decade. We will focus mostly on examples, illustrating how to apply this method on various types of problems.
 </details>
 
-### April 30th, 2020: Baoxuan Zhu (JSNU)
+### April 30, 2020: Baoxuan Zhu (JSNU)
 _**Positivity in combinatorics**_ 
 
-### April 16th - 23rd, 2020: Jinsong Xu (XJTLU) 
+### April 16 - 23, 2020: Jinsong Xu (XJTLU) 
 _**Applications of Hodge theory in matroid theory I - II**_
 
-### April 9th, 2020: Xuding Zhu (ZJNU)
+### April 9, 2020: Xuding Zhu (ZJNU)
 _**Coloring, sparseness and girth**_    [Video](https://www.bilibili.com/video/BV1VK4y1t7a2/)
-### April 2nd, 2020: Xiaolan Hu (CCNU)
+### April 2, 2020: Xiaolan Hu (CCNU)
 _**A 4-choosable graph that is not (8 : 2)-choosable**_
 
-### March 26th, 2020: Binlong Li (NPU)
+### March 26, 2020: Binlong Li (NPU)
 _**A Strengthening of Erdős-Gallai Theorem and Proof of Woodall’s Conjecture**_
 
-### March 19th, 2020: Jie Ma (USTC)
+### March 19, 2020: Jie Ma (USTC)
 _**The number of critical subgraphs in k-critical graphs**_
