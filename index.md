@@ -11,7 +11,13 @@ _**Classifying Computational Counting Problems**_
 Abstract: The main theme of theoretical computer science is to classify various computational problems in terms of their inherent computational difficulty. In this talk, I will try to demonstrate this general theme by some cases study of my own research on the algorithms and complexity for counting problems defined on graphs.
 
 ### December 31, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
+_**Hadwiger's Conjecture**_   
 [zoom](https://zoom.com.cn/j/65828004995) password 030303    
+Hadwiger's conjecture from 1943 states that for every integer t>=1, every graph either can
+be t-colored or has a subgraph that can be contracted to the complete graph on t + 1 vertices. This is a far-reaching generalization of the Four-Color Theorem and perhaps the most
+famous conjecture in graph theory. In this talk we will survey the history of Hadwiger's
+conjecture and the main ideas of recent results.
+
 
 ### January 7, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
 [zoom](https://zoom.com.cn/j/63906289807) password 030303   
