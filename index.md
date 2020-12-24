@@ -4,11 +4,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### December 24, 2020, 15:00 (UTC+8): [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) (SUFE)    
-_**Classifying Computational Counting Problems**_    
-[zoom](https://zoom.com.cn/j/69289958087) password 030303   
 
-Abstract: The main theme of theoretical computer science is to classify various computational problems in terms of their inherent computational difficulty. In this talk, I will try to demonstrate this general theme by some cases study of my own research on the algorithms and complexity for counting problems defined on graphs.
 
 ### December 31, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
 _**Hadwiger's Conjecture**_   
@@ -34,6 +30,14 @@ Joint work with Richard Montgomery.
 
 
 ## Past talks
+
+### December 24, 2020: [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) (SUFE)    
+_**Classifying Computational Counting Problems**_    [video](https://www.bilibili.com/video/BV1wT4y1T7JD/)  and [slides](./slides/counting_20201224.pptx)   
+<details>
+  <summary>abstract</summary>
+  
+Abstract: The main theme of theoretical computer science is to classify various computational problems in terms of their inherent computational difficulty. In this talk, I will try to demonstrate this general theme by some cases study of my own research on the algorithms and complexity for counting problems defined on graphs.
+</details>
 
 ### December 17, 2020: [Xujin Chen](http://people.ucas.ac.cn/~xchen?language=en) (Chinese Academy of Sciences)   
 _**Ranking Tournaments with No Errors**_           [video](https://www.bilibili.com/video/BV1uf4y1e7JN/)  and [slides](./slides/tournament_20201217.pdf)   
