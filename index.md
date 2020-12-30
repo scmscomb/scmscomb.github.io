@@ -16,7 +16,10 @@ conjecture and the main ideas of recent results.
 
 
 ### January 7, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
+_**Upper Tails in Random Regular Graphs**_   
 [zoom](https://zoom.com.cn/j/63906289807) password 030303   
+
+Abstract: Fix a graph K. What is the probability that a sparse random regular graph contains many more copies of K than expected?
 
 ### January 14, 2021, 15:00 (UTC+8): [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**A solution to Erdős and Hajnal's odd cycle problem**_    
