@@ -4,17 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-
-
-### December 31, 2020, 10:00 (UTC+8): [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
-_**Hadwiger's Conjecture**_   
-[zoom](https://zoom.com.cn/j/65828004995) password 030303    
-Hadwiger's conjecture from 1943 states that for every integer t>=1, every graph either can
-be t-colored or has a subgraph that can be contracted to the complete graph on t + 1 vertices. This is a far-reaching generalization of the Four-Color Theorem and perhaps the most
-famous conjecture in graph theory. In this talk we will survey the history of Hadwiger's
-conjecture and the main ideas of recent results.
-
-
 ### January 7, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
 _**Upper Tails in Random Regular Graphs**_   
 [zoom](https://zoom.com.cn/j/63906289807) password 030303   
@@ -33,6 +22,18 @@ Joint work with Richard Montgomery.
 
 
 ## Past talks
+
+### December 31, 2020: [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
+_**Hadwiger's Conjecture**_   
+[video](https://www.bilibili.com/video/BV1Ho4y1Z7f7)  
+<details>
+  <summary>abstract</summary>
+  
+Hadwiger's conjecture from 1943 states that for every integer t>=1, every graph either can
+be t-colored or has a subgraph that can be contracted to the complete graph on t + 1 vertices. This is a far-reaching generalization of the Four-Color Theorem and perhaps the most
+famous conjecture in graph theory. In this talk we will survey the history of Hadwiger's
+conjecture and the main ideas of recent results.
+</details>
 
 ### December 24, 2020: [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) (SUFE)    
 _**Classifying Computational Counting Problems**_    [video](https://www.bilibili.com/video/BV1wT4y1T7JD/)  and [slides](./slides/counting_20201224.pptx)   
