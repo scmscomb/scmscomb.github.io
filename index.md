@@ -24,8 +24,7 @@ Joint work with Richard Montgomery.
 ## Past talks
 
 ### December 31, 2020: [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
-_**Hadwiger's Conjecture**_   
-[video](https://www.bilibili.com/video/BV1Ho4y1Z7f7)  
+_**Hadwiger's Conjecture**_    [video](https://www.bilibili.com/video/BV1Ho4y1Z7f7)  
 <details>
   <summary>abstract</summary>
   
