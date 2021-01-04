@@ -12,6 +12,7 @@ Abstract: Fix a graph K. What is the probability that a sparse random regular gr
 
 ### January 14, 2021, 15:00 (UTC+8): [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**A solution to Erdős and Hajnal's odd cycle problem**_    
+[zoom](https://zoom.com.cn/j/65218314192) password 061801   
 
 In 1981, Erdős and Hajnal asked whether the sum of the reciprocals of the odd cycle lengths in a graph with infinite chromatic number is necessarily infinite. Let C(G) be the set of cycle lengths in a graph G and let C_odd(G) be the set of odd numbers in C(G). We prove that, if G has chromatic number k, then ∑_{ℓ∈C_odd(G)} 1/ℓ≥(1/2−o_k(1))log k. This solves Erdős and Hajnal's odd cycle problem, and, furthermore, this bound is asymptotically optimal.   
 In 1984, Erdős asked whether there is some d such that each graph with chromatic number at least d (or perhaps even only average degree at least d) has a cycle whose length is a power of 2. We show that an average degree condition is sufficient for this problem, solving it with methods that apply to a wide range of sequences in addition to the powers of 2.     
@@ -19,7 +20,7 @@ Finally, we use our methods to show that, for every k, there is some d so that e
 Joint work with Richard Montgomery.
 
 ### January 21, 2021, 19:00 (UTC+8): [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/) (University College London)    
-
+[zoom](https://zoom.com.cn/j/61323352932) password 121323   
 
 ## Past talks
 
