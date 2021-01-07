@@ -4,12 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule       
 
-### January 7, 2021, 10:00 (UTC+8): [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
-_**Upper Tails in Random Regular Graphs**_   
-[zoom](https://zoom.com.cn/j/63906289807) password 030303   
-
-Abstract: Fix a graph K. What is the probability that a sparse random regular graph contains many more copies of K than expected?
-
 ### January 14, 2021, 15:00 (UTC+8): [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**A solution to Erdős and Hajnal's odd cycle problem**_    
 [zoom](https://zoom.com.cn/j/65218314192) password 061801   
@@ -23,6 +17,15 @@ Joint work with Richard Montgomery.
 [zoom](https://zoom.com.cn/j/61323352932) password 121323   
 
 ## Past talks
+
+### January 7, 2021: [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
+_**Upper Tails in Random Regular Graphs**_   [video](https://www.bilibili.com/video/BV1uf4y1y76z/) 
+
+<details>
+  <summary>abstract</summary>
+  
+  Fix a graph K. What is the probability that a sparse random regular graph contains many more copies of K than expected?
+</details>
 
 ### December 31, 2020: [Zi-Xia Song](https://sciences.ucf.edu/math/zxsong/) (University of Central Florida)  
 _**Hadwiger's Conjecture**_    [video](https://www.bilibili.com/video/BV1Ho4y1Z7f7)  
