@@ -14,7 +14,16 @@ Finally, we use our methods to show that, for every k, there is some d so that e
 Joint work with Richard Montgomery.
 
 ### January 21, 2021, 19:00 (UTC+8): [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/) (University College London)    
+_**On graph norms for complex-valued functions**_    
 [zoom](https://zoom.com.cn/j/61323352932) password 121323   
+
+For any given graph $H$, one may define a natural corresponding functional $\|.\|_H$ for real-valued functions by using homomorphism density. One may also extend this to complex-valued functions, once $H$ is paired with a $2$-edge-colouring $\alpha$ to assign conjugates. We say that $H$ is \emph{real-norming} (resp. \emph{complex-norming}) if $\|.\|_H$ (resp. $\|.\|_{H,\alpha}$) is a norm on the vector space of real-valued (resp. complex-valued) functions. These generalise the Gowers octahedral norms, a widely used tool in extremal combinatorics to quantify quasirandomness.
+   
+We unify these two seemingly different notions of graph norms in real- and complex-valued settings. Namely, we prove that $H$ is complex-norming if and only if it is real-norming and simply call the property \emph{norming}. Our proof does not explicitly construct a suitable $2$-edge-colouring $\alpha$ but obtains its existence and uniqueness, which may be of independent interest.
+   
+As an application, we give various example graphs that are not norming. In particular, we show that hypercubes are not norming, which resolves the last outstanding problem posed in Hatami's pioneering work on graph norms.
+
+Joint work with Sasha Sidorenko.
 
 ## Past talks
 
