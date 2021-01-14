@@ -19,7 +19,7 @@ Joint work with Sasha Sidorenko.
 ## Past talks
 
 ### January 14, 2021: [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
-_**A solution to Erdős and Hajnal's odd cycle problem**_    [video](https://www.bilibili.com/video/BV1PV411b7Yt/) 
+_**A solution to Erdős and Hajnal's odd cycle problem**_    [video](https://www.bilibili.com/video/BV1PV411b7Yt/)  and [slides](./slides/cycle_20210114.pdf)   
 
 
 <details>
