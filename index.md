@@ -2,12 +2,19 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
-## Current schedule       
+## Current schedule     
+No seminar during winter break: January 24, 2021 - February 24, 2021
 
-### January 21, 2021, 19:00 (UTC+8): [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/) (University College London)    
-_**On graph norms for complex-valued functions**_    
-[zoom](https://zoom.com.cn/j/61323352932) password 121323   
+Happy Lunar New Year!
 
+## Past talks
+
+### January 21, 2021: [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/) (University College London)    
+_**On graph norms for complex-valued functions**_    [video](https://www.bilibili.com/video/BV1yh411y7Cu) 
+
+<details>
+  <summary>abstract</summary>
+   
 For any given graph $H$, one may define a natural corresponding functional $\|.\|_H$ for real-valued functions by using homomorphism density. One may also extend this to complex-valued functions, once $H$ is paired with a $2$-edge-colouring $\alpha$ to assign conjugates. We say that $H$ is \emph{real-norming} (resp. \emph{complex-norming}) if $\|.\|_H$ (resp. $\|.\|_{H,\alpha}$) is a norm on the vector space of real-valued (resp. complex-valued) functions. These generalise the Gowers octahedral norms, a widely used tool in extremal combinatorics to quantify quasirandomness.
    
 We unify these two seemingly different notions of graph norms in real- and complex-valued settings. Namely, we prove that $H$ is complex-norming if and only if it is real-norming and simply call the property \emph{norming}. Our proof does not explicitly construct a suitable $2$-edge-colouring $\alpha$ but obtains its existence and uniqueness, which may be of independent interest.
@@ -15,8 +22,7 @@ We unify these two seemingly different notions of graph norms in real- and compl
 As an application, we give various example graphs that are not norming. In particular, we show that hypercubes are not norming, which resolves the last outstanding problem posed in Hatami's pioneering work on graph norms.
 
 Joint work with Sasha Sidorenko.
-
-## Past talks
+</details>
 
 ### January 14, 2021: [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/) (University of Warwick) 
 _**A solution to Erdős and Hajnal's odd cycle problem**_    [video](https://www.bilibili.com/video/BV1PV411b7Yt/)  and [slides](./slides/cycle_20210114.pdf)   
