@@ -3,9 +3,12 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
 
 ## Current schedule     
-No seminar during winter break: January 24, 2021 - February 24, 2021
 
-Happy Lunar New Year!
+### March 4, 2021: [Jon Noel](https://www.math.uvic.ca/~noelj/) (University of Victoria)      
+_**Forcing Quasirandomness in Permutations**_      
+[zoom](https://zoom.com.cn/j/8303053077?pwd=NDh4emFuaHpnNXVROERadCtsK1Q1dz09) pw: 121323     
+
+Abstract: A striking result in graph theory is that the property of being quasirandom (i.e. resembling a random graph) can be characterised in several equivalent ways. One way is to say that the number of edges and the number of 4-cycles are both close to what one would expect in a random graph. Král’ and Pikhurko (2013) proved that quasirandom permutations are characterised by the densities of all permutations of length 4. We improve on this result by showing that there is a single expression consisting of a sum of densities of 8 permutations of length 4 whose value forces quasirandomness. Moreover, we characterize all permutation expressions of this type which force quasirandomness. Joint work with Timothy F. N. Chan, Daniel Král’, Yanitsa Pehova, Maryam Sharifzadeh and Jan Volec.
 
 ## Past talks
 
