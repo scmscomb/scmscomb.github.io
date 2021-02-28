@@ -4,7 +4,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### March 4, 2021 14:00 China time (GMT+8): [Jon Noel](https://www.math.uvic.ca/~noelj/) (University of Victoria)      
+### March 4, 2021 14:00 China time (GMT+8): [Jonathan Noel](https://www.math.uvic.ca/~noelj/) (University of Victoria)      
 _**Forcing Quasirandomness in Permutations**_      
 [zoom](https://zoom.com.cn/j/8303053077?pwd=NDh4emFuaHpnNXVROERadCtsK1Q1dz09) pw: 121323     
 
