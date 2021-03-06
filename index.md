@@ -4,13 +4,29 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### March 4, 2021 14:00 China time (GMT+8): [Jonathan Noel](https://www.math.uvic.ca/~noelj/) (University of Victoria)      
-_**Forcing Quasirandomness in Permutations**_      
-[zoom](https://zoom.com.cn/j/8303053077?pwd=NDh4emFuaHpnNXVROERadCtsK1Q1dz09) pw: 121323     
+### March 11, 2021 10:00 China time (GMT+8): [Natasha Morrison](https://www.math.uvic.ca/~nmorrison/) (University of Victoria)   
+_**The Typical Structure of Sets with Small Sumset**_       
+[zoom](https://zoom.com.cn/j/8303053077) pw: 121323      
 
-Abstract: A striking result in graph theory is that the property of being quasirandom (i.e. resembling a random graph) can be characterised in several equivalent ways. One way is to say that the number of edges and the number of 4-cycles are both close to what one would expect in a random graph. Král’ and Pikhurko (2013) proved that quasirandom permutations are characterised by the densities of all permutations of length 4. We improve on this result by showing that there is a single expression consisting of a sum of densities of 8 permutations of length 4 whose value forces quasirandomness. Moreover, we characterize all permutation expressions of this type which force quasirandomness. Joint work with Timothy F. N. Chan, Daniel Král’, Yanitsa Pehova, Maryam Sharifzadeh and Jan Volec.
+One of the central objects of interest in additive combinatorics is the sumset A+B= {a+b:a \in A, b \in B} of two sets A,B of integers.
+
+Our main theorem, which improves results of Green and Morris, and of Mazur, implies that the following holds for every fixed \lambda > 2 and every k>(log n)^4: if \omega goes to infinity as n goes to infinity (arbitrarily slowly), then almost all sets A of [n] with |A| = k and |A + A| < \lambda k are contained in an arithmetic progression of length \lambda k/2 + \omega.
+
+This is joint work with Marcelo Campos, Mauricio Collares, Rob Morris and Victor Souza.
+
 
 ## Past talks
+
+
+### March 4, 2021: [Jonathan Noel](https://www.math.uvic.ca/~noelj/) (University of Victoria)      
+_**Forcing Quasirandomness in Permutations**_      [video](https://www.bilibili.com/video/BV12v411Y7u9)    
+
+
+<details>
+  <summary>abstract</summary>
+  
+A striking result in graph theory is that the property of being quasirandom (i.e. resembling a random graph) can be characterised in several equivalent ways. One way is to say that the number of edges and the number of 4-cycles are both close to what one would expect in a random graph. Král’ and Pikhurko (2013) proved that quasirandom permutations are characterised by the densities of all permutations of length 4. We improve on this result by showing that there is a single expression consisting of a sum of densities of 8 permutations of length 4 whose value forces quasirandomness. Moreover, we characterize all permutation expressions of this type which force quasirandomness. Joint work with Timothy F. N. Chan, Daniel Král’, Yanitsa Pehova, Maryam Sharifzadeh and Jan Volec.
+</details>
 
 ### January 21, 2021: [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/) (University College London)    
 _**On graph norms for complex-valued functions**_    [video](https://www.bilibili.com/video/BV1yh411y7Cu) 
