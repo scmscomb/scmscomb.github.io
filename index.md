@@ -10,7 +10,7 @@ _**The Typical Structure of Sets with Small Sumset**_
 
 One of the central objects of interest in additive combinatorics is the sumset A+B= {a+b:a \in A, b \in B} of two sets A,B of integers.
 
-Our main theorem, which improves results of Green and Morris, and of Mazur, implies that the following holds for every fixed \lambda > 2 and every k>(log n)^4: if \omega goes to infinity as n goes to infinity (arbitrarily slowly), then almost all sets A of [n] with |A| = k and |A + A| < \lambda k are contained in an arithmetic progression of length \lambda k/2 + \omega.
+Our main theorem, which improves results of Green and Morris, and of Mazur, implies that the following holds for every fixed \lambda > 2 and every k>(log n)^4: if \omega goes to infinity as n goes to infinity (arbitrarily slowly), then almost all sets A of \[n\] with |A|=k and |A + A|<lambda k are contained in an arithmetic progression of length \lambda k/2 + \omega.
 
 This is joint work with Marcelo Campos, Mauricio Collares, Rob Morris and Victor Souza.
 
