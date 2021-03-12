@@ -4,18 +4,30 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### March 11, 2021 10:00 China time (GMT+8): [Natasha Morrison](https://www.math.uvic.ca/~nmorrison/) (University of Victoria)   
-_**The Typical Structure of Sets with Small Sumset**_       
-[zoom](https://zoom.com.cn/j/8303053077) pw: 121323      
+### March 18, 2021 13:00 China time (GMT+8): Long-Tu Yuan (ECNU)   
+_**The anti-Ramsey number for paths**_    
+[zoom](https://us02web.zoom.us/j/88580799542) pw: 121323      
+
+A subgraph of an edge-colored graph is rainbow if all of its edges have different
+colors. For a given graph H, the anti-Ramsey number AR(n,H) of H is the maximum
+number of colors in an edge-colored K_n such that K_n does not contain a copy of
+rainbow H. We determine the exactly anti-Ramsey number for paths. This confirms
+a conjecture posed by Erdős, Simonovits and Sós in 1970s.
+
+## Past talks
+
+### March 11, 2021 10:00: [Natasha Morrison](https://www.math.uvic.ca/~nmorrison/) (University of Victoria)   
+_**The Typical Structure of Sets with Small Sumset**_         
+
+<details>
+  <summary>abstract</summary>
 
 One of the central objects of interest in additive combinatorics is the sumset A+B= {a+b:a \in A, b \in B} of two sets A,B of integers.
 
 Our main theorem, which improves results of Green and Morris, and of Mazur, implies that the following holds for every fixed lambda > 2 and every k>(log n)^4: if omega goes to infinity as n goes to infinity (arbitrarily slowly), then almost all sets A of \[n\] with \|A\|=k and \|A + A\|<lambda k are contained in an arithmetic progression of length lambda k/2 + omega.
 
 This is joint work with Marcelo Campos, Mauricio Collares, Rob Morris and Victor Souza.
-
-
-## Past talks
+</details>
 
 
 ### March 4, 2021: [Jonathan Noel](https://www.math.uvic.ca/~noelj/) (University of Victoria)      
