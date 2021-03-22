@@ -4,17 +4,31 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### March 18, 2021 13:00 China time (GMT+8): Long-Tu Yuan (ECNU)   
-_**The anti-Ramsey number for paths**_    
-[zoom](https://us02web.zoom.us/j/88580799542) pw: 121323      
+### March 25, 2021 10:00 China time (GMT+8): [Xizhi Liu](http://homepages.math.uic.edu/~liu/) (University of Illinois at Chicago)   
+_**An approach to strong hypergraph stability**_    
+[zoom](https://zoom.com.cn/j/85813573322?pwd=VUp3RlFkM3R0bzVlbEVsR284bm5qdz09) pw: 121323      
 
+I will talk about a method which provides a unified framework for many stability theorems that have been proved in graph and hypergraph theory.
+Our main result reduces stability for a large class of hypergraph  problems to the simpler question of checking that a  hypergraph H with large minimum degree that omits the forbidden structures is vertex-extendable. This means that if v is a vertex of H and H-v is a subgraph of the extremal configuration(s), then H is also a subgraph of the extremal configuration(s). In many cases vertex-extendability is quite easy to verify.
+Our method always yields an Andrásfai-Erdős-Sós type result, which says if H has large minimum degree, 
+then it must be a subgraph of one of the extremal configurations.
+
+This is joint work with Dhruv Mubayi and Christian Reiher.
+
+## Past talks
+
+### March 18, 2021: Long-Tu Yuan (ECNU)   
+_**The anti-Ramsey number for paths**_     [video](https://www.bilibili.com/video/BV1XV411Y7oN)     
+
+<details>
+  <summary>abstract</summary>
+  
 A subgraph of an edge-colored graph is rainbow if all of its edges have different
 colors. For a given graph H, the anti-Ramsey number AR(n,H) of H is the maximum
 number of colors in an edge-colored K_n such that K_n does not contain a copy of
 rainbow H. We determine the exactly anti-Ramsey number for paths. This confirms
 a conjecture posed by Erdős, Simonovits and Sós in 1970s.
-
-## Past talks
+</details>
 
 ### March 11, 2021 10:00: [Natasha Morrison](https://www.math.uvic.ca/~nmorrison/) (University of Victoria)   
 _**The Typical Structure of Sets with Small Sumset**_         
