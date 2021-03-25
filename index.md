@@ -21,7 +21,6 @@ Our method always yields an Andrásfai-Erdős-Sós type result, which says if H 
 then it must be a subgraph of one of the extremal configurations.
 
 This is joint work with Dhruv Mubayi and Christian Reiher.
-
 </details>
 
 ### March 18, 2021: Long-Tu Yuan (ECNU)   
@@ -87,7 +86,6 @@ In 1981, Erdős and Hajnal asked whether the sum of the reciprocals of the odd c
 In 1984, Erdős asked whether there is some d such that each graph with chromatic number at least d (or perhaps even only average degree at least d) has a cycle whose length is a power of 2. We show that an average degree condition is sufficient for this problem, solving it with methods that apply to a wide range of sequences in addition to the powers of 2.     
 Finally, we use our methods to show that, for every k, there is some d so that every graph with average degree at least d has a subdivision of the complete graph K_k in which each edge is subdivided the same number of times. This confirms a conjecture of Thomassen from 1984.     
 Joint work with Richard Montgomery.
-
 </details>
 
 ### January 7, 2021: [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard University)
