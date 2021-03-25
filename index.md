@@ -4,10 +4,16 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### March 25, 2021 10:00 China time (GMT+8): [Xizhi Liu](http://homepages.math.uic.edu/~liu/) (University of Illinois at Chicago)   
-_**An approach to strong hypergraph stability**_    
-[zoom](https://zoom.com.cn/j/85813573322?pwd=VUp3RlFkM3R0bzVlbEVsR284bm5qdz09) pw: 121323      
 
+
+## Past talks
+
+### March 25, 2021: [Xizhi Liu](http://homepages.math.uic.edu/~liu/) (University of Illinois at Chicago)   
+_**An approach to strong hypergraph stability**_     [slides](./slides/2021/stability_20210325.pdf) 
+
+<details>
+  <summary>abstract</summary>
+  
 I will talk about a method which provides a unified framework for many stability theorems that have been proved in graph and hypergraph theory.
 Our main result reduces stability for a large class of hypergraph  problems to the simpler question of checking that a  hypergraph H with large minimum degree that omits the forbidden structures is vertex-extendable. This means that if v is a vertex of H and H-v is a subgraph of the extremal configuration(s), then H is also a subgraph of the extremal configuration(s). In many cases vertex-extendability is quite easy to verify.
 Our method always yields an Andrásfai-Erdős-Sós type result, which says if H has large minimum degree, 
@@ -15,7 +21,7 @@ then it must be a subgraph of one of the extremal configurations.
 
 This is joint work with Dhruv Mubayi and Christian Reiher.
 
-## Past talks
+</details>
 
 ### March 18, 2021: Long-Tu Yuan (ECNU)   
 _**The anti-Ramsey number for paths**_     [video](https://www.bilibili.com/video/BV1XV411Y7oN)     
