@@ -36,7 +36,7 @@ rainbow H. We determine the exactly anti-Ramsey number for paths. This confirms
 a conjecture posed by Erdős, Simonovits and Sós in 1970s.
 </details>
 
-### March 11, 2021 10:00: [Natasha Morrison](https://www.math.uvic.ca/~nmorrison/) (University of Victoria)   
+### March 11, 2021: [Natasha Morrison](https://www.math.uvic.ca/~nmorrison/) (University of Victoria)   
 _**The Typical Structure of Sets with Small Sumset**_         
 
 <details>
