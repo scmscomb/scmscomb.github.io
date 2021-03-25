@@ -4,6 +4,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
+### April 1, 2021 14:00 China time: [Bundit Laekhanukit](http://itcs.shufe.edu.cn/~blaekh/)
 
 
 ## Past talks
