@@ -10,7 +10,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 ## Past talks
 
 ### March 25, 2021: [Xizhi Liu](http://homepages.math.uic.edu/~liu/) (University of Illinois at Chicago)   
-_**An approach to strong hypergraph stability**_     [slides](./slides/2021/stability_20210325.pdf) 
+_**An approach to strong hypergraph stability**_      [video](https://www.bilibili.com/video/BV1sy4y1t7am),  [slides](./slides/2021/stability_20210325.pdf) 
 
 <details>
   <summary>abstract</summary>
