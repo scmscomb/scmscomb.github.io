@@ -23,6 +23,8 @@ This is a joint work with Zdenek Dvorak and Luke Postle.
 ### April 15, 2021 14:00 China time: [Kenta Ozeki](http://tgt.ynu.ac.jp/ozeki/) (Yokohama National University)
 [zoom](https://zoom.com.cn/j/81009724977) Password: 121323
 
+### April 15, 2021 14:00 China time: Ander Lamaison Vidarte (Masaryk University)
+
 ## Past talks
 
 ### March 25, 2021: [Xizhi Liu](http://homepages.math.uic.edu/~liu/) (University of Illinois at Chicago)   
