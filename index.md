@@ -14,7 +14,11 @@ This is a jointwork with Parinya Chalermsook, Syamantak Das, Yunbum
 Kook, Yang P. Liu, Richard Peng, Mark Sellke and Daniel Vaz.
 
 ### April 8, 2021 10:00 China time: [Bernard Lidický](https://lidicky.name/) (Iowa State University)
-[zoom](https://zoom.com.cn/j/82776887319) Password: 121323
+_**11/4-colorability of subcubic triangle-free graphs**_     
+[zoom](https://zoom.com.cn/j/82776887319) Password: 121323        
+
+We prove that every connected subcubic triangle-free graph except for two exceptional graphs on 14 vertices has fractional chromatic number at most 11/4. 
+This is a joint work with Zdenek Dvorak and Luke Postle.
 
 ### April 15, 2021 14:00 China time: [Kenta Ozeki](http://tgt.ynu.ac.jp/ozeki/) (Yokohama National University)
 [zoom](https://zoom.com.cn/j/81009724977) Password: 121323
