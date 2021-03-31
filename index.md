@@ -23,7 +23,7 @@ This is a joint work with Zdenek Dvorak and Luke Postle.
 ### April 15, 2021, 14:00 (UTC+8): [Kenta Ozeki](http://tgt.ynu.ac.jp/ozeki/) (Yokohama National University)
 [zoom](https://zoom.com.cn/j/81009724977) Password: 121323
 
-### April 22, 2021, 14:00 (UTC+8): Ander Lamaison Vidarte (Masaryk University)
+### April 22, 2021, 14:00 (UTC+8): [Ander Lamaison Vidarte](https://www.muni.cz/en/people/245782-ander-lamaison-vidarte) (Masaryk University)
 
 ### April 29, 2021, 16:00 (UTC+8): [Daniel Kráľ](https://www.ucw.cz/~kral/index.html.en) (Masaryk University)
 
