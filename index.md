@@ -27,6 +27,10 @@ This is a joint work with Zdenek Dvorak and Luke Postle.
 
 ### April 29, 2021, 16:00 (UTC+8): [Daniel Kráľ](https://www.ucw.cz/~kral/index.html.en) (Masaryk University)
 
+### May 6, 2021: [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)
+
+
+
 ## Past talks
 
 ### March 25, 2021: [Xizhi Liu](http://homepages.math.uic.edu/~liu/) (University of Illinois at Chicago)   
