@@ -4,14 +4,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### April 1, 2021, 14:00 (UTC+8): [Bundit Laekhanukit](http://itcs.shufe.edu.cn/~blaekh/) (SUFE)
-_**Vertex Sparsification for Edge Connectivity**_     
-[zoom](https://zoom.com.cn/j/86895506919) Password: 121323
 
-Graph compression or sparsification is a basic information-theoretic and computational question. A major open problem in this research area is whether (1+ϵ)-approximate cut-preserving vertex sparsifiers with size close to the number of terminals exist. As a step towards this goal, we study a thresholded version of the problem: for a given parameter c, find a smaller graph, which we call connectivity-c mimicking network, which preserves connectivity among k terminals exactly up to the value of c. We show that connectivity-c mimicking networks with O(kc^4) edges exist and can be found in time m(clogn)O(c). We also give a separate algorithm that constructs such graphs with k⋅O(c)^{2c} edges in time mc^O(c)polylog(n). These results lead to the first data structures for answering fully dynamic offline c-edge-connectivity queries for c≥4 in polylogarithmic time per query, as well as more efficient algorithms for survivable network design on bounded treewidth graphs.
-
-This is a jointwork with Parinya Chalermsook, Syamantak Das, Yunbum
-Kook, Yang P. Liu, Richard Peng, Mark Sellke and Daniel Vaz.
 
 ### April 8, 2021, 10:00 (UTC+8): [Bernard Lidický](https://lidicky.name/) (Iowa State University)
 _**11/4-colorability of subcubic triangle-free graphs**_     
@@ -32,6 +25,18 @@ This is a joint work with Zdenek Dvorak and Luke Postle.
 
 
 ## Past talks
+
+### April 1, 2021: [Bundit Laekhanukit](http://itcs.shufe.edu.cn/~blaekh/) (SUFE)
+_**Vertex Sparsification for Edge Connectivity**_      [video](https://www.bilibili.com/video/BV1P5411A7KA) 
+
+<details>
+  <summary>abstract</summary>
+  
+Graph compression or sparsification is a basic information-theoretic and computational question. A major open problem in this research area is whether (1+ϵ)-approximate cut-preserving vertex sparsifiers with size close to the number of terminals exist. As a step towards this goal, we study a thresholded version of the problem: for a given parameter c, find a smaller graph, which we call connectivity-c mimicking network, which preserves connectivity among k terminals exactly up to the value of c. We show that connectivity-c mimicking networks with O(kc^4) edges exist and can be found in time m(clogn)O(c). We also give a separate algorithm that constructs such graphs with k⋅O(c)^{2c} edges in time mc^O(c)polylog(n). These results lead to the first data structures for answering fully dynamic offline c-edge-connectivity queries for c≥4 in polylogarithmic time per query, as well as more efficient algorithms for survivable network design on bounded treewidth graphs.
+
+This is a jointwork with Parinya Chalermsook, Syamantak Das, Yunbum
+Kook, Yang P. Liu, Richard Peng, Mark Sellke and Daniel Vaz.
+</details>
 
 ### March 25, 2021: [Xizhi Liu](http://homepages.math.uic.edu/~liu/) (University of Illinois at Chicago)   
 _**An approach to strong hypergraph stability**_      [video](https://www.bilibili.com/video/BV1sy4y1t7am),  [slides](./slides/2021/stability_20210325.pdf) 
