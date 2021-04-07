@@ -17,11 +17,13 @@ This is a joint work with Zdenek Dvorak and Luke Postle.
 [zoom](https://zoom.com.cn/j/81009724977) Password: 121323
 
 ### April 22, 2021, 14:00 (UTC+8): [Ander Lamaison Vidarte](https://www.muni.cz/en/people/245782-ander-lamaison-vidarte) (Masaryk University)
+[zoom](https://zoom.com.cn/j/86764107277) Password: 121323      
 
 ### April 29, 2021, 16:00 (UTC+8): [Daniel Kráľ](https://www.ucw.cz/~kral/index.html.en) (Masaryk University)
+[zoom](https://zoom.com.cn/j/88005706580) Password: 121323      
 
 ### May 6, 2021: [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)
-
+[zoom](https://zoom.com.cn/j/82751375383) Password: 121323        
 
 
 ## Past talks
