@@ -4,15 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-
-
-### April 8, 2021, 10:00 (UTC+8): [Bernard Lidický](https://lidicky.name/) (Iowa State University)
-_**11/4-colorability of subcubic triangle-free graphs**_     
-[zoom](https://zoom.com.cn/j/82776887319) Password: 121323        
-
-We prove that every connected subcubic triangle-free graph except for two exceptional graphs on 14 vertices has fractional chromatic number at most 11/4. 
-This is a joint work with Zdenek Dvorak and Luke Postle.
-
 ### April 15, 2021, 14:00 (UTC+8): [Kenta Ozeki](http://tgt.ynu.ac.jp/ozeki/) (Yokohama National University)
 [zoom](https://zoom.com.cn/j/81009724977) Password: 121323
 
@@ -27,6 +18,17 @@ This is a joint work with Zdenek Dvorak and Luke Postle.
 
 
 ## Past talks
+
+
+### April 8, 2021: [Bernard Lidický](https://lidicky.name/) (Iowa State University)
+_**11/4-colorability of subcubic triangle-free graphs**_     [video](https://www.bilibili.com/video/BV1n64y1m7Qw)     
+
+<details>
+  <summary>abstract</summary>
+  
+We prove that every connected subcubic triangle-free graph except for two exceptional graphs on 14 vertices has fractional chromatic number at most 11/4. 
+This is a joint work with Zdenek Dvorak and Luke Postle.
+</details>
 
 ### April 1, 2021: [Bundit Laekhanukit](http://itcs.shufe.edu.cn/~blaekh/) (SUFE)
 _**Vertex Sparsification for Edge Connectivity**_      [video](https://www.bilibili.com/video/BV1P5411A7KA) and [slides](./slides/2021/C_Mimicking_Network_20210401.pdf)      
