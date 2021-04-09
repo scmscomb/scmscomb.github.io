@@ -4,8 +4,16 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### April 15, 2021, 14:00 (UTC+8): [Kenta Ozeki](http://tgt.ynu.ac.jp/ozeki/) (Yokohama National University)
-[zoom](https://zoom.com.cn/j/81009724977) Password: 121323
+### April 15, 2021, 14:00 (UTC+8): [Kenta Ozeki](http://tgt.ynu.ac.jp/ozeki/) (Yokohama National University)      
+_**A survey on Hamiltonicity of graphs on surfaces**_     
+[zoom](https://zoom.com.cn/j/81009724977) Password: 121323     
+
+Since Whiteny proved that every 4-connected plane triangulation contains a Hamiltonian cycle, Hamiltonicity of graphs on surfaces has been widely studied.
+In this talk, we give a survey on the topic from the view of toughness and scattering number of graphs.
+We also introduce recent works.
+
+
+
 
 ### April 22, 2021, 14:00 (UTC+8): [Ander Lamaison Vidarte](https://www.muni.cz/en/people/245782-ander-lamaison-vidarte) (Masaryk University)
 [zoom](https://zoom.com.cn/j/86764107277) Password: 121323      
