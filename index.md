@@ -12,18 +12,37 @@ Since Whiteny proved that every 4-connected plane triangulation contains a Hamil
 In this talk, we give a survey on the topic from the view of toughness and scattering number of graphs.
 We also introduce recent works.
 
-
-
-
 ### April 22, 2021, 14:00 (UTC+8): [Ander Lamaison Vidarte](https://www.muni.cz/en/people/245782-ander-lamaison-vidarte) (Masaryk University)
 [zoom](https://zoom.com.cn/j/86764107277) Password: 121323      
 
 ### April 29, 2021, 16:00 (UTC+8): [Daniel Kráľ](https://www.ucw.cz/~kral/index.html.en) (Masaryk University)
 [zoom](https://zoom.com.cn/j/88005706580) Password: 121323      
 
-### May 6, 2021: [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)
+### May 6, 2021, 10:00 (UTC+8): [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)
 [zoom](https://zoom.com.cn/j/82751375383) Password: 121323        
 
+
+### May 13, 2021, 14:00 (UTC+8): [Yijia Chen](https://basics.sjtu.edu.cn/~chen/) (Shanghai Jiaotong University)
+
+_**Lovász meets Łoś and Tarski - understanding forbidden induced subgraphs by model theory**_     
+[zoom](https://zoom.com.cn/j/85487430704)  Password: 121323     
+
+The following result is attributed to Lovász.
+
+For every k\ge 1, there are graphs F_1, \ldots, F_{m_k} such that
+a graph G has a vertex cover of size at most k if and only if G has
+no (induced) subgraph isomorphic to any F_i.
+
+In this talk I will explain a proof of the above result using the Łoś-Tarski
+Theorem from model theory, and discuss its extensions to other graph
+properties/classes, e.g., graphs of bounded tree-depth and graphs of 
+bounded shrub-depth.
+
+A simple yet vital step of our logic proof is to go from finite graphs
+to infinite graphs, without which, we show that the Łoś-Tarski Theorem
+fails on finite graphs. 
+
+This is joint work with Jörg Flum.
 
 ## Past talks
 
