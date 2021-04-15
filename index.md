@@ -16,7 +16,27 @@ We also introduce recent works.
 [zoom](https://zoom.com.cn/j/86764107277) Password: 121323      
 
 ### April 29, 2021, 16:00 (UTC+8): [Daniel Kráľ](https://www.ucw.cz/~kral/index.html.en) (Masaryk University)
+_**Quasirandom combinatorial structures**_     
 [zoom](https://zoom.com.cn/j/88005706580) Password: 121323      
+
+A combinatorial structure is said to be quasirandom if it resembles a random
+structure in a certain robust sense. The notion of quasirandom graphs,
+developed in the work of Rödl, Thomason, Chung, Graham and Wilson in 1980s,
+is particularly robust as several different properties of truly random graphs,
+e.g., subgraph density, edge distribution and spectral properties, are satisfied
+by a large graph if and only if one of them is.
+
+We will discuss quasirandom properties of other combinatorial structures,
+tournaments, permutations and Latin squares in particular, and present several
+recent results obtained using analytic tools of the theory of combinatorial limits.
+
+The talk is based on results obtained with different groups of collaborators,
+including Timothy F. N. Chan, Jacob W. Cooper, Robert Hancock, Adam Kabela,
+Ander Lamaison, Taísa Martins, Roberto Parente, Samuel Mohr, Jonathan A. Noel,
+Yanitsa Pehova, Oleg Pikhurko, Maryam Sharifzadeh, Fiona Skerman and Jan Volec.
+
+
+
 
 ### May 6, 2021, 10:00 (UTC+8): [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)
 [zoom](https://zoom.com.cn/j/82751375383) Password: 121323        
