@@ -56,8 +56,7 @@ This is joint work with Jörg Flum.
 ## Past talks
 
 ### April 22, 2021: [Ander Lamaison Vidarte](https://www.muni.cz/en/people/245782-ander-lamaison-vidarte) (Masaryk University)
-_**Ramsey upper density of infinite graphs**_     
-[video](https://www.bilibili.com/video/BV16Q4y1Z7YV)
+_**Ramsey upper density of infinite graphs**_     [video](https://www.bilibili.com/video/BV16Q4y1Z7YV)
 
 <details>
   <summary>abstract</summary>
