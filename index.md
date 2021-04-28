@@ -4,21 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-
-
-### April 22, 2021, 14:00 (UTC+8): [Ander Lamaison Vidarte](https://www.muni.cz/en/people/245782-ander-lamaison-vidarte) (Masaryk University)
-_**Ramsey upper density of infinite graphs**_     
-[zoom](https://zoom.com.cn/j/86764107277) Password: 121323      
-
-Let H be an infinite graph. In a two-coloring of the edges of the complete
-graph on the natural numbers, what is the densest monochromatic subgraph
-isomorphic to H that we are guaranteed to find? We measure the density of a
-subgraph by the upper density of its vertex set. This question, in the
-particular case of the infinite path, was introduced by Erdős and Galvin.
-Following a recent result for the infinite path, we present bounds on the
-maximum density for other choices of H, including exact values for wide classes
-of bipartite graphs and infinite factors.
-
 ### April 29, 2021, 16:00 (UTC+8): [Daniel Kráľ](https://www.ucw.cz/~kral/index.html.en) (Masaryk University)
 _**Quasirandom combinatorial structures**_     
 [zoom](https://zoom.com.cn/j/88005706580) Password: 121323      
@@ -69,6 +54,23 @@ fails on finite graphs.
 This is joint work with Jörg Flum.
 
 ## Past talks
+
+### April 22, 2021: [Ander Lamaison Vidarte](https://www.muni.cz/en/people/245782-ander-lamaison-vidarte) (Masaryk University)
+_**Ramsey upper density of infinite graphs**_     
+[video](https://www.bilibili.com/video/BV16Q4y1Z7YV)
+
+<details>
+  <summary>abstract</summary>
+  
+Let H be an infinite graph. In a two-coloring of the edges of the complete
+graph on the natural numbers, what is the densest monochromatic subgraph
+isomorphic to H that we are guaranteed to find? We measure the density of a
+subgraph by the upper density of its vertex set. This question, in the
+particular case of the infinite path, was introduced by Erdős and Galvin.
+Following a recent result for the infinite path, we present bounds on the
+maximum density for other choices of H, including exact values for wide classes
+of bipartite graphs and infinite factors.
+</details>
 
 ### April 15, 2021: [Kenta Ozeki](http://tgt.ynu.ac.jp/ozeki/) (Yokohama National University)      
 _**A survey on Hamiltonicity of graphs on surfaces**_     [video](https://www.bilibili.com/video/BV1iK411F7Hy) 
