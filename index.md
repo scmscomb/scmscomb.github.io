@@ -27,12 +27,14 @@ Yanitsa Pehova, Oleg Pikhurko, Maryam Sharifzadeh, Fiona Skerman and Jan Volec.
 
 
 
-### May 6, 2021, 10:00 (UTC+8): [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)
-[zoom](https://zoom.com.cn/j/82751375383) Password: 121323        
+### May 6, 2021, 10:00 (UTC+8): [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)     
+_**Point-box incidences and logarithmic density of semilinear graphs**_       
+[zoom](https://zoom.com.cn/j/82751375383) Password: 121323     
+
+Zarankiewicz’s problem in graph theory asks to determine for each n and k the largest possible number of edges |E| in a  K_{k,k}-free bipartite graph G = (V_1, V_2; E) with |V_1|+|V_2|=n. Semialgebraic graphs enjoy stronger bounds than the usual Kovari-Sos-Turan bounds for general graphs, providing an abstract setting for the Szemerédi-Trotter theorem and related incidence bounds. We obtain even stronger bounds for semilinear graphs, demonstrate that these are close to being optimal, and apply them to show that the number of incidences between points and boxes with axis parallel sides on the plane whose incidence graph is K_{k,k}-free is almost linear. I will also discuss how these results are related to the notion of modularity in model theory. (Joint with Abdul Basit, Artem Chernikov, Sergei Starchenko, and Terence Tao).
 
 
-### May 13, 2021, 14:00 (UTC+8): [Yijia Chen](https://basics.sjtu.edu.cn/~chen/) (Shanghai Jiaotong University)
-
+### May 13, 2021, 14:00 (UTC+8): [Yijia Chen](https://basics.sjtu.edu.cn/~chen/) (Shanghai Jiaotong University)      
 _**Lovász meets Łoś and Tarski - understanding forbidden induced subgraphs by model theory**_     
 [zoom](https://zoom.com.cn/j/85487430704)  Password: 121323     
 
