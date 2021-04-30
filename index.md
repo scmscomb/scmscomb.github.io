@@ -35,7 +35,7 @@ This is joint work with Jörg Flum.
 ## Past talks
 
 ### April 29, 2021: [Daniel Kráľ](https://www.ucw.cz/~kral/index.html.en) (Masaryk University)
-_**Quasirandom combinatorial structures**_     [video](https://www.bilibili.com/video/BV1GK4y1N7JV)  
+_**Quasirandom combinatorial structures**_     [video](https://www.bilibili.com/video/BV1GK4y1N7JV)  and [slides](./slides/2021/quasirandom_20210429.pdf)     
 
 <details>
   <summary>abstract</summary>
@@ -60,7 +60,7 @@ Yanitsa Pehova, Oleg Pikhurko, Maryam Sharifzadeh, Fiona Skerman and Jan Volec.
 
 
 ### April 22, 2021: [Ander Lamaison Vidarte](https://www.muni.cz/en/people/245782-ander-lamaison-vidarte) (Masaryk University)
-_**Ramsey upper density of infinite graphs**_     [video](https://www.bilibili.com/video/BV16Q4y1Z7YV)
+_**Ramsey upper density of infinite graphs**_     [video](https://www.bilibili.com/video/BV16Q4y1Z7YV) and [slides](./slides/2021/ramsey_20210422.pdf)     
 
 <details>
   <summary>abstract</summary>
