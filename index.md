@@ -4,29 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### April 29, 2021, 16:00 (UTC+8): [Daniel Kráľ](https://www.ucw.cz/~kral/index.html.en) (Masaryk University)
-_**Quasirandom combinatorial structures**_     
-[zoom](https://zoom.com.cn/j/88005706580) Password: 121323      
-
-A combinatorial structure is said to be quasirandom if it resembles a random
-structure in a certain robust sense. The notion of quasirandom graphs,
-developed in the work of Rödl, Thomason, Chung, Graham and Wilson in 1980s,
-is particularly robust as several different properties of truly random graphs,
-e.g., subgraph density, edge distribution and spectral properties, are satisfied
-by a large graph if and only if one of them is.
-
-We will discuss quasirandom properties of other combinatorial structures,
-tournaments, permutations and Latin squares in particular, and present several
-recent results obtained using analytic tools of the theory of combinatorial limits.
-
-The talk is based on results obtained with different groups of collaborators,
-including Timothy F. N. Chan, Jacob W. Cooper, Robert Hancock, Adam Kabela,
-Ander Lamaison, Taísa Martins, Roberto Parente, Samuel Mohr, Jonathan A. Noel,
-Yanitsa Pehova, Oleg Pikhurko, Maryam Sharifzadeh, Fiona Skerman and Jan Volec.
-
-
-
-
 ### May 6, 2021, 10:00 (UTC+8): [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)     
 _**Point-box incidences and logarithmic density of semilinear graphs**_       
 [zoom](https://zoom.com.cn/j/82751375383) Password: 121323     
@@ -56,6 +33,31 @@ fails on finite graphs.
 This is joint work with Jörg Flum.
 
 ## Past talks
+
+### April 29, 2021: [Daniel Kráľ](https://www.ucw.cz/~kral/index.html.en) (Masaryk University)
+_**Quasirandom combinatorial structures**_     [video](https://www.bilibili.com/video/BV1GK4y1N7JV)  
+
+<details>
+  <summary>abstract</summary>
+  
+A combinatorial structure is said to be quasirandom if it resembles a random
+structure in a certain robust sense. The notion of quasirandom graphs,
+developed in the work of Rödl, Thomason, Chung, Graham and Wilson in 1980s,
+is particularly robust as several different properties of truly random graphs,
+e.g., subgraph density, edge distribution and spectral properties, are satisfied
+by a large graph if and only if one of them is.
+
+We will discuss quasirandom properties of other combinatorial structures,
+tournaments, permutations and Latin squares in particular, and present several
+recent results obtained using analytic tools of the theory of combinatorial limits.
+
+The talk is based on results obtained with different groups of collaborators,
+including Timothy F. N. Chan, Jacob W. Cooper, Robert Hancock, Adam Kabela,
+Ander Lamaison, Taísa Martins, Roberto Parente, Samuel Mohr, Jonathan A. Noel,
+Yanitsa Pehova, Oleg Pikhurko, Maryam Sharifzadeh, Fiona Skerman and Jan Volec.
+</details>
+
+
 
 ### April 22, 2021: [Ander Lamaison Vidarte](https://www.muni.cz/en/people/245782-ander-lamaison-vidarte) (Masaryk University)
 _**Ramsey upper density of infinite graphs**_     [video](https://www.bilibili.com/video/BV16Q4y1Z7YV)
