@@ -25,6 +25,18 @@ fails on finite graphs.
 
 This is joint work with Jörg Flum.
 
+### May 20, 2021, 10:00 (UTC+8): [Lutz Warnke](http://people.math.gatech.edu/~lwarnke3/) (Georgia Institute of Technology)      
+_**Prague dimension of random graphs**_  
+
+The Prague dimension of graphs was introduced by Nesetril, Pultr and Rodl in the 1970s: as a combinatorial measure of complexity, it is closely related to clique edges coverings and partitions.
+Proving a conjecture of Furedi and Kantor, we show that the Prague dimension of the binomial random graph is typically of order n/(log n) for constant edge-probabilities. 
+The main new proof ingredient is a Pippenger-Spencer type edge-coloring result for random hypergraphs with large uniformities, i.e., edges of size O(log n). 
+
+Based on joint work with He Guo and Kalen Patton, see https://arxiv.org/abs/2011.09459
+
+
+
+
 ### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)      
 _**On coloring of graphs of girth 2l+1 without longer odd holes**_     
 
