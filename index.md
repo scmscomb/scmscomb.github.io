@@ -34,6 +34,8 @@ The main new proof ingredient is a Pippenger-Spencer type edge-coloring result f
 
 Based on joint work with He Guo and Kalen Patton, see https://arxiv.org/abs/2011.09459
 
+### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)      
+
 
 
 
