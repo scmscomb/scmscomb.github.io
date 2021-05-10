@@ -34,17 +34,12 @@ The main new proof ingredient is a Pippenger-Spencer type edge-coloring result f
 
 Based on joint work with He Guo and Kalen Patton, see https://arxiv.org/abs/2011.09459
 
-### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)      
-
-
-
-
 ### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)      
 _**On coloring of graphs of girth 2l+1 without longer odd holes**_     
 
 Abstract: A hole is an induced cycle of length at least 4. Let l≥2 be a positive integer, let \mathcal{G}_l denote the family of graphs which have girth 2l+1 and have no holes of odd length at least 2l+3, and let G ∈ \mathcal{G}_l.  For a vertex u ∈ V(G) and a nonempty set S ⊆ V(G),  let d(u, S) = min{d(u, v) : v∈S}, and let L_i(S)={u∈V(G) and d(u, S)=i} for any  integer i≥0. We show that if G[S] is connected and G[L_i(S)] is bipartite for each i∈{1,..., l-1}, then G[L_i(S)] is bipartite for each i>0, and consequently χ(G)≤4, where G[S]  denotes the subgraph induced by S. For a graph G∈ \mathcal{G}_2, we show that χ(G)≤3 if G induces no two cycles of length 5 sharing edges. Let θ+ be the graph obtained from the Petersen graph by removing two adjacent vertices. We show that if G ∈ \mathcal{G}_2 is 3-connected and has no unstable 3-cutset, then G does not induce θ+. As a corollary, minimal non-3-colorable graphs of \mathcal{G}_2 induce no θ+.  This is a joint work with Di Wu and Yian Xu. 
 
-
+### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 
 
 ## Past talks
