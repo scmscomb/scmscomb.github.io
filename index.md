@@ -4,27 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### May 13, 2021, 14:00 (UTC+8): [Yijia Chen](https://basics.sjtu.edu.cn/~chen/) (Shanghai Jiaotong University)      
-_**Lovász meets Łoś and Tarski - understanding forbidden induced subgraphs by model theory**_     
-[zoom](https://zoom.com.cn/j/85487430704)  Password: 121323     
-
-The following result is attributed to Lovász.
-
-For every k\ge 1, there are graphs F_1, \ldots, F_{m_k} such that
-a graph G has a vertex cover of size at most k if and only if G has
-no (induced) subgraph isomorphic to any F_i.
-
-In this talk I will explain a proof of the above result using the Łoś-Tarski
-Theorem from model theory, and discuss its extensions to other graph
-properties/classes, e.g., graphs of bounded tree-depth and graphs of 
-bounded shrub-depth.
-
-A simple yet vital step of our logic proof is to go from finite graphs
-to infinite graphs, without which, we show that the Łoś-Tarski Theorem
-fails on finite graphs. 
-
-This is joint work with Jörg Flum.
-
 ### May 20, 2021, 10:00 (UTC+8): [Lutz Warnke](http://people.math.gatech.edu/~lwarnke3/) (Georgia Institute of Technology)      
 _**Prague dimension of random graphs**_  
 
@@ -43,6 +22,26 @@ Abstract: A hole is an induced cycle of length at least 4. Let l&ge;2 be a posit
 
 
 ## Past talks
+
+### May 13, 2021: [Yijia Chen](https://basics.sjtu.edu.cn/~chen/) (Shanghai Jiaotong University)      
+_**Lovász meets Łoś and Tarski - understanding forbidden induced subgraphs by model theory**_     [video](https://www.bilibili.com/video/BV1cQ4y1o7mv/) and [slides](./slides/2021/model_20210514.pdf)     
+
+The following result is attributed to Lovász.
+
+For every k\ge 1, there are graphs F_1, \ldots, F_{m_k} such that
+a graph G has a vertex cover of size at most k if and only if G has
+no (induced) subgraph isomorphic to any F_i.
+
+In this talk I will explain a proof of the above result using the Łoś-Tarski
+Theorem from model theory, and discuss its extensions to other graph
+properties/classes, e.g., graphs of bounded tree-depth and graphs of 
+bounded shrub-depth.
+
+A simple yet vital step of our logic proof is to go from finite graphs
+to infinite graphs, without which, we show that the Łoś-Tarski Theorem
+fails on finite graphs. 
+
+This is joint work with Jörg Flum.
 
 ### May 6, 2021: [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)     
 _**Point-box incidences and logarithmic density of semilinear graphs**_       [video](https://www.bilibili.com/video/BV1W541137dC/3)      
