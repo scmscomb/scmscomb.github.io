@@ -6,6 +6,7 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ### May 20, 2021, 10:00 (UTC+8): [Lutz Warnke](http://people.math.gatech.edu/~lwarnke3/) (Georgia Institute of Technology)      
 _**Prague dimension of random graphs**_  
+[zoom](https://zoom.com.cn/j/82202672454) pw: 121323
 
 The Prague dimension of graphs was introduced by Nesetril, Pultr and Rodl in the 1970s: as a combinatorial measure of complexity, it is closely related to clique edges coverings and partitions.
 Proving a conjecture of Furedi and Kantor, we show that the Prague dimension of the binomial random graph is typically of order n/(log n) for constant edge-probabilities. 
