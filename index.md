@@ -14,6 +14,12 @@ The main new proof ingredient is a Pippenger-Spencer type edge-coloring result f
 
 Based on joint work with He Guo and Kalen Patton, see https://arxiv.org/abs/2011.09459
 
+### May 27, 2021, 14:00 (UTC+8): [Huiqiu Lin](https://science.ecust.edu.cn/2017/0623/c5567a66379/page.htm) (ECUST)     
+_**On sum of powers of graph eigenvalues: problems and progress**_     
+[zoom](https://zoom.com.cn/j/83919899837) pw: 121323      
+
+Abstract: In this talk, we will introduce some open problems and conjectures in the spectral graph theory, such as the Bollob\'as-Nikiforov's conjecture, the Brouwer's conjecture and the sum of squares of positive eigenvalues problem. In addition, progress will also be introduced.
+
 ### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)      
 _**On coloring of graphs of girth 2l+1 without longer odd holes**_     
 
