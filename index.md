@@ -22,9 +22,8 @@ Abstract: A hole is an induced cycle of length at least 4. Let l&ge;2 be a posit
 ## Past talks
 
 
-### May 20, 2021, 10:00 (UTC+8): [Lutz Warnke](http://people.math.gatech.edu/~lwarnke3/) (Georgia Institute of Technology)      
+### May 20, 2021: [Lutz Warnke](http://people.math.gatech.edu/~lwarnke3/) (Georgia Institute of Technology)      
 _**Prague dimension of random graphs**_  [video](https://www.bilibili.com/video/BV1vB4y1F7Ys/) and [slides](http://people.math.gatech.edu/~lwarnke3/PragueDimensionTalk.pdf)      
-
 <details>
   <summary>abstract</summary>
 The Prague dimension of graphs was introduced by Nesetril, Pultr and Rodl in the 1970s: as a combinatorial measure of complexity, it is closely related to clique edges coverings and partitions.
