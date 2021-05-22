@@ -4,15 +4,6 @@ You may also check our seminar schedule through [researchseminars.org](https://r
 
 ## Current schedule     
 
-### May 20, 2021, 10:00 (UTC+8): [Lutz Warnke](http://people.math.gatech.edu/~lwarnke3/) (Georgia Institute of Technology)      
-_**Prague dimension of random graphs**_  
-[zoom](https://zoom.com.cn/j/82202672454) pw: 121323
-
-The Prague dimension of graphs was introduced by Nesetril, Pultr and Rodl in the 1970s: as a combinatorial measure of complexity, it is closely related to clique edges coverings and partitions.
-Proving a conjecture of Furedi and Kantor, we show that the Prague dimension of the binomial random graph is typically of order n/(log n) for constant edge-probabilities. 
-The main new proof ingredient is a Pippenger-Spencer type edge-coloring result for random hypergraphs with large uniformities, i.e., edges of size O(log n). 
-
-Based on joint work with He Guo and Kalen Patton, see https://arxiv.org/abs/2011.09459
 
 ### May 27, 2021, 14:00 (UTC+8): [Huiqiu Lin](https://science.ecust.edu.cn/2017/0623/c5567a66379/page.htm) (ECUST)     
 _**On sum of powers of graph eigenvalues: problems and progress**_     
@@ -30,9 +21,25 @@ Abstract: A hole is an induced cycle of length at least 4. Let l&ge;2 be a posit
 
 ## Past talks
 
+
+### May 20, 2021, 10:00 (UTC+8): [Lutz Warnke](http://people.math.gatech.edu/~lwarnke3/) (Georgia Institute of Technology)      
+_**Prague dimension of random graphs**_  [video](https://www.bilibili.com/video/BV1vB4y1F7Ys/) and [slides](http://people.math.gatech.edu/~lwarnke3/PragueDimensionTalk.pdf)      
+
+<details>
+  <summary>abstract</summary>
+The Prague dimension of graphs was introduced by Nesetril, Pultr and Rodl in the 1970s: as a combinatorial measure of complexity, it is closely related to clique edges coverings and partitions.
+Proving a conjecture of Furedi and Kantor, we show that the Prague dimension of the binomial random graph is typically of order n/(log n) for constant edge-probabilities. 
+The main new proof ingredient is a Pippenger-Spencer type edge-coloring result for random hypergraphs with large uniformities, i.e., edges of size O(log n). 
+
+Based on joint work with He Guo and Kalen Patton, see https://arxiv.org/abs/2011.09459
+</details>
+
 ### May 13, 2021: [Yijia Chen](https://basics.sjtu.edu.cn/~chen/) (Shanghai Jiaotong University)      
 _**Lovász meets Łoś and Tarski - understanding forbidden induced subgraphs by model theory**_     [video](https://www.bilibili.com/video/BV1cQ4y1o7mv/) and [slides](./slides/2021/model_20210514.pdf)     
 
+<details>
+  <summary>abstract</summary>
+  
 The following result is attributed to Lovász.
 
 For every k\ge 1, there are graphs F_1, \ldots, F_{m_k} such that
@@ -49,6 +56,7 @@ to infinite graphs, without which, we show that the Łoś-Tarski Theorem
 fails on finite graphs. 
 
 This is joint work with Jörg Flum.
+</details>
 
 ### May 6, 2021: [Chieu-Minh Tran](https://sites.nd.edu/cmtran/) (University of Notre Dame)     
 _**Point-box incidences and logarithmic density of semilinear graphs**_       [video](https://www.bilibili.com/video/BV1W541137dC/3)      
