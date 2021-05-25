@@ -11,6 +11,9 @@ _**On sum of powers of graph eigenvalues: problems and progress**_
 
 Abstract: In this talk, we will introduce some open problems and conjectures in the spectral graph theory, such as the Bollob\'as-Nikiforov's conjecture, the Brouwer's conjecture and the sum of squares of positive eigenvalues problem. In addition, progress will also be introduced.
 
+### June 3, 2021, 10:00 (UTC+8): [Xiaofan Yuan](https://people.math.gatech.edu/~xyuan62/) (Georgia Tech)      
+[zoom](https://zoom.com.cn/j/89160980267) pw: 121323      
+
 ### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)      
 _**On coloring of graphs of girth 2l+1 without longer odd holes**_     
 
