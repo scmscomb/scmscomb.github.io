@@ -1,6 +1,7 @@
 This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)), Qiqin Xie ([SCMS](http://www.scms.fudan.edu.cn/)) and [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)).
 
-You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb).
+<!-- You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb). --> 
+
 
 ## Current schedule     
 
