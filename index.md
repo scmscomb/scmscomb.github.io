@@ -1,5 +1,7 @@
 This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)), Qiqin Xie ([SCMS](http://www.scms.fudan.edu.cn/)) and [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)).
 
+An international [_**Round the World Relay in Combinatorics**_](http://people.maths.ox.ac.uk/scott/relay.htm) organized by [Alex Scott](http://people.maths.ox.ac.uk/scott/) will take place on Tuesday June 8, 2021.  There will be 22 seminars, hosted by different groups around the world. And we join this event! Our speaker is Professor [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) from Nanjing Normal University. And we won't have seminar on Thursday June 10, 2021.
+
 <!-- You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb). --> 
 
 
@@ -15,8 +17,9 @@ Abstract: In this talk, we will introduce some open problems and conjectures in 
 ### June 3, 2021, 10:00 (UTC+8): [Xiaofan Yuan](https://people.math.gatech.edu/~xyuan62/) (Georgia Tech)      
 [zoom](https://zoom.com.cn/j/89160980267) pw: 121323      
 
-### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)      
-_**On coloring of graphs of girth 2l+1 without longer odd holes**_     
+### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)    
+_**On coloring of graphs of girth 2l+1 without longer odd holes**_      
+[Round the World Relay in Combinatorics](http://people.maths.ox.ac.uk/scott/relay.htm)     
 
 Abstract: A hole is an induced cycle of length at least 4. Let l&ge;2 be a positive integer, let &Gcirc;<sub>l</sub> denote the family of graphs which have girth 2l+1 and have no holes of odd length at least 2l+3, and let G &isin; &Gcirc;<sub>l</sub>.  For a vertex u &isin; V(G) and a nonempty set S &sube; V(G), let d(u,S) = min{d(u,v) : v&isin;S}, and let L<sub>i</sub>(S)={u&isin;V(G) and d(u,S)=i} for any  integer i&ge;0. We show that if G[S] is connected and G[L<sub>i</sub>(S)] is bipartite for each i&isin;{1,…,l-1}, then G[L<sub>i</sub>(S)] is bipartite for each i&gt;0, and consequently χ(G)&le;4, where G[S]  denotes the subgraph induced by S. For a graph G&isin; &Gcirc;<sub>2</sub>, we show that &chi;(G)&le;3 if G induces no two cycles of length 5 sharing edges. Let &theta;<sup>+</sup> be the graph obtained from the Petersen graph by removing two adjacent vertices. We show that if G &isin; &Gcirc;<sub>2</sub> is 3-connected and has no unstable 3-cutset, then G does not induce &theta;<sup>+</sup>. As a corollary, minimal non-3-colorable graphs of &Gcirc;<sub>2</sub> induce no &theta;<sup>+</sup>.  This is a joint work with Di Wu and Yian Xu.
 
