@@ -7,7 +7,6 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-
 ### May 27, 2021, 14:00 (UTC+8): [Huiqiu Lin](https://science.ecust.edu.cn/2017/0623/c5567a66379/page.htm) (ECUST)     
 _**On sum of powers of graph eigenvalues: problems and progress**_     
 [zoom](https://zoom.com.cn/j/83919899837) pw: 121323      
@@ -15,7 +14,14 @@ _**On sum of powers of graph eigenvalues: problems and progress**_
 Abstract: In this talk, we will introduce some open problems and conjectures in the spectral graph theory, such as the Bollob\'as-Nikiforov's conjecture, the Brouwer's conjecture and the sum of squares of positive eigenvalues problem. In addition, progress will also be introduced.
 
 ### June 3, 2021, 10:00 (UTC+8): [Xiaofan Yuan](https://people.math.gatech.edu/~xyuan62/) (Georgia Tech)      
-[zoom](https://zoom.com.cn/j/89160980267) pw: 121323      
+_**Rainbow matchings for 3-unifrom hypergraphs**_     
+[zoom](https://zoom.com.cn/j/89160980267) pw: 121323    
+
+Abstract:
+Kuhn, Osthus and Treglown  and, independently,  Khan proved that if H is a 3-uniform hypergraph with n vertices such that n &isin; 3\Z and large, and the minimum vertex degree of H is greater than {n-1\choose 2}-{2n/3\choose 2}, then H contains a perfect matching. 
+Huang, Loh, and Sudakov showed that if, for 1&le; i&le; t, where t<n/(3k^2), F_i &sube; {[n]\choose k} and |F_i|>\binom{n}{k}-\binom{n-t+1}{k}, then {F_1,...,F_t} admits a rainbow matching.
+We show that for n &isin; 3\Z sufficiently large, if, for i&isin; {1, ..., n/3}, ${F}_i@sube; {[n]\choose 3} and \delta_1({F}_i)>{n-1\choose 2}-{2n/3\choose 2}, then {F_1,..., F_{n/3}} admits a rainbow matching. 
+This is joint work with Hongliang Lu and Xingxing Yu.
 
 ### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)    
 _**On coloring of graphs of girth 2l+1 without longer odd holes**_      
