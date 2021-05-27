@@ -19,7 +19,7 @@ _**Rainbow matchings for 3-unifrom hypergraphs**_
 
 Abstract:
 Kuhn, Osthus and Treglown  and, independently,  Khan proved that if H is a 3-uniform hypergraph with n vertices such that n &isin; 3Z and large, and the minimum vertex degree of H is greater than {n-1\choose 2}-{2n/3\choose 2}, then H contains a perfect matching. 
-Huang, Loh, and Sudakov showed that if, for 1&le; i&le; t, where t<n/(3k^2), F<sub>i</sub> &sube; {[n]\choose k} and |F<sub>i</sub>|>\binom{n}{k}-\binom{n-t+1}{k}, then {F<sub>1</sub>,...,F<sub>t</sub>} admits a rainbow matching.
+Huang, Loh, and Sudakov showed that if, for 1&le; i&le; t, where t<n/(3k<sup>2</sup>), F<sub>i</sub> &sube; {[n]\choose k} and |F<sub>i</sub>|>\binom{n}{k}-\binom{n-t+1}{k}, then {F<sub>1</sub>,...,F<sub>t</sub>} admits a rainbow matching.
 We show that for n &isin; 3Z sufficiently large, if, for i&isin; {1, ..., n/3}, F<sub>i</sub> &sube; {[n]\choose 3} and &delta;<sub>1</sub>(F<sub>i</sub>)>{n-1\choose 2}-{2n/3\choose 2}, then {F<sub>1</sub>,..., F<sub>n/3</sub>} admits a rainbow matching. 
 This is joint work with Hongliang Lu and Xingxing Yu.
 
