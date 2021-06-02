@@ -7,11 +7,6 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-### May 27, 2021, 14:00 (UTC+8): [Huiqiu Lin](https://science.ecust.edu.cn/2017/0623/c5567a66379/page.htm) (ECUST)     
-_**On sum of powers of graph eigenvalues: problems and progress**_     
-[zoom](https://zoom.com.cn/j/83919899837) pw: 121323      
-
-Abstract: In this talk, we will introduce some open problems and conjectures in the spectral graph theory, such as the Bollob\'as-Nikiforov's conjecture, the Brouwer's conjecture and the sum of squares of positive eigenvalues problem. In addition, progress will also be introduced.
 
 ### June 3, 2021, 10:00 (UTC+8): [Xiaofan Yuan](https://people.math.gatech.edu/~xyuan62/) (Georgia Tech)      
 _**Rainbow matchings for 3-unifrom hypergraphs**_     
@@ -34,6 +29,14 @@ Abstract: A hole is an induced cycle of length at least 4. Let l&ge;2 be a posit
 
 ## Past talks
 
+### May 27, 2021, 14:00 (UTC+8): [Huiqiu Lin](https://science.ecust.edu.cn/2017/0623/c5567a66379/page.htm) (ECUST)     
+_**On sum of powers of graph eigenvalues: problems and progress**_     [video](https://www.bilibili.com/video/BV1sw411Z7S5/)       
+
+<details>
+  <summary>abstract</summary>
+  
+  In this talk, we will introduce some open problems and conjectures in the spectral graph theory, such as the Bollob\'as-Nikiforov's conjecture, the Brouwer's conjecture and the sum of squares of positive eigenvalues problem. In addition, progress will also be introduced.
+</details>
 
 ### May 20, 2021: [Lutz Warnke](http://people.math.gatech.edu/~lwarnke3/) (Georgia Institute of Technology)      
 _**Prague dimension of random graphs**_  [video](https://www.bilibili.com/video/BV1vB4y1F7Ys/) and [slides](http://people.math.gatech.edu/~lwarnke3/PragueDimensionTalk.pdf)      
