@@ -7,17 +7,6 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-
-### June 3, 2021, 10:00 (UTC+8): [Xiaofan Yuan](https://people.math.gatech.edu/~xyuan62/) (Georgia Tech)      
-_**Rainbow matchings for 3-unifrom hypergraphs**_     
-[zoom](https://zoom.com.cn/j/89160980267) pw: 121323    
-
-Abstract:
-Kuhn, Osthus and Treglown  and, independently,  Khan proved that if H is a 3-uniform hypergraph with n vertices such that n &isin; 3Z and large, and the minimum vertex degree of H is greater than {n-1\choose 2}-{2n/3\choose 2}, then H contains a perfect matching. 
-Huang, Loh, and Sudakov showed that if, for 1&le; i&le; t, where t<n/(3k<sup>2</sup>), F<sub>i</sub> &sube; {[n]\choose k} and |F<sub>i</sub>|>\binom{n}{k}-\binom{n-t+1}{k}, then {F<sub>1</sub>,...,F<sub>t</sub>} admits a rainbow matching.
-We show that for n &isin; 3Z sufficiently large, if, for i&isin; {1, ..., n/3}, F<sub>i</sub> &sube; {[n]\choose 3} and &delta;<sub>1</sub>(F<sub>i</sub>)>{n-1\choose 2}-{2n/3\choose 2}, then {F<sub>1</sub>,..., F<sub>n/3</sub>} admits a rainbow matching. 
-This is joint work with Hongliang Lu and Xingxing Yu.
-
 ### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)    
 _**On coloring of graphs of girth 2l+1 without longer odd holes**_      
 [Round the World Relay in Combinatorics](http://people.maths.ox.ac.uk/scott/relay.htm)     
@@ -29,7 +18,19 @@ Abstract: A hole is an induced cycle of length at least 4. Let l&ge;2 be a posit
 
 ## Past talks
 
-### May 27, 2021, 14:00 (UTC+8): [Huiqiu Lin](https://science.ecust.edu.cn/2017/0623/c5567a66379/page.htm) (ECUST)     
+### June 3, 2021: [Xiaofan Yuan](https://people.math.gatech.edu/~xyuan62/) (Georgia Tech)      
+_**Rainbow matchings for 3-unifrom hypergraphs**_     [video](https://www.bilibili.com/video/BV1Nh411e7Un)     
+
+<details>
+  <summary>abstract</summary>
+  
+Kuhn, Osthus and Treglown  and, independently,  Khan proved that if H is a 3-uniform hypergraph with n vertices such that n &isin; 3Z and large, and the minimum vertex degree of H is greater than {n-1\choose 2}-{2n/3\choose 2}, then H contains a perfect matching. 
+Huang, Loh, and Sudakov showed that if, for 1&le; i&le; t, where t<n/(3k<sup>2</sup>), F<sub>i</sub> &sube; {[n]\choose k} and |F<sub>i</sub>|>\binom{n}{k}-\binom{n-t+1}{k}, then {F<sub>1</sub>,...,F<sub>t</sub>} admits a rainbow matching.
+We show that for n &isin; 3Z sufficiently large, if, for i&isin; {1, ..., n/3}, F<sub>i</sub> &sube; {[n]\choose 3} and &delta;<sub>1</sub>(F<sub>i</sub>)>{n-1\choose 2}-{2n/3\choose 2}, then {F<sub>1</sub>,..., F<sub>n/3</sub>} admits a rainbow matching. 
+This is joint work with Hongliang Lu and Xingxing Yu.
+</details>
+
+### May 27, 2021: [Huiqiu Lin](https://science.ecust.edu.cn/2017/0623/c5567a66379/page.htm) (ECUST)     
 _**On sum of powers of graph eigenvalues: problems and progress**_     [video](https://www.bilibili.com/video/BV1sw411Z7S5/)       
 
 <details>
