@@ -18,7 +18,7 @@ Abstract: A hole is an induced cycle of length at least 4. Let l&ge;2 be a posit
 
 ## Past talks
 
-### June 3, 2021: [Xiaofan Yuan](https://people.math.gatech.edu/~xyuan62/) (Georgia Tech)      
+### June 3, 2021: [Xiaofan Yuan](https://people.math.gatech.edu/~xyuan62/) (Georgia Institute of Technology)      
 _**Rainbow matchings for 3-unifrom hypergraphs**_     [video](https://www.bilibili.com/video/BV1Nh411e7Un)     
 
 <details>
