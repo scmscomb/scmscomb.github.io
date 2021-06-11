@@ -7,19 +7,23 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)    
-_**On coloring of graphs of girth 2l+1 without longer odd holes**_      
-[Round the World Relay in Combinatorics](http://people.maths.ox.ac.uk/scott/relay.htm)     
-
-Abstract: A hole is an induced cycle of length at least 4. Let l&ge;2 be a positive integer, let &Gcirc;<sub>l</sub> denote the family of graphs which have girth 2l+1 and have no holes of odd length at least 2l+3, and let G &isin; &Gcirc;<sub>l</sub>.  For a vertex u &isin; V(G) and a nonempty set S &sube; V(G), let d(u,S) = min{d(u,v) : v&isin;S}, and let L<sub>i</sub>(S)={u&isin;V(G) and d(u,S)=i} for any  integer i&ge;0. We show that if G[S] is connected and G[L<sub>i</sub>(S)] is bipartite for each i&isin;{1,…,l-1}, then G[L<sub>i</sub>(S)] is bipartite for each i&gt;0, and consequently χ(G)&le;4, where G[S]  denotes the subgraph induced by S. For a graph G&isin; &Gcirc;<sub>2</sub>, we show that &chi;(G)&le;3 if G induces no two cycles of length 5 sharing edges. Let &theta;<sup>+</sup> be the graph obtained from the Petersen graph by removing two adjacent vertices. We show that if G &isin; &Gcirc;<sub>2</sub> is 3-connected and has no unstable 3-cutset, then G does not induce &theta;<sup>+</sup>. As a corollary, minimal non-3-colorable graphs of &Gcirc;<sub>2</sub> induce no &theta;<sup>+</sup>.  This is a joint work with Di Wu and Yian Xu.
-
 ### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 
 
 ## Past talks
 
+### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)    
+_**On coloring of graphs of girth 2l+1 without longer odd holes**_      
+[Round the World Relay in Combinatorics](http://people.maths.ox.ac.uk/scott/relay.htm)     [slides](./slides/2021/colorings_20210608.pdf)       
+
+<details>
+  <summary>abstract</summary>
+  A hole is an induced cycle of length at least 4. Let l&ge;2 be a positive integer, let &Gcirc;<sub>l</sub> denote the family of graphs which have girth 2l+1 and have no holes of odd length at least 2l+3, and let G &isin; &Gcirc;<sub>l</sub>.  For a vertex u &isin; V(G) and a nonempty set S &sube; V(G), let d(u,S) = min{d(u,v) : v&isin;S}, and let L<sub>i</sub>(S)={u&isin;V(G) and d(u,S)=i} for any  integer i&ge;0. We show that if G[S] is connected and G[L<sub>i</sub>(S)] is bipartite for each i&isin;{1,…,l-1}, then G[L<sub>i</sub>(S)] is bipartite for each i&gt;0, and consequently χ(G)&le;4, where G[S]  denotes the subgraph induced by S. For a graph G&isin; &Gcirc;<sub>2</sub>, we show that &chi;(G)&le;3 if G induces no two cycles of length 5 sharing edges. Let &theta;<sup>+</sup> be the graph obtained from the Petersen graph by removing two adjacent vertices. We show that if G &isin; &Gcirc;<sub>2</sub> is 3-connected and has no unstable 3-cutset, then G does not induce &theta;<sup>+</sup>. As a corollary, minimal non-3-colorable graphs of &Gcirc;<sub>2</sub> induce no &theta;<sup>+</sup>.  This is a joint work with Di Wu and Yian Xu.
+  </details>
+
+
 ### June 3, 2021: [Xiaofan Yuan](https://people.math.gatech.edu/~xyuan62/) (Georgia Institute of Technology)      
-_**Rainbow matchings for 3-unifrom hypergraphs**_     [video](https://www.bilibili.com/video/BV1Nh411e7Un)     
+_**Rainbow matchings for 3-unifrom hypergraphs**_     [video](https://www.bilibili.com/video/BV1Nh411e7Un)    and [slides](./slides/2021/rainbow_20210603.pdf)     
 
 <details>
   <summary>abstract</summary>
@@ -31,7 +35,7 @@ This is joint work with Hongliang Lu and Xingxing Yu.
 </details>
 
 ### May 27, 2021: [Huiqiu Lin](https://science.ecust.edu.cn/2017/0623/c5567a66379/page.htm) (ECUST)     
-_**On sum of powers of graph eigenvalues: problems and progress**_     [video](https://www.bilibili.com/video/BV1sw411Z7S5/)       
+_**On sum of powers of graph eigenvalues: problems and progress**_     [video](https://www.bilibili.com/video/BV1sw411Z7S5/)    and [slides](./slides/2021/eigenvalue_20210527.pdf)      
 
 <details>
   <summary>abstract</summary>
