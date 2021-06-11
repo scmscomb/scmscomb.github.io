@@ -9,6 +9,8 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 
+### July 22, 2021: [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
+
 
 ## Past talks
 
