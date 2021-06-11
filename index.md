@@ -13,8 +13,8 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 ## Past talks
 
 ### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)    
-_**On coloring of graphs of girth 2l+1 without longer odd holes**_      
-[Round the World Relay in Combinatorics](http://people.maths.ox.ac.uk/scott/relay.htm)     [slides](./slides/2021/colorings_20210608.pdf)       
+_**On coloring of graphs of girth 2l+1 without longer odd holes**_         [slides](./slides/2021/colorings_20210608.pdf)       
+[Round the World Relay in Combinatorics](http://people.maths.ox.ac.uk/scott/relay.htm)    
 
 <details>
   <summary>abstract</summary>
