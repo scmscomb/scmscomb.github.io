@@ -26,7 +26,7 @@ In this entry point into the subject, combining two elementary proofs, we decrea
 and lower bounds by 0.2% in
 a classical combinatorial number theory problem. We show that the
 maximum size of a Sidon set of {1, 2,..., n} is at most
-&Sqrt;n+ 0.998n<sup>1/4</sup> for sufficiently large n.
+&radic;n+ 0.998n<sup>1/4</sup> for sufficiently large n.
 
 The talk is based on joint work with Zoltán Füredi and Souktik Roy.
 
