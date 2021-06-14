@@ -12,7 +12,6 @@ _**Discrepancy in Modular Arithmetic Progressions**_
 [zoom](https://zoom.com.cn/j/84464064429?pwd=cXVPbnovU013MzVVZzFoVUY1SGk2dz09) pw 121323
 
 Abstract: 
-
 Celebrated theorems of Roth and of Matoušek and Spencer together show that the discrepancy of arithmetic progressions in the first n positive integers is &Theta;(n<sup>1/4</sup>). We study the analogous problem in the Z<sub>n</sub> setting. We asymptotically determine the logarithm of the discrepancy of arithmetic progressions in Z<sub>n</sub> for all positive integer n. We further determine up to a constant factor the discrepancy of arithmetic progressions in Z<sub>n</sub> for many n. For example, if n=p<sup>k</sup> is a prime power, then the discrepancy of arithmetic progressions in Z<sub>n</sub> is &Theta;(n<sup>1/3+r<sub>k</sub>/(6k)</sup>), where r<sub>k</sub> &isin; {0,1,2} is the remainder when k is divided by 3. This solves a problem of Hebbinghaus and Srivastav.  
 
 Joint work with Jacob Fox and Yunkun Zhou. 
