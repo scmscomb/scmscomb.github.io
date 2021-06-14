@@ -7,6 +7,18 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
+### June 17, 2021, 10:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)     
+_**Discrepancy in Modular Arithmetic Progressions**_    
+[zoom](https://zoom.com.cn/j/84464064429?pwd=cXVPbnovU013MzVVZzFoVUY1SGk2dz09) pw 121323
+
+Abstract: 
+
+Celebrated theorems of Roth and of Matoušek and Spencer together show that the discrepancy of arithmetic progressions in the first n positive integers is &Theta;(n^{1/4}). We study the analogous problem in the Z<sub>n</sub> setting. We asymptotically determine the logarithm of the discrepancy of arithmetic progressions in Z<sub>n</sub> for all positive integer n. We further determine up to a constant factor the discrepancy of arithmetic progressions in Z<sub>n</sub> for many n. For example, if n=p<sup>k</sup> is a prime power, then the discrepancy of arithmetic progressions in Z<sub>n</sub> is &Theta;(n^{1/3+r<sub>k</sub>/(6k)}), where r<sub>k</sub> &isin; {0,1,2} is the remainder when k is divided by 3. This solves a problem of Hebbinghaus and Srivastav.  
+
+Joint work with Jacob Fox and Yunkun Zhou. 
+
+
+
 ### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 
 ### July 22, 2021: [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
@@ -14,7 +26,7 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Past talks
 
-### June 8, 2021, 11:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)    
+### June 8, 2021: [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)    
 _**On coloring of graphs of girth 2l+1 without longer odd holes**_         [slides](./slides/2021/colorings_20210608.pdf)       
 [Round the World Relay in Combinatorics](http://people.maths.ox.ac.uk/scott/relay.htm)    
 
