@@ -31,7 +31,8 @@ _**On coloring of graphs of girth 2l+1 without longer odd holes**_         [slid
 [Round the World Relay in Combinatorics](http://people.maths.ox.ac.uk/scott/relay.htm)    
 
 <details>
-  <summary>abstract</summary>
+  <summary>abstract</summary>      
+     
   A hole is an induced cycle of length at least 4. Let l&ge;2 be a positive integer, let &Gcirc;<sub>l</sub> denote the family of graphs which have girth 2l+1 and have no holes of odd length at least 2l+3, and let G &isin; &Gcirc;<sub>l</sub>.  For a vertex u &isin; V(G) and a nonempty set S &sube; V(G), let d(u,S) = min{d(u,v) : v&isin;S}, and let L<sub>i</sub>(S)={u&isin;V(G) and d(u,S)=i} for any  integer i&ge;0. We show that if G[S] is connected and G[L<sub>i</sub>(S)] is bipartite for each i&isin;{1,…,l-1}, then G[L<sub>i</sub>(S)] is bipartite for each i&gt;0, and consequently χ(G)&le;4, where G[S]  denotes the subgraph induced by S. For a graph G&isin; &Gcirc;<sub>2</sub>, we show that &chi;(G)&le;3 if G induces no two cycles of length 5 sharing edges. Let &theta;<sup>+</sup> be the graph obtained from the Petersen graph by removing two adjacent vertices. We show that if G &isin; &Gcirc;<sub>2</sub> is 3-connected and has no unstable 3-cutset, then G does not induce &theta;<sup>+</sup>. As a corollary, minimal non-3-colorable graphs of &Gcirc;<sub>2</sub> induce no &theta;<sup>+</sup>.  This is a joint work with Di Wu and Yian Xu.
   </details>
 
@@ -40,8 +41,8 @@ _**On coloring of graphs of girth 2l+1 without longer odd holes**_         [slid
 _**Rainbow matchings for 3-unifrom hypergraphs**_     [video](https://www.bilibili.com/video/BV1Nh411e7Un)    and [slides](./slides/2021/rainbow_20210603.pdf)     
 
 <details>
-  <summary>abstract</summary>
-  
+  <summary>abstract</summary>    
+    
 Kuhn, Osthus and Treglown  and, independently,  Khan proved that if H is a 3-uniform hypergraph with n vertices such that n &isin; 3Z and large, and the minimum vertex degree of H is greater than {n-1\choose 2}-{2n/3\choose 2}, then H contains a perfect matching. 
 Huang, Loh, and Sudakov showed that if, for 1&le; i&le; t, where t<n/(3k<sup>2</sup>), F<sub>i</sub> &sube; {[n]\choose k} and |F<sub>i</sub>|>\binom{n}{k}-\binom{n-t+1}{k}, then {F<sub>1</sub>,...,F<sub>t</sub>} admits a rainbow matching.
 We show that for n &isin; 3Z sufficiently large, if, for i&isin; {1, ..., n/3}, F<sub>i</sub> &sube; {[n]\choose 3} and &delta;<sub>1</sub>(F<sub>i</sub>)>{n-1\choose 2}-{2n/3\choose 2}, then {F<sub>1</sub>,..., F<sub>n/3</sub>} admits a rainbow matching. 
@@ -52,7 +53,7 @@ This is joint work with Hongliang Lu and Xingxing Yu.
 _**On sum of powers of graph eigenvalues: problems and progress**_     [video](https://www.bilibili.com/video/BV1sw411Z7S5/)    and [slides](./slides/2021/eigenvalue_20210527.pdf)      
 
 <details>
-  <summary>abstract</summary>
+  <summary>abstract</summary>    
   
   In this talk, we will introduce some open problems and conjectures in the spectral graph theory, such as the Bollob\'as-Nikiforov's conjecture, the Brouwer's conjecture and the sum of squares of positive eigenvalues problem. In addition, progress will also be introduced.
 </details>
@@ -60,7 +61,8 @@ _**On sum of powers of graph eigenvalues: problems and progress**_     [video](h
 ### May 20, 2021: [Lutz Warnke](http://people.math.gatech.edu/~lwarnke3/) (Georgia Institute of Technology)      
 _**Prague dimension of random graphs**_  [video](https://www.bilibili.com/video/BV1vB4y1F7Ys/) and [slides](http://people.math.gatech.edu/~lwarnke3/PragueDimensionTalk.pdf)      
 <details>
-  <summary>abstract</summary>
+  <summary>abstract</summary>    
+  
 The Prague dimension of graphs was introduced by Nesetril, Pultr and Rodl in the 1970s: as a combinatorial measure of complexity, it is closely related to clique edges coverings and partitions.
 Proving a conjecture of Furedi and Kantor, we show that the Prague dimension of the binomial random graph is typically of order n/(log n) for constant edge-probabilities. 
 The main new proof ingredient is a Pippenger-Spencer type edge-coloring result for random hypergraphs with large uniformities, i.e., edges of size O(log n). 
@@ -72,7 +74,7 @@ Based on joint work with He Guo and Kalen Patton, see https://arxiv.org/abs/2011
 _**Lovász meets Łoś and Tarski - understanding forbidden induced subgraphs by model theory**_     [video](https://www.bilibili.com/video/BV1cQ4y1o7mv/) and [slides](./slides/2021/model_20210514.pdf)     
 
 <details>
-  <summary>abstract</summary>
+  <summary>abstract</summary>    
   
 The following result is attributed to Lovász.
 
@@ -146,7 +148,7 @@ of bipartite graphs and infinite factors.
 _**A survey on Hamiltonicity of graphs on surfaces**_     [video](https://www.bilibili.com/video/BV1iK411F7Hy) 
 
 <details>
-  <summary>abstract</summary>
+  <summary>abstract</summary>   
   
 Since Whiteny proved that every 4-connected plane triangulation contains a Hamiltonian cycle, Hamiltonicity of graphs on surfaces has been widely studied.
 In this talk, we give a survey on the topic from the view of toughness and scattering number of graphs.
@@ -167,7 +169,7 @@ This is a joint work with Zdenek Dvorak and Luke Postle.
 _**Vertex Sparsification for Edge Connectivity**_      [video](https://www.bilibili.com/video/BV1P5411A7KA) and [slides](./slides/2021/C_Mimicking_Network_20210401.pdf)      
 
 <details>
-  <summary>abstract</summary>
+  <summary>abstract</summary>   
   
 Graph compression or sparsification is a basic information-theoretic and computational question. A major open problem in this research area is whether (1+ϵ)-approximate cut-preserving vertex sparsifiers with size close to the number of terminals exist. As a step towards this goal, we study a thresholded version of the problem: for a given parameter c, find a smaller graph, which we call connectivity-c mimicking network, which preserves connectivity among k terminals exactly up to the value of c. We show that connectivity-c mimicking networks with O(kc^4) edges exist and can be found in time m(clogn)O(c). We also give a separate algorithm that constructs such graphs with k⋅O(c)^{2c} edges in time mc^O(c)polylog(n). These results lead to the first data structures for answering fully dynamic offline c-edge-connectivity queries for c≥4 in polylogarithmic time per query, as well as more efficient algorithms for survivable network design on bounded treewidth graphs.
 
@@ -179,7 +181,7 @@ Kook, Yang P. Liu, Richard Peng, Mark Sellke and Daniel Vaz.
 _**An approach to strong hypergraph stability**_      [video](https://www.bilibili.com/video/BV1sy4y1t7am) and [slides](./slides/2021/stability_20210325.pdf) 
 
 <details>
-  <summary>abstract</summary>
+  <summary>abstract</summary>   
   
 I will talk about a method which provides a unified framework for many stability theorems that have been proved in graph and hypergraph theory.
 Our main result reduces stability for a large class of hypergraph  problems to the simpler question of checking that a  hypergraph H with large minimum degree that omits the forbidden structures is vertex-extendable. This means that if v is a vertex of H and H-v is a subgraph of the extremal configuration(s), then H is also a subgraph of the extremal configuration(s). In many cases vertex-extendability is quite easy to verify.
@@ -193,7 +195,7 @@ This is joint work with Dhruv Mubayi and Christian Reiher.
 _**The anti-Ramsey number for paths**_     [video](https://www.bilibili.com/video/BV1XV411Y7oN)     
 
 <details>
-  <summary>abstract</summary>
+  <summary>abstract</summary>   
   
 A subgraph of an edge-colored graph is rainbow if all of its edges have different
 colors. For a given graph H, the anti-Ramsey number AR(n,H) of H is the maximum
@@ -206,7 +208,7 @@ a conjecture posed by Erdős, Simonovits and Sós in 1970s.
 _**The Typical Structure of Sets with Small Sumset**_         
 
 <details>
-  <summary>abstract</summary>
+  <summary>abstract</summary>    
 
 One of the central objects of interest in additive combinatorics is the sumset A+B= {a+b:a \in A, b \in B} of two sets A,B of integers.
 
