@@ -13,11 +13,21 @@ _**Discrepancy in Modular Arithmetic Progressions**_
 
 Abstract: 
 
-Celebrated theorems of Roth and of Matoušek and Spencer together show that the discrepancy of arithmetic progressions in the first n positive integers is &Theta;(n^{1/4}). We study the analogous problem in the Z<sub>n</sub> setting. We asymptotically determine the logarithm of the discrepancy of arithmetic progressions in Z<sub>n</sub> for all positive integer n. We further determine up to a constant factor the discrepancy of arithmetic progressions in Z<sub>n</sub> for many n. For example, if n=p<sup>k</sup> is a prime power, then the discrepancy of arithmetic progressions in Z<sub>n</sub> is &Theta;(n^{1/3+r<sub>k</sub>/(6k)}), where r<sub>k</sub> &isin; {0,1,2} is the remainder when k is divided by 3. This solves a problem of Hebbinghaus and Srivastav.  
+Celebrated theorems of Roth and of Matoušek and Spencer together show that the discrepancy of arithmetic progressions in the first n positive integers is &Theta;(n<sup>1/4</sup>). We study the analogous problem in the Z<sub>n</sub> setting. We asymptotically determine the logarithm of the discrepancy of arithmetic progressions in Z<sub>n</sub> for all positive integer n. We further determine up to a constant factor the discrepancy of arithmetic progressions in Z<sub>n</sub> for many n. For example, if n=p<sup>k</sup> is a prime power, then the discrepancy of arithmetic progressions in Z<sub>n</sub> is &Theta;(n<sup>1/3+r<sub>k</sub>/(6k)</sup>), where r<sub>k</sub> &isin; {0,1,2} is the remainder when k is divided by 3. This solves a problem of Hebbinghaus and Srivastav.  
 
 Joint work with Jacob Fox and Yunkun Zhou. 
 
+### July 1, 2021, 16:00 (UTC+8): [Jozsef Balogh](https://faculty.math.illinois.edu/~jobal/) (University of Illinois)    
+_**Improved upper bounds on the size of Sidon sets**_      
 
+Abstract:
+In this entry point into the subject, combining two elementary proofs, we decrease the gap between the upper
+and lower bounds by 0.2% in
+a classical combinatorial number theory problem. We show that the
+maximum size of a Sidon set of {1, 2,..., n} is at most
+&Sqrt;n+ 0.998n<sup>1/4</sup> for sufficiently large n.
+
+The talk is based on joint work with Zoltan Furedi and Souktik Roy.
 
 ### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 
