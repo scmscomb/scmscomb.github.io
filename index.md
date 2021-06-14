@@ -7,7 +7,7 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-### June 17, 2021, 10:00 (UTC+8): [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)     
+### June 17, 2021, 10:00 (UTC+8): [Wenqiang Xu](https://sites.google.com/view/maxxu) (Stanford University)     
 _**Discrepancy in Modular Arithmetic Progressions**_    
 [zoom](https://zoom.com.cn/j/84464064429?pwd=cXVPbnovU013MzVVZzFoVUY1SGk2dz09) pw 121323
 
