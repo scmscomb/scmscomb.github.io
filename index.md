@@ -17,8 +17,9 @@ Celebrated theorems of Roth and of Matoušek and Spencer together show that the 
 
 Joint work with Jacob Fox and Yunkun Zhou. 
 
-### July 1, 2021, 16:00 (UTC+8): [Jozsef Balogh](https://faculty.math.illinois.edu/~jobal/) (University of Illinois)    
-_**Improved upper bounds on the size of Sidon sets**_      
+### July 1, 2021, 16:00 (UTC+8): [József Balogh](https://faculty.math.illinois.edu/~jobal/) (University of Illinois)    
+_**Improved upper bounds on the size of Sidon sets**_        
+[zoom](https://zoom.com.cn/j/84454627006?pwd=WmgxaEZSMnJzcVM2ZTZzTERnc3QzQT09) pw 061801
 
 Abstract:
 In this entry point into the subject, combining two elementary proofs, we decrease the gap between the upper
@@ -27,7 +28,7 @@ a classical combinatorial number theory problem. We show that the
 maximum size of a Sidon set of {1, 2,..., n} is at most
 &Sqrt;n+ 0.998n<sup>1/4</sup> for sufficiently large n.
 
-The talk is based on joint work with Zoltan Furedi and Souktik Roy.
+The talk is based on joint work with Zoltán Füredi and Souktik Roy.
 
 ### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 
