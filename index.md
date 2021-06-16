@@ -16,6 +16,14 @@ Celebrated theorems of Roth and of Matoušek and Spencer together show that the 
 
 Joint work with Jacob Fox and Yunkun Zhou. 
 
+### June 24, 2021, 14:00 (UTC+8): [Zdeněk Dvořák](https://iuuk.mff.cuni.cz/~rakdver/) (Charles University)     
+_**On generalized coloring numbers**_      
+[zoom](https://zoom.com.cn/j/87850403141) pw 121323      
+
+Weak and strong coloring numbers are a generalization of the notion of graph
+degeneracy to longer distances.  We survey some interesting results and applications
+of these concepts.
+
 ### July 1, 2021, 16:00 (UTC+8): [József Balogh](https://faculty.math.illinois.edu/~jobal/) (University of Illinois)    
 _**Improved upper bounds on the size of Sidon sets**_        
 [zoom](https://zoom.com.cn/j/84454627006?pwd=WmgxaEZSMnJzcVM2ZTZzTERnc3QzQT09) pw 061801
