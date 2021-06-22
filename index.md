@@ -34,8 +34,10 @@ _**Extremal problems for multigraphs**_
 An (n,s,q)-graph is an n-vertex multigraph in which every s-set of vertices spans at most q edges. Turan-type questions on the maximum of the sum of the edge multiplicities in such multigraphs have been studied since the 1990s. More recently, Mubayi and Terry posed the problem of determining the maximum of the product of the edge multiplicities in
 (n,s,q)-graphs. In this talk we will discuss recent progress on this problem, including a result that shows for infinitely many choices of (s,q), the solution is transcendental. This answers a question of Alon. This is joint work with Nick Day and Victor Falgas-Ravry.
 
-### July 22, 2021: [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
+### July 22, 2021, 10:00 (UTC+8): [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
+_**Decomposing planar graphs under degree restriction**_    
 
+Given a graph G, a decomposition of G is a partition of its edges. A graph is   (d, h)-decomposable if its edge set can be partitioned into a d-degenerate graph and a graph with maximum degree at most h. For d &le; 4, we are interested in the minimum integer h<sub>d</sub> such that every planar graph is (d,h<sub>d</sub>)-decomposable. It was known that h<sub>3</sub> &le; 4, h<sub>2</sub> &le; 8, and h<sub>1</sub> = &infin;. In this talk, we present a result that h<sub>4</sub>=1, h<sub>3</sub>=2, and 4 &le; h<sub>2</sub> &le; 6.  This is a joint work with Eun-Kyung Cho, Ilkyoo Choi, Ringi Kim, Tingting Shan, Xuding Zhu.
 
 ## Past talks
 
@@ -43,10 +45,13 @@ An (n,s,q)-graph is an n-vertex multigraph in which every s-set of vertices span
 ### June 17, 2021: [Wenqiang Xu](https://sites.google.com/view/maxxu) (Stanford University)     
 _**Discrepancy in Modular Arithmetic Progressions**_    [video](https://www.bilibili.com/video/BV1e64y197YA/)      
 
-Abstract: 
+<details>
+  <summary>abstract</summary>   
+  
 Celebrated theorems of Roth and of Matoušek and Spencer together show that the discrepancy of arithmetic progressions in the first n positive integers is &Theta;(n<sup>1/4</sup>). We study the analogous problem in the Z<sub>n</sub> setting. We asymptotically determine the logarithm of the discrepancy of arithmetic progressions in Z<sub>n</sub> for all positive integer n. We further determine up to a constant factor the discrepancy of arithmetic progressions in Z<sub>n</sub> for many n. For example, if n=p<sup>k</sup> is a prime power, then the discrepancy of arithmetic progressions in Z<sub>n</sub> is &Theta;(n<sup>1/3+r<sub>k</sub>/(6k)</sup>), where r<sub>k</sub> &isin; {0,1,2} is the remainder when k is divided by 3. This solves a problem of Hebbinghaus and Srivastav.  
 
 Joint work with Jacob Fox and Yunkun Zhou. 
+   </details>
 
 ### June 8, 2021: [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) (Nanjing Normal University)    
 _**On coloring of graphs of girth 2l+1 without longer odd holes**_         [slides](./slides/2021/colorings_20210608.pdf)       
