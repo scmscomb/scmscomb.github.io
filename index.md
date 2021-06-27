@@ -7,13 +7,7 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-### June 24, 2021, 14:00 (UTC+8): [Zdeněk Dvořák](https://iuuk.mff.cuni.cz/~rakdver/) (Charles University)     
-_**On generalized coloring numbers**_      
-[zoom](https://zoom.com.cn/j/87850403141) pw 121323      
 
-Weak and strong coloring numbers are a generalization of the notion of graph
-degeneracy to longer distances.  We survey some interesting results and applications
-of these concepts.
 
 ### July 1, 2021, 16:00 (UTC+8): [József Balogh](https://faculty.math.illinois.edu/~jobal/) (University of Illinois)    
 _**Improved upper bounds on the size of Sidon sets**_        
@@ -30,17 +24,25 @@ The talk is based on joint work with Zoltán Füredi and Souktik Roy.
 
 ### July 15, 2021, 16:00 (UTC+8): [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 _**Extremal problems for multigraphs**_       
+[zoom](https://zoom.com.cn/j/85615341997?pwd=TW9hU3FmVGtTTm50a1o2SWJUdjVMZz09) pw 121323    
 
 An (n,s,q)-graph is an n-vertex multigraph in which every s-set of vertices spans at most q edges. Turan-type questions on the maximum of the sum of the edge multiplicities in such multigraphs have been studied since the 1990s. More recently, Mubayi and Terry posed the problem of determining the maximum of the product of the edge multiplicities in
 (n,s,q)-graphs. In this talk we will discuss recent progress on this problem, including a result that shows for infinitely many choices of (s,q), the solution is transcendental. This answers a question of Alon. This is joint work with Nick Day and Victor Falgas-Ravry.
 
 ### July 22, 2021, 10:00 (UTC+8): [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
 _**Decomposing planar graphs under degree restriction**_    
+[zoom](https://zoom.com.cn/j/87420082068?pwd=ektnV2h4aEF1cm1panVyc0NYM0FiQT09) pw 121323     
 
 Given a graph G, a decomposition of G is a partition of its edges. A graph is   (d, h)-decomposable if its edge set can be partitioned into a d-degenerate graph and a graph with maximum degree at most h. For d &le; 4, we are interested in the minimum integer h<sub>d</sub> such that every planar graph is (d,h<sub>d</sub>)-decomposable. It was known that h<sub>3</sub> &le; 4, h<sub>2</sub> &le; 8, and h<sub>1</sub> = &infin;. In this talk, we present a result that h<sub>4</sub>=1, h<sub>3</sub>=2, and 4 &le; h<sub>2</sub> &le; 6.  This is a joint work with Eun-Kyung Cho, Ilkyoo Choi, Ringi Kim, Tingting Shan, Xuding Zhu.
 
 ## Past talks
 
+### June 24, 2021: [Zdeněk Dvořák](https://iuuk.mff.cuni.cz/~rakdver/) (Charles University)     
+_**On generalized coloring numbers**_      [video](https://www.bilibili.com/video/BV17y4y1M77m)    
+
+Weak and strong coloring numbers are a generalization of the notion of graph
+degeneracy to longer distances.  We survey some interesting results and applications
+of these concepts.
 
 ### June 17, 2021: [Wenqiang Xu](https://sites.google.com/view/maxxu) (Stanford University)     
 _**Discrepancy in Modular Arithmetic Progressions**_    [video](https://www.bilibili.com/video/BV1e64y197YA/)      
