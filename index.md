@@ -22,6 +22,10 @@ maximum size of a Sidon set of {1, 2,..., n} is at most
 
 The talk is based on joint work with Zoltán Füredi and Souktik Roy.
 
+### July 8, 2021, 10:00 (UTC+8): [Zhiyu Wang](https://people.math.gatech.edu/~zwang672/) (Georgia Institute of Technology)      
+[zoom](https://zoom.com.cn/j/88155775389?pwd=dzgxSEZQUzAvK3dIMjl5Y3creDZsUT09) pw 121323    
+
+
 ### July 15, 2021, 16:00 (UTC+8): [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 _**Extremal problems for multigraphs**_       
 [zoom](https://zoom.com.cn/j/85615341997?pwd=TW9hU3FmVGtTTm50a1o2SWJUdjVMZz09) pw 121323    
