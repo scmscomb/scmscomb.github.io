@@ -7,24 +7,11 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-
-
-### July 1, 2021, 16:00 (UTC+8): [József Balogh](https://faculty.math.illinois.edu/~jobal/) (University of Illinois)    
-_**Improved upper bounds on the size of Sidon sets**_        
-[zoom](https://zoom.com.cn/j/84454627006?pwd=WmgxaEZSMnJzcVM2ZTZzTERnc3QzQT09) pw 061801
-
-Abstract:
-In this entry point into the subject, combining two elementary proofs, we decrease the gap between the upper
-and lower bounds by 0.2% in
-a classical combinatorial number theory problem. We show that the
-maximum size of a Sidon set of {1, 2,..., n} is at most
-&radic;n+ 0.998n<sup>1/4</sup> for sufficiently large n.
-
-The talk is based on joint work with Zoltán Füredi and Souktik Roy.
-
 ### July 8, 2021, 10:00 (UTC+8): [Zhiyu Wang](https://people.math.gatech.edu/~zwang672/) (Georgia Institute of Technology)      
+_**Polynomial &chi;-binding functions for t-broom-free graphs**_      
 [zoom](https://zoom.com.cn/j/88155775389?pwd=dzgxSEZQUzAvK3dIMjl5Y3creDZsUT09) pw 121323    
 
+For any positive integer t, a t-broom is a graph obtained from K<sub>1,t+1</sub> by subdividing an edge once.  In this paper, we show that, for graphs G without induced t-brooms, we have &chi;(G) =  o(&omega;(G)<sup>t+1</sup>), where  &chi;(G) and &omega;(G) are the chromatic number and clique number of G, respectively. When t=2, this answers a question of  Schiermeyer and Randerath. Moreover, for t=2, we strengthen the bound on &chi;(G) to 7.5&omega;(G)<sup>2</sup>, confirming a conjecture of Sivaraman. For t &ge; 3 and {t-broom, K<sub>t,t</sub>}-free graphs, we improve the bound to o(&omega;(G)<sup>t-1+2/(t+1)</sup>). Joint work with Xiaonan Liu, Joshua Schroeder and Xingxing Yu.
 
 ### July 15, 2021, 16:00 (UTC+8): [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 _**Extremal problems for multigraphs**_       
@@ -41,13 +28,31 @@ Given a graph G, a decomposition of G is a partition of its edges. A graph is   
 
 ## Past talks
 
+### July 1, 2021: [József Balogh](https://faculty.math.illinois.edu/~jobal/) (University of Illinois)    
+_**Improved upper bounds on the size of Sidon sets**_        
+
+<details>
+  <summary>abstract</summary>   
+  
+In this entry point into the subject, combining two elementary proofs, we decrease the gap between the upper
+and lower bounds by 0.2% in
+a classical combinatorial number theory problem. We show that the
+maximum size of a Sidon set of {1, 2,..., n} is at most
+&radic;n+ 0.998n<sup>1/4</sup> for sufficiently large n.
+
+The talk is based on joint work with Zoltán Füredi and Souktik Roy.
+   </details>
+   
 ### June 24, 2021: [Zdeněk Dvořák](https://iuuk.mff.cuni.cz/~rakdver/) (Charles University)     
 _**On generalized coloring numbers**_      [video](https://www.bilibili.com/video/BV17y4y1M77m)    
-
+<details>
+  <summary>abstract</summary>     
+  
 Weak and strong coloring numbers are a generalization of the notion of graph
 degeneracy to longer distances.  We survey some interesting results and applications
 of these concepts.
-
+   </details>
+   
 ### June 17, 2021: [Wenqiang Xu](https://sites.google.com/view/maxxu) (Stanford University)     
 _**Discrepancy in Modular Arithmetic Progressions**_    [video](https://www.bilibili.com/video/BV1e64y197YA/)      
 
