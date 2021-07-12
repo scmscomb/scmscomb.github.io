@@ -7,12 +7,6 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-### July 8, 2021, 10:00 (UTC+8): [Zhiyu Wang](https://people.math.gatech.edu/~zwang672/) (Georgia Institute of Technology)      
-_**Polynomial &chi;-binding functions for t-broom-free graphs**_      
-[zoom](https://zoom.com.cn/j/88155775389?pwd=dzgxSEZQUzAvK3dIMjl5Y3creDZsUT09) pw 121323    
-
-For any positive integer t, a t-broom is a graph obtained from K<sub>1,t+1</sub> by subdividing an edge once.  In this paper, we show that, for graphs G without induced t-brooms, we have &chi;(G) =  o(&omega;(G)<sup>t+1</sup>), where  &chi;(G) and &omega;(G) are the chromatic number and clique number of G, respectively. When t=2, this answers a question of  Schiermeyer and Randerath. Moreover, for t=2, we strengthen the bound on &chi;(G) to 7.5&omega;(G)<sup>2</sup>, confirming a conjecture of Sivaraman. For t &ge; 3 and {t-broom, K<sub>t,t</sub>}-free graphs, we improve the bound to o(&omega;(G)<sup>t-1+2/(t+1)</sup>). Joint work with Xiaonan Liu, Joshua Schroeder and Xingxing Yu.
-
 ### July 15, 2021, 16:00 (UTC+8): [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
 _**Extremal problems for multigraphs**_       
 [zoom](https://zoom.com.cn/j/85615341997?pwd=TW9hU3FmVGtTTm50a1o2SWJUdjVMZz09) pw 121323    
@@ -27,6 +21,18 @@ _**Decomposing planar graphs under degree restriction**_
 Given a graph G, a decomposition of G is a partition of its edges. A graph is   (d, h)-decomposable if its edge set can be partitioned into a d-degenerate graph and a graph with maximum degree at most h. For d &le; 4, we are interested in the minimum integer h<sub>d</sub> such that every planar graph is (d,h<sub>d</sub>)-decomposable. It was known that h<sub>3</sub> &le; 4, h<sub>2</sub> &le; 8, and h<sub>1</sub> = &infin;. In this talk, we present a result that h<sub>4</sub>=1, h<sub>3</sub>=2, and 4 &le; h<sub>2</sub> &le; 6.  This is a joint work with Eun-Kyung Cho, Ilkyoo Choi, Ringi Kim, Tingting Shan, Xuding Zhu.
 
 ## Past talks
+
+### July 8, 2021: [Zhiyu Wang](https://people.math.gatech.edu/~zwang672/) (Georgia Institute of Technology)      
+_**Polynomial &chi;-binding functions for t-broom-free graphs**_      
+[video](https://www.bilibili.com/video/BV1ef4y1L7Kj)
+
+<details>
+  <summary>abstract</summary>   
+  
+For any positive integer t, a t-broom is a graph obtained from K<sub>1,t+1</sub> by subdividing an edge once.  In this paper, we show that, for graphs G without induced t-brooms, we have &chi;(G) =  o(&omega;(G)<sup>t+1</sup>), where  &chi;(G) and &omega;(G) are the chromatic number and clique number of G, respectively. When t=2, this answers a question of  Schiermeyer and Randerath. Moreover, for t=2, we strengthen the bound on &chi;(G) to 7.5&omega;(G)<sup>2</sup>, confirming a conjecture of Sivaraman. For t &ge; 3 and {t-broom, K<sub>t,t</sub>}-free graphs, we improve the bound to o(&omega;(G)<sup>t-1+2/(t+1)</sup>). Joint work with Xiaonan Liu, Joshua Schroeder and Xingxing Yu.
+  
+  </details>
+
 
 ### July 1, 2021: [József Balogh](https://faculty.math.illinois.edu/~jobal/) (University of Illinois)    
 _**Improved upper bounds on the size of Sidon sets**_        
