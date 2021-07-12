@@ -23,8 +23,7 @@ Given a graph G, a decomposition of G is a partition of its edges. A graph is   
 ## Past talks
 
 ### July 8, 2021: [Zhiyu Wang](https://people.math.gatech.edu/~zwang672/) (Georgia Institute of Technology)      
-_**Polynomial &chi;-binding functions for t-broom-free graphs**_      
-[video](https://www.bilibili.com/video/BV1ef4y1L7Kj)
+_**Polynomial &chi;-binding functions for t-broom-free graphs**_      [video](https://www.bilibili.com/video/BV1ef4y1L7Kj)
 
 <details>
   <summary>abstract</summary>   
