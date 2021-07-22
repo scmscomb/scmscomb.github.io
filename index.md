@@ -7,20 +7,28 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-### July 15, 2021, 16:00 (UTC+8): [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
-_**Extremal problems for multigraphs**_       
-[zoom](https://zoom.com.cn/j/85615341997?pwd=TW9hU3FmVGtTTm50a1o2SWJUdjVMZz09) pw 121323    
-
-An (n,s,q)-graph is an n-vertex multigraph in which every s-set of vertices spans at most q edges. Turan-type questions on the maximum of the sum of the edge multiplicities in such multigraphs have been studied since the 1990s. More recently, Mubayi and Terry posed the problem of determining the maximum of the product of the edge multiplicities in
-(n,s,q)-graphs. In this talk we will discuss recent progress on this problem, including a result that shows for infinitely many choices of (s,q), the solution is transcendental. This answers a question of Alon. This is joint work with Nick Day and Victor Falgas-Ravry.
-
 ### July 22, 2021, 10:00 (UTC+8): [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
 _**Decomposing planar graphs under degree restriction**_    
 [zoom](https://zoom.com.cn/j/87420082068?pwd=ektnV2h4aEF1cm1panVyc0NYM0FiQT09) pw 121323     
 
 Given a graph G, a decomposition of G is a partition of its edges. A graph is   (d, h)-decomposable if its edge set can be partitioned into a d-degenerate graph and a graph with maximum degree at most h. For d &le; 4, we are interested in the minimum integer h<sub>d</sub> such that every planar graph is (d,h<sub>d</sub>)-decomposable. It was known that h<sub>3</sub> &le; 4, h<sub>2</sub> &le; 8, and h<sub>1</sub> = &infin;. In this talk, we present a result that h<sub>4</sub>=1, h<sub>3</sub>=2, and 4 &le; h<sub>2</sub> &le; 6.  This is a joint work with Eun-Kyung Cho, Ilkyoo Choi, Ringi Kim, Tingting Shan, Xuding Zhu.
 
+### July 29, 2021, 14:00 (UTC+8): [Henry Liu](https://math.sysu.edu.cn/teacher/552) (Sun Yat-sen University)    
+_**Highly connected subgraphs of graphs with given independence number**_    
+[zoom](https://zoom.com.cn/j/89362823843?pwd=WVRHcFdJZHQyMHpZY0hrbGdHeXFFQT09) pw 121323     
+
+Let G be a graph on n vertices with independence number &alpha;. How large a k-connected subgraph must G contain? Such a k-connected subgraph cannot be guaranteed to have more than &LeftCeiling;n/&alpha;&RightCeiling; vertices, since G might be the disjoint union of &alpha; near equal cliques. It turns out that if n is sufficiently large (n&ge;&alpha;<sup>2</sup>k+1 will do), then G always contains a k-connected subgraph on at least &LeftCeiling;n/&alpha;&RightCeiling; vertices. What is the correct threshold for n for which this result is true? Previously with Shinya Fujita and Amites Sarkar in 2018, we determined the exact thresholds for n when &alpha;=2,3. In this talk, we shall present a new result for &alpha;=4. For general  &alpha;, we also present an improvement on the bound n&ge;&alpha;<sup>2</sup>k+1. Finally, several open problems will be mentioned.
+
+Joint work with Shinya Fujita (Yokohama City University, Japan), Boram Park (Ajou University, South Korea), and Amites Sarkar (Western Washington University, USA).
+
+
 ## Past talks
+
+### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
+_**Extremal problems for multigraphs**_       
+
+An (n,s,q)-graph is an n-vertex multigraph in which every s-set of vertices spans at most q edges. Turan-type questions on the maximum of the sum of the edge multiplicities in such multigraphs have been studied since the 1990s. More recently, Mubayi and Terry posed the problem of determining the maximum of the product of the edge multiplicities in
+(n,s,q)-graphs. In this talk we will discuss recent progress on this problem, including a result that shows for infinitely many choices of (s,q), the solution is transcendental. This answers a question of Alon. This is joint work with Nick Day and Victor Falgas-Ravry.
 
 ### July 8, 2021: [Zhiyu Wang](https://people.math.gatech.edu/~zwang672/) (Georgia Institute of Technology)      
 _**Polynomial &chi;-binding functions for t-broom-free graphs**_      [video](https://www.bilibili.com/video/BV1ef4y1L7Kj)
