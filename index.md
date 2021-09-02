@@ -8,8 +8,10 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 ## Current schedule     
 
 ### Sept 13, 2021, 14:00-16:00 (UTC+8): [Xuding Zhu](http://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm) (Zhejiang Normal University)    
-_**1-2-3 Conjecture**_  
+_**On 1-2-3 Conjecture**_  
 [zoom](https://zoom.com.cn/j/81805641942?pwd=UkxUYmRuZURBYW1yWVJGcXhwOWlEZz09) pw 121323
+
+
 
 ## Past talks
 
