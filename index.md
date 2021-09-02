@@ -1,4 +1,4 @@
-This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)), Qiqin Xie ([SCMS](http://www.scms.fudan.edu.cn/)) and [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)).
+This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)), Qiqin Xie ([SHU](hhttps://www.shu.edu.cn/)) and [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)).
 <!-- 
 An international [_**Round the World Relay in Combinatorics**_](http://people.maths.ox.ac.uk/scott/relay.htm) organized by [Alex Scott](http://people.maths.ox.ac.uk/scott/) will take place on Tuesday June 8, 2021.  There will be 22 seminars, hosted by different groups around the world. And we join this event! Our speaker is Professor [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) from Nanjing Normal University. And we won't have seminar on Thursday June 10, 2021. -->
 
