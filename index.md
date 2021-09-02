@@ -11,7 +11,12 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 _**On 1-2-3 Conjecture**_  
 [zoom](https://zoom.com.cn/j/81805641942?pwd=UkxUYmRuZURBYW1yWVJGcXhwOWlEZz09) pw 121323
 
-
+An edge-weighting vertex colouring of a graph G is a mapping f: E(G) &rarr; R such that for any edge uv of G, 
+<span>&sum;</span> <sub>e &in; E(u)</sub>f(e) &ne; <span>&sum;</span> <sub>e &in; E(v)</sub> f(e).  
+The well-known 1-2-3 conjecture asserts that any graph with no isolated edges has an edge-weighting vertex colouring using weights 1,2 and 3.  The list version of this conjecture asserts that if   each edge e is given a list L(e) of 3 real numbers as permissible weights, then there is an edge-weighting vertex colouring f using permissible  weights  for each edge e.  
+   
+In this talk, I will give a detailed sketch of the proof that 
+if each edge e is given a list L(e) of 5 permissible weights, then there is an edge-weighting vertex colouring f using permissible weights from L(e) for each edge e. 
 
 ## Past talks
 
