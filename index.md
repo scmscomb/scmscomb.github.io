@@ -18,6 +18,12 @@ The well-known 1-2-3 conjecture asserts that any graph with no isolated edges ha
 In this talk, I will give a detailed sketch of the proof that 
 if each edge e is given a list L(e) of 5 permissible weights, then there is an edge-weighting vertex colouring f using permissible weights from L(e) for each edge e. 
 
+### Oct 11, 2021, 10:00-11:00 (UTC+8): [Ruth Luo](http://www.math.ucsd.edu/~ruluo/) (UC San Diego)
+
+
+### Oct 18, 2021, 14:00-13:00 (UTC+8): [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
+
+
 ## Past talks
 
 ### July 22, 2021: [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
