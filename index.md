@@ -21,7 +21,7 @@ if each edge e is given a list L(e) of 5 permissible weights, then there is an e
 ### Oct 11, 2021, 10:00-11:00 (UTC+8): [Ruth Luo](http://www.math.ucsd.edu/~ruluo/) (UC San Diego)
 
 
-### Oct 18, 2021, 14:00-13:00 (UTC+8): [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
+### Oct 18, 2021, 14:00-15:00 (UTC+8): [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
 
 
 ## Past talks
