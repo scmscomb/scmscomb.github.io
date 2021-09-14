@@ -30,15 +30,19 @@ Our result strengthens a result by Zhang and Wu, which verifies a conjecture of 
 ## Past talks
 
 ### Sept 13, 2021, 14:00-16:00 (UTC+8): [Xuding Zhu](http://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm) (Zhejiang Normal University)       
-_**On 1-2-3 Conjecture**_  
+_**On 1-2-3 Conjecture**_  [slides](./slides/2021/1-5choosable3.pdf)    
 
+<details>
+  <summary>abstract</summary>   
+   
 An edge-weighting vertex colouring of a graph G is a mapping f: E(G) &rarr; R such that for any edge uv of G, 
 <span>&sum;</span> <sub>e &isin; E(u)</sub>f(e) &ne; <span>&sum;</span> <sub>e &isin; E(v)</sub> f(e).  
 The well-known 1-2-3 conjecture asserts that any graph with no isolated edges has an edge-weighting vertex colouring using weights 1,2 and 3.  The list version of this conjecture asserts that if   each edge e is given a list L(e) of 3 real numbers as permissible weights, then there is an edge-weighting vertex colouring f using permissible  weights  for each edge e.  
    
 In this talk, I will give a detailed sketch of the proof that 
 if each edge e is given a list L(e) of 5 permissible weights, then there is an edge-weighting vertex colouring f using permissible weights from L(e) for each edge e. 
-
+  </details>
+  
 ### July 22, 2021: [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
 _**Decomposing planar graphs under degree restriction**_      
 
