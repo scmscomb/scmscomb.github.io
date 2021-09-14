@@ -7,16 +7,19 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-### Sept 13, 2021, 14:00-16:00 (UTC+8): [Xuding Zhu](http://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm) (Zhejiang Normal University)    
-_**On 1-2-3 Conjecture**_  
-[zoom](https://zoom.com.cn/j/81805641942?pwd=UkxUYmRuZURBYW1yWVJGcXhwOWlEZz09) pw 121323
+### Sept 20, 2021, 10:00-11:00 (UTC+8): [Gexin Yu](https://gyu.people.wm.edu/) (College of William & Mary)
+_**Sufficient conditions for 2-dimensional graph rigidity**_      
+[zoom](https://zoom.com.cn/j/83727013511?pwd=ZWxWSWp2QlBzbWRBMWJ5NVM2eFR0dz09) pw 121323
 
-An edge-weighting vertex colouring of a graph G is a mapping f: E(G) &rarr; R such that for any edge uv of G, 
-<span>&sum;</span> <sub>e &isin; E(u)</sub>f(e) &ne; <span>&sum;</span> <sub>e &isin; E(v)</sub> f(e).  
-The well-known 1-2-3 conjecture asserts that any graph with no isolated edges has an edge-weighting vertex colouring using weights 1,2 and 3.  The list version of this conjecture asserts that if   each edge e is given a list L(e) of 3 real numbers as permissible weights, then there is an edge-weighting vertex colouring f using permissible  weights  for each edge e.  
-   
-In this talk, I will give a detailed sketch of the proof that 
-if each edge e is given a list L(e) of 5 permissible weights, then there is an edge-weighting vertex colouring f using permissible weights from L(e) for each edge e. 
+Abstract:      A graph is rigid in R^d if one places the vertices of the graph in the R^d, in general position, there will be no simultaneous continuous motion of all the points, other than Euclidean congruences, that preserves the lengths of all the graph edges.  In R^2, Geiringer in 1927, and independently Laman in 1970, gave a nice combinatorial characterization of rigid graphs.  Using another characterization, Lov\'asz and Yemini in 1982 showed that every 6-connected graph is rigid.  We give two further sufficient connectivity conditions for a  graph to be rigid.   Our proofs  surprisingly involve a discharging argument.  This is based on a joint work with Xiaofeng Gu, Wei Meng, Martin Rolek, and Yue Wang.
+
+### Sept 27, 2021, 14:00-15:00 (UTC+8): [Jinha Kim](https://sites.google.com/view/jinhakim) (Institute of Basic Science, Korea)
+_**The homotopy type of the independence complex of ternary graphs**_     
+[zoom](https://zoom.com.cn/j/85665957709?pwd=ek95WWllSmFZNTRlZW5oU3pYb0ttUT09)  pw 121323
+
+Abstract: A graph is called a ternary graph if it has no induced cycle of length divisible by 3. We prove Engstr\"{o}m's conjecture that the independence complex of a ternary graph is either contractible or homotopy equivalent to a sphere.
+Our result strengthens a result by Zhang and Wu, which verifies a conjecture of Kalai and Meshulam about the total Betti number of the independence complex of ternary graphs.
+
 
 ### Oct 11, 2021, 10:00-11:00 (UTC+8): [Ruth Luo](http://www.math.ucsd.edu/~ruluo/) (UC San Diego)
 
@@ -25,6 +28,16 @@ if each edge e is given a list L(e) of 5 permissible weights, then there is an e
 
 
 ## Past talks
+
+### Sept 13, 2021, 14:00-16:00 (UTC+8): [Xuding Zhu](http://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm) (Zhejiang Normal University)       
+_**On 1-2-3 Conjecture**_  
+
+An edge-weighting vertex colouring of a graph G is a mapping f: E(G) &rarr; R such that for any edge uv of G, 
+<span>&sum;</span> <sub>e &isin; E(u)</sub>f(e) &ne; <span>&sum;</span> <sub>e &isin; E(v)</sub> f(e).  
+The well-known 1-2-3 conjecture asserts that any graph with no isolated edges has an edge-weighting vertex colouring using weights 1,2 and 3.  The list version of this conjecture asserts that if   each edge e is given a list L(e) of 3 real numbers as permissible weights, then there is an edge-weighting vertex colouring f using permissible  weights  for each edge e.  
+   
+In this talk, I will give a detailed sketch of the proof that 
+if each edge e is given a list L(e) of 5 permissible weights, then there is an edge-weighting vertex colouring f using permissible weights from L(e) for each edge e. 
 
 ### July 22, 2021: [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
 _**Decomposing planar graphs under degree restriction**_      
