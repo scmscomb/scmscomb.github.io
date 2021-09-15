@@ -43,9 +43,8 @@ In this talk, I will give a detailed sketch of the proof that
 if each edge e is given a list L(e) of 5 permissible weights, then there is an edge-weighting vertex colouring f using permissible weights from L(e) for each edge e. 
 </details>
 
-  
- 
- ### July 29, 2021: [Henry Liu](https://math.sysu.edu.cn/teacher/552) (Sun Yat-sen University)    
+
+### July 29, 2021: [Henry Liu](https://math.sysu.edu.cn/teacher/552) (Sun Yat-sen University)    
 _**Highly connected subgraphs of graphs with given independence number**_          [video](https://www.bilibili.com/video/BV1rU4y1P7WE/)
 
 <details>
@@ -57,8 +56,7 @@ Joint work with Shinya Fujita (Yokohama City University, Japan), Boram Park (Ajo
  </details>
   
 
-  
-  
+   
 ### July 22, 2021: [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
 _**Decomposing planar graphs under degree restriction**_       [video](https://www.bilibili.com/video/BV1rQ4y1y7j5/)
 
