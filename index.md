@@ -41,8 +41,10 @@ The well-known 1-2-3 conjecture asserts that any graph with no isolated edges ha
    
 In this talk, I will give a detailed sketch of the proof that 
 if each edge e is given a list L(e) of 5 permissible weights, then there is an edge-weighting vertex colouring f using permissible weights from L(e) for each edge e. 
-  </details>
+</details>
+
   
+ 
  ### July 29, 2021: [Henry Liu](https://math.sysu.edu.cn/teacher/552) (Sun Yat-sen University)    
 _**Highly connected subgraphs of graphs with given independence number**_          [video](https://www.bilibili.com/video/BV1rU4y1P7WE/)
 
@@ -52,7 +54,7 @@ _**Highly connected subgraphs of graphs with given independence number**_       
 Let G be a graph on n vertices with independence number &alpha;. How large a k-connected subgraph must G contain? Such a k-connected subgraph cannot be guaranteed to have more than &LeftCeiling;n/&alpha;&RightCeiling; vertices, since G might be the disjoint union of &alpha; near equal cliques. It turns out that if n is sufficiently large (n&ge;&alpha;<sup>2</sup>k+1 will do), then G always contains a k-connected subgraph on at least &LeftCeiling;n/&alpha;&RightCeiling; vertices. What is the correct threshold for n for which this result is true? Previously with Shinya Fujita and Amites Sarkar in 2018, we determined the exact thresholds for n when &alpha;=2,3. In this talk, we shall present a new result for &alpha;=4. For general  &alpha;, we also present an improvement on the bound n&ge;&alpha;<sup>2</sup>k+1. Finally, several open problems will be mentioned.
 
 Joint work with Shinya Fujita (Yokohama City University, Japan), Boram Park (Ajou University, South Korea), and Amites Sarkar (Western Washington University, USA).
-  </details>
+ </details>
   
 
   
