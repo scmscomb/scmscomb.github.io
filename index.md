@@ -30,7 +30,7 @@ Our result strengthens a result by Zhang and Wu, which verifies a conjecture of 
 ## Past talks
 
 ### Sept 13, 2021, 14:00-16:00 (UTC+8): [Xuding Zhu](http://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm) (Zhejiang Normal University)       
-_**On 1-2-3 Conjecture**_  [slides](./slides/2021/1-5choosable3.pdf)    
+_**On 1-2-3 Conjecture**_        [video](https://www.bilibili.com/video/BV1S64y1h7us/)   [slides](./slides/2021/1-5choosable3.pdf)    
 
 <details>
   <summary>abstract</summary>   
@@ -43,17 +43,8 @@ In this talk, I will give a detailed sketch of the proof that
 if each edge e is given a list L(e) of 5 permissible weights, then there is an edge-weighting vertex colouring f using permissible weights from L(e) for each edge e. 
   </details>
   
-### July 22, 2021: [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
-_**Decomposing planar graphs under degree restriction**_      
-
-<details>
-  <summary>abstract</summary>   
-  
-Given a graph G, a decomposition of G is a partition of its edges. A graph is   (d, h)-decomposable if its edge set can be partitioned into a d-degenerate graph and a graph with maximum degree at most h. For d &le; 4, we are interested in the minimum integer h<sub>d</sub> such that every planar graph is (d,h<sub>d</sub>)-decomposable. It was known that h<sub>3</sub> &le; 4, h<sub>2</sub> &le; 8, and h<sub>1</sub> = &infin;. In this talk, we present a result that h<sub>4</sub>=1, h<sub>3</sub>=2, and 4 &le; h<sub>2</sub> &le; 6.  This is a joint work with Eun-Kyung Cho, Ilkyoo Choi, Ringi Kim, Tingting Shan, Xuding Zhu.
-  </details>
-  
-### July 29, 2021: [Henry Liu](https://math.sysu.edu.cn/teacher/552) (Sun Yat-sen University)    
-_**Highly connected subgraphs of graphs with given independence number**_       
+ ### July 29, 2021: [Henry Liu](https://math.sysu.edu.cn/teacher/552) (Sun Yat-sen University)    
+_**Highly connected subgraphs of graphs with given independence number**_          [video](https://www.bilibili.com/video/BV1rU4y1P7WE/)
 
 <details>
   <summary>abstract</summary>   
@@ -63,8 +54,22 @@ Let G be a graph on n vertices with independence number &alpha;. How large a k-c
 Joint work with Shinya Fujita (Yokohama City University, Japan), Boram Park (Ajou University, South Korea), and Amites Sarkar (Western Washington University, USA).
   </details>
   
+
+  
+  
+### July 22, 2021: [Boram Park](https://sites.google.com/ajou.ac.kr/bpark/) (Ajou University)    
+_**Decomposing planar graphs under degree restriction**_       [video](https://www.bilibili.com/video/BV1rQ4y1y7j5/)
+
+<details>
+  <summary>abstract</summary>   
+  
+Given a graph G, a decomposition of G is a partition of its edges. A graph is   (d, h)-decomposable if its edge set can be partitioned into a d-degenerate graph and a graph with maximum degree at most h. For d &le; 4, we are interested in the minimum integer h<sub>d</sub> such that every planar graph is (d,h<sub>d</sub>)-decomposable. It was known that h<sub>3</sub> &le; 4, h<sub>2</sub> &le; 8, and h<sub>1</sub> = &infin;. In this talk, we present a result that h<sub>4</sub>=1, h<sub>3</sub>=2, and 4 &le; h<sub>2</sub> &le; 6.  This is a joint work with Eun-Kyung Cho, Ilkyoo Choi, Ringi Kim, Tingting Shan, Xuding Zhu.
+  </details>
+  
+
+  
 ### July 15, 2021: [Andrew Treglown](http://web.mat.bham.ac.uk/~tregloac/) (University of Birmingham)   
-_**Extremal problems for multigraphs**_   
+_**Extremal problems for multigraphs**_    [video](https://www.bilibili.com/video/BV1n34y1Q768)
 
 <details>
   <summary>abstract</summary>   
