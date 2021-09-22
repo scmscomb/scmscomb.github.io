@@ -7,12 +7,6 @@ An international [_**Round the World Relay in Combinatorics**_](http://people.ma
 
 ## Current schedule     
 
-### Sept 20, 2021, 10:00-11:00 (UTC+8): [Gexin Yu](https://gyu.people.wm.edu/) (College of William & Mary)
-_**Sufficient conditions for 2-dimensional graph rigidity**_      
-[zoom](https://zoom.com.cn/j/83727013511?pwd=ZWxWSWp2QlBzbWRBMWJ5NVM2eFR0dz09) pw 121323
-
-Abstract:      A graph is rigid in R<sup>d</sup> if one places the vertices of the graph in the R<sup>d</sup>, in general position, there will be no simultaneous continuous motion of all the points, other than Euclidean congruences, that preserves the lengths of all the graph edges.  In R<sup>2</sup>, Geiringer in 1927, and independently Laman in 1970, gave a nice combinatorial characterization of rigid graphs.  Using another characterization, Lovasz and Yemini in 1982 showed that every 6-connected graph is rigid.  We give two further sufficient connectivity conditions for a  graph to be rigid.   Our proofs  surprisingly involve a discharging argument.  This is based on a joint work with Xiaofeng Gu, Wei Meng, Martin Rolek, and Yue Wang.
-
 ### Sept 27, 2021, 14:00-15:00 (UTC+8): [Jinha Kim](https://sites.google.com/view/jinhakim) (Institute of Basic Science, Korea)
 _**The homotopy type of the independence complex of ternary graphs**_     
 [zoom](https://zoom.com.cn/j/85665957709?pwd=ek95WWllSmFZNTRlZW5oU3pYb0ttUT09)  pw 121323
@@ -28,6 +22,11 @@ Our result strengthens a result by Zhang and Wu, which verifies a conjecture of 
 
 
 ## Past talks
+
+### Sept 20, 2021: [Gexin Yu](https://gyu.people.wm.edu/) (College of William & Mary)
+_**Sufficient conditions for 2-dimensional graph rigidity**_      
+
+Abstract:      A graph is rigid in R<sup>d</sup> if one places the vertices of the graph in the R<sup>d</sup>, in general position, there will be no simultaneous continuous motion of all the points, other than Euclidean congruences, that preserves the lengths of all the graph edges.  In R<sup>2</sup>, Geiringer in 1927, and independently Laman in 1970, gave a nice combinatorial characterization of rigid graphs.  Using another characterization, Lovasz and Yemini in 1982 showed that every 6-connected graph is rigid.  We give two further sufficient connectivity conditions for a  graph to be rigid.   Our proofs  surprisingly involve a discharging argument.  This is based on a joint work with Xiaofeng Gu, Wei Meng, Martin Rolek, and Yue Wang.
 
 ### Sept 13, 2021, 14:00-16:00 (UTC+8): [Xuding Zhu](http://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm) (Zhejiang Normal University)       
 _**On 1-2-3 Conjecture**_        [video](https://www.bilibili.com/video/BV1S64y1h7us/)   [slides](./slides/2021/1-5choosable3.pdf)    
