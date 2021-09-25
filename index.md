@@ -16,7 +16,9 @@ Our result strengthens a result by Zhang and Wu, which verifies a conjecture of 
 
 
 ### Oct 11, 2021, 10:00-11:00 (UTC+8): [Ruth Luo](http://www.math.ucsd.edu/~ruluo/) (UC San Diego)
+_**A Dirac Theorem for hamiltonian hypergraphs**_     
 
+Dirac proved that every n-vertex graph with minimum degree at least n/2 contains a hamiltonian cycle. We prove an analogue for hypergraphs: we give exact bounds for the minimum degree of a uniform hypergraph that implies the existence of hamiltonian Berge cycles. This is joint work with Alexandr Kostochka and Grace McCourt.
 
 ### Oct 18, 2021, 14:00-15:00 (UTC+8): [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
 
