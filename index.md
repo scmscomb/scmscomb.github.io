@@ -1,19 +1,10 @@
 This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)), Qiqin Xie ([SHU](https://www.shu.edu.cn/)) and [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)).
-<!-- 
-An international [_**Round the World Relay in Combinatorics**_](http://people.maths.ox.ac.uk/scott/relay.htm) organized by [Alex Scott](http://people.maths.ox.ac.uk/scott/) will take place on Tuesday June 8, 2021.  There will be 22 seminars, hosted by different groups around the world. And we join this event! Our speaker is Professor [Baogang Xu](https://math.njnu.edu.cn/info/1010/2764.htm) from Nanjing Normal University. And we won't have seminar on Thursday June 10, 2021. -->
+
 
 <!-- You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb). --> 
 
 
 ## Current schedule     
-
-### Sept 27, 2021, 14:00-15:00 (UTC+8): [Jinha Kim](https://sites.google.com/view/jinhakim) (Institute of Basic Science, Korea)
-_**The homotopy type of the independence complex of ternary graphs**_     
-[zoom](https://zoom.com.cn/j/85665957709?pwd=ek95WWllSmFZNTRlZW5oU3pYb0ttUT09)  pw 121323
-
-Abstract: A graph is called a ternary graph if it has no induced cycle of length divisible by 3. We prove Engstr\"{o}m's conjecture that the independence complex of a ternary graph is either contractible or homotopy equivalent to a sphere.
-Our result strengthens a result by Zhang and Wu, which verifies a conjecture of Kalai and Meshulam about the total Betti number of the independence complex of ternary graphs.
-
 
 ### Oct 11, 2021, 10:00-11:00 (UTC+8): [Ruth Luo](http://www.math.ucsd.edu/~ruluo/) (UC San Diego)
 _**A Dirac Theorem for hamiltonian hypergraphs**_     
@@ -27,10 +18,24 @@ Dirac proved that every n-vertex graph with minimum degree at least n/2 contains
 
 ## Past talks
 
-### Sept 20, 2021: [Gexin Yu](https://gyu.people.wm.edu/) (College of William & Mary)
-_**Sufficient conditions for 2-dimensional graph rigidity**_      
+### Sept 27, 2021, 14:00-15:00 (UTC+8): [Jinha Kim](https://sites.google.com/view/jinhakim) (Institute of Basic Science, Korea)
+_**The homotopy type of the independence complex of ternary graphs**_       [video](https://www.bilibili.com/video/BV1Qv411g7mk/)
 
-Abstract:      A graph is rigid in R<sup>d</sup> if one places the vertices of the graph in the R<sup>d</sup>, in general position, there will be no simultaneous continuous motion of all the points, other than Euclidean congruences, that preserves the lengths of all the graph edges.  In R<sup>2</sup>, Geiringer in 1927, and independently Laman in 1970, gave a nice combinatorial characterization of rigid graphs.  Using another characterization, Lovasz and Yemini in 1982 showed that every 6-connected graph is rigid.  We give two further sufficient connectivity conditions for a  graph to be rigid.   Our proofs  surprisingly involve a discharging argument.  This is based on a joint work with Xiaofeng Gu, Wei Meng, Martin Rolek, and Yue Wang.
+<details>
+  <summary>abstract</summary>   
+  
+  A graph is called a ternary graph if it has no induced cycle of length divisible by 3. We prove Engstr\"{o}m's conjecture that the independence complex of a ternary graph is either contractible or homotopy equivalent to a sphere.
+Our result strengthens a result by Zhang and Wu, which verifies a conjecture of Kalai and Meshulam about the total Betti number of the independence complex of ternary graphs.
+</details>
+
+### Sept 20, 2021: [Gexin Yu](https://gyu.people.wm.edu/) (College of William & Mary)
+_**Sufficient conditions for 2-dimensional graph rigidity**_          [video](https://www.bilibili.com/video/BV1Kv41137iL/)
+
+<details>
+  <summary>abstract</summary>   
+  
+  A graph is rigid in R<sup>d</sup> if one places the vertices of the graph in the R<sup>d</sup>, in general position, there will be no simultaneous continuous motion of all the points, other than Euclidean congruences, that preserves the lengths of all the graph edges.  In R<sup>2</sup>, Geiringer in 1927, and independently Laman in 1970, gave a nice combinatorial characterization of rigid graphs.  Using another characterization, Lovasz and Yemini in 1982 showed that every 6-connected graph is rigid.  We give two further sufficient connectivity conditions for a  graph to be rigid.   Our proofs  surprisingly involve a discharging argument.  This is based on a joint work with Xiaofeng Gu, Wei Meng, Martin Rolek, and Yue Wang.
+</details>
 
 ### Sept 13, 2021, 14:00-16:00 (UTC+8): [Xuding Zhu](http://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm) (Zhejiang Normal University)       
 _**On 1-2-3 Conjecture**_        [video](https://www.bilibili.com/video/BV1S64y1h7us/)   [slides](./slides/2021/1-5choosable3.pdf)    
