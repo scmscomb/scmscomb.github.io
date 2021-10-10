@@ -19,7 +19,7 @@ Dirac proved that every n-vertex graph with minimum degree at least n/2 contains
 ## Past talks
 
 ### Sept 27, 2021, 14:00-15:00 (UTC+8): [Jinha Kim](https://sites.google.com/view/jinhakim) (Institute of Basic Science, Korea)
-_**The homotopy type of the independence complex of ternary graphs**_       [video](https://www.bilibili.com/video/BV1Qv411g7mk/)
+_**The homotopy type of the independence complex of ternary graphs**_       [video](https://www.bilibili.com/video/BV1Qv411g7mk/)   [slides](./slides/2021/slides_jinhakim.pdf)   
 
 <details>
   <summary>abstract</summary>   
