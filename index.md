@@ -6,11 +6,7 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 ## Current schedule     
 
-### Oct 11, 2021, 10:00-11:00 (UTC+8): [Ruth Luo](http://www.math.ucsd.edu/~ruluo/) (UC San Diego)
-_**A Dirac Theorem for hamiltonian hypergraphs**_     
-[zoom](https://zoom.us/j/89895497373?pwd=aFhxYWNxa3NncmRiSy9zcTgvSkFLZz09)  pw 121323
 
-Dirac proved that every n-vertex graph with minimum degree at least n/2 contains a hamiltonian cycle. We prove an analogue for hypergraphs: we give exact bounds for the minimum degree of a uniform hypergraph that implies the existence of hamiltonian Berge cycles. This is joint work with Alexandr Kostochka and Grace McCourt.
 
 ### Oct 18, 2021, 14:00-15:00 (UTC+8): [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
 [zoom](https://zoom.us/j/88978206606?pwd=ZlpzVlpOK1ZDRTN6QnkyR0Fvd1FNQT09)  pw 121323
@@ -18,7 +14,12 @@ Dirac proved that every n-vertex graph with minimum degree at least n/2 contains
 
 ## Past talks
 
-### Sept 27, 2021, 14:00-15:00 (UTC+8): [Jinha Kim](https://sites.google.com/view/jinhakim) (Institute of Basic Science, Korea)
+### Oct 11, 2021: [Ruth Luo](http://www.math.ucsd.edu/~ruluo/) (UC San Diego)
+_**A Dirac Theorem for hamiltonian hypergraphs**_     [video](https://www.bilibili.com/video/BV1gf4y1g7t8/) 
+
+Dirac proved that every n-vertex graph with minimum degree at least n/2 contains a hamiltonian cycle. We prove an analogue for hypergraphs: we give exact bounds for the minimum degree of a uniform hypergraph that implies the existence of hamiltonian Berge cycles. This is joint work with Alexandr Kostochka and Grace McCourt.
+
+### Sept 27, 2021: [Jinha Kim](https://sites.google.com/view/jinhakim) (Institute of Basic Science, Korea)
 _**The homotopy type of the independence complex of ternary graphs**_       [video](https://www.bilibili.com/video/BV1Qv411g7mk/)   [slides](./slides/2021/slides_jinhakim.pdf)   
 
 <details>
