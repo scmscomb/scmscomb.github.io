@@ -9,7 +9,12 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 
 ### Oct 18, 2021, 14:00-15:00 (UTC+8): [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
+_**A short survey on properly colored connectivity of graphs**_     
 [zoom](https://zoom.us/j/88978206606?pwd=ZlpzVlpOK1ZDRTN6QnkyR0Fvd1FNQT09)  pw 121323
+
+Abstract: We consider edge-colored connected graphs. An edge-colored graph is called properly colored if no two adjacent edges share a color. 
+We say that an edge-colored graph is properly connected, if between every pair of distinct vertices, there exists a properly colored path connecting them. 
+In this talk, we focus on edge-colored graphs that are properly connected and some recent results in this topic will be reviewed. 
 
 
 ## Past talks
