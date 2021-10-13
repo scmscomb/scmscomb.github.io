@@ -16,6 +16,14 @@ Abstract: We consider edge-colored connected graphs. An edge-colored graph is ca
 We say that an edge-colored graph is properly connected, if between every pair of distinct vertices, there exists a properly colored path connecting them. 
 In this talk, we focus on edge-colored graphs that are properly connected and some recent results in this topic will be reviewed. 
 
+### Oct 25, 2021, 09:00-10:00 (UTC+8): [Bhargav Narayanan](https://sites.math.rutgers.edu/~narayanan/) (Rutgers University)
+_**Friendly Bisections of Random Graphs**_     
+[zoom](https://zoom.us/j/82735016070?pwd=Q2VmSEFLWVFHMzQ4VzhuTVpzVEhTZz09)  pw 121323
+
+We prove that with high probability, the random graph G(n,1/2) on an even number of vertices admits a partition of its vertex set into two parts of equal size in which n − o(n) vertices have more neighbours on their own side than across. This settles an old conjecture of Furedi from 1988, which also appears as Problem 91 in Green’s list of 100 open problems.
+
+### Nov 22, 2021, 14:00-15:00 (UTC+8): [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University)
+
 
 ## Past talks
 
