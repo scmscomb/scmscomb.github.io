@@ -24,6 +24,7 @@ We prove that with high probability, the random graph G(n,1/2) on an even number
 
 ### Nov 22, 2021, 14:00-15:00 (UTC+8): [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University)
 
+### Nov 29, 2021: [Ross Kang](https://www.math.ru.nl/~rkang/) (Radboud University)
 
 ## Past talks
 
