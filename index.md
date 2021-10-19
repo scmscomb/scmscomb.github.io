@@ -6,16 +6,6 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 ## Current schedule     
 
-
-
-### Oct 18, 2021, 14:00-15:00 (UTC+8): [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
-_**A short survey on properly colored connectivity of graphs**_     
-[zoom](https://zoom.us/j/88978206606?pwd=ZlpzVlpOK1ZDRTN6QnkyR0Fvd1FNQT09)  pw 121323
-
-Abstract: We consider edge-colored connected graphs. An edge-colored graph is called properly colored if no two adjacent edges share a color. 
-We say that an edge-colored graph is properly connected, if between every pair of distinct vertices, there exists a properly colored path connecting them. 
-In this talk, we focus on edge-colored graphs that are properly connected and some recent results in this topic will be reviewed. 
-
 ### Oct 25, 2021, 09:00-10:00 (UTC+8): [Bhargav Narayanan](https://sites.math.rutgers.edu/~narayanan/) (Rutgers University)
 _**Friendly Bisections of Random Graphs**_     
 [zoom](https://zoom.us/j/82735016070?pwd=Q2VmSEFLWVFHMzQ4VzhuTVpzVEhTZz09)  pw 121323
@@ -28,11 +18,28 @@ We prove that with high probability, the random graph G(n,1/2) on an even number
 
 ## Past talks
 
+### Oct 18, 2021: [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
+_**A short survey on properly colored connectivity of graphs**_     [video](https://www.bilibili.com/video/BV1JQ4y1z7sC/)
+
+
+<details>
+  <summary>abstract</summary>   
+
+We consider edge-colored connected graphs. An edge-colored graph is called properly colored if no two adjacent edges share a color. 
+We say that an edge-colored graph is properly connected, if between every pair of distinct vertices, there exists a properly colored path connecting them. 
+In this talk, we focus on edge-colored graphs that are properly connected and some recent results in this topic will be reviewed. 
+</details>
+
 ### Oct 11, 2021: [Ruth Luo](http://www.math.ucsd.edu/~ruluo/) (UC San Diego)
 _**A Dirac Theorem for hamiltonian hypergraphs**_     [video](https://www.bilibili.com/video/BV1gf4y1g7t8/) 
 
-Dirac proved that every n-vertex graph with minimum degree at least n/2 contains a hamiltonian cycle. We prove an analogue for hypergraphs: we give exact bounds for the minimum degree of a uniform hypergraph that implies the existence of hamiltonian Berge cycles. This is joint work with Alexandr Kostochka and Grace McCourt.
 
+<details>
+  <summary>abstract</summary>   
+
+Dirac proved that every n-vertex graph with minimum degree at least n/2 contains a hamiltonian cycle. We prove an analogue for hypergraphs: we give exact bounds for the minimum degree of a uniform hypergraph that implies the existence of hamiltonian Berge cycles. This is joint work with Alexandr Kostochka and Grace McCourt.
+</details>
+  
 ### Sept 27, 2021: [Jinha Kim](https://sites.google.com/view/jinhakim) (Institute of Basic Science, Korea)
 _**The homotopy type of the independence complex of ternary graphs**_       [video](https://www.bilibili.com/video/BV1Qv411g7mk/)   [slides](./slides/2021/slides_jinhakim.pdf)   
 
