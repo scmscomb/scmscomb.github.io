@@ -12,6 +12,8 @@ _**Friendly Bisections of Random Graphs**_
 
 We prove that with high probability, the random graph G(n,1/2) on an even number of vertices admits a partition of its vertex set into two parts of equal size in which n − o(n) vertices have more neighbours on their own side than across. This settles an old conjecture of Furedi from 1988, which also appears as Problem 91 in Green’s list of 100 open problems.
 
+### Nov 1, 2021, 14:00-15:00 (UTC+8): [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) (SJTU)
+
 ### Nov 22, 2021, 14:00-15:00 (UTC+8): [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University)
 
 ### Nov 29, 2021: [Ross Kang](https://www.math.ru.nl/~rkang/) (Radboud University)
