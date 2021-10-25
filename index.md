@@ -14,6 +14,10 @@ We prove that with high probability, the random graph G(n,1/2) on an even number
 
 ### Nov 1, 2021, 14:00-15:00 (UTC+8): [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) (SJTU)
 
+### Nov 8, 2021, 14:00-15:00 (UTC+8): [Tuan Tran](https://tuaentran.wixsite.com/homepage) (IBS, Korea)
+
+### Nov 15, 2021, 14:00-15:00 (UTC+8): [Qizhong Lin](https://math.fzu.edu.cn/info/1091/1946.htm) (Fuzhou University)
+
 ### Nov 22, 2021, 14:00-15:00 (UTC+8): [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University)
 
 ### Nov 29, 2021: [Ross Kang](https://www.math.ru.nl/~rkang/) (Radboud University)
