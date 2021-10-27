@@ -8,6 +8,7 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 ### Nov 1, 2021, 14:00-15:00 (UTC+8): [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) (SJTU)
 _**Balanced subdivisions of a large clique in graphs with high average degree**_     
+[zoom](https://zoom.us/j/87449065937?pwd=SXB5b3h5SXljNmxwanpYNFpyOXBMQT09) pw 121323
 
 In 1984, Thomassen conjectured that for every constant k &in; N, there exists d such that every graph with average degree at least d contains a subdivision of a complete graph on k vertices in which each edge is subdivided the same number of times. Recently, Liu and Montgomery confirmed Thomassen's conjecture. In this talk, we show that for sufficiently large d, every n-vertex graph with average degree at least d contains a subdivision of a complete graph of size at least &Omega;(d<sup>1/2</sup>/log<sup>10</sup>n) in which each edge is subdivided the same number of times.
 
