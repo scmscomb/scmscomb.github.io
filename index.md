@@ -6,13 +6,10 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 ## Current schedule     
 
-### Oct 25, 2021, 09:00-10:00 (UTC+8): [Bhargav Narayanan](https://sites.math.rutgers.edu/~narayanan/) (Rutgers University)
-_**Friendly Bisections of Random Graphs**_     
-[zoom](https://zoom.us/j/82735016070?pwd=Q2VmSEFLWVFHMzQ4VzhuTVpzVEhTZz09)  pw 121323
-
-We prove that with high probability, the random graph G(n,1/2) on an even number of vertices admits a partition of its vertex set into two parts of equal size in which n − o(n) vertices have more neighbours on their own side than across. This settles an old conjecture of Furedi from 1988, which also appears as Problem 91 in Green’s list of 100 open problems.
-
 ### Nov 1, 2021, 14:00-15:00 (UTC+8): [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) (SJTU)
+_**Balanced subdivisions of a large clique in graphs with high average degree**_     
+
+In 1984, Thomassen conjectured that for every constant k &in; N, there exists d such that every graph with average degree at least d contains a subdivision of a complete graph on k vertices in which each edge is subdivided the same number of times. Recently, Liu and Montgomery confirmed Thomassen's conjecture. In this talk, we show that for sufficiently large d, every n-vertex graph with average degree at least d contains a subdivision of a complete graph of size at least &Omega;(d<sup>1/2</sup>/log<sup>10</sup>n) in which each edge is subdivided the same number of times.
 
 ### Nov 8, 2021, 14:00-15:00 (UTC+8): [Tuan Tran](https://tuaentran.wixsite.com/homepage) (IBS, Korea)
 
@@ -26,6 +23,11 @@ _**Colouring graphs of bounded local density**_
 What is the best upper bound on the chromatic number for graphs of given maximum degree $\Delta$ and given maximum local density -- that is, with neighbourhood subgraphs each inducing at most a certain edge density? This Ramsey-type problem has deep roots going back more than half a century, for example, to a question of Vizing from the 1960s on triangle-free graphs, corresponding to local density 0. I will give a quick survey of the history of this question, particularly for large $\Delta$, including discussion of some selected related problems (such as the conjecture of Erdos and Nesetril). Then I will discuss some recent progress on this problem, with emphasis on the regime of dense (i.e. $\Theta(\Delta)$) local sparsity. This talk will touch on numerous joint works with, variously, Davies, Hurley, de Joannis de Verclos, Pirot, Sereni.
 
 ## Past talks
+
+### Oct 25, 2021: [Bhargav Narayanan](https://sites.math.rutgers.edu/~narayanan/) (Rutgers University)
+_**Friendly Bisections of Random Graphs**_     [video](https://www.bilibili.com/video/bv1DR4y177b1)    [slides](./slides/2021/Bisections_20211025.pdf)
+
+We prove that with high probability, the random graph G(n,1/2) on an even number of vertices admits a partition of its vertex set into two parts of equal size in which n − o(n) vertices have more neighbours on their own side than across. This settles an old conjecture of Furedi from 1988, which also appears as Problem 91 in Green’s list of 100 open problems.
 
 ### Oct 18, 2021: [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
 _**A short survey on properly colored connectivity of graphs**_     [video](https://www.bilibili.com/video/BV1JQ4y1z7sC/)
