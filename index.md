@@ -6,13 +6,17 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 ## Current schedule     
 
-### Nov 1, 2021, 14:00-15:00 (UTC+8): [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) (SJTU)
-_**Balanced subdivisions of a large clique in graphs with high average degree**_     
-[zoom](https://zoom.us/j/87449065937?pwd=SXB5b3h5SXljNmxwanpYNFpyOXBMQT09) pw 121323
-
-In 1984, Thomassen conjectured that for every constant k &in; N, there exists d such that every graph with average degree at least d contains a subdivision of a complete graph on k vertices in which each edge is subdivided the same number of times. Recently, Liu and Montgomery confirmed Thomassen's conjecture. In this talk, we show that for sufficiently large d, every n-vertex graph with average degree at least d contains a subdivision of a complete graph of size at least &Omega;(d<sup>1/2</sup>/log<sup>10</sup>n) in which each edge is subdivided the same number of times.
-
 ### Nov 8, 2021, 14:00-15:00 (UTC+8): [Tuan Tran](https://tuaentran.wixsite.com/homepage) (IBS, Korea)
+_**Maximal 3-wise intersecting families**_       
+[zoom](https://zoom.us/j/89732289081?pwd=QXl5SVJHcTR0UVFRSzhjeVpBRTlSZz09) pw 121323
+
+A family F of subsets of {1,2,…,n} is called maximal k-wise intersecting if every collection of at most k members from F has a common element, and moreover, no set can be added to F while preserving this property. 
+In 1974, Erdős and Kleitman asked for the smallest possible size of a maximal k-wise intersecting family, for k≥3. 
+We resolve this problem for k=3 and n even and sufficiently large.
+
+This is joint work with Ben Lund, Kevin Hendrey, Casey Tompkins.
+
+
 
 ### Nov 15, 2021, 14:00-15:00 (UTC+8): [Qizhong Lin](https://math.fzu.edu.cn/info/1091/1946.htm) (Fuzhou University)
 
@@ -25,10 +29,23 @@ What is the best upper bound on the chromatic number for graphs of given maximum
 
 ## Past talks
 
+### Nov 1, 2021: [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) (SJTU)
+_**Balanced subdivisions of a large clique in graphs with high average degree**_     
+
+<details>
+  <summary>abstract</summary>   
+  
+In 1984, Thomassen conjectured that for every constant k &in; N, there exists d such that every graph with average degree at least d contains a subdivision of a complete graph on k vertices in which each edge is subdivided the same number of times. Recently, Liu and Montgomery confirmed Thomassen's conjecture. In this talk, we show that for sufficiently large d, every n-vertex graph with average degree at least d contains a subdivision of a complete graph of size at least &Omega;(d<sup>1/2</sup>/log<sup>10</sup>n) in which each edge is subdivided the same number of times.
+  </details>
+
 ### Oct 25, 2021: [Bhargav Narayanan](https://sites.math.rutgers.edu/~narayanan/) (Rutgers University)
 _**Friendly Bisections of Random Graphs**_     [video](https://www.bilibili.com/video/bv1DR4y177b1)    [slides](./slides/2021/Bisections_20211025.pdf)
 
+<details>
+  <summary>abstract</summary>   
+  
 We prove that with high probability, the random graph G(n,1/2) on an even number of vertices admits a partition of its vertex set into two parts of equal size in which n − o(n) vertices have more neighbours on their own side than across. This settles an old conjecture of Furedi from 1988, which also appears as Problem 91 in Green’s list of 100 open problems.
+  </details>
 
 ### Oct 18, 2021: [Shinya Fujita](http://www2u.biglobe.ne.jp/~sfujita/newmath.htm) (Yokohama City University)
 _**A short survey on properly colored connectivity of graphs**_     [video](https://www.bilibili.com/video/BV1JQ4y1z7sC/)
