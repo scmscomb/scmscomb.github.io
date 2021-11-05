@@ -27,6 +27,8 @@ _**Colouring graphs of bounded local density**_
 
 What is the best upper bound on the chromatic number for graphs of given maximum degree $\Delta$ and given maximum local density -- that is, with neighbourhood subgraphs each inducing at most a certain edge density? This Ramsey-type problem has deep roots going back more than half a century, for example, to a question of Vizing from the 1960s on triangle-free graphs, corresponding to local density 0. I will give a quick survey of the history of this question, particularly for large $\Delta$, including discussion of some selected related problems (such as the conjecture of Erdos and Nesetril). Then I will discuss some recent progress on this problem, with emphasis on the regime of dense (i.e. $\Theta(\Delta)$) local sparsity. This talk will touch on numerous joint works with, variously, Davies, Hurley, de Joannis de Verclos, Pirot, Sereni.
 
+### Dec 6, 2021, 14:00-15:00 (UTC+8): [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
+
 ## Past talks
 
 ### Nov 1, 2021: [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) (SJTU)
