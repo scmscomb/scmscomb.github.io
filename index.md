@@ -19,6 +19,7 @@ This is joint work with Ben Lund, Kevin Hendrey, Casey Tompkins.
 
 
 ### Nov 15, 2021, 14:00-15:00 (UTC+8): [Qizhong Lin](https://math.fzu.edu.cn/info/1091/1946.htm) (Fuzhou University)
+_**Ramsey numbers of 4-cycle versus books**_       
 
 ### Nov 22, 2021, 14:00-15:00 (UTC+8): [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University)
 
