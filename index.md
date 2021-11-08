@@ -21,12 +21,28 @@ This is joint work with Ben Lund, Kevin Hendrey, Casey Tompkins.
 ### Nov 15, 2021, 14:00-15:00 (UTC+8): [Qizhong Lin](https://math.fzu.edu.cn/info/1091/1946.htm) (Fuzhou University)
 _**Ramsey numbers of 4-cycle versus books**_       
 
+A book B<sub>n</sub>  is a graph which consists of n triangles sharing a common edge.
+ In this paper, we study  Ramsey numbers of quadrilateral versus books.
+ Previous results give the exact value of r(C<sub>4</sub> ,B<sub>n</sub>) for 1&le; n&le; 14.
+ We aim to determine the  exact value of r(C<sub>4</sub> ,B<sub>n</sub>) for infinitely many n.
+ To achieve this, we first prove that r(C<sub>4</sub>,B<sub>(m-1)<sup>2</sup>+(t-2)</sub>)&le; m<sup>2</sup>+t for m&ge;4 and 0 &le; t &le; m-1. This improves upon a result  by Faudree, Rousseau and Sheehan (1978) which states that
+
+
+r(C<sub>4</sub> ,B<sub>n</sub>) &le; g(g(n)), where g(n)=n+⌊&radic;(n-1)⌋+2.
+
+
+Combining the new upper bound and constructions of C<sub>4</sub>-free graphs, we are able to determine the exact value of r(C<sub>4</sub> ,B<sub>n</sub>) for infinitely many n.
+As a special case, we show r(C<sub>4</sub>,B<sub>q<sup>2</sup>-q-2</sub>) = q<sup>2</sup>+q-1 for all prime powers q&ge;4.
+
+Joint with Tianyu Li and Xing Peng.
+
+
 ### Nov 22, 2021, 14:00-15:00 (UTC+8): [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University)
 
 ### Nov 29, 2021: [Ross Kang](https://www.math.ru.nl/~rkang/) (Radboud University)
 _**Colouring graphs of bounded local density**_       
 
-What is the best upper bound on the chromatic number for graphs of given maximum degree $\Delta$ and given maximum local density -- that is, with neighbourhood subgraphs each inducing at most a certain edge density? This Ramsey-type problem has deep roots going back more than half a century, for example, to a question of Vizing from the 1960s on triangle-free graphs, corresponding to local density 0. I will give a quick survey of the history of this question, particularly for large $\Delta$, including discussion of some selected related problems (such as the conjecture of Erdos and Nesetril). Then I will discuss some recent progress on this problem, with emphasis on the regime of dense (i.e. $\Theta(\Delta)$) local sparsity. This talk will touch on numerous joint works with, variously, Davies, Hurley, de Joannis de Verclos, Pirot, Sereni.
+What is the best upper bound on the chromatic number for graphs of given maximum degree &#916; and given maximum local density -- that is, with neighbourhood subgraphs each inducing at most a certain edge density? This Ramsey-type problem has deep roots going back more than half a century, for example, to a question of Vizing from the 1960s on triangle-free graphs, corresponding to local density 0. I will give a quick survey of the history of this question, particularly for large Δ, including discussion of some selected related problems (such as the conjecture of Erdos and Nesetril). Then I will discuss some recent progress on this problem, with emphasis on the regime of dense (i.e. &Theta;(Δ)) local sparsity. This talk will touch on numerous joint works with, variously, Davies, Hurley, de Joannis de Verclos, Pirot, Sereni.
 
 ### Dec 6, 2021, 14:00-15:00 (UTC+8): [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
 
