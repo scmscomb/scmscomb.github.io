@@ -6,35 +6,19 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 ## Current schedule     
 
-### Nov 8, 2021, 14:00-15:00 (UTC+8): [Tuan Tran](https://tuaentran.wixsite.com/homepage) (IBS, Korea)
-_**Maximal 3-wise intersecting families**_       
-[zoom](https://zoom.us/j/89732289081?pwd=QXl5SVJHcTR0UVFRSzhjeVpBRTlSZz09) pw 121323
-
-A family F of subsets of {1,2,…,n} is called maximal k-wise intersecting if every collection of at most k members from F has a common element, and moreover, no set can be added to F while preserving this property. 
-In 1974, Erdős and Kleitman asked for the smallest possible size of a maximal k-wise intersecting family, for k≥3. 
-We resolve this problem for k=3 and n even and sufficiently large.
-
-This is joint work with Ben Lund, Kevin Hendrey, Casey Tompkins.
-
-
-
 ### Nov 15, 2021, 14:00-15:00 (UTC+8): [Qizhong Lin](https://math.fzu.edu.cn/info/1091/1946.htm) (Fuzhou University)
 _**Ramsey numbers of 4-cycle versus books**_       
+[zoom](https://zoom.us/j/84136963399?pwd=c043RDErdGtRUUdreXlod0p0V09zUT09) pw 121323
 
 A book B<sub>n</sub>  is a graph which consists of n triangles sharing a common edge.
  In this paper, we study  Ramsey numbers of quadrilateral versus books.
  Previous results give the exact value of r(C<sub>4</sub> ,B<sub>n</sub>) for 1&le; n&le; 14.
  We aim to determine the  exact value of r(C<sub>4</sub> ,B<sub>n</sub>) for infinitely many n.
- To achieve this, we first prove that r(C<sub>4</sub>,B<sub>(m-1)<sup>2</sup>+(t-2)</sub>)&le; m<sup>2</sup>+t for m&ge;4 and 0 &le; t &le; m-1. This improves upon a result  by Faudree, Rousseau and Sheehan (1978) which states that
-
-
-r(C<sub>4</sub> ,B<sub>n</sub>) &le; g(g(n)), where g(n)=n+⌊&radic;(n-1)⌋+2.
-
-
-Combining the new upper bound and constructions of C<sub>4</sub>-free graphs, we are able to determine the exact value of r(C<sub>4</sub> ,B<sub>n</sub>) for infinitely many n.
 As a special case, we show r(C<sub>4</sub>,B<sub>q<sup>2</sup>-q-2</sub>) = q<sup>2</sup>+q-1 for all prime powers q&ge;4.
+We will also consider a conjecture proposed by Fox, He and Wigderson (arXiv:2109.09205v1, 2021).
 
-Joint with Tianyu Li and Xing Peng.
+Joint with Chunchao Fan, Tianyu Li and Xing Peng.
+
 
 
 ### Nov 22, 2021, 14:00-15:00 (UTC+8): [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University)
@@ -47,6 +31,15 @@ What is the best upper bound on the chromatic number for graphs of given maximum
 ### Dec 6, 2021, 14:00-15:00 (UTC+8): [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
 
 ## Past talks
+
+### Nov 8, 2021: [Tuan Tran](https://tuaentran.wixsite.com/homepage) (IBS, Korea)
+_**Maximal 3-wise intersecting families**_       
+
+A family F of subsets of {1,2,…,n} is called maximal k-wise intersecting if every collection of at most k members from F has a common element, and moreover, no set can be added to F while preserving this property. 
+In 1974, Erdős and Kleitman asked for the smallest possible size of a maximal k-wise intersecting family, for k≥3. 
+We resolve this problem for k=3 and n even and sufficiently large.
+
+This is joint work with Ben Lund, Kevin Hendrey, Casey Tompkins.
 
 ### Nov 1, 2021: [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) (SJTU)
 _**Balanced subdivisions of a large clique in graphs with high average degree**_     
