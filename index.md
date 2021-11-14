@@ -33,16 +33,21 @@ What is the best upper bound on the chromatic number for graphs of given maximum
 ## Past talks
 
 ### Nov 8, 2021: [Tuan Tran](https://tuaentran.wixsite.com/homepage) (IBS, Korea)
-_**Maximal 3-wise intersecting families**_       
+_**Maximal 3-wise intersecting families**_       [video](https://www.bilibili.com/video/BV17Y411x7GN)
 
+<details>
+  <summary>abstract</summary> 
+ 
 A family F of subsets of {1,2,…,n} is called maximal k-wise intersecting if every collection of at most k members from F has a common element, and moreover, no set can be added to F while preserving this property. 
 In 1974, Erdős and Kleitman asked for the smallest possible size of a maximal k-wise intersecting family, for k≥3. 
 We resolve this problem for k=3 and n even and sufficiently large.
 
 This is joint work with Ben Lund, Kevin Hendrey, Casey Tompkins.
-
+  </details>
+  
+  
 ### Nov 1, 2021: [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) (SJTU)
-_**Balanced subdivisions of a large clique in graphs with high average degree**_     
+_**Balanced subdivisions of a large clique in graphs with high average degree**_      [video](https://www.bilibili.com/video/BV1fr4y1C7jV)
 
 <details>
   <summary>abstract</summary>   
