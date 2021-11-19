@@ -1,4 +1,4 @@
-This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)), Qiqin Xie ([SHU](https://www.shu.edu.cn/)) and [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)).
+This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)), [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)), [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) ([SJTU](https://www.sjtu.edu.cn/)) and Qiqin Xie ([SHU](https://www.shu.edu.cn/)).
 
 
 <!-- You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb). --> 
@@ -6,9 +6,25 @@ This online seminar is organized by [Hehui Wu](http://www.scms.fudan.edu.cn/Data
 
 ## Current schedule     
 
-### Nov 15, 2021, 14:00-15:00 (UTC+8): [Qizhong Lin](https://math.fzu.edu.cn/info/1091/1946.htm) (Fuzhou University)
+### Nov 22, 2021, 14:00-15:00 (UTC+8): [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University)
+_**Applications of sublinear expanders**_        
+[zoom](https://zoom.us/j/85876419724?pwd=bzNCL21jd1BqZ3QrTGczRXZFWFUxdz09) pw 121323
+
+We will introduce the sublinear expander and cover some applications of sublinear expander. We prove that for any bipartite graph H, every H-free graph G with average degree d contains a clique immersion of order (1 − o(1))d, implying that Lescure and Meyniel’s conjecture holds asymptotically for graphs without fixed bipartite graph. We also mention the existence of cycles in hypercubes. 
+
+
+### Nov 29, 2021, 16:00-17:00 (UTC+8): [Ross Kang](https://www.math.ru.nl/~rkang/) (Radboud University)
+_**Colouring graphs of bounded local density**_       
+[zoom](https://zoom.us/j/83636128206?pwd=NWRaZUg2czJEb0JmbkVYUVh4UGhLUT09) pw 121323
+
+What is the best upper bound on the chromatic number for graphs of given maximum degree &#916; and given maximum local density -- that is, with neighbourhood subgraphs each inducing at most a certain edge density? This Ramsey-type problem has deep roots going back more than half a century, for example, to a question of Vizing from the 1960s on triangle-free graphs, corresponding to local density 0. I will give a quick survey of the history of this question, particularly for large Δ, including discussion of some selected related problems (such as the conjecture of Erdos and Nesetril). Then I will discuss some recent progress on this problem, with emphasis on the regime of dense (i.e. &Theta;(Δ)) local sparsity. This talk will touch on numerous joint works with, variously, Davies, Hurley, de Joannis de Verclos, Pirot, Sereni.
+
+### Dec 6, 2021, 14:00-15:00 (UTC+8): [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
+
+## Past talks
+
+### Nov 15, 2021: [Qizhong Lin](https://math.fzu.edu.cn/info/1091/1946.htm) (Fuzhou University)
 _**Ramsey numbers of 4-cycle versus books**_       
-[zoom](https://zoom.us/j/84136963399?pwd=c043RDErdGtRUUdreXlod0p0V09zUT09) pw 121323
 
 A book B<sub>n</sub>  is a graph which consists of n triangles sharing a common edge.
  In this paper, we study  Ramsey numbers of quadrilateral versus books.
@@ -18,19 +34,6 @@ As a special case, we show r(C<sub>4</sub>,B<sub>q<sup>2</sup>-q-2</sub>) = q<su
 We will also consider a conjecture proposed by Fox, He and Wigderson (arXiv:2109.09205v1, 2021).
 
 Joint with Chunchao Fan, Tianyu Li and Xing Peng.
-
-
-
-### Nov 22, 2021, 14:00-15:00 (UTC+8): [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm) (Shandong University)
-
-### Nov 29, 2021: [Ross Kang](https://www.math.ru.nl/~rkang/) (Radboud University)
-_**Colouring graphs of bounded local density**_       
-
-What is the best upper bound on the chromatic number for graphs of given maximum degree &#916; and given maximum local density -- that is, with neighbourhood subgraphs each inducing at most a certain edge density? This Ramsey-type problem has deep roots going back more than half a century, for example, to a question of Vizing from the 1960s on triangle-free graphs, corresponding to local density 0. I will give a quick survey of the history of this question, particularly for large Δ, including discussion of some selected related problems (such as the conjecture of Erdos and Nesetril). Then I will discuss some recent progress on this problem, with emphasis on the regime of dense (i.e. &Theta;(Δ)) local sparsity. This talk will touch on numerous joint works with, variously, Davies, Hurley, de Joannis de Verclos, Pirot, Sereni.
-
-### Dec 6, 2021, 14:00-15:00 (UTC+8): [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
-
-## Past talks
 
 ### Nov 8, 2021: [Tuan Tran](https://tuaentran.wixsite.com/homepage) (IBS, Korea)
 _**Maximal 3-wise intersecting families**_       [video](https://www.bilibili.com/video/BV17Y411x7GN)
