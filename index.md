@@ -1,4 +1,4 @@
-This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)), [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)), [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) ([SJTU](https://www.sjtu.edu.cn/)) and Qiqin Xie ([SHU](https://www.shu.edu.cn/)).
+This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)), [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) ([SJTU](https://www.sjtu.edu.cn/)), [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)) and Qiqin Xie ([SHU](https://www.shu.edu.cn/)).
 
 
 <!-- You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb). --> 
