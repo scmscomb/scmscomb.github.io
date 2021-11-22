@@ -24,7 +24,7 @@ What is the best upper bound on the chromatic number for graphs of given maximum
 ## Past talks
 
 ### Nov 15, 2021: [Qizhong Lin](https://math.fzu.edu.cn/info/1091/1946.htm) (Fuzhou University)
-_**Ramsey numbers of 4-cycle versus books**_       
+_**Ramsey numbers of 4-cycle versus books**_       [video](https://www.bilibili.com/video/BV1fq4y16761)  
 
 A book B<sub>n</sub>  is a graph which consists of n triangles sharing a common edge.
  In this paper, we study  Ramsey numbers of quadrilateral versus books.
