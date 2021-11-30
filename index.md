@@ -7,7 +7,12 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Current schedule     
 
 ### Dec 6, 2021, 14:00-15:00 (UTC+8): [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
+_**Isomorphic bisections of cubic graphs**_     
+[zoom](https://zoom.us/j/83990648881?pwd=REkzcTJ1emlEeHFnMlNGMnNxQ25Sdz09)  pw 121323
 
+Abstract:
+Graph partitioning is the division of a graph into two or more parts based on certain combinatorial conditions, and problems of this kind of have been studied extensively. In the 1990s, Ando conjectured that the vertices of every cubic graph can be partitioned into two parts that induce isomorphic subgraphs. Using probabilistic methods together with delicate recolouring arguments, we prove Ando's conjecture for large connected graphs.
+This is joint work with Alexey Pokrovskiy and Benny Sudakov.
 ### Dec 13, 2021, 10:00-11:00 (UTC+8): [Jianfeng Hou](https://math.fzu.edu.cn/info/1098/1825.htm) (Fuzhou University)
 
 ## Past talks
