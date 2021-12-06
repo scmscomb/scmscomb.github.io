@@ -6,16 +6,21 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current schedule     
 
-### Dec 6, 2021, 14:00-15:00 (UTC+8): [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
+### Dec 13, 2021, 10:00-11:00 (UTC+8): [Jianfeng Hou](https://math.fzu.edu.cn/info/1098/1825.htm) (Fuzhou University)
+_**On Min-Bisections of graphs**_       
+[zoom](https://zoom.us/j/83933981545?pwd=MStjSGl4Uk1mNHpWV0N2aGVwYUxXUT09) pw 121323
+
+A bisection of a graph is a bipartition of its vertex set in which the number of vertices in the two parts differ by at most 1, and its size is the number of edges which go across the two parts. The Min-Bisection problem, which is to find a bisection of a given graph with the minimum size, is prototypical to graph partitioning problems and has been arisen in numerous contexts. In this paper, we  show that a graph G with n vertices and m edges has a bisection of size at most m/2-cn for some c>0 if G  has small maximum degree; or G is sparse and has minimum degree at least 2 and no K<sub>2,l</sub>; or G has minimum degree at least 2 and girth at least 6. We also show that for any constant &epsilon;>0, there exists a graph G with n vertex,  m=&Theta;(n<sup>3/2</sup>) edges and girth at least 5 such that each bisection of G has size at least (1/2-&epsilon;)m.
+
+
+## Past talks
+
+### Dec 6, 2021: [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
 _**Isomorphic bisections of cubic graphs**_     
-[zoom](https://zoom.us/j/83990648881?pwd=REkzcTJ1emlEeHFnMlNGMnNxQ25Sdz09)  pw 121323
 
 Abstract:
 Graph partitioning is the division of a graph into two or more parts based on certain combinatorial conditions, and problems of this kind of have been studied extensively. In the 1990s, Ando conjectured that the vertices of every cubic graph can be partitioned into two parts that induce isomorphic subgraphs. Using probabilistic methods together with delicate recolouring arguments, we prove Ando's conjecture for large connected graphs.
 This is joint work with Alexey Pokrovskiy and Benny Sudakov.
-### Dec 13, 2021, 10:00-11:00 (UTC+8): [Jianfeng Hou](https://math.fzu.edu.cn/info/1098/1825.htm) (Fuzhou University)
-
-## Past talks
 
 ### Nov 29, 2021, 16:00-17:00 (UTC+8): [Ross Kang](https://www.math.ru.nl/~rkang/) (Radboud University)
 _**Colouring graphs of bounded local density**_       
