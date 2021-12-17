@@ -6,7 +6,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current schedule     
 
-### Dec 20, 2021, 14:00-15:00 (UTC+8): [Fei Peng](fei.land/math/peng) (National University of Singapore)
+### Dec 20, 2021, 14:00-15:00 (UTC+8): [Fei Peng](https://fei.land/math/peng) (National University of Singapore)
 _**Coprime Mappings and Lonely Runners**_       
 [zoom](https://zoom.us/j/89811380689?pwd=ZkV6dTBuOXhyUXExNEJFc1cxVHM4dz09) pw 121323
 
