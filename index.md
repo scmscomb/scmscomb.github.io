@@ -14,6 +14,11 @@ The lonely runner conjecture can be stated as follows: for any n positive intege
 
 The key ingredient in our proof is a result on coprime mappings. Let A and B be sets of integers. A bijection f: A→B is a coprime mapping if a and f(a) are coprime for every a∈A. We show that if A,B⊂[n] are intervals of length 2m where m=exp(Ω((loglog n)<sup>2</sup>)), then there exists a coprime mapping from A to B. This is based on joint work with Tom Bohman.
 
+### Dec 27, 2021, 10:00-11:00 (UTC+8): Peter Bradshaw (Simon Fraser University)
+_**Single-conflict colorings in degenerate graphs**_       
+[zoom](https://zoom.us/j/85039246799?pwd=U2lHeG14UVdCRC9INkFQbHp5TkZFdz09) pw 121323
+
+Abstract: We will consider single-conflict colorings, a variant of graph colorings in which each edge of a graph has a single forbidden color pair. We will walk through the history of this graph coloring variant, and we will show that for any d-degenerate simple graph, O((&radic; d)  log n) colors are always enough for a single-conflict coloring. This answers a question of Dvořák, Esperet, Kang, and Ozeki for simple graphs (Journal of Graph Theory 2021). Joint work with Tomáš Masařík.
 
 ### Jan 10, 2022, 10:00-11:00 (UTC+8): [Jiaxi Nie](https://www.math.ucsd.edu/~jin019/) (University of California San Diego)
 _**Randomized Greedy Algorithm for Independent Sets in Regular Uniform Hypergraphs with Large Girth**_         
