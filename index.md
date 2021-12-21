@@ -42,7 +42,7 @@ Graph partitioning is the division of a graph into two or more parts based on ce
 This is joint work with Alexey Pokrovskiy and Benny Sudakov.
 
 ### Nov 29, 2021, 16:00-17:00 (UTC+8): [Ross Kang](https://www.math.ru.nl/~rkang/) (Radboud University)
-_**Colouring graphs of bounded local density**_       
+_**Colouring graphs of bounded local density**_       [video](https://www.bilibili.com/video/BV1bL41177SQ)
 
 <details>
   <summary>abstract</summary> 
