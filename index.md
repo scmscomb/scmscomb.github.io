@@ -6,14 +6,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current schedule     
 
-### Dec 20, 2021, 14:00-15:00 (UTC+8): [Fei Peng](https://fei.land/math/peng) (National University of Singapore)
-_**Coprime Mappings and Lonely Runners**_       
-[zoom](https://zoom.us/j/89811380689?pwd=ZkV6dTBuOXhyUXExNEJFc1cxVHM4dz09) pw 121323
-
-The lonely runner conjecture can be stated as follows: for any n positive integers v<sub>1</sub> < v<sub>2</sub> < ... <  v<sub>n</sub> there exists a real number t such that each  v<sub>i</sub>t is at least 1/(n+1) away from the nearest integer. In this paper we prove that this is true if v<sub>n</sub> < (2−ϵ)n. This is an approximate version of a natural next step for the study of the lonely runner conjecture suggested by Tao.
-
-The key ingredient in our proof is a result on coprime mappings. Let A and B be sets of integers. A bijection f: A→B is a coprime mapping if a and f(a) are coprime for every a∈A. We show that if A,B⊂[n] are intervals of length 2m where m=exp(Ω((loglog n)<sup>2</sup>)), then there exists a coprime mapping from A to B. This is based on joint work with Tom Bohman.
-
 ### Dec 27, 2021, 10:00-11:00 (UTC+8): Peter Bradshaw (Simon Fraser University)
 _**Single-conflict colorings in degenerate graphs**_       
 [zoom](https://zoom.us/j/85039246799?pwd=U2lHeG14UVdCRC9INkFQbHp5TkZFdz09) pw 121323
@@ -29,18 +21,37 @@ Abstract: In this paper, we consider a randomized greedy algorithm for independ
 
 ## Past talks
 
+### Dec 20, 2021, 14:00-15:00 (UTC+8): [Fei Peng](https://fei.land/math/peng) (National University of Singapore)
+_**Coprime Mappings and Lonely Runners**_         [video](https://www.bilibili.com/video/BV1mr4y1D7ma/)
+
+<details>
+  <summary>abstract</summary> 
+  
+The lonely runner conjecture can be stated as follows: for any n positive integers v<sub>1</sub> < v<sub>2</sub> < ... <  v<sub>n</sub> there exists a real number t such that each  v<sub>i</sub>t is at least 1/(n+1) away from the nearest integer. In this paper we prove that this is true if v<sub>n</sub> < (2−ϵ)n. This is an approximate version of a natural next step for the study of the lonely runner conjecture suggested by Tao.
+
+The key ingredient in our proof is a result on coprime mappings. Let A and B be sets of integers. A bijection f: A→B is a coprime mapping if a and f(a) are coprime for every a∈A. We show that if A,B⊂[n] are intervals of length 2m where m=exp(Ω((loglog n)<sup>2</sup>)), then there exists a coprime mapping from A to B. This is based on joint work with Tom Bohman.
+  </details>
+  
 ### Dec 13, 2021: [Jianfeng Hou](https://math.fzu.edu.cn/info/1098/1825.htm) (Fuzhou University)
 _**On Min-Bisections of graphs**_       
 
+<details>
+  <summary>abstract</summary> 
+  
 A bisection of a graph is a bipartition of its vertex set in which the number of vertices in the two parts differ by at most 1, and its size is the number of edges which go across the two parts. The Min-Bisection problem, which is to find a bisection of a given graph with the minimum size, is prototypical to graph partitioning problems and has been arisen in numerous contexts. In this paper, we  show that a graph G with n vertices and m edges has a bisection of size at most m/2-cn for some c>0 if G  has small maximum degree; or G is sparse and has minimum degree at least 2 and no K<sub>2,l</sub>; or G has minimum degree at least 2 and girth at least 6. We also show that for any constant &epsilon;>0, there exists a graph G with n vertex,  m=&Theta;(n<sup>3/2</sup>) edges and girth at least 5 such that each bisection of G has size at least (1/2-&epsilon;)m.
-
+  </details>
+  
 ### Dec 6, 2021: [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
 _**Isomorphic bisections of cubic graphs**_     
 
-Abstract:
+<details>
+  <summary>abstract</summary> 
+  
 Graph partitioning is the division of a graph into two or more parts based on certain combinatorial conditions, and problems of this kind of have been studied extensively. In the 1990s, Ando conjectured that the vertices of every cubic graph can be partitioned into two parts that induce isomorphic subgraphs. Using probabilistic methods together with delicate recolouring arguments, we prove Ando's conjecture for large connected graphs.
 This is joint work with Alexey Pokrovskiy and Benny Sudakov.
-
+  </details>
+  
+  
 ### Nov 29, 2021, 16:00-17:00 (UTC+8): [Ross Kang](https://www.math.ru.nl/~rkang/) (Radboud University)
 _**Colouring graphs of bounded local density**_       [video](https://www.bilibili.com/video/BV1bL41177SQ)
 
