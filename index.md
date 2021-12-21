@@ -42,7 +42,7 @@ A bisection of a graph is a bipartition of its vertex set in which the number of
   </details>
   
 ### Dec 6, 2021: [Shagnik Das](http://page.mi.fu-berlin.de/shagnik/) (NTU)
-_**Isomorphic bisections of cubic graphs**_     
+_**Isomorphic bisections of cubic graphs**_       [video](https://www.bilibili.com/video/bv1B34y1678f)
 
 <details>
   <summary>abstract</summary> 
