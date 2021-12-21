@@ -33,7 +33,7 @@ The key ingredient in our proof is a result on coprime mappings. Let A and B be 
   </details>
   
 ### Dec 13, 2021: [Jianfeng Hou](https://math.fzu.edu.cn/info/1098/1825.htm) (Fuzhou University)
-_**On Min-Bisections of graphs**_       
+_**On Min-Bisections of graphs**_        [video](https://www.bilibili.com/video/BV1mr4y1D7ma/)
 
 <details>
   <summary>abstract</summary> 
