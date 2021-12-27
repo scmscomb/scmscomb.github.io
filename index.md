@@ -16,7 +16,7 @@ Abstract: In this paper, we consider a randomized greedy algorithm for independ
 ## Past talks
 
 ### Dec 27, 2021, 10:00-11:00 (UTC+8): Peter Bradshaw (Simon Fraser University)
-_**Single-conflict colorings in degenerate graphs**_       [video](https://www.bilibili.com/video/BV1dZ4y1D7Ey/)
+_**Single-conflict colorings in degenerate graphs**_       [video](https://www.bilibili.com/video/BV1dZ4y1D7Ey/) [slides](./slides/2021/SCC_20211227.pdf)
 
 <details>
   <summary>abstract</summary> 
