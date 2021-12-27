@@ -6,12 +6,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current schedule     
 
-### Dec 27, 2021, 10:00-11:00 (UTC+8): Peter Bradshaw (Simon Fraser University)
-_**Single-conflict colorings in degenerate graphs**_       
-[zoom](https://zoom.us/j/85039246799?pwd=U2lHeG14UVdCRC9INkFQbHp5TkZFdz09) pw 121323
-
-Abstract: We will consider single-conflict colorings, a variant of graph colorings in which each edge of a graph has a single forbidden color pair. We will walk through the history of this graph coloring variant, and we will show that for any d-degenerate simple graph, O(&radic;d  log n) colors are always enough for a single-conflict coloring. This answers a question of Dvořák, Esperet, Kang, and Ozeki for simple graphs (Journal of Graph Theory 2021). Joint work with Tomáš Masařík.
-
 ### Jan 10, 2022, 10:00-11:00 (UTC+8): [Jiaxi Nie](https://www.math.ucsd.edu/~jin019/) (University of California San Diego)
 _**Randomized Greedy Algorithm for Independent Sets in Regular Uniform Hypergraphs with Large Girth**_         
 [zoom](https://zoom.us/j/83339660060?pwd=bk9YVlYya3gvYTJZaERBeGphNWhjZz09) pw 121323
@@ -21,6 +15,16 @@ Abstract: In this paper, we consider a randomized greedy algorithm for independ
 
 ## Past talks
 
+### Dec 27, 2021, 10:00-11:00 (UTC+8): Peter Bradshaw (Simon Fraser University)
+_**Single-conflict colorings in degenerate graphs**_       [video](https://www.bilibili.com/video/BV1dZ4y1D7Ey/)
+
+<details>
+  <summary>abstract</summary> 
+  
+ We will consider single-conflict colorings, a variant of graph colorings in which each edge of a graph has a single forbidden color pair. We will walk through the history of this graph coloring variant, and we will show that for any d-degenerate simple graph, O(&radic;d  log n) colors are always enough for a single-conflict coloring. This answers a question of Dvořák, Esperet, Kang, and Ozeki for simple graphs (Journal of Graph Theory 2021). Joint work with Tomáš Masařík.
+  
+  </details>
+  
 ### Dec 20, 2021, 14:00-15:00 (UTC+8): [Fei Peng](https://fei.land/math/peng) (National University of Singapore)
 _**Coprime Mappings and Lonely Runners**_         [video](https://www.bilibili.com/video/BV1mr4y1D7ma/)
 
