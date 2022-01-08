@@ -1,5 +1,5 @@
 ---
-title: "Past talks"
+title: "Past Talks"
 layout: template
 filename: past
 --- 
