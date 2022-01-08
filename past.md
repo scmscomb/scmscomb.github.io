@@ -4,7 +4,7 @@ layout: template
 filename: past
 --- 
 
-## Past talks
+## Past Talks
 
 ### Jan 3, 2022: [Gu, Xiaofeng](https://www.westga.edu/profile.php?emp_id=91222) (University of West Georgia)
 _**Some properties of (n, d, &lambda;)-graphs and generalizations**_         [video](https://www.bilibili.com/video/BV1b44y1j77h) 
