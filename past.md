@@ -9,7 +9,12 @@ filename: past
 ### Jan 3, 2022: [Gu, Xiaofeng](https://www.westga.edu/profile.php?emp_id=91222) (University of West Georgia)
 _**Some properties of (n, d, &lambda;)-graphs and generalizations**_         [video](https://www.bilibili.com/video/BV1b44y1j77h) 
 
+<details>
+  <summary>abstract</summary>
+  
 A d-regular graph on n vertices with the second largest absolute eigenvalue at most &lambda; is called an (n, d, &lambda;)-graph. It is well known that an (n, d, &lambda;)-graph  for which &lambda; = &Theta;(&radic;d) is a very good pseudorandom graph, behaving, in many aspects, like a truly random graph. In this talk, we present some properties of (n, d, &lambda;)-graphs, in particular, we study graph toughness. The toughness t(G) of a connected graph G is defined to be the minimum of \|S\|/c(G-S) taken over all proper vertex subset S such that G-S is disconnected, where c(G-S) denotes the number of components of G-S. For any (n, d, &lambda;)-graph, Alon proved that t(G)>(d<sup>2</sup>/(d&lambda;+&lambda;<sup>2</sup>)-1)/3, through which, he showed that for every t and g there are t-tough graphs of girth strictly greater than g, thus disproved a conjecture of Chvatal on pancyclicity in a strong sense. Brouwer independently discovered that t(G)>d/&lambda;-2, and he conjectured the lower bound can be improved slightly to t(G)&ge;d/&lambda;-1. We filled the small gap and confirmed this 25-year-old conjecture. We will also discuss some generalizations and related problems.
+    
+  </details>
 
 ### Dec 27, 2021: Peter Bradshaw (Simon Fraser University)
 _**Single-conflict colorings in degenerate graphs**_       [video](https://www.bilibili.com/video/BV1dZ4y1D7Ey/) [slides](./slides/2021/SCC_20211227.pdf)
