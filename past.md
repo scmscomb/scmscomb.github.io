@@ -1,7 +1,7 @@
 ---
 title: "Past talks"
 layout: template
-filename: past.md
+filename: past
 --- 
 
 ### April 30, 2020: Baoxuan Zhu (JSNU)
