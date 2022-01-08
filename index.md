@@ -1,6 +1,5 @@
 ---
-permalink: /
-title: "Home"
+title: Home
 layout: template
 filename: index.md
 --- 
