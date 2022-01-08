@@ -1,3 +1,9 @@
+---
+title: "Past talks"
+layout: template
+filename: past.md
+--- 
+
 ### April 30, 2020: Baoxuan Zhu (JSNU)
 _**Positivity in combinatorics**_ 
 
