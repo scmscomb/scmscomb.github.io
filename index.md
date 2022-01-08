@@ -22,36 +22,14 @@ Abstract: In this paper, we consider a randomized greedy algorithm for independ
 
 ## Past talks
 
-### Jan 3, 2022: [Gu, Xiaofeng](https://www.westga.edu/profile.php?emp_id=91222) (University of West Georgia)
+#### Jan 3, 2022: [Gu, Xiaofeng](https://www.westga.edu/profile.php?emp_id=91222) (University of West Georgia)
 _**Some properties of (n, d, &lambda;)-graphs and generalizations**_         [video](https://www.bilibili.com/video/BV1b44y1j77h) 
 
-<details>
-  <summary>abstract</summary> 
-  
-A d-regular graph on n vertices with the second largest absolute eigenvalue at most &lambda; is called an (n, d, &lambda;)-graph. It is well known that an (n, d, &lambda;)-graph  for which &lambda; = &Theta;(&radic;d) is a very good pseudorandom graph, behaving, in many aspects, like a truly random graph. In this talk, we present some properties of (n, d, &lambda;)-graphs, in particular, we study graph toughness. The toughness t(G) of a connected graph G is defined to be the minimum of \|S\|/c(G-S) taken over all proper vertex subset S such that G-S is disconnected, where c(G-S) denotes the number of components of G-S. For any (n, d, &lambda;)-graph, Alon proved that t(G)>(d<sup>2</sup>/(d&lambda;+&lambda;<sup>2</sup>)-1)/3, through which, he showed that for every t and g there are t-tough graphs of girth strictly greater than g, thus disproved a conjecture of Chvatal on pancyclicity in a strong sense. Brouwer independently discovered that t(G)>d/&lambda;-2, and he conjectured the lower bound can be improved slightly to t(G)&ge;d/&lambda;-1. We filled the small gap and confirmed this 25-year-old conjecture. We will also discuss some generalizations and related problems.
-  
-    </details>
-
-### Dec 27, 2021: Peter Bradshaw (Simon Fraser University)
+#### Dec 27, 2021: Peter Bradshaw (Simon Fraser University)
 _**Single-conflict colorings in degenerate graphs**_       [video](https://www.bilibili.com/video/BV1dZ4y1D7Ey/) [slides](./slides/2021/SCC_20211227.pdf)
 
-<details>
-  <summary>abstract</summary> 
-  
- We will consider single-conflict colorings, a variant of graph colorings in which each edge of a graph has a single forbidden color pair. We will walk through the history of this graph coloring variant, and we will show that for any d-degenerate simple graph, O(&radic;d  log n) colors are always enough for a single-conflict coloring. This answers a question of Dvořák, Esperet, Kang, and Ozeki for simple graphs (Journal of Graph Theory 2021). Joint work with Tomáš Masařík.
-  
-  </details>
-  
-### Dec 20, 2021: [Fei Peng](https://fei.land/math/peng) (National University of Singapore)
+#### Dec 20, 2021: [Fei Peng](https://fei.land/math/peng) (National University of Singapore)
 _**Coprime Mappings and Lonely Runners**_         [video](https://www.bilibili.com/video/BV1mr4y1D7ma/)
-
-<details>
-  <summary>abstract</summary> 
-  
-The lonely runner conjecture can be stated as follows: for any n positive integers v<sub>1</sub> < v<sub>2</sub> < ... <  v<sub>n</sub> there exists a real number t such that each  v<sub>i</sub>t is at least 1/(n+1) away from the nearest integer. In this paper we prove that this is true if v<sub>n</sub> < (2−ϵ)n. This is an approximate version of a natural next step for the study of the lonely runner conjecture suggested by Tao.
-
-The key ingredient in our proof is a result on coprime mappings. Let A and B be sets of integers. A bijection f: A→B is a coprime mapping if a and f(a) are coprime for every a∈A. We show that if A,B⊂[n] are intervals of length 2m where m=exp(Ω((loglog n)<sup>2</sup>)), then there exists a coprime mapping from A to B. This is based on joint work with Tom Bohman.
-  </details>
   
 ### Dec 13, 2021: [Jianfeng Hou](https://math.fzu.edu.cn/info/1098/1825.htm) (Fuzhou University)
 _**On Min-Bisections of graphs**_        [video](https://www.bilibili.com/video/BV1mr4y1D7ma/)
