@@ -13,6 +13,8 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
+Winter Break and Chinese New Year.
+
 <!--  ### Jan 10, 2022, 10:00-11:00 (UTC+8): [Jiaxi Nie](https://www.math.ucsd.edu/~jin019/) (University of California San Diego)
 _**Randomized Greedy Algorithm for Independent Sets in Regular Uniform Hypergraphs with Large Girth**_         
 [zoom](https://zoom.us/j/83339660060?pwd=bk9YVlYya3gvYTJZaERBeGphNWhjZz09) pw 121323
