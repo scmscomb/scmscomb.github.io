@@ -1,5 +1,5 @@
 ---
 title: "Student Seminar"
-layout: template
+layout: sub
 filename: student
 --- 
