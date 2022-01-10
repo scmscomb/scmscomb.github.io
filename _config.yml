@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: SCMS Combinatorics Seminar
 description: Hosted by Shanghai Center for Mathematical Sciences
 show_downloads: false
+math_engine: mathjax
+
