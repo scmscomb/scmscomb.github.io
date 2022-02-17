@@ -15,7 +15,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ### Feb 25, 2022, 10:00-11:00 (UTC+8): [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science)
 
-### Mar 11, 2022, (UTC+8) 16:00-17:00 (UTC+8):[Peter Van Hintum](https://sites.google.com/view/petervanhintum) (Oxford)
+### Mar 11, 2022, 16:00-17:00 (UTC+8):[Peter Van Hintum](https://sites.google.com/view/petervanhintum) (Oxford)
 
 ### Mar 25, 2022: 
 
