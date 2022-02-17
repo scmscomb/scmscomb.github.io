@@ -13,13 +13,13 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### Feb 25, 2022, 14:00-15:00 (UTC+8): [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science)
+### Feb 25, 2022, 10:00-11:00 (UTC+8): [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science)
 
-### Mar 11, 2022, 14:00-15:00 (UTC+8): 
+### Mar 11, 2022, (UTC+8) 16:00-17:00 (UTC+8):[Peter Van Hintum](https://sites.google.com/view/petervanhintum) (Oxford)
 
-### Mar 25, 2022, 14:00-15:00 (UTC+8): 
+### Mar 25, 2022: 
 
-### Apr 8, 2022, 14:00-15:00 (UTC+8): 
+### Apr 8, 2022: 
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
