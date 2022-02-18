@@ -14,6 +14,11 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Current Schedule     
 
 ### Feb 25, 2022, 10:00-11:00 (UTC+8): [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science)
+_**Independent domination of graphs with bounded maximum degree**_      
+[zoom](https://zoom.us/j/84995376581?pwd=OUd3M1hBeHh2dytad3lsMkQwd2l5Zz09) pw 121323      
+
+An independent dominating set of a graph, also known as a maximal independent set, is a set $S$ of pairwise non-adjacent vertices such that every vertex not in $S$ is adjacent to some vertex in $S$. We prove that for $\Delta=4$ or $\Delta\ge 6$, every connected $n$-vertex graph of maximum degree at most $\Delta$ has an independent dominating set of size at most $(1-\frac{\Delta}{ \lfloor\Delta^2/4\rfloor+\Delta })(n-1)+1$. In addition, we characterize all connected graphs having the equality and we show that other connected graphs have an independent dominating set of size at most $(1-\frac{\Delta}{ \lfloor\Delta^2/4\rfloor+\Delta })n$.
+This is joint work with Eun-Kyung Cho, Jinha Kim, and Minki Kim.
 
 ### Mar 11, 2022, 16:00-17:00 (UTC+8):[Peter Van Hintum](https://sites.google.com/view/petervanhintum) (Oxford)
 
