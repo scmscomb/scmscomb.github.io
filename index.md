@@ -13,7 +13,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### Feb 25, 2022, 10:00-11:00 (UTC+8): [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science)
+### Feb 25, 2022, 10:00-11:00 (UTC+8): [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science / KAIST)
 _**Independent domination of graphs with bounded maximum degree**_      
 [zoom](https://zoom.us/j/84995376581?pwd=OUd3M1hBeHh2dytad3lsMkQwd2l5Zz09) pw 121323      
 
