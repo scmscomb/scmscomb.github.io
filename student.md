@@ -14,7 +14,7 @@ Junxue Zhang (mailto: jxuezhang@163.com), Nankai University,
 Chaoliang Tang (mailto: cltang17@fudan.edu.cn), Fudan University. 
 
 ## Current Schedule
-### Mar 4, 2022, 10:00-12:00 (UTC+8): Wentao Zhang (Fudan University)    
+### Mar 4, 2022, 10:00-12:00 (UTC+8): Wentao Zhang (mailto: wtzhang20@fudan.edu.cn), Fudan University    
 Tencent meetings: 531-168-332， pw: 0304
 
 ## Past talks
