@@ -1,7 +1,7 @@
 ---
 
 title: "Student Seminar"
-description:"Hosted by studnets from FDU, SDU, USTC and NKU"
+description:"Hosted by students from FDU, SDU, USTC and NKU"
 layout: sub
 filename: student
 --- 
