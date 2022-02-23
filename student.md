@@ -1,4 +1,5 @@
 ---
+
 title: "Student Seminar"
 description: "This student seminar will be held online every two weeks on Friday 10:00 am, between the SCMS seminar. 
 It is organized by Yaobing Chen(FDU), Fan Chang(SDU), Hongjun Ge(USTC), Junxue Zhang(NKU), Chaoliang Tang(FDU). Please contact the organizers if you are interested in giving a talk."
