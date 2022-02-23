@@ -9,5 +9,3 @@ filename: student
 Tencent meetings:531-168-332 pw:0304
 
 ## Past talks
-
-abstract
