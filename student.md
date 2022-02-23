@@ -1,10 +1,10 @@
 ---
-
 title: "Student Seminar"
-description:"Hosted by students from FDU, SDU, USTC and NKU"
+description: "Hosted by students from FDU, SDU, USTC and NKU"
 layout: sub
 filename: student
 --- 
+
 This student seminar will be held online every two weeks on Friday 10:00 am, between the SCMS seminar. It is organized by the following five students, please contact the organizers if you are interested in giving a talk.
 
 Organizers:
