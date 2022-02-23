@@ -1,22 +1,13 @@
 ---
-title: "Student Seminar"
-description: "Organized by ..."
+title: "Combinatorics Student Seminar"
+description: "This student seminar will be held online every two weeks on Friday 10:00 am, between the SCMS seminar. It is organized by Yaobing Chen(FDU), Fan Chang(SDU), Hongjun Ge(USTC), Junxue Zhang(NKU), Chaoliang Tang(FDU). Please contact the organizers if you are interested in giving a talk."
 layout: sub
 filename: student
 --- 
 ## Current Schedule
+### Mar 4, 2022, 10:00-12:00 (UTC+8):Wentao Zhang(Fudan University)    
+Tencent meetings:531-168-332 pw:0304
 
 ## Past talks
-
-## Examples
-When $$a \ne 0$$, there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
-\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\\]
-
-
-When $a \ne 0$, there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-### Jan 10, 2022, 10:00-11:00 (UTC+8): [name](https://) (University)      
-_**Talk Title**_    
 
 abstract
