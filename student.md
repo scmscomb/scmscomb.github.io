@@ -21,6 +21,7 @@ Organizers:
 
 ## Current Schedule
 ### Mar 4, 2022, 10:00-12:00 (UTC+8): [Wentao Zhang](mailto:wtzhang20@fudan.edu.cn), Fudan University    
+Abstract：Given a graph $G$, the \textit{independence complex} $I(G)$ is the simplicial complex whose faces are the independent sets of $V(G)$. Let $\rb_i$ denote the $i$-th reduced Betti number of $I(G)$, and let $b(G)$ denote the sum of $\rb_i(G)$'s. A graph is ternary if it does not contain induced cycles with length divisible by three. G. Kalai and K. Meshulam conjectured that $b(G)\le 1$ whenever $G$ is ternary. We prove this conjecture. This extends a recent results proved by Chudnovsky, Scott, Seymour and Spirkl that for any ternary graph $G$, the number of independent sets with even cardinality and the independent sets with odd cardinality differ by at most 1. This is joint work with my instructor Hehui Wu.
 Tencent meetings: 531-168-332, pw: 0304
 
 ## Past talks
