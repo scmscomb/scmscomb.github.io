@@ -5,7 +5,7 @@ layout: sub
 filename: student
 --- 
 
-This student seminar will be held online every two weeks on Friday 10:00 am, between the SCMS seminar. It is organized by the following five students, please contact the organizers if you are interested in giving a talk.
+This student seminar will be held online every two weeks on Friday 10:00 am, between the SCMS seminar. It is organized by the following five students, please contact us if you are interested in giving a talk.
 
 Organizers: <br>
 [Chaoliang Tang](mailto:cltang17@fudan.edu.cn), Fudan University, <br>
