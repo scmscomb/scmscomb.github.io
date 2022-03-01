@@ -6,6 +6,17 @@ filename: past
 
 ## Past Talks
 
+### Feb 25, 2022: [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science / KAIST)
+_**Independent domination of graphs with bounded maximum degree**_      [video](https://www.bilibili.com/video/BV1VT4y1S7pX/)    
+
+<details>
+  <summary>abstract</summary>
+  
+An independent dominating set of a graph, also known as a maximal independent set, is a set $S$ of pairwise non-adjacent vertices such that every vertex not in $S$ is adjacent to some vertex in $S$. We prove that for $\Delta=4$ or $\Delta\ge 6$, every connected $n$-vertex graph of maximum degree at most $\Delta$ has an independent dominating set of size at most $(1-\frac{\Delta}{ \lfloor\Delta^2/4\rfloor+\Delta })(n-1)+1$. In addition, we characterize all connected graphs having the equality and we show that other connected graphs have an independent dominating set of size at most $(1-\frac{\Delta}{ \lfloor\Delta^2/4\rfloor+\Delta })n$.
+This is joint work with Eun-Kyung Cho, Jinha Kim, and Minki Kim.
+
+  </details>
+
 ### Jan 10, 2022, 10:00-11:00 (UTC+8): [Jiaxi Nie](https://www.math.ucsd.edu/~jin019/) (University of California San Diego)      
 _**Randomized Greedy Algorithm for Independent Sets in Regular Uniform Hypergraphs with Large Girth**_         [video](https://www.bilibili.com/video/BV1wb4y1H7Df)    
 
