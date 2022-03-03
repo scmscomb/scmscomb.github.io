@@ -28,4 +28,4 @@ We'll consider recent results concerning the stability of the classic Brunn-Min
 Check [past talks](past) for the full list of past talks with all details.
 
 ### Feb 25, 2022: [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science / KAIST)
-_**Independent domination of graphs with bounded maximum degree**_      [video](https://www.bilibili.com/video/BV1VT4y1S7pX/)    
+_**Independent domination of graphs with bounded maximum degree**_      [video](https://www.bilibili.com/video/BV1VT4y1S7pX/)     [slides](./slides/2022/Independent_domination_20220225.pdf)
