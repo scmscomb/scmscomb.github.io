@@ -4,6 +4,8 @@ layout: template
 filename: past
 --- 
 
+$\tilde{A}$
+
 ## Past Talks
 
 ### Feb 25, 2022: [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science / KAIST)
