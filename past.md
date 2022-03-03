@@ -4,7 +4,6 @@ layout: template
 filename: past
 --- 
 
-$\tilde{A}$
 
 ## Past Talks
 
