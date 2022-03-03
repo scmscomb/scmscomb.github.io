@@ -17,7 +17,7 @@ This is joint work with Eun-Kyung Cho, Jinha Kim, and Minki Kim.
 
   </details>
 
-### Jan 10, 2022, 10:00-11:00 (UTC+8): [Jiaxi Nie](https://www.math.ucsd.edu/~jin019/) (University of California San Diego)      
+### Jan 10, 2022, 10:00-11:00: [Jiaxi Nie](https://www.math.ucsd.edu/~jin019/) (University of California San Diego)      
 _**Randomized Greedy Algorithm for Independent Sets in Regular Uniform Hypergraphs with Large Girth**_         [video](https://www.bilibili.com/video/BV1wb4y1H7Df)    
 
 <details>
