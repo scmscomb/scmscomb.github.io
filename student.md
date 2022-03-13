@@ -15,11 +15,11 @@ Organizers: <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 ## Current Schedule
-### Mar 4, 2022, 10:00-12:00 (UTC+8): [Wentao Zhang](mailto:wtzhang20@fudan.edu.cn), Fudan University    
-_**The Betti Number of the Independence Complex of Ternary Graphs**_      
-[Tencent meeting](https://meeting.tencent.com/dm/7PPaxFINoT4x) pw 0304      
+### Mar 18, 2022, 10:00-12:00 (UTC+8): [Tianchi Yang], University of Science and Technology of China    
+_**Non-repeated cycle lengths and Sidon sequences**_      
+[Tencent meeting](https://) pw     
 
-Abstract：Given a graph $G$, the <em>independence complex</em> $I(G)$ is the simplicial complex whose faces are the independent sets of $V(G)$. Let $b_i$ denote the $i$-th reduced Betti number of $I(G)$, and let **$b(G)$** denote the sum of $b_i(G)$'s. A graph is ternary if it does not contain induced cycles with length divisible by three. G. Kalai and K. Meshulam conjectured that $b(G)\le 1$ whenever $G$ is ternary. We prove this conjecture. This extends a recent results proved by Chudnovsky, Scott, Seymour and Spirkl that for any ternary graph $G$, the number of independent sets with even cardinality and the independent sets with odd cardinality differ by at most 1. This is joint work with my instructor Hehui Wu.
+Abstract：We prove a conjecture of Boros, Caro, $F\"uredi$ and Yuster on the maximum number of edges in a 2-connected graph without repeated cycle lengths, which is a restricted version of a longstanding problem of $Erd\H{o}s$. Our proof together with the matched lower bound construction of Boros, Caro, $F\"uredi$ and Yuster show that this problem can be conceptually reduced to the seminal problem of finding the maximum Sidon sequences in number theory. Joint work with Jie Ma. Besides, we will introduce a new upper bound on the size of Sidon sequences given by Balogh, $F\"uredi$ and Roy. This represents the first improvement upon the error term in over 50 years.
 
 ## Past talks
 ### Mar 4, 2022, 10:00-12:00 (UTC+8): [Wentao Zhang](mailto:wtzhang20@fudan.edu.cn), Fudan University    
