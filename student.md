@@ -15,14 +15,14 @@ Organizers: <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 ## Current Schedule
-### Mar 18, 2022, 15:00-17:00 (UTC+8): [Tianchi Yang], University of Science and Technology of China    
+### Mar 18, 2022, 15:00-17:00 (UTC+8): [Tianchi Yang](http://home.ustc.edu.cn/~ytc/), University of Science and Technology of China    
 _**Non-repeated cycle lengths and Sidon sequences**_      
 [Tencent meeting](https://meeting.tencent.com/dm/DXDklrNRY5Cg) pw 0318
 
-Abstract：We prove a conjecture of $Boros$, $Caro$, $F\ddot{u}redi$ and $Yuster$ on the maximum number of edges in a 2-connected graph without repeated cycle lengths, which is a restricted version of a longstanding problem of $Erd\H{o}s$. Our proof together with the matched lower bound construction of $Boros$, $Caro$, $F\ddot{u}redi$ and $Yuster$ show that this problem can be conceptually reduced to the seminal problem of finding the maximum Sidon sequences in number theory. Joint work with $Jie Ma. Besides$, we will introduce a new upper bound on the size of Sidon sequences given by $Balogh$, $F\ddot{u}redi$ and $Roy$. This represents the first improvement upon the error term in over 50 years.
+Abstract：We prove a conjecture of Boros, Caro, Füredi and Yuster on the maximum number of edges in a 2-connected graph without repeated cycle lengths, which is a restricted version of a longstanding problem of Erdős. Our proof together with the matched lower bound construction of Boros, Caro, Füredi and Yuster show that this problem can be conceptually reduced to the seminal problem of finding the maximum Sidon sequences in number theory. Joint work with Jie Ma. Besides, we will introduce a new upper bound on the size of Sidon sequences given by Balogh, Füredi and Roy. This represents the first improvement upon the error term in over 50 years.
 
 ## Past talks
-### Mar 18, 2022, 15:00-17:00 (UTC+8): [Tianchi Yang], University of Science and Technology of China    
+### Mar 18, 2022, 15:00-17:00 (UTC+8): [Tianchi Yang](http://home.ustc.edu.cn/~ytc/), University of Science and Technology of China    
 _**Non-repeated cycle lengths and Sidon sequences**_     
 [video](https://)     [slides]()
 ### Mar 4, 2022, 10:00-12:00 (UTC+8): [Wentao Zhang](mailto:wtzhang20@fudan.edu.cn), Fudan University    
