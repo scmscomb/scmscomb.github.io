@@ -13,13 +13,14 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### Mar 11, 2022, 16:00-17:00 (UTC+8): [Peter Van Hintum](https://sites.google.com/view/petervanhintum) (Oxford)
-_**Sharp stability of the planar Brunn-Minkowski inequality**_   
-[zoom](https://zoom.us/j/81172177445?pwd=RTNJTGFqSFprSkJ0MnZlWGhydE9TZz09) pw 121323
+### Mar 25, 2022: 10:00-11:00 (UTC+8): [Haoran Luo](mailto:haoranl8@illinois.edu) (University of Illinois at Urbana-Champaign)
+_**On the Maximum $F_5$-free Subhypergraphs of $G^3(n,p)$**_
 
-We'll consider recent results concerning the stability of the classic Brunn-Minkowski inequality. In particular, we will look at the proof of sharp stability for sets in the plane. Assuming that the Brunn-Minkowski deficit $\delta=\|A+B\|^{\frac{1}{2}}/(\|A\|^\frac12+\|B\|^\frac12)-1$ is sufficiently small in terms of $t=\|A\|^{\frac{1}{2}}/(\|A\|^{\frac{1}{2}}+\|B\|^{\frac{1}{2}})$,  there exist homothetic convex sets $K_A \supset A$ and $K_B\supset B$ such that $\frac{\|K_A\setminus A\|}{\|A\|}+\frac{\|K_B\setminus B\|}{\|B\|} \le C t^{-\frac{1}{2}}\delta^{\frac{1}{2}}$. The key ingredient is to show for every $\epsilon,t>0$, if $\delta$ is sufficiently small then $\|\operatorname{co}(A+B)\setminus (A+B)\|\le (1+\epsilon)(\|\operatorname{co}(A)\setminus A\|+\|\operatorname{co}(B)\setminus B\|)$. This talk is based on joint work with Hunter Spink and Marius Tiba.
+Denote by $F_5$ the $3$-uniform hypergraph on vertex set $\{1,2,3,4,5\}$ with hyperedges $\{123,124,345\}$. Balogh, Butterfield, Hu, and Lenz proved that if $p > K \ln n /n$ for some large constant $K$, every maximum $F_5$-free subhypergraph of $G^3(n,p)$ is tripartite with high probability, and showed if $p_0 = 0.1\sqrt{\ln n} /n$, with high probability there exists a maximum $F_5$-free subhypergraph of $G^3(n,p_0)$ that is not tripartite. We sharpen the upper bound to be best possible up to a constant factor. We prove that when $p > C \sqrt{\ln n} /n $ for some large constant $C$, every maximum $F_5$-free subhypergraph of $G^3(n, p)$ is tripartite with high probability. In this talk, I will introduce the main technique we use to improve this bound.
 
-### Mar 25, 2022: 
+This is a joint work with Igor Araujo and Jozsef Balogh.
+
+
 
 ### Apr 8, 2022, 14:00-15:00 (UTC+8): [Ruonan Li](https://teacher.nwpu.edu.cn/m/2018010102) (Northwestern Polytechnical University)
 
@@ -27,6 +28,12 @@ We'll consider recent results concerning the stability of the classic Brunn-Min
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Mar 11, 2022, 16:00-17:00 (UTC+8): [Peter Van Hintum](https://sites.google.com/view/petervanhintum) (Oxford)
+_**Sharp stability of the planar Brunn-Minkowski inequality**_   
+[zoom](https://zoom.us/j/81172177445?pwd=RTNJTGFqSFprSkJ0MnZlWGhydE9TZz09) pw 121323
+
+We'll consider recent results concerning the stability of the classic Brunn-Minkowski inequality. In particular, we will look at the proof of sharp stability for sets in the plane. Assuming that the Brunn-Minkowski deficit $\delta=\|A+B\|^{\frac{1}{2}}/(\|A\|^\frac12+\|B\|^\frac12)-1$ is sufficiently small in terms of $t=\|A\|^{\frac{1}{2}}/(\|A\|^{\frac{1}{2}}+\|B\|^{\frac{1}{2}})$,  there exist homothetic convex sets $K_A \supset A$ and $K_B\supset B$ such that $\frac{\|K_A\setminus A\|}{\|A\|}+\frac{\|K_B\setminus B\|}{\|B\|} \le C t^{-\frac{1}{2}}\delta^{\frac{1}{2}}$. The key ingredient is to show for every $\epsilon,t>0$, if $\delta$ is sufficiently small then $\|\operatorname{co}(A+B)\setminus (A+B)\|\le (1+\epsilon)(\|\operatorname{co}(A)\setminus A\|+\|\operatorname{co}(B)\setminus B\|)$. This talk is based on joint work with Hunter Spink and Marius Tiba.
 
 ### Feb 25, 2022: [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/) (Institute for Basic Science / KAIST)
 _**Independent domination of graphs with bounded maximum degree**_      [video](https://www.bilibili.com/video/BV1VT4y1S7pX/)     [slides](./slides/2022/Independent_domination_20220225.pdf)
