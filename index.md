@@ -14,7 +14,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Current Schedule     
 
 ### Mar 25, 2022: 10:00-11:00 (UTC+8): [Haoran Luo](mailto:haoranl8@illinois.edu) (University of Illinois at Urbana-Champaign)
-_**On the Maximum $F_5$-free Subhypergraphs of $G^3(n,p)$**_
+_**On the Maximum $F_5$-free Subhypergraphs of $G^3(n,p)$**_      
 [zoom](https://zoom.us/j/83459636880) pw 061801
 
 Denote by $F_5$ the $3$-uniform hypergraph on vertex set $\{1,2,3,4,5\}$ with hyperedges $\{123,124,345\}$. Balogh, Butterfield, Hu, and Lenz proved that if $p > K \ln n /n$ for some large constant $K$, every maximum $F_5$-free subhypergraph of $G^3(n,p)$ is tripartite with high probability, and showed if $p_0 = 0.1\sqrt{\ln n} /n$, with high probability there exists a maximum $F_5$-free subhypergraph of $G^3(n,p_0)$ that is not tripartite. We sharpen the upper bound to be best possible up to a constant factor. We prove that when $p > C \sqrt{\ln n} /n $ for some large constant $C$, every maximum $F_5$-free subhypergraph of $G^3(n, p)$ is tripartite with high probability. In this talk, I will introduce the main technique we use to improve this bound.
