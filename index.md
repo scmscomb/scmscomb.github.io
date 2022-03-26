@@ -13,16 +13,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### Mar 25, 2022: 10:00-11:00 (UTC+8): [Haoran Luo](mailto:haoranl8@illinois.edu) (University of Illinois at Urbana-Champaign)
-_**On the Maximum $F_5$-free Subhypergraphs of $G^3(n,p)$**_      
-[zoom](https://zoom.us/j/83459636880) pw 061801
-
-Denote by $F_5$ the $3$-uniform hypergraph on vertex set $\{1,2,3,4,5\}$ with hyperedges $\{123,124,345\}$. Balogh, Butterfield, Hu, and Lenz proved that if $p > K \ln n /n$ for some large constant $K$, every maximum $F_5$-free subhypergraph of $G^3(n,p)$ is tripartite with high probability, and showed if $p_0 = 0.1\sqrt{\ln n} /n$, with high probability there exists a maximum $F_5$-free subhypergraph of $G^3(n,p_0)$ that is not tripartite. We sharpen the upper bound to be best possible up to a constant factor. We prove that when $p > C \sqrt{\ln n} /n $ for some large constant $C$, every maximum $F_5$-free subhypergraph of $G^3(n, p)$ is tripartite with high probability. In this talk, I will introduce the main technique we use to improve this bound.
-
-This is a joint work with Igor Araujo and Jozsef Balogh.
-
-
-
 ### Apr 8, 2022, 14:00-15:00 (UTC+8): [Ruonan Li](https://teacher.nwpu.edu.cn/m/2018010102) (Northwestern Polytechnical University)
 _**Properly colored cycles in edge-colored graphs and directed cycles in digraphs**_       
 
@@ -34,6 +24,13 @@ A graph is called properly colored if adjacent edges are of distinct colors. In 
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Mar 25, 2022: [Haoran Luo](mailto:haoranl8@illinois.edu) (University of Illinois at Urbana-Champaign)
+_**On the Maximum $F_5$-free Subhypergraphs of $G^3(n,p)$**_     [video](https://www.bilibili.com/video/BV1qq4y1v7HN/)     [slides](./slides/2022/20220325_randomF5.pdf)       
+
+Denote by $F_5$ the $3$-uniform hypergraph on vertex set $\{1,2,3,4,5\}$ with hyperedges $\{123,124,345\}$. Balogh, Butterfield, Hu, and Lenz proved that if $p > K \ln n /n$ for some large constant $K$, every maximum $F_5$-free subhypergraph of $G^3(n,p)$ is tripartite with high probability, and showed if $p_0 = 0.1\sqrt{\ln n} /n$, with high probability there exists a maximum $F_5$-free subhypergraph of $G^3(n,p_0)$ that is not tripartite. We sharpen the upper bound to be best possible up to a constant factor. We prove that when $p > C \sqrt{\ln n} /n $ for some large constant $C$, every maximum $F_5$-free subhypergraph of $G^3(n, p)$ is tripartite with high probability. In this talk, I will introduce the main technique we use to improve this bound.
+
+This is a joint work with Igor Araujo and Jozsef Balogh.
 
 ### Mar 11, 2022: [Peter Van Hintum](https://sites.google.com/view/petervanhintum) (Oxford)
 _**Sharp stability of the planar Brunn-Minkowski inequality**_   [video](https://www.bilibili.com/video/BV1su411q7SP)
