@@ -24,6 +24,11 @@ This is a joint work with Igor Araujo and Jozsef Balogh.
 
 
 ### Apr 8, 2022, 14:00-15:00 (UTC+8): [Ruonan Li](https://teacher.nwpu.edu.cn/m/2018010102) (Northwestern Polytechnical University)
+_**Properly colored cycles in edge-colored graphs and directed cycles in digraphs**_       
+
+A graph is called properly colored if adjacent edges are of distinct colors. In this talk, we will introduce some results and problems on properly colored cycles from a view of relation between edge-colored graphs and directed graphs. 
+
+
 
 ### Apr 22, 2022: 
 
