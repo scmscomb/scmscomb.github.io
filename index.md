@@ -14,7 +14,8 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Current Schedule     
 
 ### Apr 8, 2022, 14:00-15:00 (UTC+8): [Ruonan Li](https://teacher.nwpu.edu.cn/m/2018010102) (Northwestern Polytechnical University)
-_**Properly colored cycles in edge-colored graphs and directed cycles in digraphs**_       
+_**Properly colored cycles in edge-colored graphs and directed cycles in digraphs**_  
+[zoom](https://zoom.us/j/85760276147) pw 121323      
 
 A graph is called properly colored if adjacent edges are of distinct colors. In this talk, we will introduce some results and problems on properly colored cycles from a view of relation between edge-colored graphs and directed graphs. 
 
