@@ -19,7 +19,7 @@ _**Properly colored cycles in edge-colored graphs and directed cycles in digraph
 
 A graph is called properly colored if adjacent edges are of distinct colors. In this talk, we will introduce some results and problems on properly colored cycles from a view of relation between edge-colored graphs and directed graphs. 
 
-### Apr 22, 2022
+### Apr 22, 2022 [Alexandr V. Kostochka](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
 
 
 ### May 6, 2022
