@@ -16,10 +16,10 @@ Organizers: <br>
 
 ## Current Schedule
 ### Apr 1, 2022, 15:00-17:00 (UTC+8): [Donglei Yang](dlyang@sdu,edu,cn), Shandong University    
-_**A Ramsey--Tur\'an theory for tilings in graphs**_      
+_**A Ramsey--Turán theory for tilings in graphs**_      
 [Tencent meeting](https://meeting.tencent.com/dm/DXDklrNRY5Cg) pw 0318
 
-Abstract：Given an integer $r\ge 2$ and a graph $G$, let $\alpha_{r}(G)$ be the maximum size of a $K_{r}$-free subset of vertices and write $\alpha(G)=\alpha_2(G)$. A central topic in Ramsey--Tur\'{a}n theory, initiated by Erd\H{o}s and S\'{o}s, is to determine $RT_{r}(n;H; o(n))$, the minimum number of edges which guarantees that every $n$-vertex graph $G$ with $\alpha_{r}(G)=o(n)$ contains a copy of $H$. For a $k$-vertex graph $F$ and a graph $G$, an \emph{$F$-tiling} is a collection of vertex-disjoint copies of $F$ in $G$. We call an $F$-tiling \emph{perfect} if it covers the vertex set of $G$. We will also refer to a perfect $F$-tiling as an \emph{$F$-factor}, which is a fundamental object in graph theory with a wealth of results from various aspects. Motivated by Ramsey-Tur¨¢n theory, a recent trend has focused on reducing the minimum degree condition forcing the existence of $F$-factors in graphs by adding an extracondition that provides pseudorandom properties.<br>
+Abstract：Given an integer $r\ge 2$ and a graph $G$, let $\alpha_{r}(G)$ be the maximum size of a $K_{r}$-free subset of vertices and write $\alpha(G)=\alpha_2(G)$. A central topic in Ramsey--Turán theory, initiated by Erdős and Sós, is to determine $RT_{r}(n,H,o(n))$, the minimum number of edges which guarantees that every $n$-vertex graph $G$ with $\alpha_{r}(G)=o(n)$ contains a copy of $H$. For a $k$-vertex graph $F$ and a graph $G$, an _$F$-tiling_ is a collection of vertex-disjoint copies of $F$ in $G$. We call an $F$-tiling _perfect_ if it covers the vertex set of $G$. We will also refer to a perfect $F$-tiling as an _$F$-factor_, which is a fundamental object in graph theory with a wealth of results from various aspects. Motivated by Ramsey-Turán theory, a recent trend has focused on reducing the minimum degree condition forcing the existence of $F$-factors in graphs by adding an extracondition that provides pseudorandom properties.<br>
 In this talk, we mainly investigate the effect of imposing the condition that $\alpha_{r}(G)=o(n)$ by studying the minimum degree thresholds for $K_k$-tilings. Similar questions for general $F$-factors are considered.
 
 ## Past talks
