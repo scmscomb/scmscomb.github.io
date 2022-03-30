@@ -23,7 +23,7 @@ A graph is called properly colored if adjacent edges are of distinct colors. In 
 _**On sizes of 1-cross intersecting set pair systems**_   
 [zoom](https://zoom.us/j/86455947492?pwd=SEJXQ2JkQkUyTVY1bzdTUHNlQ014QT09) pw 061801
 
-Let ${(A_i,B_i)}_{i=1}^m$ be a set pair system. F\"uredi, Gy\'arf\' as and Kir\'aly called it 1-cross intersecting if the size of intersection of $A_i$ and $B_j$ is $1$ when $i$ and $j$ are distinct, and $0$ if $i=j$. They studied such systems and their generalizations, and in particular considered $m(a,b,1)$, the maximum size of a 1-cross intersecting set pair system in which  $\|A_i\|<= a$ and $\|B_i\|<= b$ for all $i$.
+Let ${(A_i,B_i)}_{i=1}^m$ be a set pair system. F\\"uredi, Gy\\'arf\\' as and Kir\\'aly called it 1-cross intersecting if the size of intersection of $A_i$ and $B_j$ is $1$ when $i$ and $j$ are distinct, and $0$ if $i=j$. They studied such systems and their generalizations, and in particular considered $m(a,b,1)$, the maximum size of a 1-cross intersecting set pair system in which  $\|A_i\|<= a$ and $\|B_i\|<= b$ for all $i$.
 
 Answering one of their questions, Holzman proved that if $a,b\ge 2$, then $m(a,b,1)\le (29/30)\binom{a+b}{a}$. He also conjectured that the factor $29/30$ in his bound can be replaced by $5/6$. The goal of this talk is to sketch a proof of this conjectured bound.
 
