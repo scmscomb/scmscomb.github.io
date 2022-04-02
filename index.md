@@ -30,7 +30,7 @@ Answering one of their questions, Holzman proved that if $a,b\ge 2$, then $m(a,b
 This is joint work with Grace McCourt and Mina Nahvi.
 
 
-### May 6, 2022
+### May 6, 2022, 09:00-10:00 (UTC+8): [Sophie Spirkl](https://sites.google.com/site/sophiespirkl/) (University of Waterloo)
 
 
 ### May 20, 2022
