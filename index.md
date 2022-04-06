@@ -32,10 +32,17 @@ This is joint work with Grace McCourt and Mina Nahvi.
 
 ### May 6, 2022, 09:00-10:00 (UTC+8): [Sophie Spirkl](https://sites.google.com/site/sophiespirkl/) (University of Waterloo)
 
-
 ### May 20, 2022
 
+### June 3, 2022
 
+### June 17, 2022
+
+### July 1, 2022
+
+### July 15, 2022
+
+### July 29, 2022
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
