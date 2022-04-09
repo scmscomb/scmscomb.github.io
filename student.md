@@ -23,9 +23,12 @@ Abstract：Given an integer $r\ge 2$ and a graph $G$, let $\alpha_{r}(G)$ be the
 In this talk, we mainly investigate the effect of imposing the condition that $\alpha_{r}(G)=o(n)$ by studying the minimum degree thresholds for $K_k$-tilings. Similar questions for general $F$-factors are considered.
 
 ## Past talks
+### Apr 1, 2022, 15:00-17:00 (UTC+8): [Donglei Yang](dlyang@sdu,edu,cn), Shandong University    
+_**A Ramsey--Turán theory for tilings in graphs**_      
+[video](https://pan.baidu.com/s/15Dy7irvUkLxZsU97jBcj9g?pwd=5b3t)  pw 5b3t   [slides](./slides/2022/A_Ramsey_Turán_theory_for_tilings_in_graphs.pdf)
 ### Mar 18, 2022, 15:00-17:00 (UTC+8): [Tianchi Yang](http://home.ustc.edu.cn/~ytc/), University of Science and Technology of China    
 _**Non-repeated cycle lengths and Sidon sequences**_     
-[video](https://)     [slides]()
+[video](https://meeting.tencent.com/v2/cloud-record/share?id=10d94105-54cf-4158-8a3b-969b7b620524&from=3) pw 2MzF     [slides](./slides/2022/non_repeated_cycle_lengths_and_sidon_sequences.pdf)
 ### Mar 4, 2022, 10:00-12:00 (UTC+8): [Wentao Zhang](mailto:wtzhang20@fudan.edu.cn), Fudan University    
 _**The Betti Number of the Independence Complex of Ternary Graphs**_   
 [video](https://meeting.tencent.com/user-center/shared-record-info?id=c8325b8d-0ad6-443f-8e2f-2c9aad2a97a7&click_source_for_middle_login=1)     [slides](./slides/2022/The_betty_number_of_the_independence_complex_of_ternary_graphs_20220304.pdf)
