@@ -40,7 +40,7 @@ This is joint work with Grace McCourt and Mina Nahvi.
 
 ### July 1, 2022
 
-### July 15, 2022
+### July 15, 2022: [Jinyoung Park](https://sites.google.com/view/jinyoungpark) (Stanford University)
 
 ### July 29, 2022
 
