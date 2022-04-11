@@ -15,12 +15,14 @@ Organizers: <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 ## Current Schedule
-### Apr 1, 2022, 15:00-17:00 (UTC+8): [Donglei Yang](dlyang@sdu,edu,cn), Shandong University    
-_**A Ramsey--Turán theory for tilings in graphs**_      
-[Tencent meeting](https://meeting.tencent.com/dm/DXDklrNRY5Cg) pw 0318
+### Apr 15, 2022, 09:30-11:30 (UTC+8): [Jun Gao](dlyang@sdu,edu,cn), University of Science and Technology of China
+_**On a conjecture of Bondy and Vince**_      
+[Tencent meeting](https://meeting.tencent.com/dm/yKDH7oQExYJX) pw 121323
+Abstract: Er\H{o}ds et. al. asked whether every graph with minimum degree at least three contains two cycles whose lengths differ by one or two. This was answered affirmatively by Bondy and Vince in the following stronger theorem: with the exception of $K_1$ and $K_2$, every graph having at most two vertices of degree less than three contains two cycles of lengths differing by one or two.
+They further conjectured that for any nonnegative integer $k$, except finitely many counterexamples, every graph with $k$ vertices of degree less than three contains two cycles whose lengths differ by one or two.
+In this talk, we confirm this conjecture for all $k$.
 
-Abstract：Given an integer $r\ge 2$ and a graph $G$, let $\alpha_{r}(G)$ be the maximum size of a $K_{r}$-free subset of vertices and write $\alpha(G)=\alpha_2(G)$. A central topic in Ramsey--Turán theory, initiated by Erdős and Sós, is to determine $RT_{r}(n,H,o(n))$, the minimum number of edges which guarantees that every $n$-vertex graph $G$ with $\alpha_{r}(G)=o(n)$ contains a copy of $H$. For a $k$-vertex graph $F$ and a graph $G$, an _$F$-tiling_ is a collection of vertex-disjoint copies of $F$ in $G$. We call an $F$-tiling _perfect_ if it covers the vertex set of $G$. We will also refer to a perfect $F$-tiling as an _$F$-factor_, which is a fundamental object in graph theory with a wealth of results from various aspects. Motivated by Ramsey-Turán theory, a recent trend has focused on reducing the minimum degree condition forcing the existence of $F$-factors in graphs by adding an extracondition that provides pseudorandom properties.<br>
-In this talk, we mainly investigate the effect of imposing the condition that $\alpha_{r}(G)=o(n)$ by studying the minimum degree thresholds for $K_k$-tilings. Similar questions for general $F$-factors are considered.
+
 
 ## Past talks
 ### Apr 1, 2022, 15:00-17:00 (UTC+8): [Donglei Yang](dlyang@sdu,edu,cn), Shandong University    
