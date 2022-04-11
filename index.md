@@ -13,12 +13,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### Apr 8, 2022, 14:00-15:00 (UTC+8): [Ruonan Li](https://teacher.nwpu.edu.cn/m/2018010102) (Northwestern Polytechnical University)
-_**Properly colored cycles in edge-colored graphs and directed cycles in digraphs**_     
-[zoom](https://zoom.us/j/85760276147) pw 121323      
-
-A graph is called properly colored if adjacent edges are of distinct colors. In this talk, we will introduce some results and problems on properly colored cycles from a view of relation between edge-colored graphs and directed graphs. 
-
 ### Apr 22, 2022, 10:00-11:00 (UTC+8): [Alexandr V. Kostochka](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
 _**On sizes of 1-cross intersecting set pair systems**_   
 [zoom](https://zoom.us/j/86455947492?pwd=SEJXQ2JkQkUyTVY1bzdTUHNlQ014QT09) pw 061801
@@ -46,6 +40,11 @@ This is joint work with Grace McCourt and Mina Nahvi.
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Apr 8, 2022: [Ruonan Li](https://teacher.nwpu.edu.cn/m/2018010102) (Northwestern Polytechnical University)
+_**Properly colored cycles in edge-colored graphs and directed cycles in digraphs**_      [video](https://www.bilibili.com/video/BV1NA4y197nk) 
+
+A graph is called properly colored if adjacent edges are of distinct colors. In this talk, we will introduce some results and problems on properly colored cycles from a view of relation between edge-colored graphs and directed graphs. 
 
 ### Mar 25, 2022: [Haoran Luo](mailto:haoranl8@illinois.edu) (University of Illinois at Urbana-Champaign)
 _**On the Maximum $F_5$-free Subhypergraphs of $G^3(n,p)$**_     [video](https://www.bilibili.com/video/BV1qq4y1v7HN/)     [slides](./slides/2022/20220325_randomF5.pdf)       
