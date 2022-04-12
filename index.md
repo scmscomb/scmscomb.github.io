@@ -26,7 +26,7 @@ This is joint work with Grace McCourt and Mina Nahvi.
 
 ### May 6, 2022, 09:00-10:00 (UTC+8): [Sophie Spirkl](https://sites.google.com/site/sophiespirkl/) (University of Waterloo)
 
-### May 20, 2022
+### May 20, 2022: [Lina Li](https://sites.google.com/view/linali/) (University of Waterloo)
 
 ### June 3, 2022
 
