@@ -25,6 +25,12 @@ This is joint work with Grace McCourt and Mina Nahvi.
 
 
 ### May 6, 2022, 09:00-10:00 (UTC+8): [Sophie Spirkl](https://sites.google.com/site/sophiespirkl/) (University of Waterloo)
+_**Counterexamples for chromatic and dichromatic number**_   
+[zoom](https://zoom.us/j/84304282616?pwd=N01nc29vTS9pODV3aFpoMjdpWER3QT09) pw 121323
+
+Abstract: I will present a counterexample to the following well-known conjecture: for every k, r, every graph G with clique number at most k and sufficiently large chromatic number contains a triangle-free induced subgraph with chromatic number at least r. This is related to colouring and $\chi$-boundedness in digraphs.
+
+Joint work with Alvaro Carbonero, Patrick Hompe, and Benjamin Moore.
 
 ### May 20, 2022: [Lina Li](https://sites.google.com/view/linali/) (University of Waterloo)
 
