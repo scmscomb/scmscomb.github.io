@@ -13,17 +13,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### Apr 22, 2022, 10:00-11:00 (UTC+8): [Alexandr V. Kostochka](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
-_**On sizes of 1-cross intersecting set pair systems**_   
-[zoom](https://zoom.us/j/86455947492?pwd=SEJXQ2JkQkUyTVY1bzdTUHNlQ014QT09) pw 061801
-
-Let ${(A_i,B_i)}_{i=1}^m$ be a set pair system. Füredi, Gyárfás and Király called it $1$-cross intersecting if the size of intersection of $A_i$ and $B_j$ is $1$ when $i$ and $j$ are distinct, and $0$ if $i=j$. They studied such systems and their generalizations, and in particular considered $m(a,b,1)$, the maximum size of a $1$-cross intersecting set pair system in which  $\|A_i\|\le a$ and $\|B_i\|\le b$ for all $i$.
-
-Answering one of their questions, Holzman proved that if $a,b\ge 2$, then $m(a,b,1)\le (29/30)\binom{a+b}{a}$. He also conjectured that the factor $29/30$ in his bound can be replaced by $5/6$. The goal of this talk is to sketch a proof of this conjectured bound.
-
-This is joint work with Grace McCourt and Mina Nahvi.
-
-
 ### May 6, 2022, 09:00-10:00 (UTC+8): [Sophie Spirkl](https://sites.google.com/site/sophiespirkl/) (University of Waterloo)
 _**Counterexamples for chromatic and dichromatic number**_   
 [zoom](https://zoom.us/j/84304282616?pwd=N01nc29vTS9pODV3aFpoMjdpWER3QT09) pw 121323
@@ -46,6 +35,15 @@ Joint work with Alvaro Carbonero, Patrick Hompe, and Benjamin Moore.
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Apr 22, 2022: [Alexandr V. Kostochka](https://kostochk.web.illinois.edu/) (University of Illinois at Urbana-Champaign)
+_**On sizes of 1-cross intersecting set pair systems**_   [video](https://www.bilibili.com/video/BV15S4y1c7mA) 
+
+Let ${(A_i,B_i)}_{i=1}^m$ be a set pair system. Füredi, Gyárfás and Király called it $1$-cross intersecting if the size of intersection of $A_i$ and $B_j$ is $1$ when $i$ and $j$ are distinct, and $0$ if $i=j$. They studied such systems and their generalizations, and in particular considered $m(a,b,1)$, the maximum size of a $1$-cross intersecting set pair system in which  $\|A_i\|\le a$ and $\|B_i\|\le b$ for all $i$.
+
+Answering one of their questions, Holzman proved that if $a,b\ge 2$, then $m(a,b,1)\le (29/30)\binom{a+b}{a}$. He also conjectured that the factor $29/30$ in his bound can be replaced by $5/6$. The goal of this talk is to sketch a proof of this conjectured bound.
+
+This is joint work with Grace McCourt and Mina Nahvi.
 
 ### Apr 8, 2022: [Ruonan Li](https://teacher.nwpu.edu.cn/m/2018010102) (Northwestern Polytechnical University)
 _**Properly colored cycles in edge-colored graphs and directed cycles in digraphs**_      [video](https://www.bilibili.com/video/BV1NA4y197nk) 
