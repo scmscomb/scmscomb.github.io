@@ -29,7 +29,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 Check [past talks](past) for the full list of past talks with all details.
 
 ### May 6, 2022: [Sophie Spirkl](https://sites.google.com/site/sophiespirkl/) (University of Waterloo)
-_**Counterexamples for chromatic and dichromatic number**_   [video](https://www.bilibili.com/video/BV1bY411A7bc) 
+_**Counterexamples for chromatic and dichromatic number**_   [video](https://www.bilibili.com/video/BV1bY411A7bc)    [slides](./slides/2022/talk_dichi_scms.pdf)
 
 Abstract: I will present a counterexample to the following well-known conjecture: for every k, r, every graph G with clique number at most k and sufficiently large chromatic number contains a triangle-free induced subgraph with chromatic number at least r. This is related to colouring and $\chi$-boundedness in digraphs.
 
