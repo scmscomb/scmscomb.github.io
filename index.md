@@ -13,7 +13,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### May 20, 2022: [Lina Li](https://sites.google.com/view/linali/) (University of Waterloo)
+### May 20, 2022 10:00-11:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Waterloo)
 _**The chromatic number of triangle-free hypergraphs**_  
 [zoom]( https://zoom.us/j/89307471081?pwd=UFBnajM4RUQyNDJmMGVGbTFJZnUxQT09) pw: 061801
 
