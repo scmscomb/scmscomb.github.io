@@ -29,7 +29,7 @@ Abstract: We introduce a notion of the \emph{crux} of a graph $G$, measuring the
 _**Good pairs in digraphs**_   
 [video](https://ws28.cn/f/87lkzi88vyl)
 ### Apr 15, 2022, 09:30-11:30 (UTC+8): [Jun Gao](gj0211@mail.ustc.edu.cn ), University of Science and Technology of China
-_**On a conjecture of Bondy and Vince**_
+_**On a conjecture of Bondy and Vince**_   
 [video](https://meeting.tencent.com/user-center/shared-record-info?id=64dffd87-cd65-431f-b955-baa8e202597a&from=3) pw 8nJu
 ### Apr 1, 2022, 15:00-17:00 (UTC+8): [Donglei Yang](dlyang@sdu.edu.cn), Shandong University    
 _**A Ramsey--Turán theory for tilings in graphs**_      
