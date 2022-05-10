@@ -15,16 +15,17 @@ Organizers: <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 ## Current Schedule
-### Apr 15, 2022, 09:30-11:30 (UTC+8): [Jun Gao](gj0211@mail.ustc.edu.cn ), University of Science and Technology of China
-_**On a conjecture of Bondy and Vince**_
+### May 13, 2022, 15:00-17:00 (UTC+8): [Jie Hu](), Paris-Saclay University
+_**Crux and long cycle in graphs**_
 [Tencent meeting](https://meeting.tencent.com/dm/aPqi8nZljsBp) pw 202205
+
 Abstract: We introduce a notion of the \emph{crux} of a graph $G$, measuring the order of a smallest dense subgraph in $G$. This simple-looking notion leads to some generalisations of known results about cycles, offering an interesting paradigm of `replacing average degree by crux'. In particular, we prove that \emph{every} graph contains a cycle of length linear in its crux. Long proved that every subgraph of a hypercube $Q^m$ (resp. discrete torus $C_3^m$) with average degree $d$ contains a path of length $2^{d/2}$  (resp. $2^{d/4}$), and conjectured that there should be a path of length $2^{d}-1$ (resp. $3^{d/2}-1$). As a corollary of our result, together with isoperimetric inequalities, we close these exponential gaps giving asymptotically optimal bounds on long paths in hypercubes, discrete tori, and more generally Hamming graphs. We also consider  random subgraphs of $C_4$-free graphs and hypercubes, proving near optimal lower bounds on the lengths of long cycles.
 
 
 ## Past talks
 
 ### Apr 29, 2022, 09:30-11:30 (UTC+8): [Zhenyu Taoqiu], Nankai University
-_**On a conjecture of Bondy and Vince**_   
+_**Good pairs in digraphs**_   
 [video](https://ws28.cn/f/87lkzi88vyl)
 ### Apr 15, 2022, 09:30-11:30 (UTC+8): [Jun Gao](gj0211@mail.ustc.edu.cn ), University of Science and Technology of China
 _**On a conjecture of Bondy and Vince**_
