@@ -15,7 +15,7 @@ Organizers: <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 ## Current Schedule
-### May 13, 2022, 15:00-17:00 (UTC+8): [Jie Hu](), Paris-Saclay University
+### May 13, 2022, 15:00-17:00 (UTC+8): [Jie Hu](hujie@lri.fr), Paris-Saclay University
 _**Crux and long cycle in graphs**_
 
 [Tencent meeting](https://meeting.tencent.com/dm/aPqi8nZljsBp) pw 202205
@@ -25,10 +25,10 @@ Abstract: We introduce a notion of the \emph{crux} of a graph $G$, measuring the
 
 ## Past talks
 
-### Apr 29, 2022, 09:30-11:30 (UTC+8): [Zhenyu Taoqiu], Nankai University
+### Apr 29, 2022, 09:30-11:30 (UTC+8): [Zhenyu Taoqiu](tochy@mail.nankai.edu.cn), Nankai University
 _**Good pairs in digraphs**_   
 [video](https://ws28.cn/f/87lkzi88vyl)
-### Apr 15, 2022, 09:30-11:30 (UTC+8): [Jun Gao](gj0211@mail.ustc.edu.cn ), University of Science and Technology of China
+### Apr 15, 2022, 09:30-11:30 (UTC+8): [Jun Gao](gj0211@mail.ustc.edu.cn), University of Science and Technology of China
 _**On a conjecture of Bondy and Vince**_   
 [video](https://meeting.tencent.com/user-center/shared-record-info?id=64dffd87-cd65-431f-b955-baa8e202597a&from=3) pw 8nJu
 ### Apr 1, 2022, 15:00-17:00 (UTC+8): [Donglei Yang](dlyang@sdu.edu.cn), Shandong University    
