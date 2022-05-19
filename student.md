@@ -27,12 +27,13 @@ Abstract: We introduce a notion of the \emph{crux} of a graph $G$, measuring the
 
 ### May 13, 2022, 15:00-17:00 (UTC+8): [Jie Hu](hujie@lri.fr), Paris-Saclay University
 _**Crux and long cycle in graphs**_
+[slides](./slides/2022/0513crux_and_cycles.pdf)
 ### Apr 29, 2022, 09:30-11:30 (UTC+8): [Zhenyu Taoqiu](tochy@mail.nankai.edu.cn), Nankai University
 _**Good pairs in digraphs**_   
-[video](https://ws28.cn/f/87lkzi88vyl)
+[slides](./slides/2022/0429Good pairs in digraphs_TaoqiuZhenyu_.pdf) [video](https://ws28.cn/f/87lkzi88vyl)
 ### Apr 15, 2022, 09:30-11:30 (UTC+8): [Jun Gao](gj0211@mail.ustc.edu.cn), University of Science and Technology of China
 _**On a conjecture of Bondy and Vince**_   
-[video](https://meeting.tencent.com/user-center/shared-record-info?id=64dffd87-cd65-431f-b955-baa8e202597a&from=3) pw 8nJu
+[slides](./slides/2022/0415PPT_on a conjecture of bondy and vince.pdf) [video](https://meeting.tencent.com/user-center/shared-record-info?id=64dffd87-cd65-431f-b955-baa8e202597a&from=3) pw 8nJu
 ### Apr 1, 2022, 15:00-17:00 (UTC+8): [Donglei Yang](dlyang@sdu.edu.cn), Shandong University    
 _**A Ramsey--Turán theory for tilings in graphs**_      
 [slides](./slides/2022/A_Ramsey_Turán_theory_for_tilings_in_graphs.pdf)
