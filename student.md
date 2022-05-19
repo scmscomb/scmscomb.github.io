@@ -16,7 +16,7 @@ Organizers: <br>
 
 ## Current Schedule
 ### May 27, 2022, 10:00-11:00 (UTC+8): [Chaoliang Tang](cltang17@fudan.edu.cn), Fudan University
-_**Turán number of the linear $3$-graph C_{13}**_
+_**Turán number of the linear 3-graph C_{13}**_
 
 [Tencent meeting](https://meeting.tencent.com/dm/Dx5Vzy2r18Lg) pw 0527
 
