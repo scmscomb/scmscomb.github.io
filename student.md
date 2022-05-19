@@ -16,9 +16,9 @@ Organizers: <br>
 
 ## Current Schedule
 ### May 27, 2022, 10:00-11:00 (UTC+8): [Chaoliang Tang](cltang17@fudan.edu.cn), Fudan University
-_**Turán number of the linear $3$-graph $C_{13}$**_
+_**Turán number of the linear $3$-graph C_{13}**_
 
-[Tencent meeting](https://meeting.tencent.com/dm/aPqi8nZljsB) pw 0527
+[Tencent meeting](https://meeting.tencent.com/dm/Dx5Vzy2r18Lg) pw 0527
 
 Abstract: Let the crown $C_{13}$ be the linear $3$-graph on $9$ vertices $\{a,b,c,d,e,f,g,h,i\}$ with edges 
 		$$E = \{\{a,b,c\}, \{a, d,e\}, \{b, f, g\}, \{c, h,i\}\}.$$ Proving a conjecture of Gy\'arf\'as et. al., we show that for any crown-free linear $3$-graph $G$ on $n$ vertices, its number of edges satisfy
