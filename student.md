@@ -25,6 +25,8 @@ Abstract: We introduce a notion of the \emph{crux} of a graph $G$, measuring the
 
 ## Past talks
 
+### May 13, 2022, 15:00-17:00 (UTC+8): [Jie Hu](hujie@lri.fr), Paris-Saclay University
+_**Crux and long cycle in graphs**_
 ### Apr 29, 2022, 09:30-11:30 (UTC+8): [Zhenyu Taoqiu](tochy@mail.nankai.edu.cn), Nankai University
 _**Good pairs in digraphs**_   
 [video](https://ws28.cn/f/87lkzi88vyl)
