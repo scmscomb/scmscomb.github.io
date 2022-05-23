@@ -21,7 +21,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ### July 15, 2022: [Jinyoung Park](https://sites.google.com/view/jinyoungpark) (Stanford University)
 
-### July 29, 2022
+### July 29, 2022: [Yongtang Shi](https://my.nankai.edu.cn/combinatorics/syt/list.psp) (Nankai University)
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
