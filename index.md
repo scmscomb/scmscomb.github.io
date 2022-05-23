@@ -13,15 +13,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### May 20, 2022 10:00-11:00 (UTC+8): [Lina Li](https://sites.google.com/view/linali/) (University of Waterloo)
-_**The chromatic number of triangle-free hypergraphs**_  
-[zoom]( https://zoom.us/j/89307471081?pwd=UFBnajM4RUQyNDJmMGVGbTFJZnUxQT09) pw: 061801
-
-A classical result of Johansson showed that for any triangle-free graph $G$ with maximum degree $\Delta$, its chromatic number is $O(\Delta/\log\Delta)$. This result was later generalized to all rank 3 hypergraphs due to the work of Copper and Mubayi. In this talk, I will present a common generalization of the above results to all hypergraphs, and this is sharp apart from the constant. Moreover, our result implies, generalizes, and improves several earlier results on the chromatic number and also independence number of hypergraphs, while its proof is based on a different approach than prior works in hypergraphs (and therefore provides alternative proofs to them). In particular, as an application, we establish a bound on chromatic number of sparse hypergraphs in which each vertex is contained in few triangles, and thus extend results of Alon, Krivelevich and Sudakov and Cooper and Mubayi from hypergraphs of rank 2 and 3, respectively, to all hypergraphs.
-
-This is joint work with Luke Postle.
-
-
 ### June 3, 2022
 
 ### June 17, 2022
@@ -34,6 +25,13 @@ This is joint work with Luke Postle.
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### May 20, 2022: [Lina Li](https://sites.google.com/view/linali/) (University of Waterloo)
+_**The chromatic number of triangle-free hypergraphs**_  [video](https://www.bilibili.com/video/BV1ug411o7SP/)
+
+A classical result of Johansson showed that for any triangle-free graph $G$ with maximum degree $\Delta$, its chromatic number is $O(\Delta/\log\Delta)$. This result was later generalized to all rank 3 hypergraphs due to the work of Copper and Mubayi. In this talk, I will present a common generalization of the above results to all hypergraphs, and this is sharp apart from the constant. Moreover, our result implies, generalizes, and improves several earlier results on the chromatic number and also independence number of hypergraphs, while its proof is based on a different approach than prior works in hypergraphs (and therefore provides alternative proofs to them). In particular, as an application, we establish a bound on chromatic number of sparse hypergraphs in which each vertex is contained in few triangles, and thus extend results of Alon, Krivelevich and Sudakov and Cooper and Mubayi from hypergraphs of rank 2 and 3, respectively, to all hypergraphs.
+
+This is joint work with Luke Postle.
 
 ### May 6, 2022: [Sophie Spirkl](https://sites.google.com/site/sophiespirkl/) (University of Waterloo)
 _**Counterexamples for chromatic and dichromatic number**_   [video](https://www.bilibili.com/video/BV1bY411A7bc)    [slides](./slides/2022/talk_dichi_scms.pdf)
