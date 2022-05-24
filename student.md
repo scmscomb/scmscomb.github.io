@@ -20,7 +20,7 @@ _**Turán number of the linear 3-graph Crown**_
 
 [Tencent meeting](https://meeting.tencent.com/dm/Dx5Vzy2r18Lg) pw 0527
 
-Abstract: Let the crown $C_{13}$ be the linear 3-graph on 9 vertices {a,b,c,d,e,f,g,h,i} with edges $E$ = {{a,b,c}, {a, d,e}, {b, f, g}, {c, h,i}}. We proving a conjecture of Gyárfás et. al., we show that for any crown-free linear $3$-graph $G$ on $n$ vertices, its number of edges satisfy $|E(G)| \leq \frac{3(n - s)}{2}$ where $s$ is the number of vertices in $G$ with degree at least 6. This result, combined with previous work, essentially completes the determination of linear Turán number for linear 3-graphs with at most 4 edges. This is the joint work with my tutor Hehui Wu and my fellow Zeyu Zheng. 
+Abstract: Let the crown $C_{13}$ be the linear 3-graph on 9 vertices {a,b,c,d,e,f,g,h,i} with edges $E = {{a,b,c}, {a, d,e}, {b, f, g}, {c, h,i}}$. We proving a conjecture of Gyárfás et. al., we show that for any crown-free linear $3$-graph $G$ on $n$ vertices, its number of edges satisfy $|E(G)| \leq \frac{3(n - s)}{2}$ where $s$ is the number of vertices in $G$ with degree at least 6. This result, combined with previous work, essentially completes the determination of linear Turán number for linear 3-graphs with at most 4 edges. This is the joint work with my tutor Hehui Wu and my fellow Zeyu Zheng. 
 
 
 ## Past talks
