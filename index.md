@@ -13,7 +13,11 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### June 3, 2022
+### June 3, 2022 14:00-15:00 (UTC+8): [Ziqing Xiang](http://ziqing.org/) (Academia Sinica/Southern University of Science and Technology)
+_**Line graphs over the binary field**_     
+[zoom](https://zoom.us/j/88691013445?pwd=dEVYcFd4NXJyY3pidVBIa0QzN1U0Zz09) pw 121323
+
+Abstract: There are two natural ways to project the set of natural numbers to {0, 1}: (1) mapping 0 to 0 and all positive integers to 1; (2) mapping all even natural numbers to 0 and all odd natural numbers to 1. These two projections lead to two different definitions of line graphs of multigraphs (loops and parallel edges allowed), and we mainly focus on the latter one in this talk. We will discuss their forbidden subgraph characterization, edge clique partition, linear time reconstruction algorithm, and good vertex orderings. If time permits, we will also discuss their connections with Euler quadratic form, reflection groups and root systems.
 
 ### June 17, 2022
 
