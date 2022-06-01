@@ -21,7 +21,7 @@ Abstract: There are two natural ways to project the set of natural numbers to {0
 
 ### June 17, 2022
 
-### July 1, 2022
+### July 1, 2022, [Xujun Liu](https://sites.google.com/view/xujunliu1993) (Xi'an Jiaotong-Liverpool University)
 
 ### July 15, 2022: [Jinyoung Park](https://sites.google.com/view/jinyoungpark) (Stanford University)
 
