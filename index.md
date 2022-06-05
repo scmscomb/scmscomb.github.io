@@ -13,11 +13,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### June 3, 2022, 14:00-15:00 (UTC+8): [Ziqing Xiang](http://ziqing.org/) (Academia Sinica/Southern University of Science and Technology)
-_**Line graphs over the binary field**_     
-[zoom](https://zoom.us/j/88691013445?pwd=dEVYcFd4NXJyY3pidVBIa0QzN1U0Zz09) pw 121323
 
-Abstract: There are two natural ways to project the set of natural numbers to {0, 1}: (1) mapping 0 to 0 and all positive integers to 1; (2) mapping all even natural numbers to 0 and all odd natural numbers to 1. These two projections lead to two different definitions of line graphs of multigraphs (loops and parallel edges allowed), and we mainly focus on the latter one in this talk. We will discuss their forbidden subgraph characterization, edge clique partition, linear time reconstruction algorithm, and good vertex orderings. If time permits, we will also discuss their connections with Euler quadratic form, reflection groups and root systems.
 
 ### June 17, 2022, 14:00-15:00 (UTC+8): [Bo Ning](https://cc.nankai.edu.cn/2020/0929/c13620a303658/page.htm) (Nankai University)
 _**A spectral condition for cycles with consecutive lengths**_        
@@ -37,6 +33,11 @@ large even cycles due to Allen, Łuczak, Polcyn and Zhang, and with aid of a pow
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### June 3, 2022: [Ziqing Xiang](http://ziqing.org/) (Academia Sinica/Southern University of Science and Technology)
+_**Line graphs over the binary field**_     
+
+Abstract: There are two natural ways to project the set of natural numbers to {0, 1}: (1) mapping 0 to 0 and all positive integers to 1; (2) mapping all even natural numbers to 0 and all odd natural numbers to 1. These two projections lead to two different definitions of line graphs of multigraphs (loops and parallel edges allowed), and we mainly focus on the latter one in this talk. We will discuss their forbidden subgraph characterization, edge clique partition, linear time reconstruction algorithm, and good vertex orderings. If time permits, we will also discuss their connections with Euler quadratic form, reflection groups and root systems.
 
 ### May 20, 2022: [Lina Li](https://sites.google.com/view/linali/) (University of Waterloo)
 _**The chromatic number of triangle-free hypergraphs**_  [video](https://www.bilibili.com/video/BV1ug411o7SP/)
