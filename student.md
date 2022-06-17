@@ -15,7 +15,7 @@ Organizers: <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 ## Current Schedule
-### May 27, 2022, 10:00-11:00 (UTC+8): [Chaoliang Tang](cltang17@fudan.edu.cn), Fudan University
+### June 10, 2022, 10:00-11:00 (UTC+8): [Chaoliang Tang](cltang17@fudan.edu.cn), Fudan University
 _**Turán number of the linear 3-graph Crown**_
 
 [Tencent meeting](https://meeting.tencent.com/dm/Dx5Vzy2r18Lg) pw 0527
@@ -24,6 +24,10 @@ Abstract: Let the crown $C_{13}$ be the linear 3-graph on 9 vertices {a,b,c,d,e,
 
 ## Past talks
 
+### June 10, 2022, 09:00-11:30 (UTC+8): Jialin He, University of Science and Technology of China
+_**The minimum number of clique-saturating edges**_
+### May 27, 2022, 10:00-11:00 (UTC+8): [Chaoliang Tang](cltang17@fudan.edu.cn), Fudan University
+_**Turán number of the linear 3-graph Crown**_
 ### May 13, 2022, 15:00-17:00 (UTC+8): [Jie Hu](hujie@lri.fr), Paris-Saclay University
 _**Crux and long cycle in graphs**_
 [slides](./slides/2022/0513crux_and_cycles.pdf)
