@@ -33,7 +33,7 @@ This is a joint work with Balogh, Kostochka, and Lavrov.
 Check [past talks](past) for the full list of past talks with all details.
 
 ### June 17, 2022: [Bo Ning](https://cc.nankai.edu.cn/2020/0929/c13620a303658/page.htm) (Nankai University)
-_**A spectral condition for cycles with consecutive lengths**_        
+_**A spectral condition for cycles with consecutive lengths**_        [video](https://www.bilibili.com/video/BV1vv4y1M78q)     
 
 As the counterpart of classical theorems on cycles of consecutive lengths due to Bondy and Bollobás in spectral graph theory, Nikiforov proposed the following open problem in 2008:
 What is the maximum $C$ such that for all positive $\varepsilon<C$ and sufficiently large $n$, every graph $G$ of order $n$ with spectral radius $\rho(G)>\sqrt{\lfloor\frac{n^2}{4}\rfloor}$
@@ -41,7 +41,7 @@ contains a cycle of length $\ell$ for each integer $\ell\in[3,(C-\varepsilon)n]$
 large even cycles due to Allen, Łuczak, Polcyn and Zhang, and with aid of a powerful spectral inequality. (Join work with Binlong Li)
 
 ### June 3, 2022: [Ziqing Xiang](http://ziqing.org/) (Academia Sinica/Southern University of Science and Technology)
-_**Line graphs over the binary field**_     
+_**Line graphs over the binary field**_      [video](https://www.bilibili.com/video/BV1F34y1L75j)
 
 Abstract: There are two natural ways to project the set of natural numbers to {0, 1}: (1) mapping 0 to 0 and all positive integers to 1; (2) mapping all even natural numbers to 0 and all odd natural numbers to 1. These two projections lead to two different definitions of line graphs of multigraphs (loops and parallel edges allowed), and we mainly focus on the latter one in this talk. We will discuss their forbidden subgraph characterization, edge clique partition, linear time reconstruction algorithm, and good vertex orderings. If time permits, we will also discuss their connections with Euler quadratic form, reflection groups and root systems.
 
