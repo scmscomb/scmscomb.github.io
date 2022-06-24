@@ -23,7 +23,12 @@ Our result is tight in the sense that no longer cycles (of length $>2t+r$  ) can
 
 This is a joint work with Balogh, Kostochka, and Lavrov.
 
-### July 15, 2022: [Jinyoung Park](https://sites.google.com/view/jinyoungpark) (Stanford University)
+### July 15, 2022, 09:00-10:00 (UTC+8): [Jinyoung Park](https://sites.google.com/view/jinyoungpark) (Stanford University)
+_**Thresholds**_       
+[zoom](https://zoom.us/j/84774922132) pw 121323      
+
+Thresholds for increasing properties of random structures are a central concern in probabilistic combinatorics and related areas. In 2006, Kahn and Kalai conjectured that for any nontrivial increasing property on a finite set, its threshold is never far from its "expectation-threshold," which is a natural (and often easy to calculate) lower bound on the threshold. In this talk, I will present recent progress on this topic. Based on joint work with Huy Tuan Pham.
+
 
 ### July 29, 2022: [Yongtang Shi](https://my.nankai.edu.cn/combinatorics/syt/list.psp) (Nankai University)
 
