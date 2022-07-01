@@ -34,6 +34,11 @@ Thresholds for increasing properties of random structures are a central concern 
 
 ### Aug 12, 2022: [Zhouningxin Wang](https://www.irif.fr/~wangzhou4/)
 
+### Aug 26, 2022, 10:00-11:00 (UTC+8):: [Richard Peng](https://faculty.cc.gatech.edu/~rpeng/) (University of Waterloo)
+[zoom](https://zoom.us/j/83372249065?pwd=4xh1EN3z6bHcl0-qUv5lSFNO7roKIj.1) pw 121323    
+
+
+
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
 
