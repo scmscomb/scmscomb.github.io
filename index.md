@@ -13,15 +13,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### July 1, 2022, 14:00-15:00 (UTC+8): [Xujun Liu](https://sites.google.com/view/xujunliu1993) (Xi'an Jiaotong-Liverpool University)
-_**Monochromatic paths and cycles in 2-edge-coloured graphs with large minimum degree**_      
-[zoom](https://zoom.us/j/84488408497?pwd=am1ONXpaamJqeCtpYlFTVFRNUEdPQT09) pw 061801     
 
-A graph $G$ arrows a graph $H$ if in every $2$-edge-colouring of G there exists a monochromatic copy of $H$. Schelp had the idea that if the complete graph  $K_n$  arrows a small graph $H$, then every ‘dense’ subgraph of  $K_n$  also arrows $H$, and he outlined some problems in this direction. Our main result is in this spirit. We prove that for every sufficiently large $n$, if  $n=3t+r$  where  $r \in \{0,1,2\} $ and $G$ is an $n$-vertex graph with  $\delta(G) \ge (3n-1)/4$, then for every $2$-edge-colouring of $G$, either there are cycles of every length  ${3,4,5,…,2t+r}$  of the same colour, or there are cycles of every even length  ${4,6,8,…,2t+2}$  of the samecolour.
-
-Our result is tight in the sense that no longer cycles (of length $>2t+r$  ) can be guaranteed and the minimum degree condition cannot be reduced. It also implies the conjecture of Schelp that for every sufficiently large n, every  $(3t-1)$-vertex graph $G$ with minimum degree larger than  $3\|V(G)\|/4$  arrows the path  $P_{2n}$  with $2n$ vertices. Moreover, it implies for sufficiently large $n$ the conjecture by Benevides, Łuczak, Scott, Skokan and White that for  $n=3t+r$  where  $r \in \{0,1,2\} $ and every n-vertex graph $G$ with  $\delta(G) \ge 3n/4$  , in each $2$-edge-colouring of G there exists a monochromatic cycle of length at least  $2t+r$.
-
-This is a joint work with Balogh, Kostochka, and Lavrov.
 
 ### July 15, 2022, 09:00-10:00 (UTC+8): [Jinyoung Park](https://sites.google.com/view/jinyoungpark) (Stanford University)
 _**Thresholds**_       
@@ -32,7 +24,15 @@ Thresholds for increasing properties of random structures are a central concern 
 
 ### July 29, 2022: [Yongtang Shi](https://my.nankai.edu.cn/combinatorics/syt/list.psp) (Nankai University)
 
-### Aug 12, 2022: [Zhouningxin Wang](https://www.irif.fr/~wangzhou4/)
+### Aug 12, 2022: [Zhouningxin Wang](https://www.irif.fr/~wangzhou4/) (Université Paris Cité and Nankai University)       
+
+A signed graph $(G, \sigma)$ is a graph $G$ together with a signature $\sigma: E(G) \to \{+, -\}$. A homomorphism of a signed graph $(G, \sigma)$ to another signed graph $(H, \pi)$ is a mapping from $V(G)$ to $V(H)$ such that the adjacency and the signs of closed walks are preserved. Given a signed graph $(G, \sigma)$, let $g_{ij}(G, \sigma)$ ($ij\in \mathbb{Z}^2_2$) denote the length of a shortest non-trivial closed walk whose parity of the number of negative edges is equal to $i$ modulo $2$ and parity of the length is equal to $j$ modulo $2$. We observe that if $(G, \sigma)$ admits a homomorphism to $(H, \pi)$, then $g_{ij}(G, \sigma)\geq g_{ij}(H, \pi)$ for each $ij\in \mathbb{Z}^2_2$. A signed graph $(G, \sigma)$ is $(H, \pi)$-critical if it satisfies that $g_{ij}(G, \sigma)\geq g_{ij}(H, \pi)$, and it admits no homomorphism to $(H, \pi)$ but each of its proper subgraphs does. 
+	
+By a signed indicator construction, we first show that the $k$-coloring problem of graphs is captured by the $C_{\!\scriptscriptstyle -k}$-coloring problem of signed graphs. Then we prove that, except for one particular signed graph on $7$ vertices and $9$ edges, any $C_{\!\scriptscriptstyle -4}$-critical signed graph on $n$ vertices must have at least $\lceil\frac{4n}{3}\rceil$ edges. Moreover, for each value of $n\geq 9$, there exists a $C_{\!\scriptscriptstyle -4}$-critical signed graph on $n$ vertices with either $\lceil\frac{4n}{3}\rceil$ or $\lceil\frac{4n}{3}\rceil+1$ many edges. As an application to planar graphs, we conclude that every signed bipartite planar graphs of negative-girth at least $8$ admits a homomorphism to $C_{\!\scriptscriptstyle -4}$ and, furthermore, this bound is the best possible. This fits well into a larger framework of the study of analog of Jaeger-Zhang conjecture.
+
+This is joint work with Reza Naserasr and Lan Anh Pham.
+
+
 
 ### Aug 26, 2022, 10:00-11:00 (UTC+8):: [Richard Peng](https://faculty.cc.gatech.edu/~rpeng/) (University of Waterloo)
 [zoom](https://zoom.us/j/83372249065?pwd=4xh1EN3z6bHcl0-qUv5lSFNO7roKIj.1) pw 121323    
@@ -41,6 +41,15 @@ Thresholds for increasing properties of random structures are a central concern 
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### July 1, 2022: [Xujun Liu](https://sites.google.com/view/xujunliu1993) (Xi'an Jiaotong-Liverpool University)
+_**Monochromatic paths and cycles in 2-edge-coloured graphs with large minimum degree**_         
+
+A graph $G$ arrows a graph $H$ if in every $2$-edge-colouring of G there exists a monochromatic copy of $H$. Schelp had the idea that if the complete graph  $K_n$  arrows a small graph $H$, then every ‘dense’ subgraph of  $K_n$  also arrows $H$, and he outlined some problems in this direction. Our main result is in this spirit. We prove that for every sufficiently large $n$, if  $n=3t+r$  where  $r \in \{0,1,2\} $ and $G$ is an $n$-vertex graph with  $\delta(G) \ge (3n-1)/4$, then for every $2$-edge-colouring of $G$, either there are cycles of every length  ${3,4,5,…,2t+r}$  of the same colour, or there are cycles of every even length  ${4,6,8,…,2t+2}$  of the samecolour.
+
+Our result is tight in the sense that no longer cycles (of length $>2t+r$  ) can be guaranteed and the minimum degree condition cannot be reduced. It also implies the conjecture of Schelp that for every sufficiently large n, every  $(3t-1)$-vertex graph $G$ with minimum degree larger than  $3\|V(G)\|/4$  arrows the path  $P_{2n}$  with $2n$ vertices. Moreover, it implies for sufficiently large $n$ the conjecture by Benevides, Łuczak, Scott, Skokan and White that for  $n=3t+r$  where  $r \in \{0,1,2\} $ and every n-vertex graph $G$ with  $\delta(G) \ge 3n/4$  , in each $2$-edge-colouring of G there exists a monochromatic cycle of length at least  $2t+r$.
+
+This is a joint work with Balogh, Kostochka, and Lavrov.
 
 ### June 17, 2022: [Bo Ning](https://cc.nankai.edu.cn/2020/0929/c13620a303658/page.htm) (Nankai University)
 _**A spectral condition for cycles with consecutive lengths**_        [video](https://www.bilibili.com/video/BV1vv4y1M78q)     
