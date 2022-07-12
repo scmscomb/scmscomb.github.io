@@ -15,19 +15,23 @@ Organizers: <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 ## Current Schedule
-### June 10, 2022, 10:00-11:00 (UTC+8): [Chaoliang Tang](cltang17@fudan.edu.cn), Fudan University
-_**Turán number of the linear 3-graph Crown**_
-
-[Tencent meeting](https://meeting.tencent.com/dm/Dx5Vzy2r18Lg) pw 0527
-
-Abstract: Let the crown $C_{13}$ be the linear 3-graph on 9 vertices {a,b,c,d,e,f,g,h,i} with edges E = { {a,b,c}, {a,d,e}, {b,f, g}, {c,h,i} }. Proving a conjecture of Gyárfás et. al., we show that for any crown-free linear $3$-graph $G$ on $n$ vertices, its number of edges satisfy $\|E(G)\| \leq \frac{3(n - s)}{2}$, where $s$ is the number of vertices in $G$ with degree at least 6. This result, combined with previous work, essentially completes the determination of linear Turán number for linear 3-graphs with at most 4 edges. This is joint work with my tutor Hehui Wu and my fellow Zeyu Zheng. 
+### July 8, 2022, 10:00-12:00 (UTC+8):[Yaobing Chen](mailto:ybchen21@m.fudan.edu.cn), Fudan University
+_**Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of Eulerian-type polynomials**_
 
 ## Past talks
 
+### July 8, 2022, 10:00-12:00 (UTC+8):[Yaobing Chen](mailto:ybchen21@m.fudan.edu.cn), Fudan University
+_**Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of Eulerian-type polynomials**_
+[slides](./slides/2022/Boolean function(Fan Chang 6.24).pdf) [video](https://pan.baidu.com/s/1mmhEt7Ntomkdh4zLFZ9PjA?pwd=okdv) pw okdv
+### June 24, 2022, 15:00-17:00 (UTC+8):[Fan Chang](mailto:fchang@mail.sdu.edu.cn)，Shandong University
+_**A Brief Introduction to Fourier Analysis on the Boolean Cube: Advances and Challenges**_
+[slides](./slides/2022/Boolean function(Fan Chang 6.24).pdf)
 ### June 10, 2022, 09:00-11:30 (UTC+8): Jialin He, University of Science and Technology of China
 _**The minimum number of clique-saturating edges**_
+[slides](./slides/2022/The_minimum_number_of_clique_saturating_edges20220610.pdf)
 ### May 27, 2022, 10:00-11:00 (UTC+8): [Chaoliang Tang](cltang17@fudan.edu.cn), Fudan University
 _**Turán number of the linear 3-graph Crown**_
+[slides](./slides/2022/20220527_Turan_number_of_the_linear_3graph_crown.pdf)
 ### May 13, 2022, 15:00-17:00 (UTC+8): [Jie Hu](hujie@lri.fr), Paris-Saclay University
 _**Crux and long cycle in graphs**_
 [slides](./slides/2022/0513crux_and_cycles.pdf)
