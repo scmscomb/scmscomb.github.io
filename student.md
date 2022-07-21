@@ -26,7 +26,7 @@ In this paper, we give a new method to show that the conjecture holds for a gene
 
 ### July 8, 2022, 10:00-12:00 (UTC+8):[Yaobing Chen](mailto:ybchen21@m.fudan.edu.cn), Fudan University
 _**Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of Eulerian-type polynomials**_
-[slides](./slides/2022/Boolean function(Fan Chang 6.24).pdf) [video](https://pan.baidu.com/s/1mmhEt7Ntomkdh4zLFZ9PjA?pwd=okdv) pw okdv
+[slides](./slides/2022/0708 Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of Eulerian-type polynomials.pdf) [video](https://pan.baidu.com/s/1mmhEt7Ntomkdh4zLFZ9PjA?pwd=okdv) pw okdv
 ### June 24, 2022, 15:00-17:00 (UTC+8):[Fan Chang](mailto:fchang@mail.sdu.edu.cn)，Shandong University
 _**A Brief Introduction to Fourier Analysis on the Boolean Cube: Advances and Challenges**_
 [slides](./slides/2022/Boolean function(Fan Chang 6.24).pdf)
