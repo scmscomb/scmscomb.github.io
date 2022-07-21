@@ -15,8 +15,12 @@ Organizers: <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 ## Current Schedule
-### July 8, 2022, 10:00-12:00 (UTC+8):[Yaobing Chen](mailto:ybchen21@m.fudan.edu.cn), Fudan University
-_**Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of Eulerian-type polynomials**_
+### July 22, 2022, 15:00-17:00 (UTC+8):[Jiangdong Ai](mailto:peac003@live.rhul.ac.uk), Royal Holloway, University of London
+_**Results on the Small Quasi-Kernel Conjecture**_
+[Tencent meeting](https://meeting.tencent.com/dm/76ephKsZNFSt) pw 1234
+
+Abstract: A quasi-kernel of a digraph $D$ is an independent set $Q\subseteq V(D)$ such that for every  vertex $v\in V(D)\backslash Q$, there exists a directed path with one or two arcs from $v$ to a vertex $u\in Q$.  In 1974, Chv\'{a}tal and Lov\'{a}sz proved that every digraph has a quasi-kernel. In 1976, Erd\H{o}s and S\'zekely conjectured that every sink-free digraph $D=(V(D),A(D))$ has a quasi-kernel of size at most $|V(D)|/2$.
+In this paper, we give a new method to show that the conjecture holds for a generalization of anti-claw-free digraphs. For any sink-free one-way split digraph $D$ of order $n$, when $n\geq 3$, we show a stronger result that $D$ has a quasi-kernel of size at most $\frac{n+3}{2} - \sqrt{n}$, and the bound is sharp.
 
 ## Past talks
 
