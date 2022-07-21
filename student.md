@@ -30,7 +30,7 @@ _**Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of E
 [slides](./slides/2022/0708_Orientations_of_Graphs_with_Forbidden_out-degree_Lists.pdf) [video](https://pan.baidu.com/s/1mmhEt7Ntomkdh4zLFZ9PjA?pwd=okdv) pw okdv
 ### June 24, 2022, 15:00-17:00 (UTC+8):[Fan Chang](mailto:fchang@mail.sdu.edu.cn)，Shandong University
 _**A Brief Introduction to Fourier Analysis on the Boolean Cube: Advances and Challenges**_
-[slides](./slides/2022/Boolean function(Fan Chang 6.24).pdf)
+[slides](./slides/2022/0624_Boolean function_Fan Chang.pdf)
 ### June 10, 2022, 09:00-11:30 (UTC+8): Jialin He, University of Science and Technology of China
 _**The minimum number of clique-saturating edges**_
 [slides](./slides/2022/The_minimum_number_of_clique_saturating_edges20220610.pdf)
