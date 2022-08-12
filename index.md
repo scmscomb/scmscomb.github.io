@@ -13,23 +13,21 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-### Aug 12, 2022: [Zhouningxin Wang](https://www.irif.fr/~wangzhou4/) (Université Paris Cité and Nankai University)       
-_**Density of $C_{\negthinspace\scriptscriptstyle -4}$-critical signed graphs**_       
-
-A signed graph $(G, \sigma)$ is a graph $G$ together with a signature $\sigma: E(G) \to \lbrace +, -\rbrace$. A homomorphism of a signed graph $(G, \sigma)$ to another signed graph $(H, \pi)$ is a mapping from $V(G)$ to $V(H)$ such that the adjacency and the signs of closed walks are preserved. Given a signed graph $(G, \sigma)$, let $g_{ij}(G, \sigma)$ ($ij \in Z_2^2$) denote the length of a shortest non-trivial closed walk whose parity of the number of negative edges is equal to $i$ modulo $2$ and parity of the length is equal to $j$ modulo $2$. We observe that if $(G, \sigma)$ admits a homomorphism to $(H, \pi)$, then $g_{ij}(G, \sigma)\geq g_{ij}(H, \pi)$ for each $ij\in Z_2^2$. A signed graph $(G, \sigma)$ is $(H, \pi)$-critical if it satisfies that $g_{ij}(G, \sigma)\geq g_{ij}(H, \pi)$, and it admits no homomorphism to $(H, \pi)$ but each of its proper subgraphs does. 
-	
-By a signed indicator construction, we first show that the $k$-coloring problem of graphs is captured by the $C_{\negthinspace\scriptscriptstyle -k}$-coloring problem of signed graphs. Then we prove that, except for one particular signed graph on $7$ vertices and $9$ edges, any $C_{\negthinspace\scriptscriptstyle -4}$-critical signed graph on $n$ vertices must have at least $\lceil\frac{4n}{3}\rceil$ edges. Moreover, for each value of $n\geq 9$, there exists a $C_{\negthinspace\scriptscriptstyle -4}$-critical signed graph on $n$ vertices with either $\lceil\frac{4n}{3}\rceil$ or $\lceil\frac{4n}{3}\rceil+1$ many edges. As an application to planar graphs, we conclude that every signed bipartite planar graphs of negative-girth at least $8$ admits a homomorphism to $C_{\negthinspace\scriptscriptstyle -4}$ and, furthermore, this bound is the best possible. This fits well into a larger framework of the study of analog of Jaeger-Zhang conjecture.
-
-This is joint work with Reza Naserasr and Lan Anh Pham.
-
-
-
 ### Aug 26, 2022, 10:00-11:00 (UTC+8):: [Richard Peng](https://faculty.cc.gatech.edu/~rpeng/) (University of Waterloo)
 [zoom](https://zoom.us/j/83372249065?pwd=4xh1EN3z6bHcl0-qUv5lSFNO7roKIj.1) pw 121323    
 
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Aug 12, 2022: [Zhouningxin Wang](https://www.irif.fr/~wangzhou4/) (Université Paris Cité and Nankai University)       
+_**Density of $C_{\negthinspace\scriptscriptstyle -4}$-critical signed graphs**_      [video](https://www.bilibili.com/video/BV1iU4y1C74H) 
+
+A signed graph $(G, \sigma)$ is a graph $G$ together with a signature $\sigma: E(G) \to \lbrace +, -\rbrace$. A homomorphism of a signed graph $(G, \sigma)$ to another signed graph $(H, \pi)$ is a mapping from $V(G)$ to $V(H)$ such that the adjacency and the signs of closed walks are preserved. Given a signed graph $(G, \sigma)$, let $g_{ij}(G, \sigma)$ ($ij \in Z_2^2$) denote the length of a shortest non-trivial closed walk whose parity of the number of negative edges is equal to $i$ modulo $2$ and parity of the length is equal to $j$ modulo $2$. We observe that if $(G, \sigma)$ admits a homomorphism to $(H, \pi)$, then $g_{ij}(G, \sigma)\geq g_{ij}(H, \pi)$ for each $ij\in Z_2^2$. A signed graph $(G, \sigma)$ is $(H, \pi)$-critical if it satisfies that $g_{ij}(G, \sigma)\geq g_{ij}(H, \pi)$, and it admits no homomorphism to $(H, \pi)$ but each of its proper subgraphs does. 
+	
+By a signed indicator construction, we first show that the $k$-coloring problem of graphs is captured by the $C_{\negthinspace\scriptscriptstyle -k}$-coloring problem of signed graphs. Then we prove that, except for one particular signed graph on $7$ vertices and $9$ edges, any $C_{\negthinspace\scriptscriptstyle -4}$-critical signed graph on $n$ vertices must have at least $\lceil\frac{4n}{3}\rceil$ edges. Moreover, for each value of $n\geq 9$, there exists a $C_{\negthinspace\scriptscriptstyle -4}$-critical signed graph on $n$ vertices with either $\lceil\frac{4n}{3}\rceil$ or $\lceil\frac{4n}{3}\rceil+1$ many edges. As an application to planar graphs, we conclude that every signed bipartite planar graphs of negative-girth at least $8$ admits a homomorphism to $C_{\negthinspace\scriptscriptstyle -4}$ and, furthermore, this bound is the best possible. This fits well into a larger framework of the study of analog of Jaeger-Zhang conjecture.
+
+This is joint work with Reza Naserasr and Lan Anh Pham.
 
 ### July 29, 2022: [Yongtang Shi](https://my.nankai.edu.cn/combinatorics/syt/list.psp) (Nankai University)
 _**Planar Turán number of graphs**_      [video](https://www.bilibili.com/video/BV1hN4y1G7WP/)        
