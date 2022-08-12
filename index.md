@@ -32,7 +32,7 @@ This is joint work with Reza Naserasr and Lan Anh Pham.
 Check [past talks](past) for the full list of past talks with all details.
 
 ### July 29, 2022: [Yongtang Shi](https://my.nankai.edu.cn/combinatorics/syt/list.psp) (Nankai University)
-_**Planar Turán number of graphs**_   
+_**Planar Turán number of graphs**_      [video](https://www.bilibili.com/video/BV1hN4y1G7WP/)        
 
 One of the best known results in extremal combinatorics is Turan's Theorem. Turan-type problems of graphs and hypergraphs are widely studied in last years. In this talk, we will report the recent progress on Turan-type problems when host graphs are planar graphs.
 
