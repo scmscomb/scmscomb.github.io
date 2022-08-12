@@ -13,17 +13,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule     
 
-
-
-### July 15, 2022, 09:00-10:00 (UTC+8): [Jinyoung Park](https://sites.google.com/view/jinyoungpark) (Stanford University)
-_**Thresholds**_       
-[zoom](https://zoom.us/j/84774922132) pw 121323      
-
-Thresholds for increasing properties of random structures are a central concern in probabilistic combinatorics and related areas. In 2006, Kahn and Kalai conjectured that for any nontrivial increasing property on a finite set, its threshold is never far from its "expectation-threshold," which is a natural (and often easy to calculate) lower bound on the threshold. In this talk, I will present recent progress on this topic. Based on joint work with Huy Tuan Pham.
-
-
-### July 29, 2022: [Yongtang Shi](https://my.nankai.edu.cn/combinatorics/syt/list.psp) (Nankai University)
-
 ### Aug 12, 2022: [Zhouningxin Wang](https://www.irif.fr/~wangzhou4/) (Université Paris Cité and Nankai University)       
 _**Density of $C_{\negthinspace\scriptscriptstyle -4}$-critical signed graphs**_       
 
@@ -39,9 +28,18 @@ This is joint work with Reza Naserasr and Lan Anh Pham.
 [zoom](https://zoom.us/j/83372249065?pwd=4xh1EN3z6bHcl0-qUv5lSFNO7roKIj.1) pw 121323    
 
 
-
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### July 29, 2022: [Yongtang Shi](https://my.nankai.edu.cn/combinatorics/syt/list.psp) (Nankai University)
+_**Planar Turán number of graphs**_   
+
+One of the best known results in extremal combinatorics is Turan's Theorem. Turan-type problems of graphs and hypergraphs are widely studied in last years. In this talk, we will report the recent progress on Turan-type problems when host graphs are planar graphs.
+
+### July 15, 2022: [Jinyoung Park](https://sites.google.com/view/jinyoungpark) (Stanford University)
+_**Thresholds**_         
+
+Thresholds for increasing properties of random structures are a central concern in probabilistic combinatorics and related areas. In 2006, Kahn and Kalai conjectured that for any nontrivial increasing property on a finite set, its threshold is never far from its "expectation-threshold," which is a natural (and often easy to calculate) lower bound on the threshold. In this talk, I will present recent progress on this topic. Based on joint work with Huy Tuan Pham.
 
 ### July 1, 2022: [Xujun Liu](https://sites.google.com/view/xujunliu1993) (Xi'an Jiaotong-Liverpool University)
 _**Monochromatic paths and cycles in 2-edge-coloured graphs with large minimum degree**_         
