@@ -21,7 +21,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 Check [past talks](past) for the full list of past talks with all details.
 
 ### Aug 12, 2022: [Zhouningxin Wang](https://www.irif.fr/~wangzhou4/) (Université Paris Cité and Nankai University)       
-_**Density of $C_{\negthinspace\scriptscriptstyle -4}$-critical signed graphs**_      [video](https://www.bilibili.com/video/BV1iU4y1C74H) 
+_**Density of $C_{\negthinspace\scriptscriptstyle -4}$-critical signed graphs**_      [video](https://www.bilibili.com/video/BV1iU4y1C74H)  [slides](./slides/2022/C_-4-Critical_0812.pdf)
 
 A signed graph $(G, \sigma)$ is a graph $G$ together with a signature $\sigma: E(G) \to \lbrace +, -\rbrace$. A homomorphism of a signed graph $(G, \sigma)$ to another signed graph $(H, \pi)$ is a mapping from $V(G)$ to $V(H)$ such that the adjacency and the signs of closed walks are preserved. Given a signed graph $(G, \sigma)$, let $g_{ij}(G, \sigma)$ ($ij \in Z_2^2$) denote the length of a shortest non-trivial closed walk whose parity of the number of negative edges is equal to $i$ modulo $2$ and parity of the length is equal to $j$ modulo $2$. We observe that if $(G, \sigma)$ admits a homomorphism to $(H, \pi)$, then $g_{ij}(G, \sigma)\geq g_{ij}(H, \pi)$ for each $ij\in Z_2^2$. A signed graph $(G, \sigma)$ is $(H, \pi)$-critical if it satisfies that $g_{ij}(G, \sigma)\geq g_{ij}(H, \pi)$, and it admits no homomorphism to $(H, \pi)$ but each of its proper subgraphs does. 
 	
@@ -35,7 +35,7 @@ _**Planar Turán number of graphs**_      [video](https://www.bilibili.com/video
 One of the best known results in extremal combinatorics is Turan's Theorem. Turan-type problems of graphs and hypergraphs are widely studied in last years. In this talk, we will report the recent progress on Turan-type problems when host graphs are planar graphs.
 
 ### July 15, 2022: [Jinyoung Park](https://sites.google.com/view/jinyoungpark) (Stanford University)
-_**Thresholds**_         
+_**Thresholds**_          [slides](./slides/2022/220715_thresholds.pdf)
 
 Thresholds for increasing properties of random structures are a central concern in probabilistic combinatorics and related areas. In 2006, Kahn and Kalai conjectured that for any nontrivial increasing property on a finite set, its threshold is never far from its "expectation-threshold," which is a natural (and often easy to calculate) lower bound on the threshold. In this talk, I will present recent progress on this topic. Based on joint work with Huy Tuan Pham.
 
