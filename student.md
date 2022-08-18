@@ -25,6 +25,11 @@ In this paper, we give a new method to show that the conjecture holds for a gene
 
 ## Past talks
 
+### Aug 5, 2022,  15:30-17:30 (UTC+8):[Chengfei Xie](mailto:cfxie@cnu.edu.c), Capital Normal University
+[slides]() [video](https://pan.baidu.com/s/1TDXpy-rTnZCKESakHyK4bg?pwd=emyu) pw emyu
+### July 22, 2022, 15:00-17:00 (UTC+8):[Jiangdong Ai](mailto:peac003@live.rhul.ac.uk), Royal Holloway, University of London
+_**Results on the Small Quasi-Kernel Conjecture**_
+[slides]() [video](https://pan.baidu.com/s/1ORkN3IXOfT5t_7UyGf4org) pw 62ye
 ### July 8, 2022, 10:00-12:00 (UTC+8):[Yaobing Chen](mailto:ybchen21@m.fudan.edu.cn), Fudan University
 _**Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of Eulerian-type polynomials**_
 [slides](./slides/2022/0708_Orientations_of_Graphs_with_Forbidden_out-degree_Lists.pdf) [video](https://pan.baidu.com/s/1mmhEt7Ntomkdh4zLFZ9PjA?pwd=okdv) pw okdv
