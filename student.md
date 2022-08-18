@@ -26,7 +26,7 @@ In this paper, we give a new method to show that the conjecture holds for a gene
 ## Past talks
 
 ### Aug 5, 2022,  15:30-17:30 (UTC+8):[Chengfei Xie](mailto:cfxie@cnu.edu.c), Capital Normal University
-[slides]() [video](https://pan.baidu.com/s/1TDXpy-rTnZCKESakHyK4bg?pwd=emyu) pw emyu
+[slides](./slides/2022/0805kissingnumberslides.pdf) [video](https://pan.baidu.com/s/1TDXpy-rTnZCKESakHyK4bg?pwd=emyu) pw emyu
 ### July 22, 2022, 15:00-17:00 (UTC+8):[Jiangdong Ai](mailto:peac003@live.rhul.ac.uk), Royal Holloway, University of London
 _**Results on the Small Quasi-Kernel Conjecture**_
 [slides]() [video](https://pan.baidu.com/s/1ORkN3IXOfT5t_7UyGf4org) pw 62ye
