@@ -13,7 +13,12 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Sept 9, 2022: [Jinxin Zhou](http://faculty.bjtu.edu.cn/sci/8208.html) (Beijing Jiaotong University)
+### Sept 9, 2022, 14:00-15:00 (UTC+8): [Jinxin Zhou](http://faculty.bjtu.edu.cn/sci/8208.html) (Beijing Jiaotong University)    
+_**On primitive 2-closed permutation groups of rank at most four**_     
+ [zoom](https://zoom.us/j/85005265655?pwd=RnUyMUEvN2dKdWR1b0tjc2hpcE9WUT09) password: 131323     
+ 
+In this talk, I will discuss the characterisation of the primitive 2-closed groups $G$ of rank at most four that are not the automorphism group of a graph or digraph, and we show that if the degree is at least 2402 then there are just two infinite families or $G\leq {\rm A\Gamma L}_1(p^d)$, the 1-dimensional affine semilinear group. To the best of our knowledge, these are the first known examples of non-regular 2-closed groups that are not the automorphism group of a graph or digraph. This is a joint work with Michael Giudici and Luke Morgan.
+
 
 ### Sept 23, 2022: [Shiping Liu](http://staff.ustc.edu.cn/~spliu/) (University of Science and Technology of China)
 
