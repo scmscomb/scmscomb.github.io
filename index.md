@@ -11,18 +11,24 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 <!-- You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb). --> 
 
 
-## Current Schedule     
+## Current Schedule  
 
-### Aug 26, 2022, 10:00-11:00 (UTC+8):: [Richard Peng](https://faculty.cc.gatech.edu/~rpeng/) (University of Waterloo)      
-_**Maximum Flow and Minimum-Cost Flows in Almost-Linear Time**_    
-[zoom](https://zoom.us/j/83372249065?pwd=4xh1EN3z6bHcl0-qUv5lSFNO7roKIj.1) pw 121323    
+### Sept 9, 2022: [Jinxin Zhou](http://faculty.bjtu.edu.cn/sci/8208.html) (Beijing Jiaotong University)
 
-We give an algorithm that computes exact maximum flows and minimum-cost flows on directed graphs with m edges and polynomially bounded integral demands, costs, and capacities in $m^{1+o(1)}$ time. Our algorithm builds the flow through a sequence of $m^{1+o(1)}$ approximate undirected minimum-ratio cycles, each of which is computed and processed in amortized $m^{o(1)}$ time using a new dynamic graph data structure.
-Our framework extends to algorithms running in $m^{1+o(1)}$ time for computing flows that minimize general edge-separable convex functions to high accuracy. This gives almost-linear time algorithms for several problems including entropy-regularized optimal transport, matrix scaling, p-norm flows, and p-norm isotonic regression on arbitrary directed acyclic graphs.
+### Sept 23, 2022: [Shiping Liu](http://staff.ustc.edu.cn/~spliu/) (University of Science and Technology of China)
 
+### Oct 7, 2022
+
+### Oct 21, 2022
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Aug 26, 2022, 10:00-11:00 (UTC+8): [Richard Peng](https://faculty.cc.gatech.edu/~rpeng/) (University of Waterloo)      
+_**Maximum Flow and Minimum-Cost Flows in Almost-Linear Time**_    [video](https://www.bilibili.com/video/BV1Ca411G7HG) 
+
+We give an algorithm that computes exact maximum flows and minimum-cost flows on directed graphs with m edges and polynomially bounded integral demands, costs, and capacities in $m^{1+o(1)}$ time. Our algorithm builds the flow through a sequence of $m^{1+o(1)}$ approximate undirected minimum-ratio cycles, each of which is computed and processed in amortized $m^{o(1)}$ time using a new dynamic graph data structure.
+Our framework extends to algorithms running in $m^{1+o(1)}$ time for computing flows that minimize general edge-separable convex functions to high accuracy. This gives almost-linear time algorithms for several problems including entropy-regularized optimal transport, matrix scaling, p-norm flows, and p-norm isotonic regression on arbitrary directed acyclic graphs.
 
 ### Aug 12, 2022: [Zhouningxin Wang](https://www.irif.fr/~wangzhou4/) (Université Paris Cité and Nankai University)       
 _**Density of $C_{-4}$-critical signed graphs**_      [video](https://www.bilibili.com/video/BV1iU4y1C74H)  [slides](./slides/2022/C_-4-Critical_0812.pdf)
