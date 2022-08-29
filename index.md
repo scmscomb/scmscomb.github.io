@@ -19,12 +19,12 @@ _**On primitive 2-closed permutation groups of rank at most four**_
  
 In this talk, I will discuss the characterization of the primitive 2-closed groups $G$ of rank at most four that are not the automorphism group of a graph or digraph, and we show that if the degree is at least 2402 then there are just two infinite families or $G\leq {\rm A\Gamma L}_1(p^d)$, the 1-dimensional affine semilinear group. To the best of our knowledge, these are the first known examples of non-regular 2-closed groups that are not the automorphism group of a graph or digraph. This is a joint work with Michael Giudici and Luke Morgan.
 
-
 ### Sept 23, 2022: [Shiping Liu](http://staff.ustc.edu.cn/~spliu/) (University of Science and Technology of China)
 
-### Oct 7, 2022
+### Oct 7, 2022: [Ilkyoo Choi](https://sites.google.com/view/ilkyoochoi) (Hankuk University of Foreign Studies)
 
 ### Oct 21, 2022
+
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
