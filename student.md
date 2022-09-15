@@ -17,11 +17,15 @@ Organizers: <br>
 ## Current Schedule
 ### November 2
 
+### Aug 5, 2022,  15:30-17:30 (UTC+8):[Shengtong Zhang](mailto:stzh1555@gmail.com), Massachusetts Institute of Technology
+
 Abstract: 
+
+Recently, problems about unimodal and log-concave polynomials have received a lot of attention in the combinatorics community, with Professor June Huh receiving the Fields medal for his and his collaborator’s work demonstrating the log-concavity of chromatic polynomials and characteristic polynomials of matroids. While Professor Huh’s proof uses connections with algebraic geometry, there are many other ways to prove the log-concavity of polynomials. In this talk, we discuss a beautiful log-concavity theorem by Odlyzko and Richmond in 1985. Their work uses analytic tools to establish the log-concavity of high powers of polynomials. We also discuss a recent generalization of their result proved by the speaker.
 
 ## Past talks
 
-### Aug 5, 2022,  15:30-17:30 (UTC+8):[Chengfei Xie](mailto:cfxie@cnu.edu.c), Capital Normal University
+### Aug 5, 2022,  15:30-17:30 (UTC+8):[Chengfei Xie](mailto:cfxie@cnu.edu.cn), Capital Normal University
 [slides](./slides/2022/0805kissingnumberslides.pdf) [video](https://pan.baidu.com/s/1TDXpy-rTnZCKESakHyK4bg?pwd=emyu) pw emyu
 ### July 22, 2022, 15:00-17:00 (UTC+8):[Jiangdong Ai](mailto:peac003@live.rhul.ac.uk), Royal Holloway, University of London
 _**Results on the Small Quasi-Kernel Conjecture**_
