@@ -13,13 +13,11 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Sept 9, 2022, 14:00-15:00 (UTC+8): [Jinxin Zhou](http://faculty.bjtu.edu.cn/sci/8208.html) (Beijing Jiaotong University)    
-_**On primitive 2-closed permutation groups of rank at most four**_     
- [zoom](https://zoom.us/j/85005265655?pwd=RnUyMUEvN2dKdWR1b0tjc2hpcE9WUT09) password: 131323     
- 
-In this talk, I will discuss the characterization of the primitive 2-closed groups $G$ of rank at most four that are not the automorphism group of a graph or digraph, and we show that if the degree is at least 2402 then there are just two infinite families or $G\leq {\rm A\Gamma L}_1(p^d)$, the 1-dimensional affine semilinear group. To the best of our knowledge, these are the first known examples of non-regular 2-closed groups that are not the automorphism group of a graph or digraph. This is a joint work with Michael Giudici and Luke Morgan.
-
 ### Sept 23, 2022: [Shiping Liu](http://staff.ustc.edu.cn/~spliu/) (University of Science and Technology of China)
+_**Signed graphs and Nodal domain theorems for symmetric matrices**_     
+ zoom      
+ 
+Abstract: A signed graph is a graph whose edges are labelled by a signature. It serves as a simple model of discrete vector bundle. We will discuss nodal domain theorems for arbitrary symmetric matrices by exploring the induced signed graph structure. This is an extension of the nodal domain theorem of Davies, Gladwell, Leydold, and Stadler for symmetric matrices with non-positive off-diagonal entrices. With the fundamental concepts of balance and switching of signed graphs, our approach provides a more conceptual understanding of Fiedler’s results on eigenfunctions of acyclic matrices. This new viewpoint further leads to a lower bound estimate for the number of strong nodal domains which generalizes and improves previous results of Berkolaiko and Xu-Yau. This talk is based on a joint work with Chuanyuan Ge (USTC).  
 
 ### Oct 7, 2022: [Ilkyoo Choi](https://sites.google.com/view/ilkyoochoi) (Hankuk University of Foreign Studies)
 
@@ -29,6 +27,12 @@ Abstract: In 2006, Lovász and Szegedy introduced the notion of graphon. A graph
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Sept 9, 2022: [Jinxin Zhou](http://faculty.bjtu.edu.cn/sci/8208.html) (Beijing Jiaotong University)    
+_**On primitive 2-closed permutation groups of rank at most four**_     
+ 
+In this talk, I will discuss the characterization of the primitive 2-closed groups $G$ of rank at most four that are not the automorphism group of a graph or digraph, and we show that if the degree is at least 2402 then there are just two infinite families or $G\leq {\rm A\Gamma L}_1(p^d)$, the 1-dimensional affine semilinear group. To the best of our knowledge, these are the first known examples of non-regular 2-closed groups that are not the automorphism group of a graph or digraph. This is a joint work with Michael Giudici and Luke Morgan.
+
 
 ### Aug 26, 2022, 10:00-11:00 (UTC+8): [Richard Peng](https://faculty.cc.gatech.edu/~rpeng/) (University of Waterloo)      
 _**Maximum Flow and Minimum-Cost Flows in Almost-Linear Time**_    [video](https://www.bilibili.com/video/BV1Ca411G7HG) 
