@@ -13,13 +13,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Sept 23, 2022: [Shiping Liu](http://staff.ustc.edu.cn/~spliu/) (University of Science and Technology of China)
-_**Signed graphs and Nodal domain theorems for symmetric matrices**_     
- zoom      
- 
-Abstract: A signed graph is a graph whose edges are labelled by a signature. It serves as a simple model of discrete vector bundle. We will discuss nodal domain theorems for arbitrary symmetric matrices by exploring the induced signed graph structure. This is an extension of the nodal domain theorem of Davies, Gladwell, Leydold, and Stadler for symmetric matrices with non-positive off-diagonal entrices. With the fundamental concepts of balance and switching of signed graphs, our approach provides a more conceptual understanding of Fiedler’s results on eigenfunctions of acyclic matrices. This new viewpoint further leads to a lower bound estimate for the number of strong nodal domains which generalizes and improves previous results of Berkolaiko and Xu-Yau. This talk is based on a joint work with Chuanyuan Ge (USTC).  
-
-### Oct 7, 2022: [Ilkyoo Choi](https://sites.google.com/view/ilkyoochoi) (Hankuk University of Foreign Studies)
+### Oct 7, 2022, 10:00-11:00 (UTC+8): [Ilkyoo Choi](https://sites.google.com/view/ilkyoochoi) (Hankuk University of Foreign Studies)
 
 ### Oct 21, 2022, 14:00-15:00 (UTC+8): [Shichang Song](http://faculty.bjtu.edu.cn/ensci/8629.html)  (Beijing Jiaotong University) 
 _**Applications of nonstandard analysis to graphon theory**_         
@@ -27,6 +21,11 @@ Abstract: In 2006, Lovász and Szegedy introduced the notion of graphon. A graph
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Sept 23, 2022: [Shiping Liu](http://staff.ustc.edu.cn/~spliu/) (University of Science and Technology of China)
+_**Signed graphs and Nodal domain theorems for symmetric matrices**_         
+ 
+Abstract: A signed graph is a graph whose edges are labelled by a signature. It serves as a simple model of discrete vector bundle. We will discuss nodal domain theorems for arbitrary symmetric matrices by exploring the induced signed graph structure. This is an extension of the nodal domain theorem of Davies, Gladwell, Leydold, and Stadler for symmetric matrices with non-positive off-diagonal entrices. With the fundamental concepts of balance and switching of signed graphs, our approach provides a more conceptual understanding of Fiedler’s results on eigenfunctions of acyclic matrices. This new viewpoint further leads to a lower bound estimate for the number of strong nodal domains which generalizes and improves previous results of Berkolaiko and Xu-Yau. This talk is based on a joint work with Chuanyuan Ge (USTC).  
 
 ### Sept 9, 2022: [Jinxin Zhou](http://faculty.bjtu.edu.cn/sci/8208.html) (Beijing Jiaotong University)    
 _**On primitive 2-closed permutation groups of rank at most four**_     
