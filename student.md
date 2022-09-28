@@ -16,15 +16,17 @@ Organizers: <br>
 
 ## Current Schedule
 
-### Aug 5, 2022,  15:30-17:30 (UTC+8):[Shengtong Zhang](mailto:stzh1555@gmail.com), Massachusetts Institute of Technology
+### Sep 30, 2022,  10:00-11:00 (UTC+8):[Zeyu Zheng](mailto:zyzheng@fudan.edu.cn), Fudan University
 
 Abstract: 
 
-Recently, problems about unimodal and log-concave polynomials have received a lot of attention in the combinatorics community, with Professor June Huh receiving the Fields medal for his and his collaborator’s work demonstrating the log-concavity of chromatic polynomials and characteristic polynomials of matroids. While Professor Huh’s proof uses connections with algebraic geometry, there are many other ways to prove the log-concavity of polynomials. In this talk, we discuss a beautiful log-concavity theorem by Odlyzko and Richmond in 1985. Their work uses analytic tools to establish the log-concavity of high powers of polynomials. We also discuss a recent generalization of their result proved by the speaker.
+One of the most famous results in extremal graph theory is Tur\'an's theorem, which leads to a series of remarkable results now we consider as Tur\'an-type problems.
+The study of planar Tur\'an Number ex$_\mathcal{P}(n,H)$, initiated by Chris Dowden in 2016, is a variant of Tur\'an-type problems in planar graphs. In this talk, we discuss a useful tool in this field, and several sharp bounds we found using a similar technique.
+This talk is based on a joint work with Professor Ervin Győri and Xianzhi Wang.
 
 ## Past talks
 
-### Aug 5, 2022,  15:30-17:30 (UTC+8):[Shengtong Zhang](mailto:stzh1555@gmail.com), Massachusetts Institute of Technology
+### Sep 16, 2022,  15:30-17:30 (UTC+8):[Shengtong Zhang](mailto:stzh1555@gmail.com), Massachusetts Institute of Technology
 [slides](./slides/2022/0916Unimodality.pdf) 
 ### Aug 5, 2022,  15:30-17:30 (UTC+8):[Chengfei Xie](mailto:cfxie@cnu.edu.cn), Capital Normal University
 [slides](./slides/2022/0805kissingnumberslides.pdf) [video](https://pan.baidu.com/s/1TDXpy-rTnZCKESakHyK4bg?pwd=emyu) pw emyu
