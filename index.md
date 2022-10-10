@@ -22,7 +22,7 @@ Less than a year ago, the following two notions of relaxations of coloring squar
 We will survey some results around these parameters and our contributions. In particular, we show that for $c\geq 5$, every graph $G$ with $mad(G)\leq\frac{4c}{c+2}$ has a proper conflict-free $c$-coloring, unless $G$ contains a $1$-subdivision of the complete graph on $c+1$ vertices. We also provide results when $c=4$ and for planar graphs with girth restrictions. Our results completely resolve Cranston's conjecture in a much stronger form, and also improves upon results of Caro, PetrušNevski, and Škrekovski. This is joint work with Eun-Kyung Cho, Hyemin Kwon, and Boram Park. 
 
 
-### Oct 21, 2022, 14:00-15:00 (UTC+8): [Shichang Song](http://faculty.bjtu.edu.cn/ensci/8629.html)  (Beijing Jiaotong University) 
+### Oct 21, 2022, 11:00-12:00 (UTC+8): [Shichang Song](http://faculty.bjtu.edu.cn/ensci/8629.html)  (Beijing Jiaotong University) 
 _**Applications of nonstandard analysis to graphon theory**_         
 Abstract: In 2006, Lovász and Szegedy introduced the notion of graphon. A graphon could be considered as a limit of a sequence of finite graphs. However, a graphon is not a graph but a symmetric measurable function from $[0,1]^2$ to $[0,1]$. In this talk, we use methods from nonstandard analysis to present a new construction of graphons. Take a hyperfinite set H. An internal graph on H is a graph whose edge set is an internal subset of H×H. We will build a correspondence between hyperfinite internal graphs and graphons. Graphons are not graphs, but internal graphs on H are indeed graphs.
 
