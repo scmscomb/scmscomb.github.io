@@ -16,7 +16,7 @@ Organizers: <br>
 
 ## Current Schedule
 
-### Sep 30, 2022,  10:00-11:00 (UTC+8):[Zeyu Zheng](mailto:zyzheng@fudan.edu.cn), Fudan University
+### Oct 14, 2022,  10:00-11:00 (UTC+8):[Xiutao Zhu](mailto:zhuxt@fsmail.nju.edu.cn), Nanjing University
 
 Abstract: 
 
@@ -25,6 +25,8 @@ The study of planar Tur\'an Number ex$_\mathcal{P}(n,H)$, initiated by Chris Dow
 This talk is based on a joint work with Professor Ervin Győri and Xianzhi Wang.
 
 ## Past talks
+
+### Sep 30, 2022,  10:00-11:00 (UTC+8):[Zeyu Zheng](mailto:zeyuzheng19@fudan.edu.cn), Fudan University
 
 ### Sep 16, 2022,  15:30-17:30 (UTC+8):[Shengtong Zhang](mailto:stzh1555@gmail.com), Massachusetts Institute of Technology
 [slides](./slides/2022/0916Unimodality.pdf) 
