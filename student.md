@@ -20,14 +20,14 @@ Organizers: <br>
 
 Abstract: 
 
-One of the most famous results in extremal graph theory is Tur\'an's theorem, which leads to a series of remarkable results now we consider as Tur\'an-type problems.
-The study of planar Tur\'an Number ex$_\mathcal{P}(n,H)$, initiated by Chris Dowden in 2016, is a variant of Tur\'an-type problems in planar graphs. In this talk, we discuss a useful tool in this field, and several sharp bounds we found using a similar technique.
-This talk is based on a joint work with Professor Ervin Győri and Xianzhi Wang.
+The Tur\'an number $ex(n,H)$  is the maximum number of edges in an $H$-free graph on $n$ vertices. Let $T$ be  any tree. The odd-ballooning of $T$, denoted by $T_o$, is a graph obtained by replacing each edge of $T$ with an odd cycle containing the edge, and all new vertices of the odd cycles are distinct. In this paper, we determine the exact value of $ex(n,T_o)$ for sufficiently large $n$ and $T_o$ being good, which generalizes all the known results on $ex(n,T_o)$ for $T$ being a star,
+due to Erd\H{o}s et al. (1995), Hou et al. (2018) and Yuan (2018), and provides some counterexamples with chromatic number 3 to a conjecture of Keevash and Sudakov (2004), on the maximum number of edges not in any monochromatic copy of $H$ in a $2$-edge-coloring of a complete graph of order $n$.
+
 
 ## Past talks
 
 ### Sep 30, 2022,  10:00-11:00 (UTC+8):[Zeyu Zheng](mailto:zeyuzheng19@fudan.edu.cn), Fudan University
-
+[slides](./slides/2022/SCMS_talk.pdf) 
 ### Sep 16, 2022,  15:30-17:30 (UTC+8):[Shengtong Zhang](mailto:stzh1555@gmail.com), Massachusetts Institute of Technology
 [slides](./slides/2022/0916Unimodality.pdf) 
 ### Aug 5, 2022,  15:30-17:30 (UTC+8):[Chengfei Xie](mailto:cfxie@cnu.edu.cn), Capital Normal University
