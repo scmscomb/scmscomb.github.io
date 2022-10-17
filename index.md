@@ -13,14 +13,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Oct 7, 2022, 10:00-11:00 (UTC+8): [Ilkyoo Choi](https://sites.google.com/view/ilkyoochoi) (Hankuk University of Foreign Studies)
-_**Relaxations of coloring squares of graphs**_         
-[zoom](https://us02web.zoom.us/j/83654986545?pwd=T0tzM2N0dForbnZiS2hROHlXdWk3UT09) pw 121323
-
-Less than a year ago, the following two notions of relaxations of coloring squares of graphs were formally introduced by Petruššševski and Škrekovski, and by Fabrici, Lužar, Rindošová, and Soták: an _odd $c$-coloring_ (resp. _proper conflict-free $c$-coloring_) of a graph is a proper $c$-coloring such that each non-isolated vertex has a color appearing an odd number of times (resp. exactly once) on its neighborhood. 
-
-We will survey some results around these parameters and our contributions. In particular, we show that for $c\geq 5$, every graph $G$ with $mad(G)\leq\frac{4c}{c+2}$ has a proper conflict-free $c$-coloring, unless $G$ contains a $1$-subdivision of the complete graph on $c+1$ vertices. We also provide results when $c=4$ and for planar graphs with girth restrictions. Our results completely resolve Cranston's conjecture in a much stronger form, and also improves upon results of Caro, PetrušNevski, and Škrekovski. This is joint work with Eun-Kyung Cho, Hyemin Kwon, and Boram Park. 
-
 
 ### Oct 21, 2022, 11:00-12:00 (UTC+8): [Shichang Song](http://faculty.bjtu.edu.cn/ensci/8629.html)  (Beijing Jiaotong University) 
 _**Applications of nonstandard analysis to graphon theory**_         
@@ -28,6 +20,13 @@ Abstract: In 2006, Lovász and Szegedy introduced the notion of graphon. A graph
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Oct 7, 2022: [Ilkyoo Choi](https://sites.google.com/view/ilkyoochoi) (Hankuk University of Foreign Studies)
+_**Relaxations of coloring squares of graphs**_        
+
+Less than a year ago, the following two notions of relaxations of coloring squares of graphs were formally introduced by Petruššševski and Škrekovski, and by Fabrici, Lužar, Rindošová, and Soták: an _odd $c$-coloring_ (resp. _proper conflict-free $c$-coloring_) of a graph is a proper $c$-coloring such that each non-isolated vertex has a color appearing an odd number of times (resp. exactly once) on its neighborhood. 
+
+We will survey some results around these parameters and our contributions. In particular, we show that for $c\geq 5$, every graph $G$ with $mad(G)\leq\frac{4c}{c+2}$ has a proper conflict-free $c$-coloring, unless $G$ contains a $1$-subdivision of the complete graph on $c+1$ vertices. We also provide results when $c=4$ and for planar graphs with girth restrictions. Our results completely resolve Cranston's conjecture in a much stronger form, and also improves upon results of Caro, PetrušNevski, and Škrekovski. This is joint work with Eun-Kyung Cho, Hyemin Kwon, and Boram Park. 
 
 ### Sept 23, 2022: [Shiping Liu](http://staff.ustc.edu.cn/~spliu/) (University of Science and Technology of China)
 _**Signed graphs and Nodal domain theorems for symmetric matrices**_         
