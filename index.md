@@ -5,7 +5,7 @@ filename: index
 --- 
 
 
-This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)), [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) ([SJTU](https://www.sjtu.edu.cn/)), [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)) and Qiqin Xie ([SHU](https://www.shu.edu.cn/)). We will run it every two weeks, and run [student seminars](student) in between.
+This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU](http://www.sysu.edu.cn/en/index.htm)), [Jiaxi Nie](https://mathweb.ucsd.edu/~jin019/) ([SCMS](http://www.scms.fudan.edu.cn/)), [Yan Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKuetw) ([SJTU](https://www.sjtu.edu.cn/)), [Hehui Wu](http://www.scms.fudan.edu.cn/Data/View/432.html) ([SCMS](http://www.scms.fudan.edu.cn/)) and Qiqin Xie ([SHU](https://www.shu.edu.cn/)). We will run it every two weeks, and run [student seminars](student) in between.
 
 
 <!-- You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb). --> 
