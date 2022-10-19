@@ -16,7 +16,14 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ### Oct 21, 2022, 11:00-12:00 (UTC+8): [Shichang Song](http://faculty.bjtu.edu.cn/ensci/8629.html)  (Beijing Jiaotong University) 
 _**Applications of nonstandard analysis to graphon theory**_         
+[zoom](https://zoom.us/j/84829845339?pwd=M1BGalJXY212TFBCSjB4VktXUm5JUT09) pw 061801
+
+
 Abstract: In 2006, Lovász and Szegedy introduced the notion of graphon. A graphon could be considered as a limit of a sequence of finite graphs. However, a graphon is not a graph but a symmetric measurable function from $[0,1]^2$ to $[0,1]$. In this talk, we use methods from nonstandard analysis to present a new construction of graphons. Take a hyperfinite set H. An internal graph on H is a graph whose edge set is an internal subset of H×H. We will build a correspondence between hyperfinite internal graphs and graphons. Graphons are not graphs, but internal graphs on H are indeed graphs.
+
+
+### Nov 18, 2022, 09:00-10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/home)  (Princeton University) 
+
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
