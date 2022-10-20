@@ -16,7 +16,7 @@ Organizers: <br>
 
 ## Current Schedule
 
-### Oct 14, 2022,  10:00-11:00 (UTC+8):[Xiutao Zhu](mailto:zhuxt@fsmail.nju.edu.cn), Nanjing University
+### Oct 28, 2022,  10:00-11:00 (UTC+8):[Xiutao Zhu](mailto:zhuxt@fsmail.nju.edu.cn), Nanjing University
 
 Abstract: 
 
@@ -26,6 +26,8 @@ due to Erd\H{o}s et al. (1995), Hou et al. (2018) and Yuan (2018), and provides 
 
 ## Past talks
 
+### Oct 14, 2022,  10:00-11:00 (UTC+8):[Xiutao Zhu](mailto:zhuxt@fsmail.nju.edu.cn), Nanjing University
+[video](https://pan.baidu.com/s/1SskUpiacNQej6iis4Ny05A) pw:dxab
 ### Sep 30, 2022,  10:00-11:00 (UTC+8):[Zeyu Zheng](mailto:zeyuzheng19@fudan.edu.cn), Fudan University
 [slides](./slides/2022/SCMS_talk.pdf) 
 ### Sep 16, 2022,  15:30-17:30 (UTC+8):[Shengtong Zhang](mailto:stzh1555@gmail.com), Massachusetts Institute of Technology
