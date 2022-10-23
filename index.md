@@ -35,14 +35,14 @@ Abstract: In 2006, Lovász and Szegedy introduced the notion of graphon. A graph
 Check [past talks](past) for the full list of past talks with all details.
 
 ### Oct 7, 2022: [Ilkyoo Choi](https://sites.google.com/view/ilkyoochoi) (Hankuk University of Foreign Studies)
-_**Relaxations of coloring squares of graphs**_        
+_**Relaxations of coloring squares of graphs**_       [video](https://www.bilibili.com/video/BV1de4y1m7f1/)       
 
 Less than a year ago, the following two notions of relaxations of coloring squares of graphs were formally introduced by Petruššševski and Škrekovski, and by Fabrici, Lužar, Rindošová, and Soták: an _odd $c$-coloring_ (resp. _proper conflict-free $c$-coloring_) of a graph is a proper $c$-coloring such that each non-isolated vertex has a color appearing an odd number of times (resp. exactly once) on its neighborhood. 
 
 We will survey some results around these parameters and our contributions. In particular, we show that for $c\geq 5$, every graph $G$ with $mad(G)\leq\frac{4c}{c+2}$ has a proper conflict-free $c$-coloring, unless $G$ contains a $1$-subdivision of the complete graph on $c+1$ vertices. We also provide results when $c=4$ and for planar graphs with girth restrictions. Our results completely resolve Cranston's conjecture in a much stronger form, and also improves upon results of Caro, PetrušNevski, and Škrekovski. This is joint work with Eun-Kyung Cho, Hyemin Kwon, and Boram Park. 
 
 ### Sept 23, 2022: [Shiping Liu](http://staff.ustc.edu.cn/~spliu/) (University of Science and Technology of China)
-_**Signed graphs and Nodal domain theorems for symmetric matrices**_         
+_**Signed graphs and Nodal domain theorems for symmetric matrices**_          [video](bilibili.com/video/BV1ne4y1e7ph/)          
  
 Abstract: A signed graph is a graph whose edges are labelled by a signature. It serves as a simple model of discrete vector bundle. We will discuss nodal domain theorems for arbitrary symmetric matrices by exploring the induced signed graph structure. This is an extension of the nodal domain theorem of Davies, Gladwell, Leydold, and Stadler for symmetric matrices with non-positive off-diagonal entrices. With the fundamental concepts of balance and switching of signed graphs, our approach provides a more conceptual understanding of Fiedler’s results on eigenfunctions of acyclic matrices. This new viewpoint further leads to a lower bound estimate for the number of strong nodal domains which generalizes and improves previous results of Berkolaiko and Xu-Yau. This talk is based on a joint work with Chuanyuan Ge (USTC).  
 
