@@ -19,7 +19,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ### Nov 18, 2022, 09:00-10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/home)  (Princeton University) 
 
 
-### Dec 2, 2022
+### Dec 2, 2022, 17:00-18:00 (UTC+8): [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)  (University of Birmingham)     
 
 
 ## Past Talks from this Semester
