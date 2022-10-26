@@ -13,8 +13,8 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Nov 4, 2022
-
+### Nov 4, 2022, 14:00-15:00 (UTC+8): [Jin, Xian'An](https://math.xmu.edu.cn/info/1081/7708.htm) (Xiamen University)
+[zoom](https://zoom.us/j/85091238548?pwd=ekN6RXB0Q2RnU1dSaXkrdG9wcDdmQT09) pw 121323
 
 ### Nov 18, 2022, 09:00-10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/home)  (Princeton University) 
 [zoom](https://zoom.us/j/85434647049?pwd=NW0yMEpQZ3VmNE9vYkpJdUN5akVUZz09) pw 121323
