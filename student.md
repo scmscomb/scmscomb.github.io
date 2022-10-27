@@ -9,19 +9,18 @@ This student seminar will be held online every two weeks on Friday, between the 
 
 Organizers: <br>
 [Fan Chang](mailto:fchang@mail.sdu.edu.cn), Shandong University, <br>
-[Yaobing Chen](mailto:ybchen21@m.fudan.edu.cn), Fudan University, <br>
+[Yaobin Chen](mailto:ybchen21@m.fudan.edu.cn), Fudan University, <br>
 [Hongjun Ge](mailto:ghj17000225@mail.ustc.edu.cn), University of Science and Technology of China, <br>
 [Chaoliang Tang](mailto:cltang17@fudan.edu.cn), Fudan University, <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 ## Current Schedule
 
-### Oct 28, 2022,  10:00-11:00 (UTC+8):[Xiutao Zhu](mailto:zhuxt@fsmail.nju.edu.cn), Nanjing University
+### Oct 28, 2022,  10:00-11:00 (UTC+8):[Henry Simmons](mailto:), Lowa State University
 
 Abstract: 
 
-The Tur\'an number $ex(n,H)$  is the maximum number of edges in an $H$-free graph on $n$ vertices. Let $T$ be  any tree. The odd-ballooning of $T$, denoted by $T_o$, is a graph obtained by replacing each edge of $T$ with an odd cycle containing the edge, and all new vertices of the odd cycles are distinct. In this paper, we determine the exact value of $ex(n,T_o)$ for sufficiently large $n$ and $T_o$ being good, which generalizes all the known results on $ex(n,T_o)$ for $T$ being a star,
-due to Erd\H{o}s et al. (1995), Hou et al. (2018) and Yuan (2018), and provides some counterexamples with chromatic number 3 to a conjecture of Keevash and Sudakov (2004), on the maximum number of edges not in any monochromatic copy of $H$ in a $2$-edge-coloring of a complete graph of order $n$.
+For an $r$-uniform hypergraph $H$, let $\nu^{(m)}(H)$ denote the maximum size of a set $M$ of edges in $H$ such that every two edges in $M$ intersect in less than $m$ vertices, and let $\tau^{(m)}(H)$ denote the minimum size of a collection $C$ of $m$-sets of vertices such that every edge in $H$ contains an element of $C$. The fractional analogues of these parameters are denoted by $\nu^{*(m)}(H)$ and $\tau^{*(m)}(H)$, respectively. Generalizing a famous conjecture of Tuza (1990) on covering triangles in a graph, Aharoni and Zerbib (2022) conjectured that for every $r$-uniform hypergraph $H$,  $\tau^{(r-1)}(H)/\nu^{(r-1)}(H) \leq \ceil{\frac{r+1}{2}}$. In this talk, we prove bounds on the ratio between the parameters $\tau^{(m)}$ and $\nu^{(m)}$, and their fractional analogs.
 
 
 ## Past talks
