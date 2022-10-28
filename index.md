@@ -14,7 +14,10 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Current Schedule  
 
 ### Nov 4, 2022, 14:00-15:00 (UTC+8): [Jin, Xian'An](https://math.xmu.edu.cn/info/1081/7708.htm) (Xiamen University)
-[zoom](https://zoom.us/j/85091238548?pwd=ekN6RXB0Q2RnU1dSaXkrdG9wcDdmQT09) pw 121323
+_**Partial-dual polynomials and signed intersection graphs**_   
+[zoom](https://zoom.us/j/85091238548?pwd=ekN6RXB0Q2RnU1dSaXkrdG9wcDdmQT09) pw 121323    
+
+Abstract: Recently, Gross, Mansour and Tucker introduced the partial-dual polynomial of a ribbon graph as a generating function that enumerates all partial duals of the ribbon graph by Euler genus. To investigate the partial-dual polynomial one only needs to focus on bouquets, i.e., ribbon graphs with exactly one vertex. In this talk, we shall further show that the partial-dual polynomial of a bouquet essentially depends on the signed intersection graph of the bouquet rather than on the bouquet itself. We then give a characterization of when a bouquet has a planar partial dual in terms of its signed intersection graph. Finally we consider a conjecture posed by Gross, Mansour and Tucker that there is no orientable ribbon graph whose partial-dual polynomial has only one non-constant term, this conjecture is false and we give a characterization of when all partial duals of a bouquet have the same Euler genus. This is joint work with Qi Yan (Qi Yan, Xian'an Jin, Partial-dual polynomials and signed intersection graphs, Forum Math. Sigma 10 (2022) e69.).
 
 ### Nov 18, 2022, 09:00-10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/home)  (Princeton University) 
 [zoom](https://zoom.us/j/85434647049?pwd=NW0yMEpQZ3VmNE9vYkpJdUN5akVUZz09) pw 121323
