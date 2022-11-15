@@ -13,21 +13,28 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Nov 4, 2022, 14:00-15:00 (UTC+8): [Jin, Xian'An](https://math.xmu.edu.cn/info/1081/7708.htm) (Xiamen University)
-_**Partial-dual polynomials and signed intersection graphs**_   
-[zoom](https://zoom.us/j/85091238548?pwd=ekN6RXB0Q2RnU1dSaXkrdG9wcDdmQT09) pw 121323    
 
-Abstract: Recently, Gross, Mansour and Tucker introduced the partial-dual polynomial of a ribbon graph as a generating function that enumerates all partial duals of the ribbon graph by Euler genus. To investigate the partial-dual polynomial one only needs to focus on bouquets, i.e., ribbon graphs with exactly one vertex. In this talk, we shall further show that the partial-dual polynomial of a bouquet essentially depends on the signed intersection graph of the bouquet rather than on the bouquet itself. We then give a characterization of when a bouquet has a planar partial dual in terms of its signed intersection graph. Finally we consider a conjecture posed by Gross, Mansour and Tucker that there is no orientable ribbon graph whose partial-dual polynomial has only one non-constant term, this conjecture is false and we give a characterization of when all partial duals of a bouquet have the same Euler genus. This is joint work with Qi Yan (Qi Yan, Xian'an Jin, Partial-dual polynomials and signed intersection graphs, Forum Math. Sigma 10 (2022) e69.).
-
-### Nov 18, 2022, 09:00-10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/home)  (Princeton University) 
+### Nov 18, 2022, 09:00-10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/home)  (Princeton University)   
+_**Graph limits and common graphs with arbitrarily large chromatic number**_     
 [zoom](https://zoom.us/j/85434647049?pwd=NW0yMEpQZ3VmNE9vYkpJdUN5akVUZz09) pw 121323
+
+Graph limits is a recently developed powerful theory in studying graphs from a continuous perspective. In this talk, we will show how the perspective of graph limits helps with graph homomorphism inequalities and how to make advances in a common theme in extremal combinatorics: when does randomness give nearly optimal bounds? For example, we show this perspective recently helps us answer a question on Ramsey theory raised by Jagger-Stovicek-Thomason’96, Hatami-Hladky-Kral’-Norine-Razborov’12, Conlon-Fox-Sudakov’15, where they asked whether there are common graphs with arbitrarily large chromatic numbers. This is based on a joint work with Dan Kral' and Jan Volec.
 
 ### Dec 2, 2022, 17:00-18:00 (UTC+8): [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)  (University of Birmingham)     
 [zoom](https://zoom.us/j/89397658300?pwd=cXdDYkpJSEdtYXdZR1NNZ3dCcDlhQT09) pw 121323
 
+### Dec 16, 2022,   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)    
+
+### Feb 10, 2022, 09:00-10:00 (UTC+8): [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
+
+
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
 
+### Nov 4, 2022, 14:00-15:00 (UTC+8): [Jin, Xian'An](https://math.xmu.edu.cn/info/1081/7708.htm) (Xiamen University)
+_**Partial-dual polynomials and signed intersection graphs**_     
+
+Abstract: Recently, Gross, Mansour and Tucker introduced the partial-dual polynomial of a ribbon graph as a generating function that enumerates all partial duals of the ribbon graph by Euler genus. To investigate the partial-dual polynomial one only needs to focus on bouquets, i.e., ribbon graphs with exactly one vertex. In this talk, we shall further show that the partial-dual polynomial of a bouquet essentially depends on the signed intersection graph of the bouquet rather than on the bouquet itself. We then give a characterization of when a bouquet has a planar partial dual in terms of its signed intersection graph. Finally we consider a conjecture posed by Gross, Mansour and Tucker that there is no orientable ribbon graph whose partial-dual polynomial has only one non-constant term, this conjecture is false and we give a characterization of when all partial duals of a bouquet have the same Euler genus. This is joint work with Qi Yan (Qi Yan, Xian'an Jin, Partial-dual polynomials and signed intersection graphs, Forum Math. Sigma 10 (2022) e69.).
 
 ### Oct 21, 2022: [Shichang Song](http://faculty.bjtu.edu.cn/ensci/8629.html)  (Beijing Jiaotong University) 
 _**Applications of nonstandard analysis to graphon theory**_       [video](https://www.bilibili.com/video/BV1Ht4y1u75e/)     
