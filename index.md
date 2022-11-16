@@ -21,7 +21,11 @@ _**Graph limits and common graphs with arbitrarily large chromatic number**_
 Graph limits is a recently developed powerful theory in studying graphs from a continuous perspective. In this talk, we will show how the perspective of graph limits helps with graph homomorphism inequalities and how to make advances in a common theme in extremal combinatorics: when does randomness give nearly optimal bounds? For example, we show this perspective recently helps us answer a question on Ramsey theory raised by Jagger-Stovicek-Thomason’96, Hatami-Hladky-Kral’-Norine-Razborov’12, Conlon-Fox-Sudakov’15, where they asked whether there are common graphs with arbitrarily large chromatic numbers. This is based on a joint work with Dan Kral' and Jan Volec.
 
 ### Dec 2, 2022, 17:00-18:00 (UTC+8): [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)  (University of Birmingham)     
+_**Cycle decompositions in $k$-uniform hypergraphs**_     
 [zoom](https://zoom.us/j/89397658300?pwd=cXdDYkpJSEdtYXdZR1NNZ3dCcDlhQT09) pw 121323
+
+We show that $k$-uniform hypergraphs on $n$ vertices whose codegree is at least $(2/3 + o(1))n$ can be decomposed into tight cycles, subject to the trivial divisibility condition that every vertex degree is divisible by $k$. As a corollary, we show that such hypergraphs also have a tight Euler tour answering a question of Glock, Joos, K\"uhn and Osthus.
+This is joint work with Sim\'on Piga and Nicol\'as Sanhueza-Matamala.
 
 ### Dec 16, 2022,   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)    
 
