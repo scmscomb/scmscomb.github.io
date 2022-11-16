@@ -24,8 +24,8 @@ Graph limits is a recently developed powerful theory in studying graphs from a c
 _**Cycle decompositions in $k$-uniform hypergraphs**_     
 [zoom](https://zoom.us/j/89397658300?pwd=cXdDYkpJSEdtYXdZR1NNZ3dCcDlhQT09) pw 121323
 
-We show that $k$-uniform hypergraphs on $n$ vertices whose codegree is at least $(2/3 + o(1))n$ can be decomposed into tight cycles, subject to the trivial divisibility condition that every vertex degree is divisible by $k$. As a corollary, we show that such hypergraphs also have a tight Euler tour answering a question of Glock, Joos, K\"uhn and Osthus.
-This is joint work with Sim\'on Piga and Nicol\'as Sanhueza-Matamala.
+We show that $k$-uniform hypergraphs on $n$ vertices whose codegree is at least $(2/3 + o(1))n$ can be decomposed into tight cycles, subject to the trivial divisibility condition that every vertex degree is divisible by $k$. As a corollary, we show that such hypergraphs also have a tight Euler tour answering a question of Glock, Joos, Kühn and Osthus.
+This is joint work with Simón Piga and Nicolás Sanhueza-Matamala.
 
 ### Dec 16, 2022,   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)    
 
