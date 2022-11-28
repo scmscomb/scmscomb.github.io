@@ -15,13 +15,14 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ### Dec 2, 2022, 17:00-18:00 (UTC+8): [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)  (University of Birmingham)     
 _**Cycle decompositions in $k$-uniform hypergraphs**_     
-[zoom](https://zoom.us/j/89397658300?pwd=cXdDYkpJSEdtYXdZR1NNZ3dCcDlhQT09) pw 121323
+[zoom](https://zoom.us/j/89397658300?pwd=cXdDYkpJSEdtYXdZR1NNZ3dCcDlhQT09) 89397658300 pw 121323
 
 We show that $k$-uniform hypergraphs on $n$ vertices whose codegree is at least $(2/3 + o(1))n$ can be decomposed into tight cycles, subject to the trivial divisibility condition that every vertex degree is divisible by $k$. As a corollary, we show that such hypergraphs also have a tight Euler tour answering a question of Glock, Joos, Kühn and Osthus.
 This is joint work with Simón Piga and Nicolás Sanhueza-Matamala.
 
 ### Dec 16, 2022,   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)   
 _**On product sets of arithmetic progressions**_      
+[zoom](https://zoom.us/j/89190957929?pwd=c29DNkdOWnA2UC9nb3NPREVvNGdxZz09) 891 9095 7929  pw 121323
 
 We prove that the size of the product set of any finite arithmetic progression $\mathcal{A}\subset \mathbb{Z}$ satisfies
 \\[\|\mathcal A \cdot \mathcal A\| \ge \frac{\|\mathcal A\|^2}{(\log \|\mathcal A\|)^{2\theta +o(1)} } ,\\]
