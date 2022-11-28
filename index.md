@@ -13,13 +13,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-
-### Nov 18, 2022, 09:00-10:00 (UTC+8): [Fan Wei](https://sites.google.com/view/fan-wei/home)  (Princeton University)   
-_**Graph limits and common graphs with arbitrarily large chromatic number**_     
-[zoom](https://zoom.us/j/85434647049?pwd=NW0yMEpQZ3VmNE9vYkpJdUN5akVUZz09) pw 121323
-
-Graph limits is a recently developed powerful theory in studying graphs from a continuous perspective. In this talk, we will show how the perspective of graph limits helps with graph homomorphism inequalities and how to make advances in a common theme in extremal combinatorics: when does randomness give nearly optimal bounds? For example, we show this perspective recently helps us answer a question on Ramsey theory raised by Jagger-Stovicek-Thomason’96, Hatami-Hladky-Kral’-Norine-Razborov’12, Conlon-Fox-Sudakov’15, where they asked whether there are common graphs with arbitrarily large chromatic numbers. This is based on a joint work with Dan Kral' and Jan Volec.
-
 ### Dec 2, 2022, 17:00-18:00 (UTC+8): [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)  (University of Birmingham)     
 _**Cycle decompositions in $k$-uniform hypergraphs**_     
 [zoom](https://zoom.us/j/89397658300?pwd=cXdDYkpJSEdtYXdZR1NNZ3dCcDlhQT09) pw 121323
@@ -27,13 +20,29 @@ _**Cycle decompositions in $k$-uniform hypergraphs**_
 We show that $k$-uniform hypergraphs on $n$ vertices whose codegree is at least $(2/3 + o(1))n$ can be decomposed into tight cycles, subject to the trivial divisibility condition that every vertex degree is divisible by $k$. As a corollary, we show that such hypergraphs also have a tight Euler tour answering a question of Glock, Joos, Kühn and Osthus.
 This is joint work with Simón Piga and Nicolás Sanhueza-Matamala.
 
-### Dec 16, 2022,   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)    
+### Dec 16, 2022,   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)   
+_**On product sets of arithmetic progressions**_      
+
+We prove that the size of the product set of any finite arithmetic progression $\mathcal{A}\subset \mathbb{Z}$ satisfies
+$$\|\mathcal A \cdot \mathcal A\| \ge \frac{\|\mathcal A\|^2}{(\log \|\mathcal A\|)^{2\theta +o(1)} } ,$$
+where $2\theta=1-(1+\log\log 2)/(\log 2)$ is the constant appearing in the celebrated Erd\H{o}s multiplication table problem. This confirms a conjecture of Elekes and Ruzsa from about two decades ago.
+  
+If instead $\mathcal{A}$ is relaxed to be a subset of a finite arithmetic progression in integers with positive constant density, we prove that
+$$\|\mathcal A \cdot \mathcal A \| \ge \frac{\|\mathcal A\|^{2}}{(\log \|\mathcal A\|)^{2\log 2- 1 + o(1)}}. $$
+This solves the typical case of another conjecture of Elekes and Ruzsa on the size of the product set of a set $\mathcal{A}$ whose sum set is of size  $O(\|\mathcal{A}\|)$.
+
+Joint work with Max Wenqiang Xu.
 
 ### Feb 10, 2022, 09:00-10:00 (UTC+8): [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
 
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Nov 18, 2022: [Fan Wei](https://sites.google.com/view/fan-wei/home)  (Princeton University)   
+_**Graph limits and common graphs with arbitrarily large chromatic number**_     
+
+Graph limits is a recently developed powerful theory in studying graphs from a continuous perspective. In this talk, we will show how the perspective of graph limits helps with graph homomorphism inequalities and how to make advances in a common theme in extremal combinatorics: when does randomness give nearly optimal bounds? For example, we show this perspective recently helps us answer a question on Ramsey theory raised by Jagger-Stovicek-Thomason’96, Hatami-Hladky-Kral’-Norine-Razborov’12, Conlon-Fox-Sudakov’15, where they asked whether there are common graphs with arbitrarily large chromatic numbers. This is based on a joint work with Dan Kral' and Jan Volec.
 
 ### Nov 4, 2022, 14:00-15:00 (UTC+8): [Jin, Xian'An](https://math.xmu.edu.cn/info/1081/7708.htm) (Xiamen University)
 _**Partial-dual polynomials and signed intersection graphs**_     
