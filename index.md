@@ -24,11 +24,11 @@ This is joint work with Simón Piga and Nicolás Sanhueza-Matamala.
 _**On product sets of arithmetic progressions**_      
 
 We prove that the size of the product set of any finite arithmetic progression $\mathcal{A}\subset \mathbb{Z}$ satisfies
-$$\|\mathcal A \cdot \mathcal A\| \ge \frac{\|\mathcal A\|^2}{(\log \|\mathcal A\|)^{2\theta +o(1)} } ,$$
+$$$\|\mathcal A \cdot \mathcal A\| \ge \frac{\|\mathcal A\|^2}{(\log \|\mathcal A\|)^{2\theta +o(1)} } ,$$$
 where $2\theta=1-(1+\log\log 2)/(\log 2)$ is the constant appearing in the celebrated Erd\H{o}s multiplication table problem. This confirms a conjecture of Elekes and Ruzsa from about two decades ago.
   
 If instead $\mathcal{A}$ is relaxed to be a subset of a finite arithmetic progression in integers with positive constant density, we prove that
-$$\|\mathcal A \cdot \mathcal A \| \ge \frac{\|\mathcal A\|^{2}}{(\log \|\mathcal A\|)^{2\log 2- 1 + o(1)}}. $$
+$$$\|\mathcal A \cdot \mathcal A \| \ge \frac{\|\mathcal A\|^{2}}{(\log \|\mathcal A\|)^{2\log 2- 1 + o(1)}}. $$$
 This solves the typical case of another conjecture of Elekes and Ruzsa on the size of the product set of a set $\mathcal{A}$ whose sum set is of size  $O(\|\mathcal{A}\|)$.
 
 Joint work with Max Wenqiang Xu.
