@@ -20,7 +20,7 @@ _**Cycle decompositions in $k$-uniform hypergraphs**_
 We show that $k$-uniform hypergraphs on $n$ vertices whose codegree is at least $(2/3 + o(1))n$ can be decomposed into tight cycles, subject to the trivial divisibility condition that every vertex degree is divisible by $k$. As a corollary, we show that such hypergraphs also have a tight Euler tour answering a question of Glock, Joos, Kühn and Osthus.
 This is joint work with Simón Piga and Nicolás Sanhueza-Matamala.
 
-### Dec 16, 2022,   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)   
+### Dec 16, 2022, 14:00-15:00 (UTC+8):   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)   
 _**On product sets of arithmetic progressions**_      
 [zoom](https://zoom.us/j/89190957929?pwd=c29DNkdOWnA2UC9nb3NPREVvNGdxZz09) 891 9095 7929  pw 121323    
 
