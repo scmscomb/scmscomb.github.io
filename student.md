@@ -20,7 +20,7 @@ Organizers: <br>
 
 Abstract: 
 
-For an $r$-uniform hypergraph $H$, let $\nu^{(m)}(H)$ denote the maximum size of a set $M$ of edges in $H$ such that every two edges in $M$ intersect in less than $m$ vertices, and let $\tau^{(m)}(H)$ denote the minimum size of a collection $C$ of $m$-sets of vertices such that every edge in $H$ contains an element of $C$. The fractional analogues of these parameters are denoted by $\nu^{*(m)}(H)$ and $\tau^{*(m)}(H)$, respectively. Generalizing a famous conjecture of Tuza (1990) on covering triangles in a graph, Aharoni and Zerbib (2022) conjectured that for every $r$-uniform hypergraph $H$,  $\tau^{(r-1)}(H)/\nu^{(r-1)}(H) \leq \ceil{\frac{r+1}{2}}$. In this talk, we prove bounds on the ratio between the parameters $\tau^{(m)}$ and $\nu^{(m)}$, and their fractional analogs.
+For an $r$-uniform hypergraph $H$, let $\nu^{(m)}(H)$ denote the maximum size of a set $M$ of edges in $H$ such that every two edges in $M$ intersect in less than $m$ vertices, and let $\tau^{(m)}(H)$ denote the minimum size of a collection $C$ of $m$-sets of vertices such that every edge in $H$ contains an element of $C$. The fractional analogues of these parameters are denoted by  $\nu^{\*(m)}(H)$  and $\tau^{\*(m)}(H)$, respectively. Generalizing a famous conjecture of Tuza (1990) on covering triangles in a graph, Aharoni and Zerbib (2022) conjectured that for every $r$-uniform hypergraph $H$, $\tau^{(r-1)}(H)/\nu^{(r-1)}(H) \leq \ceil{\frac{r+1}{2}}$. In this talk, we prove bounds on the ratio between the parameters $\tau^{(m)}$ and $\nu^{(m)}$, and their fractional analogs.
 
 
 ## Past talks
