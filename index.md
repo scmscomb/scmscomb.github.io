@@ -14,7 +14,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Current Schedule  
 
 ### Dec 2, 2022, 17:00-18:00 (UTC+8): [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)  (University of Birmingham)     
-_**Cycle decompositions in $k$-uniform hypergraphs**_     
+_**Cycle decompositions in k-uniform hypergraphs**_     
 [zoom](https://zoom.us/j/89397658300?pwd=cXdDYkpJSEdtYXdZR1NNZ3dCcDlhQT09) 89397658300 pw 121323     
 
 We show that $k$-uniform hypergraphs on $n$ vertices whose codegree is at least $(2/3 + o(1))n$ can be decomposed into tight cycles, subject to the trivial divisibility condition that every vertex degree is divisible by $k$. As a corollary, we show that such hypergraphs also have a tight Euler tour answering a question of Glock, Joos, Kühn and Osthus.
@@ -35,7 +35,12 @@ This solves the typical case of another conjecture of Elekes and Ruzsa on the si
 Joint work with Max Wenqiang Xu.
 
 ### Feb 10, 2022, 09:00-10:00 (UTC+8): [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
+_**Two New Bounds for Deletion Codes**_      
+[zoom](https://zoom.us/j/89161589255?pwd=T0xjb3g5SXk2bVd1blN3bnV3L3BSZz09) 891 6158 9255  pw 121323  
 
+Deletion channels, introduced by Levenshtein in the 60's, are noisy channels that delete bits from the input. A (binary) $k$-deletion code of length n is a set $C$ of binary strings of length $n$ capable of correcting $k$ such errors, i.e. satisfying the property that no pair of elements of $C$ shares a common subsequence of length at least $n-k$. Let $D(n, k)$ be the size of the largest $k$-deletion code of length $n$. Two central problems are to determine (a) the order of $D(n, k)$ for constant $k$, and (b) the supremum of all $0<p<1$ such that $D(n, pn)$ grows exponentially in $n$ (the so-called "positive-rate threshold"). In this talk, we establish the first nontrivial lower bound for problem (a) when $k > 1$, improving the "greedy" lower bound for $D(n,k)$ by a logarithmic factor. We also prove the first nontrivial upper bound for problem (b), showing that $D(n,pn) = 2^{o(n)}$ for $p > 1/2 - 10^{-60}$. The proofs use a variety of techniques from extremal combinatorics including probabilistic methods and regularity.
+
+Based on joint works with Noga Alon, Gabriela Bourla, Ben Graham, Venkatesan Guruswami, Noah Kravitz, and Ray Li.
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
