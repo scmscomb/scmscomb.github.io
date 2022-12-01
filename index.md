@@ -34,6 +34,9 @@ This solves the typical case of another conjecture of Elekes and Ruzsa on the si
 
 Joint work with Max Wenqiang Xu.
 
+### Dec 30, 2022:   [Yaojun Chen](https://math.nju.edu.cn/szdw/apypl1/20190911/i21711.html) (Nanjing University)   
+
+
 ### Feb 10, 2022, 09:00-10:00 (UTC+8): [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
 _**Two New Bounds for Deletion Codes**_      
 [zoom](https://zoom.us/j/89161589255?pwd=T0xjb3g5SXk2bVd1blN3bnV3L3BSZz09) 891 6158 9255  pw 121323  
