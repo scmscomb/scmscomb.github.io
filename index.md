@@ -13,13 +13,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Dec 2, 2022, 17:00-18:00 (UTC+8): [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)  (University of Birmingham)     
-_**Cycle decompositions in k-uniform hypergraphs**_     
-[zoom](https://zoom.us/j/89397658300?pwd=cXdDYkpJSEdtYXdZR1NNZ3dCcDlhQT09) 89397658300 pw 121323     
-
-We show that $k$-uniform hypergraphs on $n$ vertices whose codegree is at least $(2/3 + o(1))n$ can be decomposed into tight cycles, subject to the trivial divisibility condition that every vertex degree is divisible by $k$. As a corollary, we show that such hypergraphs also have a tight Euler tour answering a question of Glock, Joos, Kühn and Osthus.
-This is joint work with Simón Piga and Nicolás Sanhueza-Matamala.
-
 ### Dec 16, 2022, 14:00-15:00 (UTC+8):   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)   
 _**On product sets of arithmetic progressions**_      
 [zoom](https://zoom.us/j/89190957929?pwd=c29DNkdOWnA2UC9nb3NPREVvNGdxZz09) 891 9095 7929  pw 121323    
@@ -47,6 +40,12 @@ Based on joint works with Noga Alon, Gabriela Bourla, Ben Graham, Venkatesan Gur
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Dec 2, 2022: [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)  (University of Birmingham)     
+_**Cycle decompositions in k-uniform hypergraphs**_     [video](https://www.bilibili.com/video/BV1QP411T7W6/)
+
+We show that $k$-uniform hypergraphs on $n$ vertices whose codegree is at least $(2/3 + o(1))n$ can be decomposed into tight cycles, subject to the trivial divisibility condition that every vertex degree is divisible by $k$. As a corollary, we show that such hypergraphs also have a tight Euler tour answering a question of Glock, Joos, Kühn and Osthus.
+This is joint work with Simón Piga and Nicolás Sanhueza-Matamala.
 
 ### Nov 18, 2022: [Fan Wei](https://sites.google.com/view/fan-wei/home)  (Princeton University)   
 _**Graph limits and common graphs with arbitrarily large chromatic number**_     
