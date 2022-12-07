@@ -58,12 +58,12 @@ _**Partial-dual polynomials and signed intersection graphs**_
 Abstract: Recently, Gross, Mansour and Tucker introduced the partial-dual polynomial of a ribbon graph as a generating function that enumerates all partial duals of the ribbon graph by Euler genus. To investigate the partial-dual polynomial one only needs to focus on bouquets, i.e., ribbon graphs with exactly one vertex. In this talk, we shall further show that the partial-dual polynomial of a bouquet essentially depends on the signed intersection graph of the bouquet rather than on the bouquet itself. We then give a characterization of when a bouquet has a planar partial dual in terms of its signed intersection graph. Finally we consider a conjecture posed by Gross, Mansour and Tucker that there is no orientable ribbon graph whose partial-dual polynomial has only one non-constant term, this conjecture is false and we give a characterization of when all partial duals of a bouquet have the same Euler genus. This is joint work with Qi Yan (Qi Yan, Xian'an Jin, Partial-dual polynomials and signed intersection graphs, Forum Math. Sigma 10 (2022) e69.).
 
 ### Oct 21, 2022: [Shichang Song](http://faculty.bjtu.edu.cn/ensci/8629.html)  (Beijing Jiaotong University) 
-_**Applications of nonstandard analysis to graphon theory**_       [video](https://www.bilibili.com/video/BV1Ht4y1u75e/)     
+_**Applications of nonstandard analysis to graphon theory**_      [video](https://www.bilibili.com/video/BV1Ht4y1u75e/)   [slides](./slides/2022/20221021_graphon.pdf)     
 
 Abstract: In 2006, Lovász and Szegedy introduced the notion of graphon. A graphon could be considered as a limit of a sequence of finite graphs. However, a graphon is not a graph but a symmetric measurable function from $[0,1]^2$ to $[0,1]$. In this talk, we use methods from nonstandard analysis to present a new construction of graphons. Take a hyperfinite set H. An internal graph on H is a graph whose edge set is an internal subset of H×H. We will build a correspondence between hyperfinite internal graphs and graphons. Graphons are not graphs, but internal graphs on H are indeed graphs.
 
 ### Oct 7, 2022: [Ilkyoo Choi](https://sites.google.com/view/ilkyoochoi) (Hankuk University of Foreign Studies)
-_**Relaxations of coloring squares of graphs**_       [video](https://www.bilibili.com/video/BV1de4y1m7f1/)       
+_**Relaxations of coloring squares of graphs**_      [video](https://www.bilibili.com/video/BV1de4y1m7f1/)    [slides](./slides/2022/20221007_pcf.pdf)     
 
 Less than a year ago, the following two notions of relaxations of coloring squares of graphs were formally introduced by Petruššševski and Škrekovski, and by Fabrici, Lužar, Rindošová, and Soták: an _odd $c$-coloring_ (resp. _proper conflict-free $c$-coloring_) of a graph is a proper $c$-coloring such that each non-isolated vertex has a color appearing an odd number of times (resp. exactly once) on its neighborhood. 
 
