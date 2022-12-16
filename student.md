@@ -28,13 +28,13 @@ TBC.
 
 ### Dec 9, 2022,  10:00-11:00 (UTC+8):[Zhiqian Wang](mailto:1522686578@qq.com), Nankai University
 _**On circular Chromatic Number of Signed Planar Graphs of Girth At Least 5**_  
-[slides](./slides/2022/ZhiqianWang1209.pdf) [video](https://pan.baidu.com/s/1_Y1pktf3Os_EjKZSmbJnjg) pw:6i1z 
+[slides](./slides/2022/ZhiqianWang1209.pdf) [video](https://pan.baidu.com/s/1_Y1pktf3Os_EjKZSmbJnjg) pw:6i1z  
 Abstract:   
 In 2020, X. Zhu et al. introduced the concept of circular $r$-coloring of a signed graph $(G, \sigma)$, which is the extension of circular $r$-coloring brought up by Vince in 1988. Recently, J. Li et al. introduced the concept of circular $r$-flow as the dual notion of circular $r$-coloring in the sense of signed planar graphs, and several results of edge connectivity and circular flow index (equivalently, girth and circular chromatic number) were obtained. In this paper, we extend their results and prove that for every signed planar graph of girth at least 5 with $n$ vertices, the circular chromatic number is no more than $4-\frac{12}{5n-4}$. At the end, we propose two conjectures from our work about signed version of 3-flow conjecture. This paper is joint work with Jiaao Li.
 
 ### Nov 25, 2022,  16:00-17:00 (UTC+8):Jinye He, University of Oxford
 _**A non-uniform extension of Baranyai's Theorem**_  
-[slides](./slides/2022/JinyeHe.pdf)  [video](https://pan.baidu.com/s/1WrixRdL1X3_CYQWL6oNbXw) pw:7l0u 
+[slides](./slides/2022/JinyeHe.pdf)  [video](https://pan.baidu.com/s/1WrixRdL1X3_CYQWL6oNbXw) pw:7l0u  
 Abstract:  
 A celebrated theorem of Baranyai states that when $k$ divides $n$, the family $K_n^k$ of all $k$-subsets of an $n$-element set can be partitioned into perfect matchings. In other words, $K_n^k$ is $1$-factorable. In this paper, we determine all $n, k$, such that the family $K_n^{\le k}$ consisting of subsets of $[n]$ of size up to $k$ is $1$-factorable, and thus extend Baranyai's Theorem to the non-uniform setting. In particular, our result implies that for fixed $k$ and sufficiently large $n$, $K_n^{\le k}$ is $1$-factorable if and only if $n \equiv 0$ or $-1 \pmod k$. This talk is based on joint works with Hao Huang and Jie Ma.
 
