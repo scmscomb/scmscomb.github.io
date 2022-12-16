@@ -27,7 +27,7 @@ TBC.
 ## Past talks
 
 ### Dec 9, 2022,  10:00-11:00 (UTC+8):[Zhiqian Wang](mailto:1522686578@qq.com), Nankai University
-_**On circular Chromatic Number of Signed Planar Graphs of Girth At Least 5**_      
+_**On circular Chromatic Number of Signed Planar Graphs of Girth At Least 5**_
 [slides](./slides/2022/ZhiqianWang1209.pdf) [video](https://pan.baidu.com/s/1_Y1pktf3Os_EjKZSmbJnjg) pw:6i1z
 
 Abstract: 
