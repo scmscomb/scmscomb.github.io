@@ -71,16 +71,16 @@ _**Results on the Small Quasi-Kernel Conjecture**_
 _**Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of Eulerian-type polynomials**_
 [slides](./slides/2022/0708_Orientations_of_Graphs_with_Forbidden_out-degree_Lists.pdf) [video](https://pan.baidu.com/s/1mmhEt7Ntomkdh4zLFZ9PjA?pwd=okdv) pw okdv
 ### June 24, 2022, 15:00-17:00 (UTC+8):[Fan Chang](mailto:fchang@mail.sdu.edu.cn)，Shandong University
-_**A Brief Introduction to Fourier Analysis on the Boolean Cube: Advances and Challenges**_
+_**A Brief Introduction to Fourier Analysis on the Boolean Cube: Advances and Challenges**_  
 [slides](./slides/2022/0624_Boolean_function_FanChang.pdf)
 ### June 10, 2022, 09:00-11:30 (UTC+8): Jialin He, University of Science and Technology of China
-_**The minimum number of clique-saturating edges**_
+_**The minimum number of clique-saturating edges**_  
 [slides](./slides/2022/The_minimum_number_of_clique_saturating_edges20220610.pdf)
 ### May 27, 2022, 10:00-11:00 (UTC+8): [Chaoliang Tang](cltang17@fudan.edu.cn), Fudan University
-_**Turán number of the linear 3-graph Crown**_
+_**Turán number of the linear 3-graph Crown**_  
 [slides](./slides/2022/20220527_Turan_number_of_the_linear_3graph_crown.pdf)
 ### May 13, 2022, 15:00-17:00 (UTC+8): [Jie Hu](hujie@lri.fr), Paris-Saclay University
-_**Crux and long cycle in graphs**_
+_**Crux and long cycle in graphs**_  
 [slides](./slides/2022/0513crux_and_cycles.pdf)
 ### Apr 29, 2022, 09:30-11:30 (UTC+8): [Zhenyu Taoqiu](tochy@mail.nankai.edu.cn), Nankai University
 _**Good pairs in digraphs**_   
