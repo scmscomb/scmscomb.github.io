@@ -27,19 +27,15 @@ TBC.
 ## Past talks
 
 ### Dec 9, 2022,  10:00-11:00 (UTC+8):[Zhiqian Wang](mailto:1522686578@qq.com), Nankai University
-_**On circular Chromatic Number of Signed Planar Graphs of Girth At Least 5**_
-[slides](./slides/2022/ZhiqianWang1209.pdf) [video](https://pan.baidu.com/s/1_Y1pktf3Os_EjKZSmbJnjg) pw:6i1z
-
-Abstract: 
-
+_**On circular Chromatic Number of Signed Planar Graphs of Girth At Least 5**_  
+[slides](./slides/2022/ZhiqianWang1209.pdf) [video](https://pan.baidu.com/s/1_Y1pktf3Os_EjKZSmbJnjg) pw:6i1z 
+Abstract:   
 In 2020, X. Zhu et al. introduced the concept of circular $r$-coloring of a signed graph $(G, \sigma)$, which is the extension of circular $r$-coloring brought up by Vince in 1988. Recently, J. Li et al. introduced the concept of circular $r$-flow as the dual notion of circular $r$-coloring in the sense of signed planar graphs, and several results of edge connectivity and circular flow index (equivalently, girth and circular chromatic number) were obtained. In this paper, we extend their results and prove that for every signed planar graph of girth at least 5 with $n$ vertices, the circular chromatic number is no more than $4-\frac{12}{5n-4}$. At the end, we propose two conjectures from our work about signed version of 3-flow conjecture. This paper is joint work with Jiaao Li.
 
 ### Nov 25, 2022,  16:00-17:00 (UTC+8):Jinye He, University of Oxford
-_**A non-uniform extension of Baranyai's Theorem**_
-[slides](./slides/2022/JinyeHe.pdf)  [video](https://pan.baidu.com/s/1WrixRdL1X3_CYQWL6oNbXw) pw:7l0u
-
-Abstract: 
-
+_**A non-uniform extension of Baranyai's Theorem**_  
+[slides](./slides/2022/JinyeHe.pdf)  [video](https://pan.baidu.com/s/1WrixRdL1X3_CYQWL6oNbXw) pw:7l0u 
+Abstract:  
 A celebrated theorem of Baranyai states that when $k$ divides $n$, the family $K_n^k$ of all $k$-subsets of an $n$-element set can be partitioned into perfect matchings. In other words, $K_n^k$ is $1$-factorable. In this paper, we determine all $n, k$, such that the family $K_n^{\le k}$ consisting of subsets of $[n]$ of size up to $k$ is $1$-factorable, and thus extend Baranyai's Theorem to the non-uniform setting. In particular, our result implies that for fixed $k$ and sufficiently large $n$, $K_n^{\le k}$ is $1$-factorable if and only if $n \equiv 0$ or $-1 \pmod k$. This talk is based on joint works with Hao Huang and Jie Ma.
 
 ### Nov 11, 2022,  10:00-11:00 (UTC+8):Lanchao Wang, Nanjing University
@@ -65,14 +61,14 @@ For an $r$-uniform hypergraph $H$, let $\nu^{(m)}(H)$ denote the maximum size of
 ### Aug 5, 2022,  15:30-17:30 (UTC+8):[Chengfei Xie](mailto:cfxie@cnu.edu.cn), Capital Normal University
 [slides](./slides/2022/0805kissingnumberslides.pdf) [video](https://pan.baidu.com/s/1TDXpy-rTnZCKESakHyK4bg?pwd=emyu) pw emyu
 ### July 22, 2022, 15:00-17:00 (UTC+8):[Jiangdong Ai](mailto:peac003@live.rhul.ac.uk), Royal Holloway, University of London
-_**Results on the Small Quasi-Kernel Conjecture**_
+_**Results on the Small Quasi-Kernel Conjecture**_  
 [slides](./slides/2022/2022_small quasi_kernels.pdf) [video](https://pan.baidu.com/s/1ORkN3IXOfT5t_7UyGf4org) pw 62ye
 ### July 8, 2022, 10:00-12:00 (UTC+8):[Yaobing Chen](mailto:ybchen21@m.fudan.edu.cn), Fudan University
-_**Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of Eulerian-type polynomials**_
+_**Orientations of Graphs with Forbidden out-degree Lists and Combinatorics of Eulerian-type polynomials**_  
 [slides](./slides/2022/0708_Orientations_of_Graphs_with_Forbidden_out-degree_Lists.pdf) [video](https://pan.baidu.com/s/1mmhEt7Ntomkdh4zLFZ9PjA?pwd=okdv) pw okdv
 ### June 24, 2022, 15:00-17:00 (UTC+8):[Fan Chang](mailto:fchang@mail.sdu.edu.cn)，Shandong University
 _**A Brief Introduction to Fourier Analysis on the Boolean Cube: Advances and Challenges**_  
-[slides](./slides/2022/0624_Boolean_function_FanChang.pdf)
+[slides](./slides/2022/0624_Boolean_function_FanChang.pdf)  
 ### June 10, 2022, 09:00-11:30 (UTC+8): Jialin He, University of Science and Technology of China
 _**The minimum number of clique-saturating edges**_  
 [slides](./slides/2022/The_minimum_number_of_clique_saturating_edges20220610.pdf)
