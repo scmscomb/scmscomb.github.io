@@ -16,12 +16,11 @@ Organizers: <br>
 
 ## Current Schedule
 
-
-### Dec 23, 2022,  10:00-11:00 (UTC+8):Wenlin Zhou, Shandong University
-
-Abstract: 
-
-TBC.
+### Dec 23, 2022,  10:00-11:00 (UTC+8):Wenlin Zhou, Shandong University  
+_**Integer colorings with no rainbow $k$-term arithmetic progression**_  
+Abstract:   
+In this talk, we study the rainbow Erd\H{o}s-Rothschild problem with respect to $k$-term arithmetic progressions. For a set of positive integers $S \subseteq [n]$,
+an $r$-coloring of $S$ is \emph{rainbow $k$-AP-free} if it contains no rainbow $k$-term arithmetic progression. Let $g_{r,k}(S)$ denote the maximum number of rainbow $k$-AP-free $r$-colorings of $S$. For sufficiently large $n$ and fixed integers $r\ge k\ge 3$, we show that $g_{r,k}(S)<g_{r,k}([n])$ for any proper subset $S\subset [n]$. Further, we prove that $\lim_{n\to \infty}g_{r,k}([n])/(k-1)^n  = \binom{r}{k-1}$. Our result is asymptotically best possible and implies that, almost all rainbow $k$-AP-free $r$-colorings of $[n]$ use at most $k-1$ colors. This is joint work with Hao Lin and Guanghui Wang.
 
 
 ## Past talks
@@ -38,18 +37,13 @@ _**A non-uniform extension of Baranyai's Theorem**_
 Abstract:  
 A celebrated theorem of Baranyai states that when $k$ divides $n$, the family $K_n^k$ of all $k$-subsets of an $n$-element set can be partitioned into perfect matchings. In other words, $K_n^k$ is $1$-factorable. In this paper, we determine all $n, k$, such that the family $K_n^{\le k}$ consisting of subsets of $[n]$ of size up to $k$ is $1$-factorable, and thus extend Baranyai's Theorem to the non-uniform setting. In particular, our result implies that for fixed $k$ and sufficiently large $n$, $K_n^{\le k}$ is $1$-factorable if and only if $n \equiv 0$ or $-1 \pmod k$. This talk is based on joint works with Hao Huang and Jie Ma.
 
-### Nov 11, 2022,  10:00-11:00 (UTC+8):Lanchao Wang, Nanjing University
-
-[slides](./slides/2022/LanchaoWang.pdf)  [video](https://pan.baidu.com/s/1QC0nTM3Pa_jdBwqwp7qXeQ?pwd=ajmy) pw:ajmy
-
-Abstract: 
-
+### Nov 11, 2022,  10:00-11:00 (UTC+8):Lanchao Wang, Nanjing University  
+[slides](./slides/2022/LanchaoWang.pdf)  [video](https://pan.baidu.com/s/1QC0nTM3Pa_jdBwqwp7qXeQ?pwd=ajmy) pw:ajmy  
+Abstract:   
 Let $X$ and $Y$ be any two graphs of order $n$. The friends-and-strangers graph $\mathsf{FS}(X,Y)$ of $X$ and $Y$ is a graph with vertex set consisting of all bijections $\sigma :V(X) \mapsto V(Y)$, in which two bijections $\sigma$, $\sigma'$ are adjacent if and only if they differ precisely on two adjacent vertices of $X$, and the corresponding mappings are adjacent in $Y$. The most fundamental question that one can ask about these friends-and-strangers graphs is whether or not they are connected.  Let $Lollipop_{n-k,k}$ be a lollipop graph of order $n$ obtained by  identifying one end of a path of order $n-k+1$ with a vertex of a complete graph of order $k$.  In this talk, we give a sufficient and necessary condition for $\mathsf{FS}(Lollipop_{n-k,k},Y)$ to be connected for all $2\leq k\leq n$. And we  determine, building off of a work of Alon, Defant, and Kravitz,  a threshold condition for when $\mathsf{FS}(X,Y)$ is connected when $X$ and $Y$ are random graphs with different edge probabilities. This talk is based on joint works with Yaojun Chen.
 
-### Oct 28, 2022,  10:00-11:00 (UTC+8):Henry Simmons, Lowa State University
-
-Abstract: 
-
+### Oct 28, 2022,  10:00-11:00 (UTC+8):Henry Simmons, Lowa State University  
+Abstract:   
 For an $r$-uniform hypergraph $H$, let $\nu^{(m)}(H)$ denote the maximum size of a set $M$ of edges in $H$ such that every two edges in $M$ intersect in less than $m$ vertices, and let $\tau^{(m)}(H)$ denote the minimum size of a collection $C$ of $m$-sets of vertices such that every edge in $H$ contains an element of $C$. The fractional analogues of these parameters are denoted by  $\nu^{\*(m)}(H)$  and $\tau^{\*(m)}(H)$, respectively. Generalizing a famous conjecture of Tuza (1990) on covering triangles in a graph, Aharoni and Zerbib (2022) conjectured that for every $r$-uniform hypergraph $H$, $\tau^{(r-1)}(H)/\nu^{(r-1)}(H) \leq \lceil\frac{r+1}{2}\rceil$. In this talk, we prove bounds on the ratio between the parameters $\tau^{(m)}$ and $\nu^{(m)}$, and their fractional analogs.
 
 ### Oct 14, 2022,  10:00-11:00 (UTC+8):[Xiutao Zhu](mailto:zhuxt@fsmail.nju.edu.cn), Nanjing University
