@@ -16,7 +16,7 @@ Organizers: <br>
 
 ## Current Schedule
 
-### Dec 23, 2022,  10:00-11:00 (UTC+8):Wenlin Zhou, Shandong University  
+### Dec 23, 2022,  15:30-16:30 (UTC+8):Wenling Zhou, Shandong University  
 _**Integer colorings with no rainbow k-term arithmetic progression**_  
 Abstract:   
 In this talk, we study the rainbow Erd\H{o}s-Rothschild problem with respect to $k$-term arithmetic progressions. For a set of positive integers $S \subseteq [n]$,
