@@ -13,6 +13,23 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
+### Dec 30, 2022, 14:00-15:00 (UTC+8):   [Yaojun Chen](https://math.nju.edu.cn/szdw/apypl1/20190911/i21711.html) (Nanjing University)   
+_**Ramsey numbers concerning quadrilaterals**_      
+[zoom](https://zoom.us/j/86843433725?pwd=Vy9SdVBQYlh2Z0VQS0JzSE8yUEpTQT09) 868 4343 3725  pw 121323   
+
+Let $G_1,G_2,…,G_k$ be k given graphs. The Ramsey number $R(G_1,G_2,…,G_k)$ is the smallest integer N such that for any k-edge colorings of a complete graph $K_N$, $K_N$ contains a subgraph in color i which is isomorphic to $G_i$ for some $1\le i\le k$. In this talk, we will introduce some results and problems on the Ramsey numbers concerning quadrilaterals, that is, a cycle of length four. We will also talk about the main methods used to investigate these problems.
+
+### Feb 10, 2022, 09:00-10:00 (UTC+8): [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
+_**Two New Bounds for Deletion Codes**_      
+[zoom](https://zoom.us/j/89161589255?pwd=T0xjb3g5SXk2bVd1blN3bnV3L3BSZz09) 891 6158 9255  pw 121323  
+
+Deletion channels, introduced by Levenshtein in the 60's, are noisy channels that delete bits from the input. A (binary) $k$-deletion code of length n is a set $C$ of binary strings of length $n$ capable of correcting $k$ such errors, i.e. satisfying the property that no pair of elements of $C$ shares a common subsequence of length at least $n-k$. Let $D(n, k)$ be the size of the largest $k$-deletion code of length $n$. Two central problems are to determine (a) the order of $D(n, k)$ for constant $k$, and (b) the supremum of all $0<p<1$ such that $D(n, pn)$ grows exponentially in $n$ (the so-called "positive-rate threshold"). In this talk, we establish the first nontrivial lower bound for problem (a) when $k > 1$, improving the "greedy" lower bound for $D(n,k)$ by a logarithmic factor. We also prove the first nontrivial upper bound for problem (b), showing that $D(n,pn) = 2^{o(n)}$ for $p > 1/2 - 10^{-60}$. The proofs use a variety of techniques from extremal combinatorics including probabilistic methods and regularity.
+
+Based on joint works with Noga Alon, Gabriela Bourla, Ben Graham, Venkatesan Guruswami, Noah Kravitz, and Ray Li.
+
+## Past Talks from this Semester
+Check [past talks](past) for the full list of past talks with all details.
+
 ### Dec 16, 2022, 14:00-15:00 (UTC+8):   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)   
 _**On product sets of arithmetic progressions**_      
 [zoom](https://zoom.us/j/89190957929?pwd=c29DNkdOWnA2UC9nb3NPREVvNGdxZz09) 891 9095 7929  pw 121323    
@@ -27,19 +44,6 @@ This solves the typical case of another conjecture of Elekes and Ruzsa on the si
 
 Joint work with Max Wenqiang Xu.
 
-### Dec 30, 2022:   [Yaojun Chen](https://math.nju.edu.cn/szdw/apypl1/20190911/i21711.html) (Nanjing University)   
-
-
-### Feb 10, 2022, 09:00-10:00 (UTC+8): [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
-_**Two New Bounds for Deletion Codes**_      
-[zoom](https://zoom.us/j/89161589255?pwd=T0xjb3g5SXk2bVd1blN3bnV3L3BSZz09) 891 6158 9255  pw 121323  
-
-Deletion channels, introduced by Levenshtein in the 60's, are noisy channels that delete bits from the input. A (binary) $k$-deletion code of length n is a set $C$ of binary strings of length $n$ capable of correcting $k$ such errors, i.e. satisfying the property that no pair of elements of $C$ shares a common subsequence of length at least $n-k$. Let $D(n, k)$ be the size of the largest $k$-deletion code of length $n$. Two central problems are to determine (a) the order of $D(n, k)$ for constant $k$, and (b) the supremum of all $0<p<1$ such that $D(n, pn)$ grows exponentially in $n$ (the so-called "positive-rate threshold"). In this talk, we establish the first nontrivial lower bound for problem (a) when $k > 1$, improving the "greedy" lower bound for $D(n,k)$ by a logarithmic factor. We also prove the first nontrivial upper bound for problem (b), showing that $D(n,pn) = 2^{o(n)}$ for $p > 1/2 - 10^{-60}$. The proofs use a variety of techniques from extremal combinatorics including probabilistic methods and regularity.
-
-Based on joint works with Noga Alon, Gabriela Bourla, Ben Graham, Venkatesan Guruswami, Noah Kravitz, and Ray Li.
-
-## Past Talks from this Semester
-Check [past talks](past) for the full list of past talks with all details.
 
 ### Dec 2, 2022: [Allan Lo](https://web.mat.bham.ac.uk/S.A.Lo/)  (University of Birmingham)     
 _**Cycle decompositions in k-uniform hypergraphs**_     [video](https://www.bilibili.com/video/BV1QP411T7W6/)
