@@ -31,7 +31,7 @@ Based on joint works with Noga Alon, Gabriela Bourla, Ben Graham, Venkatesan Gur
 Check [past talks](past) for the full list of past talks with all details.
 
 ### Dec 16, 2022:   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)   
-_**On product sets of arithmetic progressions**_      [video](https://www.bilibili.com/video/BV1pD4y1E7ym/)
+_**On product sets of arithmetic progressions**_      [video](https://www.bilibili.com/video/BV1pD4y1E7ym/)   [slides](./slides/2022/20221216_Product_Set-2.pdf)    
 
 We prove that the size of the product set of any finite arithmetic progression $\mathcal{A}\subset \mathbb{Z}$ satisfies
 \\[\|\mathcal A \cdot \mathcal A\| \ge \frac{\|\mathcal A\|^2}{(\log \|\mathcal A\|)^{2\theta +o(1)} } ,\\]
