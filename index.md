@@ -13,12 +13,6 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Dec 30, 2022, 14:00-15:00 (UTC+8):   [Yaojun Chen](https://math.nju.edu.cn/szdw/apypl1/20190911/i21711.html) (Nanjing University)   
-_**Ramsey numbers concerning quadrilaterals**_      
-[zoom](https://zoom.us/j/86843433725?pwd=Vy9SdVBQYlh2Z0VQS0JzSE8yUEpTQT09) 868 4343 3725  pw 121323   
-
-Let $G_1,G_2,…,G_k$ be k given graphs. The Ramsey number $R(G_1,G_2,…,G_k)$ is the smallest integer N such that for any k-edge colorings of a complete graph $K_N$, $K_N$ contains a subgraph in color i which is isomorphic to $G_i$ for some $1\le i\le k$. In this talk, we will introduce some results and problems on the Ramsey numbers concerning quadrilaterals, that is, a cycle of length four. We will also talk about the main methods used to investigate these problems.
-
 ### Feb 10, 2022, 09:00-10:00 (UTC+8): [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
 _**Two New Bounds for Deletion Codes**_      
 [zoom](https://zoom.us/j/89161589255?pwd=T0xjb3g5SXk2bVd1blN3bnV3L3BSZz09) 891 6158 9255  pw 121323  
@@ -29,6 +23,11 @@ Based on joint works with Noga Alon, Gabriela Bourla, Ben Graham, Venkatesan Gur
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Dec 30, 2022:   [Yaojun Chen](https://math.nju.edu.cn/szdw/apypl1/20190911/i21711.html) (Nanjing University)   
+_**Ramsey numbers concerning quadrilaterals**_      [video](https://www.bilibili.com/video/BV1424y1e7p7/)     
+
+Let $G_1,G_2,…,G_k$ be k given graphs. The Ramsey number $R(G_1,G_2,…,G_k)$ is the smallest integer N such that for any k-edge colorings of a complete graph $K_N$, $K_N$ contains a subgraph in color i which is isomorphic to $G_i$ for some $1\le i\le k$. In this talk, we will introduce some results and problems on the Ramsey numbers concerning quadrilaterals, that is, a cycle of length four. We will also talk about the main methods used to investigate these problems.
 
 ### Dec 16, 2022:   [Yunkun Zhou](https://stanford.edu/~yunkunz/) (Stanford University)   
 _**On product sets of arithmetic progressions**_      [video](https://www.bilibili.com/video/BV1pD4y1E7ym/)   [slides](./slides/2022/20221216_Product_Set-2.pdf)    
