@@ -13,16 +13,19 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Feb 10, 2022, 09:00-10:00 (UTC+8): [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
-_**Two New Bounds for Deletion Codes**_      
-[zoom](https://zoom.us/j/89161589255?pwd=T0xjb3g5SXk2bVd1blN3bnV3L3BSZz09) 891 6158 9255  pw 121323  
+### Feb 24, 2022, Zhicong Lin (Shandong University)
+
+### Mar 24, 2022, Chong Shangguan (Shandong University)
+
+## Past Talks from this Semester
+Check [past talks](past) for the full list of past talks with all details.
+
+### Feb 10, 2022: [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
+_**Two New Bounds for Deletion Codes**_      [video](https://www.bilibili.com/video/BV1vY411i71L/)  
 
 Deletion channels, introduced by Levenshtein in the 60's, are noisy channels that delete bits from the input. A (binary) $k$-deletion code of length n is a set $C$ of binary strings of length $n$ capable of correcting $k$ such errors, i.e. satisfying the property that no pair of elements of $C$ shares a common subsequence of length at least $n-k$. Let $D(n, k)$ be the size of the largest $k$-deletion code of length $n$. Two central problems are to determine (a) the order of $D(n, k)$ for constant $k$, and (b) the supremum of all $0<p<1$ such that $D(n, pn)$ grows exponentially in $n$ (the so-called "positive-rate threshold"). In this talk, we establish the first nontrivial lower bound for problem (a) when $k > 1$, improving the "greedy" lower bound for $D(n,k)$ by a logarithmic factor. We also prove the first nontrivial upper bound for problem (b), showing that $D(n,pn) = 2^{o(n)}$ for $p > 1/2 - 10^{-60}$. The proofs use a variety of techniques from extremal combinatorics including probabilistic methods and regularity.
 
 Based on joint works with Noga Alon, Gabriela Bourla, Ben Graham, Venkatesan Guruswami, Noah Kravitz, and Ray Li.
-
-## Past Talks from this Semester
-Check [past talks](past) for the full list of past talks with all details.
 
 ### Dec 30, 2022:   [Yaojun Chen](https://math.nju.edu.cn/szdw/apypl1/20190911/i21711.html) (Nanjing University)   
 _**Ramsey numbers concerning quadrilaterals**_      [video](https://www.bilibili.com/video/BV1424y1e7p7/)     
