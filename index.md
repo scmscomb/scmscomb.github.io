@@ -13,13 +13,13 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Feb 24, 2022, 15:00 UTF+8, Zhicong Lin (Shandong University)      
+### Feb 24, 2022, 15:00 UTF+8: Zhicong Lin (Shandong University)      
 _**Permanents and permutation statistics**_      
 [zoom](https://zoom.us/j/86548870882?pwd=OFlUU2ZiMmJQRzRHRnp2cDlFcHhPQT09) 865 4887 0882 pw121323   
 
 I will talk about my recent joint work with Shishuo Fu and Zhi-Wei Sun on permanent conjectures relating to Genocchi numbers of the first and second kinds as well as (binomial) Euler numbers. Various permutation statistics are at the heart of our approaches.
 
-### Mar 10, 2022, 9:00 UTF+8, Sam Spiro (Rutgers University)
+### Mar 10, 2022, 9:00 UTF+8: Sam Spiro (Rutgers University)
 [zoom](https://zoom.us/j/81274717729?pwd=VTVpQTNvM0xOR3BKZFIxV3UveEtVZz09) 812 7471 7729 pw 121323   
 
 
