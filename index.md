@@ -13,20 +13,21 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Feb 24, 2022, 15:00 UTF+8: Zhicong Lin (Shandong University)      
-_**Permanents and permutation statistics**_      
-[zoom](https://zoom.us/j/86548870882?pwd=OFlUU2ZiMmJQRzRHRnp2cDlFcHhPQT09) 865 4887 0882 pw121323   
-
-I will talk about my recent joint work with Shishuo Fu and Zhi-Wei Sun on permanent conjectures relating to Genocchi numbers of the first and second kinds as well as (binomial) Euler numbers. Various permutation statistics are at the heart of our approaches.
-
 ### Mar 10, 2022, 9:00 UTF+8: Sam Spiro (Rutgers University)
+_**Card Guessing with Feedback**_        
 [zoom](https://zoom.us/j/81274717729?pwd=VTVpQTNvM0xOR3BKZFIxV3UveEtVZz09) 812 7471 7729 pw 121323   
 
+Abstract: Consider the following one player game: a deck with $m$ copies of $n$ different card types is randomly shuffled, and the player attempts to guess the cards sequentially as they are drawn.  Each time a guess is made, some amount of "feedback" is given.  For example, one could tell the player the true identity of the card they just guessed (the complete feedback model) or just whether they're right or not (the partial feedback model).  We consider the problem of estimating the maximum and minimum number of correct guesses the player can guarantee in expectation for both of these models.  We also consider variants of these problems, which end up having connections to increasing subsequences in random multiset permutations, as well as to Rock, Paper Scissors.
 
 ### Mar 24, 2022, Chong Shangguan (Shandong University)
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Feb 24, 2022, 15:00 UTF+8: Zhicong Lin (Shandong University)      
+_**Permanents and permutation statistics**_      [video](https://www.bilibili.com/video/BV1xs4y1Z7mp/)  
+
+I will talk about my recent joint work with Shishuo Fu and Zhi-Wei Sun on permanent conjectures relating to Genocchi numbers of the first and second kinds as well as (binomial) Euler numbers. Various permutation statistics are at the heart of our approaches.
 
 ### Feb 10, 2022: [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
 _**Two New Bounds for Deletion Codes**_      [video](https://www.bilibili.com/video/BV1vY411i71L/)  
