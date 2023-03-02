@@ -19,7 +19,8 @@ Organizers: <br>
 ### Mar 3, 2022,  9:00-10:00 (UTC+8):[Meiqiao Zhang](mailto:gracezhou@mail.sdu.edu.cn), Nanyang Technological University  
 _**An Introdution to DP-color functions**_  
 Abstract:   
-
+DP coloring is a recently introduced generalization of proper coloring that is to take all possible compatibility or repulsion relationships between the colors used
+on every pair of adjacent vertices into consideration. The DP color function was then defined based on the counting of DP colorings, and turns out to have a direct but complex relationship with the chromatic polynomial. In this talk, I will introduce the basic definition and research status of DP color functions.
 
 
 ## Past talks
