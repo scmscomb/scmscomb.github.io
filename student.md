@@ -16,14 +16,20 @@ Organizers: <br>
 
 ## Current Schedule
 
+### Mar 3, 2022,  9:00-10:00 (UTC+8):[Meiqiao Zhang](mailto:gracezhou@mail.sdu.edu.cn), Nanyang Technological University  
+_**An Introdution to DP-color functions**_  
+Abstract:   
+
+
+
+## Past talks
+
+
 ### Dec 23, 2022,  15:30-16:30 (UTC+8):[Wenling Zhou](mailto:gracezhou@mail.sdu.edu.cn), Shandong University  
 _**Integer colorings with no rainbow k-term arithmetic progression**_  
 Abstract:   
 In this talk, we study the rainbow Erd\H{o}s-Rothschild problem with respect to $k$-term arithmetic progressions. For a set of positive integers $S \subseteq [n]$,
 an $r$-coloring of $S$ is \emph{rainbow $k$-AP-free} if it contains no rainbow $k$-term arithmetic progression. Let $g_{r,k}(S)$ denote the maximum number of rainbow $k$-AP-free $r$-colorings of $S$. For sufficiently large $n$ and fixed integers $r\ge k\ge 3$, we show that $g_{r,k}(S)\le g_{r,k}([n])$ for any proper subset $S\subset [n]$. Further, we prove that $\lim_{n\to \infty}g_{r,k}([n])/(k-1)^n  = \binom{r}{k-1}$. Our result is asymptotically best possible and implies that, almost all rainbow $k$-AP-free $r$-colorings of $[n]$ use at most $k-1$ colors. This is joint work with Hao Lin and Guanghui Wang.
-
-
-## Past talks
 
 ### Dec 9, 2022,  10:00-11:00 (UTC+8):[Zhiqian Wang](mailto:1522686578@qq.com), Nankai University
 _**On circular Chromatic Number of Signed Planar Graphs of Girth At Least 5**_  
