@@ -16,15 +16,30 @@ Organizers: <br>
 
 ## Current Schedule
 
-### Mar 3, 2022,  9:00-10:00 (UTC+8):[Meiqiao Zhang](mailto:gracezhou@mail.sdu.edu.cn), Nanyang Technological University  
-_**An Introdution to DP-color functions**_  
+### Apr 28, 2022,  9:00-10:00 (UTC+8):[Gang Yang](mailto:), University of Shanghai for Science and Technology
+_**To be continued.**_  
 Abstract:   
-DP coloring is a recently introduced generalization of proper coloring that is to take all possible compatibility or repulsion relationships between the colors used
-on every pair of adjacent vertices into consideration. The DP color function was then defined based on the counting of DP colorings, and turns out to have a direct but complex relationship with the chromatic polynomial. In this talk, I will introduce the basic definition and research status of DP color functions.
+To be continued.
+
+### Apr 14, 2022,  9:00-10:00 (UTC+8):[Guozhen Dai](mailto:), Zhejiang University  
+_**Tail Bounds on the Spectral Norm of Sub-Exponential Random Matrices**_  
+Abstract:   
+To be continued.
+
+### Mar 31, 2022,  9:00-10:00 (UTC+8):[Heng Li](mailto:), Fuzhou University  
+_**To be continued.**_  
+Abstract:   
+To be continued.
 
 
 ## Past talks
 
+### Mar 3, 2022,  9:00-10:00 (UTC+8):[Meiqiao Zhang](mailto:gracezhou@mail.sdu.edu.cn), Nanyang Technological University  
+_**An Introdution to DP-color functions**_  
+[slides](./slides/2022/ZhiqianWang1209.pdf) [video](https://pan.baidu.com/s/1h5xyu-bxPd_d5kFAJ3NaSQ) pw:3df2
+Abstract:   
+DP coloring is a recently introduced generalization of proper coloring that is to take all possible compatibility or repulsion relationships between the colors used
+on every pair of adjacent vertices into consideration. The DP color function was then defined based on the counting of DP colorings, and turns out to have a direct but complex relationship with the chromatic polynomial. In this talk, I will introduce the basic definition and research status of DP color functions.
 
 ### Dec 23, 2022,  15:30-16:30 (UTC+8):[Wenling Zhou](mailto:gracezhou@mail.sdu.edu.cn), Shandong University  
 _**Integer colorings with no rainbow k-term arithmetic progression**_  
