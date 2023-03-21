@@ -13,16 +13,23 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Mar 10, 2023, 9:00 UTF+8: Sam Spiro (Rutgers University)
-_**Card Guessing with Feedback**_        
-[zoom](https://zoom.us/j/81274717729?pwd=VTVpQTNvM0xOR3BKZFIxV3UveEtVZz09) 812 7471 7729 pw 121323   
+### Mar 24, 2023, 14:00 UTF+8: Chong Shangguan (Shandong University)
+_**Some problems in extremal set theory**_      
+[zoom](https://zoom.us/j/81273797400?pwd=eG1IenZBdGNtMU14Z1Fnb1NSSUk5UT09)  812 7379 7400 pw 121323
 
-Abstract: Consider the following one player game: a deck with $m$ copies of $n$ different card types is randomly shuffled, and the player attempts to guess the cards sequentially as they are drawn.  Each time a guess is made, some amount of "feedback" is given.  For example, one could tell the player the true identity of the card they just guessed (the complete feedback model) or just whether they're right or not (the partial feedback model).  We consider the problem of estimating the maximum and minimum number of correct guesses the player can guarantee in expectation for both of these models.  We also consider variants of these problems, which end up having connections to increasing subsequences in random multiset permutations, as well as to Rock, Paper Scissors.
-
-### Mar 24, 2023, Chong Shangguan (Shandong University)
+Consider an $r$-uniform hypergraph: 
+1. it is called $t$-cover-free if for any $t+1$ distinct edges $A_1,\ldots,A_t,B$, it holds that $B\nsubseteq \cup_{i=1}^t A_i$;
+2. it is called $t$-union-free if for any two distinct subsets $\mathcal{A},\mathcal{B}$, each consisting of at most $t$ edges, it holds that $\cup_{A\in\mathcal{A}} A\neq \cup_{B\in\mathcal{B}} B$;
+3. it is called $t$-cancellative if for any $t+2$ distinct edges $A_1,\ldots,A_t,B,C$, it holds that $(\cup_{i=1}^t A_i)\cup B\neq (\cup_{i=1}^t A_i)\cup C$.
+Let $F_t(n,r),C_t(n,r),U_t(n,r)$ denote the maximum number of edges of these hypergraphs, respectively. In this talk, we will introduce the best known lower and upper bounds on these functions. Several interesting problems are left open.
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Mar 10, 2023: Sam Spiro (Rutgers University)
+_**Card Guessing with Feedback**_        [video](https://www.bilibili.com/video/BV13Y4y1D7SF/)
+
+Abstract: Consider the following one player game: a deck with $m$ copies of $n$ different card types is randomly shuffled, and the player attempts to guess the cards sequentially as they are drawn.  Each time a guess is made, some amount of "feedback" is given.  For example, one could tell the player the true identity of the card they just guessed (the complete feedback model) or just whether they're right or not (the partial feedback model).  We consider the problem of estimating the maximum and minimum number of correct guesses the player can guarantee in expectation for both of these models.  We also consider variants of these problems, which end up having connections to increasing subsequences in random multiset permutations, as well as to Rock, Paper Scissors.
 
 ### Feb 24, 2023, 15:00 UTF+8: Zhicong Lin (Shandong University)      
 _**Permanents and permutation statistics**_      [video](https://www.bilibili.com/video/BV1xs4y1Z7mp/)  
