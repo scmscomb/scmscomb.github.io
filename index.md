@@ -13,7 +13,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### Mar 24, 2023, 14:00 UTF+8: Chong Shangguan (Shandong University)
+### Mar 31, 2023, 10:00 UTF+8: Chong Shangguan (Shandong University)
 _**Some problems in extremal set theory**_      
 [zoom](https://zoom.us/j/81273797400?pwd=eG1IenZBdGNtMU14Z1Fnb1NSSUk5UT09)  812 7379 7400 pw 121323
 
