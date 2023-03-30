@@ -31,6 +31,7 @@ Let $X$ be an $n\times n$ symmetric random matrix with independent but non-ident
 
 ### Mar 30, 2022,  16:30-17:30 (UTC+8):[Heng Li](mailto:), Fuzhou University  
 _**A step towards a general density Corradi-Hajnal Theore**_  
+[slides](./slides/2022/ZMQ.pdf) [video](https://pan.baidu.com/s/1cMPXnr_LyL38gOA-fVK55g) pw:rj54  
 Abstract:   
 For a nondegenerate $r$-graph $F$, large $n$, and $t$ in the regime $[0, c_{F} n]$, where $c_F>0$ is a constant depending only on $F$,
 we present a general approach for determining the maximum number of edges in an $n$-vertex $r$-graph that does not contain $t+1$ vertex-disjoint copies of $F$.
