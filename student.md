@@ -26,15 +26,15 @@ _**Tail Bounds on the Spectral Norm of Sub-Exponential Random Matrices**_
 Abstract:   
 Let $X$ be an $n\times n$ symmetric random matrix with independent but non-identically distributed entries. The deviation inequalities of the spectral norm of $X$ with Gaussian entries have been obtained by using the standard concentration of measure results in Gauss space which is unfortunately not suitable for the sub-Exponential case.  This talk concentrates on upper tail bounds of $\Vert X\Vert$ with sub-Exponential entries.  Our general method relies upon a crucial ingredient of a novel chaining argument that  essentially depends on the distribution of coordinates of a point on the unit sphere. What makes this approach work is the particular structure of the sets used for the chaining.
 
+
+## Past talks
+
 ### Mar 30, 2022,  16:30-17:30 (UTC+8):[Heng Li](mailto:), Fuzhou University  
 _**A step towards a general density Corradi-Hajnal Theore**_  
 Abstract:   
 For a nondegenerate $r$-graph $F$, large $n$, and $t$ in the regime $[0, c_{F} n]$, where $c_F>0$ is a constant depending only on $F$,
 we present a general approach for determining the maximum number of edges in an $n$-vertex $r$-graph that does not contain $t+1$ vertex-disjoint copies of $F$.
 In fact, our method results in a rainbow version of the above result and includes a  characterization of the extremal constructions. Our approach applies to many well-studied hypergraphs (including graphs) such as the edge-critical graphs, the Fano plane,  the generalized triangles, hypergraph expansions, the expanded triangles, and hypergraph books.Our results extend old results of Simonovits and Moon on complete graphs and can be viewed as a step towards a general density version of the classical Corr\'{a}di--Hajnal Theorem.
-
-
-## Past talks
 
 ### Mar 3, 2022,  9:00-10:00 (UTC+8):[Meiqiao Zhang](mailto:gracezhou@mail.sdu.edu.cn), Nanyang Technological University  
 _**An Introdution to DP-color functions**_  
