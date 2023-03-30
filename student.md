@@ -26,7 +26,7 @@ _**Tail Bounds on the Spectral Norm of Sub-Exponential Random Matrices**_
 Abstract:   
 Let $X$ be an $n\times n$ symmetric random matrix with independent but non-identically distributed entries. The deviation inequalities of the spectral norm of $X$ with Gaussian entries have been obtained by using the standard concentration of measure results in Gauss space which is unfortunately not suitable for the sub-Exponential case.  This talk concentrates on upper tail bounds of $\Vert X\Vert$ with sub-Exponential entries.  Our general method relies upon a crucial ingredient of a novel chaining argument that  essentially depends on the distribution of coordinates of a point on the unit sphere. What makes this approach work is the particular structure of the sets used for the chaining.
 
-### Mar 31, 2022,  9:00-10:00 (UTC+8):[Heng Li](mailto:), Fuzhou University  
+### Mar 30, 2022,  16:30-17:30 (UTC+8):[Heng Li](mailto:), Fuzhou University  
 _**A step towards a general density Corradi-Hajnal Theore**_  
 Abstract:   
 For a nondegenerate $r$-graph $F$, large $n$, and $t$ in the regime $[0, c_{F} n]$, where $c_F>0$ is a constant depending only on $F$,
