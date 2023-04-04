@@ -13,18 +13,26 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
+### April 7, 2023, 9:00 UTF+8: Yiqiao Wang (Beijing University of Chinese Medicine)
+_**Vertex Arboricity of Planar Graphs**_      
+[zoom](https://zoom.us/j/83193500474?pwd=ZDF4RnlDb0VqeWVVWGw5NUVlQnorQT09)  831 9350 0474 pw 121323
+
+The vertex-arboricity $a(G)$ of a graph $G$ is the minimum number of subsets into which the set of vertices of $G$ can be partitioned so that each subset induces a forest. In this talk, we give a survey on the research progress of the vertex-arboricity and list vertex-arboricity of graphs. We show that every planar graph $G$ without adjacent 3-cycles has $a(G)\le 2$, which resolves a conjecture of Raspaud and Wang in 2008.
+
+
+
+
+## Past Talks from this Semester
+Check [past talks](past) for the full list of past talks with all details.
+
 ### Mar 31, 2023, 10:00 UTF+8: Chong Shangguan (Shandong University)
-_**Some problems in extremal set theory**_      
-[zoom](https://zoom.us/j/81273797400?pwd=eG1IenZBdGNtMU14Z1Fnb1NSSUk5UT09)  812 7379 7400 pw 121323
+_**Some problems in extremal set theory**_      [video](https://www.bilibili.com/video/BV1bc4115734/) [slides](./slides/2023/extremal_set_theory.pdf)     
 
 Consider an $r$-uniform hypergraph: 
 1. it is called $t$-cover-free if for any $t+1$ distinct edges $A_1,\ldots,A_t,B$, it holds that $B\nsubseteq \cup_{i=1}^t A_i$;
 2. it is called $t$-union-free if for any two distinct subsets $\mathcal{A},\mathcal{B}$, each consisting of at most $t$ edges, it holds that $\cup_{A\in\mathcal{A}} A\neq \cup_{B\in\mathcal{B}} B$;
 3. it is called $t$-cancellative if for any $t+2$ distinct edges $A_1,\ldots,A_t,B,C$, it holds that $(\cup_{i=1}^t A_i)\cup B\neq (\cup_{i=1}^t A_i)\cup C$.
 Let $F_t(n,r),C_t(n,r),U_t(n,r)$ denote the maximum number of edges of these hypergraphs, respectively. In this talk, we will introduce the best known lower and upper bounds on these functions. Several interesting problems are left open.
-
-## Past Talks from this Semester
-Check [past talks](past) for the full list of past talks with all details.
 
 ### Mar 10, 2023: Sam Spiro (Rutgers University)
 _**Card Guessing with Feedback**_        [video](https://www.bilibili.com/video/BV13Y4y1D7SF/)
