@@ -40,12 +40,12 @@ _**Card Guessing with Feedback**_        [video](https://www.bilibili.com/video/
 Abstract: Consider the following one player game: a deck with $m$ copies of $n$ different card types is randomly shuffled, and the player attempts to guess the cards sequentially as they are drawn.  Each time a guess is made, some amount of "feedback" is given.  For example, one could tell the player the true identity of the card they just guessed (the complete feedback model) or just whether they're right or not (the partial feedback model).  We consider the problem of estimating the maximum and minimum number of correct guesses the player can guarantee in expectation for both of these models.  We also consider variants of these problems, which end up having connections to increasing subsequences in random multiset permutations, as well as to Rock, Paper Scissors.
 
 ### Feb 24, 2023, 15:00 UTF+8: Zhicong Lin (Shandong University)      
-_**Permanents and permutation statistics**_      [video](https://www.bilibili.com/video/BV1xs4y1Z7mp/)  
+_**Permanents and permutation statistics**_      [video](https://www.bilibili.com/video/BV1xs4y1Z7mp/)     [slides](./slides/2023/Permanent20230224.pdf)     
 
 I will talk about my recent joint work with Shishuo Fu and Zhi-Wei Sun on permanent conjectures relating to Genocchi numbers of the first and second kinds as well as (binomial) Euler numbers. Various permutation statistics are at the heart of our approaches.
 
 ### Feb 10, 2023: [Xiaoyu He](https://alkjash.github.io/) (Princeton University)   
-_**Two New Bounds for Deletion Codes**_      [video](https://www.bilibili.com/video/BV1vY411i71L/)  
+_**Two New Bounds for Deletion Codes**_      [video](https://www.bilibili.com/video/BV1vY411i71L/)    [slides](./slides/2023/Deletion_Codes_2023.pdf)     
 
 Deletion channels, introduced by Levenshtein in the 60's, are noisy channels that delete bits from the input. A (binary) $k$-deletion code of length n is a set $C$ of binary strings of length $n$ capable of correcting $k$ such errors, i.e. satisfying the property that no pair of elements of $C$ shares a common subsequence of length at least $n-k$. Let $D(n, k)$ be the size of the largest $k$-deletion code of length $n$. Two central problems are to determine (a) the order of $D(n, k)$ for constant $k$, and (b) the supremum of all $0<p<1$ such that $D(n, pn)$ grows exponentially in $n$ (the so-called "positive-rate threshold"). In this talk, we establish the first nontrivial lower bound for problem (a) when $k > 1$, improving the "greedy" lower bound for $D(n,k)$ by a logarithmic factor. We also prove the first nontrivial upper bound for problem (b), showing that $D(n,pn) = 2^{o(n)}$ for $p > 1/2 - 10^{-60}$. The proofs use a variety of techniques from extremal combinatorics including probabilistic methods and regularity.
 
