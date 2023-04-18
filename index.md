@@ -13,17 +13,24 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule  
 
-### April 7, 2023, 9:00 UTF+8: Yiqiao Wang (Beijing University of Chinese Medicine)
-_**Vertex Arboricity of Planar Graphs**_      
-[zoom](https://zoom.us/j/83193500474?pwd=ZDF4RnlDb0VqeWVVWGw5NUVlQnorQT09)  831 9350 0474 pw 121323
+### April 19, 2023, 15:00 UTF+8: Xizhi Liu (University of Warwick)
+_**Turán problems in pseudorandom graphs**_      
+Venue: Room 102, Shanghai Center for Mathematical Sciences
+[zoom](https://zoom.us/j/83087592622?pwd=NVNvTWVRc2V3UFdYLzI4bXVySy9RQT09)  830 8759 2622 pw 121323
 
-The vertex-arboricity $a(G)$ of a graph $G$ is the minimum number of subsets into which the set of vertices of $G$ can be partitioned so that each subset induces a forest. In this talk, we give a survey on the research progress of the vertex-arboricity and list vertex-arboricity of graphs. We show that every planar graph $G$ without adjacent 3-cycles has $a(G)\le 2$, which resolves a conjecture of Raspaud and Wang in 2008.
+Abstract: A graph G is an (n, d, λ)-graph if it is a d-regular graph on n vertices and the second largest eigenvalue in absolute value of its adjacency matrix is λ. Given a graph F, we will talk about the problem of determining the densest possible  (n, d, λ)-graph that contains no copy of F, and its relation with Ramsey problems. 
+Based on joint work with Dhruv Mubayi and David Munh´a Correia
 
 
 
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### April 7, 2023: Yiqiao Wang (Beijing University of Chinese Medicine)
+_**Vertex Arboricity of Planar Graphs**_      
+
+The vertex-arboricity $a(G)$ of a graph $G$ is the minimum number of subsets into which the set of vertices of $G$ can be partitioned so that each subset induces a forest. In this talk, we give a survey on the research progress of the vertex-arboricity and list vertex-arboricity of graphs. We show that every planar graph $G$ without adjacent 3-cycles has $a(G)\le 2$, which resolves a conjecture of Raspaud and Wang in 2008.
 
 ### Mar 31, 2023, 10:00 UTF+8: Chong Shangguan (Shandong University)
 _**Some problems in extremal set theory**_      [video](https://www.bilibili.com/video/BV1bc4115734/) [slides](./slides/2023/extremal_set_theory.pdf)     
