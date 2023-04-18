@@ -15,7 +15,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ### April 19, 2023, 15:00 UTF+8: Xizhi Liu (University of Warwick)
 _**Turán problems in pseudorandom graphs**_      
-Venue: Room 102, Shanghai Center for Mathematical Sciences
+Venue: Room 102, Shanghai Center for Mathematical Sciences     
 [zoom](https://zoom.us/j/83087592622?pwd=NVNvTWVRc2V3UFdYLzI4bXVySy9RQT09)  830 8759 2622 pw 121323
 
 Abstract: A graph G is an (n, d, λ)-graph if it is a d-regular graph on n vertices and the second largest eigenvalue in absolute value of its adjacency matrix is λ. Given a graph F, we will talk about the problem of determining the densest possible  (n, d, λ)-graph that contains no copy of F, and its relation with Ramsey problems. 
