@@ -19,7 +19,7 @@ Venue: Room 102, Shanghai Center for Mathematical Sciences
 [zoom](https://zoom.us/j/83087592622?pwd=NVNvTWVRc2V3UFdYLzI4bXVySy9RQT09)  830 8759 2622 pw 121323
 
 Abstract: A graph G is an (n, d, λ)-graph if it is a d-regular graph on n vertices and the second largest eigenvalue in absolute value of its adjacency matrix is λ. Given a graph F, we will talk about the problem of determining the densest possible  (n, d, λ)-graph that contains no copy of F, and its relation with Ramsey problems. 
-Based on joint work with Dhruv Mubayi and David Munh´a Correia
+Based on joint work with Dhruv Mubayi and David Munhá Correia
 
 
 
@@ -28,7 +28,7 @@ Based on joint work with Dhruv Mubayi and David Munh´a Correia
 Check [past talks](past) for the full list of past talks with all details.
 
 ### April 7, 2023: Yiqiao Wang (Beijing University of Chinese Medicine)
-_**Vertex Arboricity of Planar Graphs**_      
+_**Vertex Arboricity of Planar Graphs**_    [video](bilibili.com/video/BV1wo4y1b7sJ/)  
 
 The vertex-arboricity $a(G)$ of a graph $G$ is the minimum number of subsets into which the set of vertices of $G$ can be partitioned so that each subset induces a forest. In this talk, we give a survey on the research progress of the vertex-arboricity and list vertex-arboricity of graphs. We show that every planar graph $G$ without adjacent 3-cycles has $a(G)\le 2$, which resolves a conjecture of Raspaud and Wang in 2008.
 
