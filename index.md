@@ -11,8 +11,9 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 <!-- You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb). --> 
 
 
-## Current Schedule  
-### May 19, 2023: Marius Tiba (Cambridge)
+## Current Schedule     
+
+### May 19, 2023: Marius Tiba (University of Cambridge)   
 
 
 
