@@ -11,7 +11,18 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 <!-- You may also check our seminar schedule through [researchseminars.org](https://researchseminars.org/seminar/SCMSComb). --> 
 
 
-## Current Schedule     
+## Current Schedule 
+
+### May 6, 2023, 14:00 (UTC+8): Song, Zixia (University of Central Florida)   
+_**Coloring Graphs with Forbidden Minors**_      
+[Zoom](https://zoom.com.cn/j/86132776675) ID: 861 3277 6675 Password: 121323    
+
+Hadwiger's Conjecture from 1943 states that every graph with no $K_t$ minor is $(t-1)$-colorable;
+it remains wide open for all $t \ge 7$. For positive integers $t$ and $s$, let $\mathcal{K}^{-s}_t$ denote the family of graphs obtained from $K_t$ by removing $s$ edges. We say that a graph $G$ has no $\mathcal{K}^{-s}_t$ minor if it has no $H$ minor for every $H\in \mathcal{K}^{-s}_t$. Jakobsen in 1971 proved that every graph with no $\mathcal{K}^{-2}_7$ minor is 6-colorable. In this talk, we present our results that every graph with no $\mathcal{K}^{-4}_8$ minor is 7-colorable, and every graph with no $\mathcal{K}^{-6}_9$ minor is 8-colorable.
+
+This is joint work with Michael Lafferty.
+
+
 
 ### May 19, 2023: Marius Tiba (University of Cambridge)   
 
