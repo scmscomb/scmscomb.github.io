@@ -27,8 +27,8 @@ An edge-colored hypergraph is rainbow if all of its edges have different colors.
 ### Apr 28, 2023,  9:00-10:00 (UTC+8):[Gang Yang](mailto:), University of Shanghai for Science and Technology
 _**Gallai-Rado Numbers and Their Multiplicities**_  
 Abstract:   
-Let $\mathcal{E}$ be a linear equation. The \emph{$r$-color Gallai-Rado number} for $\mathcal{E}$ is defined as the minimal integer $\operatorname{GR}(\mathcal{E};r)$, if it exists, such that any $r$-coloring of $[1,n]$ with $n \geq \operatorname{GR}(\mathcal{E};r)$
-admits either a rainbow or monochromatic solution  to $\mathcal{E}$. We provide exact values for $\operatorname{GR}(x+y+b=z;r)$ for all $b \in \mathbb{Z}^+$. We also provide upper and lower bounds on the minimum number of rainbow and monochromatic solutions to $x+y=z$ over all $r$-colorings of $[1,n]$.  In the process we provide a new lower bound on the minimum number of Schur triples in any 3-coloring of $[1,n]$. We also give  upper and lower bounds for the strict Schur numbers. Lastly, we investigate the minimum number of monochromatic and rainbow solutions to $x+y<z$ over $r$-colorings of $[1,n]$.
+Let $\mathcal{E}$ be a linear equation. The \emph{$r$-color Gallai-Rado number} for $\mathcal{E}$ is defined as the minimal integer $GR(\mathcal{E};r)$, if it exists, such that any $r$-coloring of $[1,n]$ with $n \geq GR(\mathcal{E};r)$
+admits either a rainbow or monochromatic solution  to $\mathcal{E}$. We provide exact values for $GR(x+y+b=z;r)$ for all $b \in \mathbb{Z}^+$. We also provide upper and lower bounds on the minimum number of rainbow and monochromatic solutions to $x+y=z$ over all $r$-colorings of $[1,n]$.  In the process we provide a new lower bound on the minimum number of Schur triples in any 3-coloring of $[1,n]$. We also give  upper and lower bounds for the strict Schur numbers. Lastly, we investigate the minimum number of monochromatic and rainbow solutions to $x+y<z$ over $r$-colorings of $[1,n]$.
 
 ### Apr 13, 2023,  9:00-10:00 (UTC+8):[Guozhen Dai](mailto:), Zhejiang University  
 _**Tail Bounds on the Spectral Norm of Sub-Exponential Random Matrices**_  
