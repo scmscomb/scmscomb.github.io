@@ -16,18 +16,24 @@ Organizers: <br>
 
 ## Current Schedule
 
-### Apr 28, 2023,  9:00-10:00 (UTC+8):[Gang Yang](mailto:), University of Shanghai for Science and Technology
-_**To be continued.**_  
+### May 12, 2023,  10:00-11:00 (UTC+8):[Yisai Xue](mailto:), Shanghai University
+_**Anti-Ramsey number of matchings in r-partite r-uniform**_  
 Abstract:   
-To be continued.
+An edge-colored hypergraph is rainbow if all of its edges have different colors. Given two hypergraphs H and $G$, the anti-Ramsey number $ar(G,H)$ of $H$ in $G$ is the maximum number of colors in a coloring of the edges of $G$ so that there does not exist a rainbow copy of $H$. Li et al. determined the anti-Ramsey number of $k$-matchings in complete bipartite graphs. Jin and Zang showed the uniqueness of the extremal coloring. In this talk, as a generalization of these results, we determine the anti-Ramsey number $ar_r (K_{n_1 ,\dots,n_r} ,M_k)$ of $k$-matchings in complete $r$-partite $r$-uniform hypergraphs and show the uniqueness of the extremal coloring. Also, we show that $K_{k-1,n_2,\dots,n_r}$ is the unique extremal hypergraph for Turán number $ex_r (K_{n_1 ,\dots,n_r} ,M_k)$ and show that $ar_r (K_{n_1 ,\dots,n_r} ,M_k) = ex_r (K_{n_1 ,\dots,n_r} ,M_{k-1}) + 1$, which gives a multi-partite version result of Ozkahya and Young's conjecture.
+
+
+## Past talks 
+
+### Apr 28, 2023,  9:00-10:00 (UTC+8):[Gang Yang](mailto:), University of Shanghai for Science and Technology
+_**Gallai-Rado Numbers and Their Multiplicities**_  
+Abstract:   
+Let $\mathcal{E}$ be a linear equation. The \emph{$r$-color Gallai-Rado number} for $\mathcal{E}$ is defined as the minimal integer $\operatorname{GR}(\mathcal{E};r)$, if it exists, such that any $r$-coloring of $[1,n]$ with $n \geq \operatorname{GR}(\mathcal{E};r)$
+admits either a rainbow or monochromatic solution  to $\mathcal{E}$. We provide exact values for $\operatorname{GR}(x+y+b=z;r)$ for all $b \in \mathbb{Z}^+$. We also provide upper and lower bounds on the minimum number of rainbow and monochromatic solutions to $x+y=z$ over all $r$-colorings of $[1,n]$.  In the process we provide a new lower bound on the minimum number of Schur triples in any 3-coloring of $[1,n]$. We also give  upper and lower bounds for the strict Schur numbers. Lastly, we investigate the minimum number of monochromatic and rainbow solutions to $x+y<z$ over $r$-colorings of $[1,n]$.
 
 ### Apr 13, 2023,  9:00-10:00 (UTC+8):[Guozhen Dai](mailto:), Zhejiang University  
 _**Tail Bounds on the Spectral Norm of Sub-Exponential Random Matrices**_  
 Abstract:   
-Let $X$ be an $n\times n$ symmetric random matrix with independent but non-identically distributed entries. The deviation inequalities of the spectral norm of $X$ with Gaussian entries have been obtained by using the standard concentration of measure results in Gauss space which is unfortunately not suitable for the sub-Exponential case.  This talk concentrates on upper tail bounds of $\Vert X\Vert$ with sub-Exponential entries.  Our general method relies upon a crucial ingredient of a novel chaining argument that  essentially depends on the distribution of coordinates of a point on the unit sphere. What makes this approach work is the particular structure of the sets used for the chaining.
-
-
-## Past talks
+Let $X$ be an $n\times n$ symmetric random matrix with independent but non-identically distributed entries. The deviation inequalities of the spectral norm of $X$ with Gaussian entries have been obtained by using the standard concentration of measure results in Gauss space which is unfortunately not suitable for the sub-Exponential case.  This talk concentrates on upper tail bounds of $\Vert X\Vert$ with sub-Exponential entries.  Our general method relies upon a crucial ingredient of a novel chaining argument that  essentially depends on the distribution of coordinates of a point on the unit sphere. What makes this approach work is the particular structure of the sets used for the chaining. 
 
 ### Mar 30, 2023,  16:30-17:30 (UTC+8):[Heng Li](mailto:), Fuzhou University  
 _**A step towards a general density Corradi-Hajnal Theore**_  
