@@ -12,25 +12,24 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 
 ## Current Schedule 
+### May 19, 2023, 16:00 (UTC+8): Marius Tiba (University of Oxford)   
+_**Erdős covering systems**_      
+[Zoom](https://zoom.us/j/82444891775?pwd=U3Q5WHh2UERtV25RZG5KRTB1RWJ6UT09) ID: 824 4489 1775  Passcode: 121323     
 
-### May 6, 2023, 14:00 (UTC+8): Song, Zixia (University of Central Florida)   
+Abstract: Since their introduction by Erdős in 1950, covering systems (that is, finite collections of arithmetic progressions that cover the integers) have been extensively studied, and numerous questions and conjectures have been posed regarding the existence of covering systems with various properties. In particular, Erdős asked if the moduli can be distinct and all arbitrarily large, Erdős and Selfridge asked if the moduli can be distinct and all odd, and Schinzel conjectured that in any covering system there exists a pair of moduli, one of which divides the other.  In 2015, Hough resolved Erdős minimum modulus problem. In 2018, Balister, Bollobás, Morris, Sahasrabudhe and Tiba resolved Schinzel's conjecture and, in 2019, they resolved the Erdős and Selfridge problem in the square free case. In this talk, we discuss these results and present a gentle exposition of the methods used. This talk is based on joint work with Balister, Bollobás, Morris and Sahasrabudhe.
+
+
+## Past Talks from this Semester
+Check [past talks](past) for the full list of past talks with all details.
+
+### May 6, 2023: Song, Zixia (University of Central Florida)   
 _**Coloring Graphs with Forbidden Minors**_      
-[Zoom](https://zoom.com.cn/j/86132776675) ID: 861 3277 6675 Password: 121323    
 
 Hadwiger's Conjecture from 1943 states that every graph with no $K_t$ minor is $(t-1)$-colorable;
 it remains wide open for all $t \ge 7$. For positive integers $t$ and $s$, let $\mathcal{K}^{-s}_t$ denote the family of graphs obtained from $K_t$ by removing $s$ edges. We say that a graph $G$ has no $\mathcal{K}^{-s}_t$ minor if it has no $H$ minor for every $H\in \mathcal{K}^{-s}_t$. Jakobsen in 1971 proved that every graph with no $\mathcal{K}^{-2}_7$ minor is 6-colorable. In this talk, we present our results that every graph with no $\mathcal{K}^{-4}_8$ minor is 7-colorable, and every graph with no $\mathcal{K}^{-6}_9$ minor is 8-colorable.
 
 This is joint work with Michael Lafferty.
 
-
-
-### May 19, 2023: Marius Tiba (University of Cambridge)   
-
-
-
-
-## Past Talks from this Semester
-Check [past talks](past) for the full list of past talks with all details.
 
 ### April 19, 2023, 15:00 UTF+8: Xizhi Liu (University of Warwick)
 _**Turán problems in pseudorandom graphs**_      
