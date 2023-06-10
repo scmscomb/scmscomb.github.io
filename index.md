@@ -12,15 +12,26 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 
 ## Current Schedule 
-### May 19, 2023, 16:00 (UTC+8): Marius Tiba (University of Oxford)   
-_**Erdős covering systems**_      
-[Zoom](https://zoom.us/j/82444891775?pwd=U3Q5WHh2UERtV25RZG5KRTB1RWJ6UT09) ID: 824 4489 1775  Passcode: 121323     
 
-Abstract: Since their introduction by Erdős in 1950, covering systems (that is, finite collections of arithmetic progressions that cover the integers) have been extensively studied, and numerous questions and conjectures have been posed regarding the existence of covering systems with various properties. In particular, Erdős asked if the moduli can be distinct and all arbitrarily large, Erdős and Selfridge asked if the moduli can be distinct and all odd, and Schinzel conjectured that in any covering system there exists a pair of moduli, one of which divides the other.  In 2015, Hough resolved Erdős minimum modulus problem. In 2018, Balister, Bollobás, Morris, Sahasrabudhe and Tiba resolved Schinzel's conjecture and, in 2019, they resolved the Erdős and Selfridge problem in the square free case. In this talk, we discuss these results and present a gentle exposition of the methods used. This talk is based on joint work with Balister, Bollobás, Morris and Sahasrabudhe.
+### Jun 19, 2023, 14:00 (UTC+8): Yi Zhao (Georgia State University)      
+_**Extremal results on multipartite graphs**_      
+[Zoom](https://zoom.us/j/86131413264?pwd=NldnZ0F6QWgvcFhWenIyWUc3MHBVUT09) ID: 861 3141 3264 Passcode: 121323    
+
+Let $K_r(t)$ denote the complete r-partite graph with t vertices in each part.
+
+Erdos and Simonovits (1971) characterized extremal graphs for $K_r(t)$ when $t\le 3$. We obtain a multipartite version of this result by considering the maximum number of edges in a $K_r(t)$-free k-partite graph with n vertices in each part. We obtain an exact result whenever k=r, $t\le 3$, and n is sufficiently large, upper and lower bounds that differ $O(n)$ in all cases. This is a joint work with Jie Han.
+
+
 
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### May 19, 2023: Marius Tiba (University of Oxford)   
+_**Erdős covering systems**_        [video](https://bilibili.com/video/BV1sM4y1i7nm/)     
+
+Abstract: Since their introduction by Erdős in 1950, covering systems (that is, finite collections of arithmetic progressions that cover the integers) have been extensively studied, and numerous questions and conjectures have been posed regarding the existence of covering systems with various properties. In particular, Erdős asked if the moduli can be distinct and all arbitrarily large, Erdős and Selfridge asked if the moduli can be distinct and all odd, and Schinzel conjectured that in any covering system there exists a pair of moduli, one of which divides the other.  In 2015, Hough resolved Erdős minimum modulus problem. In 2018, Balister, Bollobás, Morris, Sahasrabudhe and Tiba resolved Schinzel's conjecture and, in 2019, they resolved the Erdős and Selfridge problem in the square free case. In this talk, we discuss these results and present a gentle exposition of the methods used. This talk is based on joint work with Balister, Bollobás, Morris and Sahasrabudhe.
+
 
 ### May 6, 2023: Song, Zixia (University of Central Florida)   
 _**Coloring Graphs with Forbidden Minors**_      
