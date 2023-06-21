@@ -16,13 +16,29 @@ Organizers: <br>
 
 ## Current Schedule
 
-### May 12, 2023,  10:00-11:00 (UTC+8):[Yisai Xue](mailto:), Shanghai University
-_**Anti-Ramsey number of matchings in r-partite r-uniform**_  
+### June 25， 2023,  10:00-11:00 (UTC+8):[Ji Zeng](mailto:), University of California San Diego
+_**TO be continued**_  
+Abstract:   
+TBC.
+
+### June 23， 2023,  15:30-16:30 (UTC+8):[Yongtao Li](mailto:), Hunan University
+_**Structure and Spectral Radius of Graphs**_  
 Abstract:   
 An edge-colored hypergraph is rainbow if all of its edges have different colors. Given two hypergraphs H and $G$, the anti-Ramsey number $ar(G,H)$ of $H$ in $G$ is the maximum number of colors in a coloring of the edges of $G$ so that there does not exist a rainbow copy of $H$. Li et al. determined the anti-Ramsey number of $k$-matchings in complete bipartite graphs. Jin and Zang showed the uniqueness of the extremal coloring. In this talk, as a generalization of these results, we determine the anti-Ramsey number $ar_r (K_{n_1 ,\dots,n_r} ,M_k)$ of $k$-matchings in complete $r$-partite $r$-uniform hypergraphs and show the uniqueness of the extremal coloring. Also, we show that $K_{k-1,n_2,\dots,n_r}$ is the unique extremal hypergraph for Turán number $ex_r (K_{n_1 ,\dots,n_r} ,M_k)$ and show that $ar_r (K_{n_1 ,\dots,n_r} ,M_k) = ex_r (K_{n_1 ,\dots,n_r} ,M_{k-1}) + 1$, which gives a multi-partite version result of Ozkahya and Young's conjecture.
 
 
 ## Past talks 
+
+### June 9， 2023,  10:00-11:00 (UTC+8):[Jing Yu](mailto:), Georgia Institute of Technology 
+_**Large scale geometry of graphs of polynomial growth**_  
+Abstract: In 1995, Levin and Linial, London, and Rabinovich conjectured that every connected graph $G$ of polynomial growth admits an injective homomorphism to the $n$-dimensional grid graph for some $n$. Moreover, they conjectured that if every ball of radius $r$ in $G$ contains at most $O(r^\rho)$ vertices, then one can take $n = O(\rho)$. Krauthgamer and Lee confirmed the first part of this conjecture and refuted the second in 2007. By constructing some finite expander graphs, they showed the best possible upper bound on $n$ is $O(\rho \log \rho)$. Prompted by these results, Papasoglu asked whether a graph $G$ of polynomial growth admits a coarse embedding into a grid graph. We give an affirmative answer to this question. Moreover, it turns out that the dimension of the grid graph only needs to be linear in the asymptotic growth rate of $G$, which confirms the original Levin--Linial--London--Rabinovich conjecture ``on the large scale.'' Besides, we find an alternative proof of the result of Papasoglu that graphs of polynomial growth rate $\rho < \infty$ have asymptotic dimension at most $\rho$. Furthermore, our proof works in the Borel setting and shows that Borel graphs of polynomial growth rate $\rho < \infty$ have Borel asymptotic dimension at most $\rho$. This is joint work with Anton Bernshteyn. 
+
+
+### May 12, 2023,  10:00-11:00 (UTC+8):[Yisai Xue](mailto:), Shanghai University
+_**Anti-Ramsey number of matchings in r-partite r-uniform**_  
+[slides]() [video](https://pan.baidu.com/s/1DmNfyhyouxgeav6_tKnjpg) pw:f5ni 
+Abstract:   
+An edge-colored hypergraph is rainbow if all of its edges have different colors. Given two hypergraphs H and $G$, the anti-Ramsey number $ar(G,H)$ of $H$ in $G$ is the maximum number of colors in a coloring of the edges of $G$ so that there does not exist a rainbow copy of $H$. Li et al. determined the anti-Ramsey number of $k$-matchings in complete bipartite graphs. Jin and Zang showed the uniqueness of the extremal coloring. In this talk, as a generalization of these results, we determine the anti-Ramsey number $ar_r (K_{n_1 ,\dots,n_r} ,M_k)$ of $k$-matchings in complete $r$-partite $r$-uniform hypergraphs and show the uniqueness of the extremal coloring. Also, we show that $K_{k-1,n_2,\dots,n_r}$ is the unique extremal hypergraph for Turán number $ex_r (K_{n_1 ,\dots,n_r} ,M_k)$ and show that $ar_r (K_{n_1 ,\dots,n_r} ,M_k) = ex_r (K_{n_1 ,\dots,n_r} ,M_{k-1}) + 1$, which gives a multi-partite version result of Ozkahya and Young's conjecture.
 
 ### Apr 28, 2023,  9:00-10:00 (UTC+8):[Gang Yang](mailto:), University of Shanghai for Science and Technology
 _**Gallai-Rado Numbers and Their Multiplicities**_  
@@ -32,6 +48,7 @@ admits either a rainbow or monochromatic solution  to $\mathcal{E}$. We provide 
 
 ### Apr 13, 2023,  9:00-10:00 (UTC+8):[Guozhen Dai](mailto:), Zhejiang University  
 _**Tail Bounds on the Spectral Norm of Sub-Exponential Random Matrices**_  
+[slides](./slides/2022/ZMQ.pdf) [video](https://pan.baidu.com/s/1h5xyu-bxPd_d5kFAJ3NaSQ) pw:3df2 
 Abstract:   
 Let $X$ be an $n\times n$ symmetric random matrix with independent but non-identically distributed entries. The deviation inequalities of the spectral norm of $X$ with Gaussian entries have been obtained by using the standard concentration of measure results in Gauss space which is unfortunately not suitable for the sub-Exponential case.  This talk concentrates on upper tail bounds of $\Vert X\Vert$ with sub-Exponential entries.  Our general method relies upon a crucial ingredient of a novel chaining argument that  essentially depends on the distribution of coordinates of a point on the unit sphere. What makes this approach work is the particular structure of the sets used for the chaining. 
 
