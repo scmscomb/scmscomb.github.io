@@ -24,7 +24,7 @@ This is the first exponential improvement on the Erdős and Szekeres upper bound
 Joint work with Simon Griffiths (PUC - Rio, Brazil), Robert Morris (IMPA, Brazil) and Julian Sahasrabudhe (University of Cambridge, England).
 
 
-### July 28, 2023: Thomas Karam (Oxford)
+### July 28, 2023, 16:00 (UTC+8): Thomas Karam (Oxford)
 
 
 ### Aug 11, 2023: Rose McCarty (Princeton)
