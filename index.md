@@ -27,7 +27,7 @@ Joint work with Simon Griffiths (PUC - Rio, Brazil), Robert Morris (IMPA, Brazil
 ### July 28, 2023: Thomas Karam (Oxford)
 
 
-
+### Aug 11, 2023: Rose McCarty (Princeton)
 
 
 
