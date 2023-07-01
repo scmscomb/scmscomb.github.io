@@ -16,8 +16,16 @@ Organizers: <br>
 
 ## Current Schedule
 
+### July 21， 2023,  10:00-11:00 (UTC+8):[Luyi Li](mailto:), Nankai University
+_**TBC**_  
+Abstract:   
+TBC.
+
+## Past talks 
+
 ### June 25， 2023,  10:00-11:00 (UTC+8):[Ji Zeng](mailto:), University of California San Diego
 _**On higher dimensional point sets in general position**_  
+[slides](./slides/2022/ZhiqianWang1209.pdf) [video](https://pan.baidu.com/s/1_Y1pktf3Os_EjKZSmbJnjg) pw:6i1z  
 Abstract:   
 A finite point set in $R^d$ is in general position if no $d+1$ points lie on a common hyperplane. Let $α_d(N)$ be the largest integer such that any set of N points in Rd with no $d+2$ members on a common hyperplane, contains a subset of size $α_d(N)$ in general position. Using the method of hypergraph containers, Balogh and Solymosi showed that $α_2(N) < N^{5/6}+o(1)$. In this paper, we also use the container method to obtain new upper bounds for αd(N) when d≥3. More precisely, we show that if $d$ is odd, then $α_d(N) < N^{1/2+1/2d}−1+o(1)$, and if $d$ is even, we have $α_d(N) < N^{1/2+1/d}−1+o(1)$. We also study the classical problem of determining the maximum number $a(d,k,n)$ of points selected from the grid $[n]^d$ such that no k+2 members lie on a $k$-flat. For fixed $d$ and $k$, we show that $a(d,k,n)≤O(n^{d/2⌊(k+2)/4⌋(1−1/2⌊(k+2)/4⌋d+1)})$, which improves the previously best known bound of $O(n^{d⌊(k+2)/2⌋})$ due to Lefmann when $k+2$ is congruent to 0 or 1 mod 4. 
 
@@ -25,11 +33,10 @@ A finite point set in $R^d$ is in general position if no $d+1$ points lie on a c
 
 ### June 23， 2023,  15:30-16:30 (UTC+8):[Yongtao Li](mailto:), Hunan University
 _**Structure and Spectral Radius of Graphs**_  
+[slides](./slides/2022/ZhiqianWang1209.pdf) [video](https://meeting.tencent.com/v2/cloud-record/share?id=4c2a9bf2-3b6d-4db3-b443-c2eaf21c49ae&from=3) 
 Abstract:   
 It is well-known that eigenvalues of graphs can be used to describe structural properties and parameters of graphs.  The spectral extremal graph problem is an important research topic in extremal graph theory and algebraic graph theory. Let $\lambda (G)$ be the spectral radius of a graph $G$. A famous result in extremal spectral graph theory, 
 due to Nosal and Nikiforov, states that if $G$ is a triangle-free graph on $n$ vertices, then $\lambda (G) \le \lambda (K_{\lfloor \frac{n}{2}\rfloor, \lceil \frac{n}{2} \rceil })$, equality holds if and only if $G=K_{\lfloor \frac{n}{2}\rfloor, \lceil \frac{n}{2} \rceil }$. Later, Guiduli, and Nikiforov extended this result to $K_{r+1}$-free graphs for every integer $r\ge 2$. This is known as the spectral Tur\'{a}n theorem. In 2021, Lin, Ning and Wu proved a refinement on this result for non-bipartite triangle-free graphs. For two non-adjacent vertices, by comparing the sums of weights of their neighbors, we provide alternative proofs for the result of Nikiforov and the result of Lin, Ning and Wu. The proof can be viewed as a spectral extension of Zykov's symmetrization. Importantly, using local changes and switches on edges, our proof can allow us to extend the later result to non-r-partite $K_{r+1}$-free graphs. Our result refines the theorem of Nikiforov and it also can be viewed as a spectral version of a theorem of Brouwer. 
-
-## Past talks 
 
 ### June 9， 2023,  10:00-11:00 (UTC+8):[Jing Yu](mailto:), Georgia Institute of Technology 
 _**Large scale geometry of graphs of polynomial growth**_  
