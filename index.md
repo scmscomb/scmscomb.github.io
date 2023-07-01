@@ -13,19 +13,35 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule 
 
-### Jun 19, 2023, 14:00 (UTC+8): Yi Zhao (Georgia State University)      
-_**Extremal results on multipartite graphs**_      
-[Zoom](https://zoom.us/j/86131413264?pwd=NldnZ0F6QWgvcFhWenIyWUc3MHBVUT09) ID: 861 3141 3264 Passcode: 121323    
+### July 14, 2023, 16:00 (UTC+8): Marcelo Campos（Oxford）
+_**An exponential improvement to diagonal Ramsey**_   
 
-Let $K_r(t)$ denote the complete r-partite graph with t vertices in each part.
+Abstract: The Ramsey Number $R(k)$ is the minimum n such that every red/blue coloring of the edges of $K_n$ contains a monochromatic $K_k$. In this talk I will discuss a recent work where we show that
+$$R(k)\leq (4−c)^k,$$
+for some c>0.
+This is the first exponential improvement on the Erdős and Szekeres upper bound proved in 1935.
 
-Erdos and Simonovits (1971) characterized extremal graphs for $K_r(t)$ when $t\le 3$. We obtain a multipartite version of this result by considering the maximum number of edges in a $K_r(t)$-free k-partite graph with n vertices in each part. We obtain an exact result whenever k=r, $t\le 3$, and n is sufficiently large, upper and lower bounds that differ $O(n)$ in all cases. This is a joint work with Jie Han.
+Joint work with Simon Griffiths (PUC - Rio, Brazil), Robert Morris (IMPA, Brazil) and Julian Sahasrabudhe (University of Cambridge, England).
+
+
+### July 28, 2023: Thomas Karam (Oxford)
+
+
+
 
 
 
 
 ## Past Talks from this Semester
 Check [past talks](past) for the full list of past talks with all details.
+
+### Jun 19, 2023, 14:00 (UTC+8): Yi Zhao (Georgia State University)      
+_**Extremal results on multipartite graphs**_      
+
+Let $K_r(t)$ denote the complete r-partite graph with t vertices in each part.
+
+Erdos and Simonovits (1971) characterized extremal graphs for $K_r(t)$ when $t\le 3$. We obtain a multipartite version of this result by considering the maximum number of edges in a $K_r(t)$-free k-partite graph with n vertices in each part. We obtain an exact result whenever k=r, $t\le 3$, and n is sufficiently large, upper and lower bounds that differ $O(n)$ in all cases. This is a joint work with Jie Han.
+
 
 ### May 19, 2023: Marius Tiba (University of Oxford)   
 _**Erdős covering systems**_        [video](https://bilibili.com/video/BV1sM4y1i7nm/)     
