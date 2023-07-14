@@ -14,7 +14,8 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Current Schedule 
 
 ### July 14, 2023, 16:00 (UTC+8): Marcelo Campos（Oxford）
-_**An exponential improvement to diagonal Ramsey**_   
+_**An exponential improvement to diagonal Ramsey**_     
+[zoom](https://zoom.us/j/82373535010?pwd=eVZ4MTVwSGdrZmNNWDNEL3ZiYkVXZz09I) ID：823 7353 5010  PW：121323     
 
 Abstract: The Ramsey Number $R(k)$ is the minimum n such that every red/blue coloring of the edges of $K_n$ contains a monochromatic $K_k$. In this talk I will discuss a recent work where we show that
 $$R(k)\leq (4−c)^k,$$
@@ -25,11 +26,15 @@ Joint work with Simon Griffiths (PUC - Rio, Brazil), Robert Morris (IMPA, Brazil
 
 
 ### July 28, 2023, 16:00 (UTC+8): Thomas Karam (Oxford)
+[zoom](https://zoom.us/j/86419171815?pwd=RTkwU1o0aDZNcGpCNW8vSWtSa0N4QT09) ID：864 1917 1815  PW：121323     
 
 
-### Aug 11, 2023: Rose McCarty (Princeton)
 
+### Aug 11, 2023, 16:00 (UTC+8): Rose McCarty (Princeton)        
+_**δ-boundedness**_     
+[zoom](https://zoom.us/j/87692863856?pwd=ZUo0K21Sakw2WkF2WFNCMEtOQ0pRdz09) ID：876 9286 3856  PW：121323    
 
+Abstract: There are many classical constructions of graphs that have arbitrarily large minimum degree, but no big bicliques. A class of graphs is "δ-bounded" if, essentially, it avoids all such constructions. We give an overview of this area, focusing on parallels with χ-boundedness. In particular, we'll discuss some recent joint work with Xiying Du, António Girão, Zach Hunter, and Alex Scott which gives reasonably efficient bounding functions.
 
 
 ## Past Talks from this Semester
