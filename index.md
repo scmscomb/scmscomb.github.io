@@ -13,16 +13,7 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule 
 
-### July 14, 2023, 16:00 (UTC+8): Marcelo Campos（Oxford）
-_**An exponential improvement to diagonal Ramsey**_     
-[zoom](https://zoom.us/j/82373535010?pwd=eVZ4MTVwSGdrZmNNWDNEL3ZiYkVXZz09I) ID：823 7353 5010  PW：121323     
 
-Abstract: The Ramsey Number $R(k)$ is the minimum n such that every red/blue coloring of the edges of $K_n$ contains a monochromatic $K_k$. In this talk I will discuss a recent work where we show that
-$$R(k)\leq (4−c)^k,$$
-for some c>0.
-This is the first exponential improvement on the Erdős and Szekeres upper bound proved in 1935.
-
-Joint work with Simon Griffiths (PUC - Rio, Brazil), Robert Morris (IMPA, Brazil) and Julian Sahasrabudhe (University of Cambridge, England).
 
 
 ### July 28, 2023, 16:00 (UTC+8): Thomas Karam (Oxford)
@@ -37,8 +28,18 @@ _**δ-boundedness**_
 Abstract: There are many classical constructions of graphs that have arbitrarily large minimum degree, but no big bicliques. A class of graphs is "δ-bounded" if, essentially, it avoids all such constructions. We give an overview of this area, focusing on parallels with χ-boundedness. In particular, we'll discuss some recent joint work with Xiying Du, António Girão, Zach Hunter, and Alex Scott which gives reasonably efficient bounding functions.
 
 
-## Past Talks from this Semester
+## Past Talks
 Check [past talks](past) for the full list of past talks with all details.
+
+### July 14, 2023: Marcelo Campos（Oxford）
+_**An exponential improvement to diagonal Ramsey**_     [video](https://www.bilibili.com/video/BV1mN41127jf/)    
+
+Abstract: The Ramsey Number $R(k)$ is the minimum n such that every red/blue coloring of the edges of $K_n$ contains a monochromatic $K_k$. In this talk I will discuss a recent work where we show that
+$$R(k)\leq (4−c)^k,$$
+for some c>0.
+This is the first exponential improvement on the Erdős and Szekeres upper bound proved in 1935.
+
+Joint work with Simon Griffiths (PUC - Rio, Brazil), Robert Morris (IMPA, Brazil) and Julian Sahasrabudhe (University of Cambridge, England).
 
 ### Jun 19, 2023, 14:00 (UTC+8): Yi Zhao (Georgia State University)      
 _**Extremal results on multipartite graphs**_      
