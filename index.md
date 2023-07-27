@@ -16,8 +16,11 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 
 
-### July 28, 2023, 16:00 (UTC+8): Thomas Karam (Oxford)
+### July 28, 2023, 16:00 (UTC+8): Thomas Karam (Oxford)        
+_**Small sunflowers and the structure of slice rank decompositions**_       
 [zoom](https://zoom.us/j/86419171815?pwd=RTkwU1o0aDZNcGpCNW8vSWtSa0N4QT09) ID：864 1917 1815  PW：121323     
+
+Let $d \ge 3$ be an integer. We show that whenever an order-$d$ tensor admits $d+1$ decompositions according to Tao’s slice rank, if the linear subspaces spanned by the one-dimensional functions constitute a sunflower for each choice of special coordinate, then the tensor admits a decomposition where these linear subspaces are contained in the centers of these respective sunflowers. As an application, we deduce that for every nonnegative integer $k$ and every finite field $\mathbb{F}$, there exists an integer $C(d,k,\|\mathbb{F}\|)$ such that every order-$d$ tensor with slice rank $k$ over $\mathbb{F}$ admits at most $C(d,k,\|\mathbb{F}\|)$ decompositions with length $k$, up to a class of transformations that can be easily described.
 
 
 
