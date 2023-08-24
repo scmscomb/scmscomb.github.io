@@ -31,7 +31,6 @@ is contained in a rainbow cycle of $\mathbf{G}$ with length $\ell$ for every int
 and that $\mathbf{G}$ is \emph{rainbow panconnected} if for any pair of vertices $u$ and $v$ of $V$
 there exists a rainbow path of $\mathbf{G}$ with length $\ell$ joining $u$ and $v$ for every integer
 $\ell\in [d_{\mathbf{\widetilde{G}}}(u,v),n-1]$. 
-
 In this talk, we study the existences of rainbow
 spanning trees and rainbow Hamiltonian paths in $\mathbf{G}$ under the Ore-type conditions.
 Moreover, we study the rainbow vertex-pancyclicity and rainbow panconnectedness, as well as the existence
