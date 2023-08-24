@@ -17,7 +17,9 @@ Organizers: <br>
 ## Current Schedule
 
 ### July 21， 2023,  10:00-11:00 (UTC+8):[Luyi Li](mailto:), Nankai University
-_**TBC**_  
+_**Rainbow structures in a collection of graphs with degree conditions**_  
+[slides](./slides/2023/Liluyi.pdf) [video](https://www.bilibili.com/video/BV1GP411t7w6/?buvid=XXF7CACF70A2E76CC7F70E95ECFC00EF59628&is_story_h5=false&mid=%2F6f2T58qanJvsHgXI13ISw%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e81f9be3-9d02-4f98-9e7a-c4b618fac956&share_source=WEIXIN&share_tag=s_i&timestamp=1691243629&unique_k=GnSUC1m&up_id=408981999）
+
 Abstract:   
 TBC.
 
