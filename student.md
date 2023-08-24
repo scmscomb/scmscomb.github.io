@@ -39,6 +39,27 @@ the sharpness of our results. This is joint work with Ping Li and Xueliang Li.
 
 ## Past talks 
 
+### July 21， 2023,  10:00-11:00 (UTC+8):[Luyi Li](mailto:), Nankai University
+_**Rainbow structures in a collection of graphs with degree conditions**_  
+[slides](./slides/2023/Liluyi.pdf) [video](https://www.bilibili.com/video/BV1GP411t7w6/?buvid=XXF7CACF70A2E76CC7F70E95ECFC00EF59628&is_story_h5=false&mid=%2F6f2T58qanJvsHgXI13ISw%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e81f9be3-9d02-4f98-9e7a-c4b618fac956&share_source=WEIXIN&share_tag=s_i&timestamp=1691243629&unique_k=GnSUC1m&up_id=408981999)
+
+Abstract:   
+Let $\mathbf{G}=\{G_1,\ldots,G_s\}$ be a collection of not necessarily distinct $n$-vertex graphs
+with the same vertex set $V$. We use $\mathbf{\widetilde{G}}$ to denote an edge-colored multigraph
+of $\mathbf{G}$ with $V(\mathbf{\widetilde{G}})=V$ and $E(\mathbf{\widetilde{G}})$ a multiset
+consisting of  $E(G_1),\ldots, E(G_s)$, and the edge $e$ of $\mathbf{\widetilde{G}}$ is colored by $i$
+if $e\in E(G_i)$. A graph $H$ is {\em rainbow} in $\mathbf{G}$ if any two edges of $H$ belong to different
+graphs of $\mathbf{G}$. We say that $\mathbf{G}$ is \emph{rainbow vertex-pancyclic} if each vertex of $V$
+is contained in a rainbow cycle of $\mathbf{G}$ with length $\ell$ for every integer $\ell \in [3, n]$,
+and that $\mathbf{G}$ is \emph{rainbow panconnected} if for any pair of vertices $u$ and $v$ of $V$
+there exists a rainbow path of $\mathbf{G}$ with length $\ell$ joining $u$ and $v$ for every integer
+$\ell\in [d_{\mathbf{\widetilde{G}}}(u,v),n-1]$. 
+In this talk, we study the existences of rainbow
+spanning trees and rainbow Hamiltonian paths in $\mathbf{G}$ under the Ore-type conditions.
+Moreover, we study the rainbow vertex-pancyclicity and rainbow panconnectedness, as well as the existence
+of rainbow cliques in $\mathbf{G}$ under the Dirac-type conditions. We also give some examples to show
+the sharpness of our results. This is joint work with Ping Li and Xueliang Li.
+
 ### June 25， 2023,  10:00-11:00 (UTC+8):[Ji Zeng](mailto:), University of California San Diego
 _**On higher dimensional point sets in general position**_  
 [slides](./slides/2023/hidim_general_position_presentation50min.pdf) [video](https://pan.baidu.com/s/1srNL67zA3UP6c2di1VU8RQ ) pw:anob  
