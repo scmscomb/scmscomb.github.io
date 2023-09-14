@@ -14,13 +14,35 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Current Schedule 
 
 
+### Sept 18, 2023, 14:00 (UTC+8): Patrice Ossona de Mendez (CNRS and Univ. of Charles)     
+_**Twin-width and permutations**_      
+[zoom](https://zoom.us/j/87551503487?pwd=a0ZZdTdhWURZdnkxMkJWT2hGcFppZz09) ID：875 5150 3487  PW：121323     
+Venue: Room 106, Shanghai Center for Mathematical Sciences      
+
+Abstract:
+Inspired by a width invariant on permutations  defined by Guillemot and Marx, Bonnet, Kim, Thomassé, and Watrigant introduced the  twin-width of graphs, which  is a parameter describing its structural complexity. This invariant has been further extended to binary structures, in several (basically equivalent) ways. We prove that a class of binary relational structures (that is: edge-colored partially directed graphs) has bounded twin-width if and only if it is a first-order transduction of a proper permutation class. As a by-product, we show that every class with bounded twin-width contains at most $2^{O(n)}$ pairwise non-isomorphic $n$-vertex graphs.
+
+This is a joint work with Edouard Bonnet, Jaroslav Nesetril, Sebastian Siebertz, and Stephan Thomassé.
+
+### Sept 25, 2023, 14:00 (UTC+8): Yifan Jing (Ohio State University)     
+_**Measure doubling for small sets in SO(3,R)**_      
+[zoom](https://zoom.us/j/89771193045?pwd=clMxbllNVGU0RjNOUnVaOXppZGlqZz09) ID：897 7119 3045  PW：121323     
+Venue: Room 102, Shanghai Center for Mathematical Sciences     
+
+Abstract: Let $SO(3,R)$ be the 3D-rotation group equipped with the real-manifold topology and the normalized Haar measure $\mu$. Confirming a conjecture by Breuillard and Green, we show that if A is an open subset of $SO(3,R)$ with sufficiently small measure, then $\mu(A^2) > 3.99 \mu(A)$. This is joint work with Chieu-Minh Tran (NUS) and Ruixiang Zhang (Berkeley).
 
 
-### July 28, 2023, 16:00 (UTC+8): Thomas Karam (Oxford)         
-_**Small sunflowers and the structure of slice rank decompositions**_       
-[zoom](https://zoom.us/j/86419171815?pwd=RTkwU1o0aDZNcGpCNW8vSWtSa0N4QT09) ID：864 1917 1815  PW：121323      
 
-Let $d\ge 3$ be an integer. We show that whenever an order-$d$ tensor admits $d+1$ decompositions according to Tao’s slice rank, if the linear subspaces spanned by the one-dimensional functions constitute a sunflower for each choice of special coordinate, then the tensor admits a decomposition where these linear subspaces are contained in the centers of these respective sunflowers. As an application, we deduce that for every nonnegative integer $k$ and every finite field $\mathbb{F}$, there exists an integer $C(d,k,\|\mathbb{F}\|)$ such that every order-$d$ tensor with slice rank $k$ over $\mathbb{F}$ admits at most $C(d,k,\|\mathbb{F}\|)$ decompositions with length $k$, up to a class of transformations that can be easily described.
+### Oct, 2023:  Songling Shan (Auburn University)
+_**Towards the Overfull Conjecture**_      
+ 
+Abstract: Let $G$ be a simple graph with  maximum degree  denoted as $\Delta(G)$. An overfull subgraph $H$ of $G$ is a subgraph satisfying the condition $|E(H)| > \Delta(G)\lfloor \frac{1}{2}\|V(H)\| \rfloor$. In 1986, Chetwynd and Hilton proposed the Overfull Conjecture, stating that a  graph $G$ with  maximum degree $\Delta(G)> \frac{1}{3}\|V(G)\|$  has  chromatic index equal to  $\Delta(G)$ if and only if it does not contain any overfull subgraph. The Overfull Conjecture has many implications.   For example,  it implies  a  polynomial-time algorithm for determining the chromatic index of   graphs $G$ with  $\Delta(G) > \frac{1}{3}\|V(G)\|$, and implies several longstanding conjectures   in the area of graph edge colorings.
+In this paper, we make  the first improvement towards the conjecture when not imposing a minimum degree condition on the graph:  for any  $0<\varepsilon  \le \frac{1}{22}$, there exists  a positive  integer $n_0$  such that if $G$ is a  graph on $n\ge n_0$ vertices with $\Delta(G) \ge (1-\varepsilon)n$, then the
+Overfull Conjecture holds for $G$.  The previous best result in this direction,   due to Chetwynd and Hilton from 1989, asserts the conjecture
+for graphs $G$ with $\Delta(G) \ge \|V(G)\|-3$.
+
+## Past Talks
+Check [past talks](past) for the full list of past talks with all details.
 
 
 ### Aug 11, 2023, 16:00 (UTC+8): Rose McCarty (Princeton)        
@@ -29,9 +51,11 @@ _**δ-boundedness**_
 
 Abstract: There are many classical constructions of graphs that have arbitrarily large minimum degree, but no big bicliques. A class of graphs is "δ-bounded" if, essentially, it avoids all such constructions. We give an overview of this area, focusing on parallels with χ-boundedness. In particular, we'll discuss some recent joint work with Xiying Du, António Girão, Zach Hunter, and Alex Scott which gives reasonably efficient bounding functions.
 
+### July 28, 2023, 16:00 (UTC+8): Thomas Karam (Oxford)         
+_**Small sunflowers and the structure of slice rank decompositions**_       
+[zoom](https://zoom.us/j/86419171815?pwd=RTkwU1o0aDZNcGpCNW8vSWtSa0N4QT09) ID：864 1917 1815  PW：121323      
 
-## Past Talks
-Check [past talks](past) for the full list of past talks with all details.
+Let $d\ge 3$ be an integer. We show that whenever an order-$d$ tensor admits $d+1$ decompositions according to Tao’s slice rank, if the linear subspaces spanned by the one-dimensional functions constitute a sunflower for each choice of special coordinate, then the tensor admits a decomposition where these linear subspaces are contained in the centers of these respective sunflowers. As an application, we deduce that for every nonnegative integer $k$ and every finite field $\mathbb{F}$, there exists an integer $C(d,k,\|\mathbb{F}\|)$ such that every order-$d$ tensor with slice rank $k$ over $\mathbb{F}$ admits at most $C(d,k,\|\mathbb{F}\|)$ decompositions with length $k$, up to a class of transformations that can be easily described.
 
 ### July 14, 2023: Marcelo Campos（Oxford）
 _**An exponential improvement to diagonal Ramsey**_     [video](https://www.bilibili.com/video/BV1mN41127jf/)    
