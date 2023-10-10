@@ -27,6 +27,7 @@ Let $G=(V,E)$ be a digraph having no loops and no multiple arcs, with vertex set
 
 ### Sep 27， 2023,  10:00-11:00 (UTC+8):[Yuze Wu](mailto:), University of Science and Technology of China
 _**Phase Transitions of Structured Codes of Graphs**_  
+[slides](./slides/2023/YuzeWu_Phase_Transitions_of_Structured_Codes_of_Graphs.pdf) [video]()
 
 Abstract:   
 We consider the symmetric difference of two graphs on the same vertex set $[n]$, which is the graph on $[n]$ whose edge set consists of all edges that belong to exactly one of the two graphs. Let $\mathcal{F}$ be a class of graphs, and let $M_{\mathcal{F}}(n)$ denote the maximum possible cardinality of a family $\mathcal{G}$ of graphs on $[n]$ such that the symmetric difference of any two members in $\mathcal{G}$ belongs to $\mathcal{F}$. These concepts are recently investigated by Alon, Gujgiczer, K\"{o}rner, Milojevi\'{c}, and Simonyi, with the aim of providing a new graphic approach to coding theory. In particular, $M_{\mathcal{F}}(n)$ denotes the maximum possible size of this code. Existing results show that as the graph class $\mathcal{F}$ changes, $M_{\mathcal{F}}(n)$ can vary from $n$ to $2^{(1+o(1))\binom{n}{2}}$. We study several phase transition problems related to $M_{\mathcal{F}}(n)$ in general settings and present a partial solution to a recent problem posed by Alon et. al.
