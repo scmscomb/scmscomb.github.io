@@ -41,7 +41,7 @@ the sharpness of our results. This is joint work with Ping Li and Xueliang Li.
 
 ### July 21， 2023,  10:00-11:00 (UTC+8):[Luyi Li](mailto:), Nankai University
 _**Learn to solve dominating set problem with graph neural networks**_  
-[Tencent meeting](https://meeting.tencent.com/dm/V3YspDXKRE14):434353301 pw:235711
+[slides](./slides/2023/Liluyi.pdf) [video](https://www.bilibili.com/video/BV1GP411t7w6/?buvid=XXF7CACF70A2E76CC7F70E95ECFC00EF59628&is_story_h5=false&mid=%2F6f2T58qanJvsHgXI13ISw%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e81f9be3-9d02-4f98-9e7a-c4b618fac956&share_source=WEIXIN&share_tag=s_i&timestamp=1691243629&unique_k=GnSUC1m&up_id=408981999)
 
 Abstract:   
 The idea using neural networks to solve combinatorial optimization problems has been shown to be effective and time-saving in recent years. Inspired by these studies, we train a neural network by DDQN to solve dominating set problem. To better capture the features and structure of the graph, we use a message passing network for the graph representation. We validate our model on graphs of different sizes, and even on real-world networks.
