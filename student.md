@@ -16,26 +16,12 @@ Organizers: <br>
 
 ## Current Schedule
 
-### Sep 15， 2023,  17:00-18:00 (UTC+8):[Sihao Liu](mailto:), Nankai University
+### Oct 13， 2023,  17:00-18:00 (UTC+8):[Jingyuan Zhang](mailto:doriazhang@outlook.com), Xiamen University
 _**Rainbow structures in a collection of graphs with degree conditions**_  
-[slides](./slides/2023/Liluyi.pdf) [video](https://www.bilibili.com/video/BV1GP411t7w6/?buvid=XXF7CACF70A2E76CC7F70E95ECFC00EF59628&is_story_h5=false&mid=%2F6f2T58qanJvsHgXI13ISw%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e81f9be3-9d02-4f98-9e7a-c4b618fac956&share_source=WEIXIN&share_tag=s_i&timestamp=1691243629&unique_k=GnSUC1m&up_id=408981999)
+[Tencent meeting](https://meeting.tencent.com/dm/PBecJpwG1YSK) pw: 235711
 
 Abstract:   
-Let $\mathbf{G}=\{G_1,\ldots,G_s\}$ be a collection of not necessarily distinct $n$-vertex graphs
-with the same vertex set $V$. We use $\mathbf{\widetilde{G}}$ to denote an edge-colored multigraph
-of $\mathbf{G}$ with $V(\mathbf{\widetilde{G}})=V$ and $E(\mathbf{\widetilde{G}})$ a multiset
-consisting of  $E(G_1),\ldots, E(G_s)$, and the edge $e$ of $\mathbf{\widetilde{G}}$ is colored by $i$
-if $e\in E(G_i)$. A graph $H$ is {\em rainbow} in $\mathbf{G}$ if any two edges of $H$ belong to different
-graphs of $\mathbf{G}$. We say that $\mathbf{G}$ is \emph{rainbow vertex-pancyclic} if each vertex of $V$
-is contained in a rainbow cycle of $\mathbf{G}$ with length $\ell$ for every integer $\ell \in [3, n]$,
-and that $\mathbf{G}$ is \emph{rainbow panconnected} if for any pair of vertices $u$ and $v$ of $V$
-there exists a rainbow path of $\mathbf{G}$ with length $\ell$ joining $u$ and $v$ for every integer
-$\ell\in [d_{\mathbf{\widetilde{G}}}(u,v),n-1]$. 
-In this talk, we study the existences of rainbow
-spanning trees and rainbow Hamiltonian paths in $\mathbf{G}$ under the Ore-type conditions.
-Moreover, we study the rainbow vertex-pancyclicity and rainbow panconnectedness, as well as the existence
-of rainbow cliques in $\mathbf{G}$ under the Dirac-type conditions. We also give some examples to show
-the sharpness of our results. This is joint work with Ping Li and Xueliang Li.
+Let $G=(V,E)$ be a digraph having no loops and no multiple arcs, with vertex set $V$ and arc set $E$. Denote the adjacency matrix and the vertex in-degree diagonal matrix of $G$ by $A$ and $D$. Set $f_1(G;x)=\det(xI-A), f_2(G;x)=\det(xI-D+A),f_3(G;x)=\det(xI-D-A),f_4(G;x)={\rm per}(xI-A), f_5(G;x)={\rm per}(xI-D+A),f_6(G;x)={\rm per}(xI-D-A)$, where $\det(X)$ and ${\rm per}(X)$ denote the determinant and the permanent of a square matrix $X$, respectively. In this paper, we consider a variant of the Ulam's vertex reconstruction conjecture and the Harary's edge reconstruction conjecture, and prove that, for any $1\leq i\leq 6$, $(|E|-|V|)f_i(G;x)+xf_i'(G;x)=\sum\limits_{e\in E}f_i(G-e;x)$, and hence $f_2(G;x)$ can be reconstructed from $\{f_2(G-e;x)|e\in E(G)\}$, and for any $i=1,3,4,5,6$, if $|V|\neq |E|$, $f_i(G;x)$ can be reconstructed from $\{f_i(G-e;x)|e\in E(G)\}$, and for $i=1,4$, if $|V|=|E|$, some counterexamples are given to show that $f_i(G;x)$ can not be determined by $\{f_i(G-e;x)|e\in E(G)\}$.
 
 ## Past talks 
 
