@@ -17,7 +17,7 @@ Organizers: <br>
 ## Current Schedule
 
 ### Oct 13， 2023,  17:00-18:00 (UTC+8):[Jingyuan Zhang](mailto:doriazhang@outlook.com), Xiamen University
-_**Rainbow structures in a collection of graphs with degree conditions**_  
+_**On The Edge Reconstruction Of Six Digraph Polynomials**_  
 [Tencent meeting](https://meeting.tencent.com/dm/PBecJpwG1YSK) pw: 235711
 
 Abstract:   
