@@ -39,6 +39,12 @@ the sharpness of our results. This is joint work with Ping Li and Xueliang Li.
 
 ## Past talks 
 
+### Sep 27， 2023,  10:00-11:00 (UTC+8):[Yuze Wu](mailto:), University of Science and Technology of China
+_**Phase Transitions of Structured Codes of Graphs**_  
+
+Abstract:   
+We consider the symmetric difference of two graphs on the same vertex set $[n]$, which is the graph on $[n]$ whose edge set consists of all edges that belong to exactly one of the two graphs. Let $\mathcal{F}$ be a class of graphs, and let $M_{\mathcal{F}}(n)$ denote the maximum possible cardinality of a family $\mathcal{G}$ of graphs on $[n]$ such that the symmetric difference of any two members in $\mathcal{G}$ belongs to $\mathcal{F}$. These concepts are recently investigated by Alon, Gujgiczer, K\"{o}rner, Milojevi\'{c}, and Simonyi, with the aim of providing a new graphic approach to coding theory. In particular, $M_{\mathcal{F}}(n)$ denotes the maximum possible size of this code. Existing results show that as the graph class $\mathcal{F}$ changes, $M_{\mathcal{F}}(n)$ can vary from $n$ to $2^{(1+o(1))\binom{n}{2}}$. We study several phase transition problems related to $M_{\mathcal{F}}(n)$ in general settings and present a partial solution to a recent problem posed by Alon et. al.
+
 ### Sep 15， 2023,  17:00-18:00 (UTC+8):[Sihao Liu](mailto:), Guangdong University of Technology
 _**Rainbow structures in a collection of graphs with degree conditions**_  
 
