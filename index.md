@@ -13,28 +13,10 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule 
 
-
-### Sept 18, 2023, 14:00 (UTC+8): Patrice Ossona de Mendez (CNRS and Univ. of Charles)     
-_**Twin-width and permutations**_      
-[zoom](https://zoom.us/j/87551503487?pwd=a0ZZdTdhWURZdnkxMkJWT2hGcFppZz09) ID：875 5150 3487  PW：121323     
-Venue: Room 106, Shanghai Center for Mathematical Sciences      
-
-Abstract:
-Inspired by a width invariant on permutations  defined by Guillemot and Marx, Bonnet, Kim, Thomassé, and Watrigant introduced the  twin-width of graphs, which  is a parameter describing its structural complexity. This invariant has been further extended to binary structures, in several (basically equivalent) ways. We prove that a class of binary relational structures (that is: edge-colored partially directed graphs) has bounded twin-width if and only if it is a first-order transduction of a proper permutation class. As a by-product, we show that every class with bounded twin-width contains at most $2^{O(n)}$ pairwise non-isomorphic $n$-vertex graphs.
-
-This is a joint work with Edouard Bonnet, Jaroslav Nesetril, Sebastian Siebertz, and Stephan Thomassé.
-
-### Sept 25, 2023, 14:00 (UTC+8): Yifan Jing (Ohio State University)     
-_**Measure doubling for small sets in SO(3,R)**_      
-[zoom](https://zoom.us/j/89771193045?pwd=clMxbllNVGU0RjNOUnVaOXppZGlqZz09) ID：897 7119 3045  PW：121323     
-Venue: Room 102, Shanghai Center for Mathematical Sciences     
-
-Abstract: Let $SO(3,R)$ be the 3D-rotation group equipped with the real-manifold topology and the normalized Haar measure $\mu$. Confirming a conjecture by Breuillard and Green, we show that if A is an open subset of $SO(3,R)$ with sufficiently small measure, then $\mu(A^2) > 3.99 \mu(A)$. This is joint work with Chieu-Minh Tran (NUS) and Ruixiang Zhang (Berkeley).
-
-
-
-### Oct, 2023:  Songling Shan (Auburn University)
+### Oct 13, 2023, 10:00 (UTC+8):  Songling Shan (Auburn University)
 _**Towards the Overfull Conjecture**_      
+[zoom](https://us02web.zoom.us/j/88495230915?pwd=SVdndVpqKyt5YzBVT2pHaXFEMDNQUT09) ID：884 9523 0915   PW：121323     
+
  
 Abstract: Let $G$ be a simple graph with  maximum degree  denoted as $\Delta(G)$. An overfull subgraph $H$ of $G$ is a subgraph satisfying the condition $|E(H)| > \Delta(G)\lfloor \frac{1}{2}\|V(H)\| \rfloor$. In 1986, Chetwynd and Hilton proposed the Overfull Conjecture, stating that a  graph $G$ with  maximum degree $\Delta(G)> \frac{1}{3}\|V(G)\|$  has  chromatic index equal to  $\Delta(G)$ if and only if it does not contain any overfull subgraph. The Overfull Conjecture has many implications.   For example,  it implies  a  polynomial-time algorithm for determining the chromatic index of   graphs $G$ with  $\Delta(G) > \frac{1}{3}\|V(G)\|$, and implies several longstanding conjectures   in the area of graph edge colorings.
 In this paper, we make  the first improvement towards the conjecture when not imposing a minimum degree condition on the graph:  for any  $0<\varepsilon  \le \frac{1}{22}$, there exists  a positive  integer $n_0$  such that if $G$ is a  graph on $n\ge n_0$ vertices with $\Delta(G) \ge (1-\varepsilon)n$, then the
@@ -44,6 +26,19 @@ for graphs $G$ with $\Delta(G) \ge \|V(G)\|-3$.
 ## Past Talks
 Check [past talks](past) for the full list of past talks with all details.
 
+
+### Sept 25, 2023: Yifan Jing (Ohio State University)     
+_**Measure doubling for small sets in SO(3,R)**_      
+
+Abstract: Let $SO(3,R)$ be the 3D-rotation group equipped with the real-manifold topology and the normalized Haar measure $\mu$. Confirming a conjecture by Breuillard and Green, we show that if A is an open subset of $SO(3,R)$ with sufficiently small measure, then $\mu(A^2) > 3.99 \mu(A)$. This is joint work with Chieu-Minh Tran (NUS) and Ruixiang Zhang (Berkeley).
+
+### Sept 18, 2023: Patrice Ossona de Mendez (CNRS and Univ. of Charles)     
+_**Twin-width and permutations**_      
+
+Abstract:
+Inspired by a width invariant on permutations  defined by Guillemot and Marx, Bonnet, Kim, Thomassé, and Watrigant introduced the  twin-width of graphs, which  is a parameter describing its structural complexity. This invariant has been further extended to binary structures, in several (basically equivalent) ways. We prove that a class of binary relational structures (that is: edge-colored partially directed graphs) has bounded twin-width if and only if it is a first-order transduction of a proper permutation class. As a by-product, we show that every class with bounded twin-width contains at most $2^{O(n)}$ pairwise non-isomorphic $n$-vertex graphs.
+
+This is a joint work with Edouard Bonnet, Jaroslav Nesetril, Sebastian Siebertz, and Stephan Thomassé.
 
 ### Aug 11, 2023, 16:00 (UTC+8): Rose McCarty (Princeton)        
 _**δ-boundedness**_     
