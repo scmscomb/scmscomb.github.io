@@ -18,10 +18,9 @@ Organizers: <br>
 
 ### Nov 27， 2023,  15:00-16:00 (UTC+8):[Yixiao Zhang](), Fuzhou University 
 _**TBC**_  
-[Tencent meeting]()  
 
 Abstract:   
-TBC 
+TBC. 
 
 ### Nov 10， 2023,  15:00-16:00 (UTC+8):[Ziming Zhou](zhouziming@mail.nwpu.edu.cn), University of Shanghai for Science and Technology 
 _**On the sum of the two largest signless Laplacian eigenvalues**_  
