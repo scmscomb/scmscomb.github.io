@@ -27,7 +27,7 @@ Let $n,s,$ and $k$ be positive integers such that $k\geq 3$, $s\geq 3$ and $n\ge
 
 ### Oct 13， 2023,  17:00-18:00 (UTC+8):[Jingyuan Zhang](mailto:doriazhang@outlook.com), Xiamen University
 _**On The Edge Reconstruction Of Six Digraph Polynomials**_  
-[slides](./slides/2023/YuzeWu_Phase_Transitions_of_Structured_Codes_of_Graphs.pdf) [video](https://www.bilibili.com/video/BV1eC4y1n7r5/?spm_id_from=333.337.search-card.all.click) 
+[slides](./slides/2023/anti-ramsey_number.pdf) [video]() 
 
 Abstract:   
 Let $G=(V,E)$ be a digraph having no loops and no multiple arcs, with vertex set $V$ and arc set $E$. Denote the adjacency matrix and the vertex in-degree diagonal matrix of $G$ by $A$ and $D$. Set $f_1(G;x)=\det(xI-A), f_2(G;x)=\det(xI-D+A),f_3(G;x)=\det(xI-D-A),f_4(G;x)={\rm per}(xI-A), f_5(G;x)={\rm per}(xI-D+A),f_6(G;x)={\rm per}(xI-D-A)$, where $\det(X)$ and ${\rm per}(X)$ denote the determinant and the permanent of a square matrix $X$, respectively. In this paper, we consider a variant of the Ulam's vertex reconstruction conjecture and the Harary's edge reconstruction conjecture, and prove that, for any $1\leq i\leq 6$, $(|E|-|V|)f_i(G;x)+xf_i'(G;x)=\sum\limits_{e\in E}f_i(G-e;x)$, and hence $f_2(G;x)$ can be reconstructed from $\{f_2(G-e;x)|e\in E(G)\}$, and for any $i=1,3,4,5,6$, if $|V|\neq |E|$, $f_i(G;x)$ can be reconstructed from $\{f_i(G-e;x)|e\in E(G)\}$, and for $i=1,4$, if $|V|=|E|$, some counterexamples are given to show that $f_i(G;x)$ can not be determined by $\{f_i(G-e;x)|e\in E(G)\}$.
