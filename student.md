@@ -26,7 +26,7 @@ It was conjectured by Ashraf, Omidi and Tayfeh-Rezaibe in 2013 that $S_k(G)\leq 
 They gave a proof for the conjecture when $k = 2$,
 but applied an incorrect key lemma.
 Therefore, the conjecture is still open when $k = 2$.
-In this paper, we prove that $S_2(G)\leqe(G)+2$ is true for any graphs which also confirm the conjecture when $k = 2$.
+In this paper, we prove that $S_2(G)< e(G)+3$ is true for any graphs which also confirm the conjecture when $k = 2$.
 
 ## Past talks 
 
