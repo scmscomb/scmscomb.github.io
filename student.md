@@ -31,7 +31,7 @@ In this paper, we prove that $S_2(G)<e(G)+3$ is true for any graphs which also c
 ## Past talks 
 
 _**Anti-Ramsey number of matchings in $3$-uniform hypergraphs**_  
-[slides](./slides/2023/anti-ramsey_number.pdf) [video]() 
+[slides](./slides/2023/anti-ramsey_number.pdf) [video](https://www.bilibili.com/video/BV1Kc411d7wM/?spm_id_from=333.337.search-card.all.click&vd_source=0c771c8e3b71cf60e862646955459cce) 
 
 Abstract:   
 Let $n,s,$ and $k$ be positive integers such that $k\geq 3$, $s\geq 3$ and $n\geq ks$. An $s$-matching $M_s$ in a $k$-uniform hypergraph is a set of $s$ pairwise disjoint edges. The anti-Ramsey number ar(n,k,$M_s$) of an $s$-matching  is the smallest integer $c$ such that each edge-coloring of the $n$-vertex $k$-uniform hypergraph with exactly $c$ colors contains an $s$-matching  with distinct colors.  The value of ar(n,k,$M_s$) was conjectured by \"Ozkahya and Young for all  $n \geq sk$ and $k \geq 3$ in 2013. This conjecture was verified for all $n \geq sk+(s-1)(k-1)$ and $k \geq 3$ by Frankl and Kupavskii in 2019. We aim to determine the value of ar(n,3,$M_s$) for $3s \leq n < 5s-2$ in this paper. Namely,  we prove that if 3s<n<5s-2 and $n$ is large enough, then ar(n,3,M_s)=ex(n,3,$M_{s-1}$)+2. Here ex(n,3,$M_{s-1}$) is the Tur\'an number of an $(s-1)$-matching. Thus this result confirms the conjecture of \"Ozkahya and Young for $k=3$, 3s<n<5s-2 and sufficiently large $n$. For $n=ks$ and $k\geq 3$, we present a new construction for the lower bound of ar(n,k,$M_s$) which shows the conjecture of \"Ozkahya and Young is not true. In particular, for $n=3s$, we prove that ar(n,3,M_s)=ex(n,3,$M_{s-1}$)+5 for sufficiently large $n$. This is joint work with Hongliang Lu and Xing Peng. 
