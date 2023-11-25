@@ -14,17 +14,31 @@ Organizers: <br>
 [Chaoliang Tang](mailto:cltang17@fudan.edu.cn), Fudan University, <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
-## Current Schedule
 
-### Nov 27， 2023,  15:00-16:00 (UTC+8):[Yixiao Zhang](), Fuzhou University 
+### Dec 7， 2023 :[Xiaoyu Chen](), Nanjing University 
 _**TBC**_  
 
 Abstract:   
 TBC. 
 
+
+## Past talks 
+
+### Nov 24， 2023,  15:30-16:30 (UTC+8):[Yixiao Zhang](), Fuzhou University 
+_**Hypergraphs with infinitely many extremal constructions**_  
+
+Abstract:   
+We give the first exact and stability results for a hypergraph Tur\'{a}n problem with infinitely many  extremal constructions
+that are far from each other in edit-distance. This includes an example of triple systems with Tur\'{a}n density $2/9$, thus answering some questions posed by the third and fourth authors and Reiher about the feasible region of hypergraphs. Our results also provide extremal constructions whose shadow density is a transcendental number. Our novel approach is to construct certain multilinear polynomials that attain their maximum (in the standard simplex) on a line segment and then to use these polynomials to define an operation on hypergraphs that  gives extremal constructions. This is joint work with Jianfeng Hou, Heng Li, Xizhi Liu and Dhruv Mubayi.  
+
+### Nov 17， 2023,  14:00-15:00 (UTC+8):[Yueping Shi](2921014082@qq.com), Sun Yat-sen University 
+_**Upper bounds on the bichromatic number of some graphs**_  
+
+Abstract:   
+For a pair of nonnegative integers $k$ and $l$, a graph $G$ is {\em $(k, l)$-colorable} if its vertices can be partitioned into $k+l$  subsets $S_{1},\ldots,S_{k},C_{1},\ldots,C_{l}$ (possibly empty) such that each $S_{i}$ is an independent set and each $C_{j}$ is a clique in $G$. The {\em bichromatic number } $\chi^{b}(G)$ of $G$ is the least integer $r$ such that for all nonnegative integers $k$ and $l$ with $k+l=r$, $G$ is $(k, l)$-colorable. Let $\chi(G)$ and $\theta(G)$ denote the chromatic number and the clique covering number of $G$, respectively. There is a natural upper bound $\chi^{b}(G)\leq\chi(G)+\theta(G)-1$.  Epple and Huang (2010) characterized all extremal graphs $G$ with $\chi^{b}(G) =  \chi(G)+\theta(G)-1$. Let $r\geq 2$ be an integer, and let $G$ be a graph with  clique number less than $r+1$. In this talk, we show that $\chi^{b}(G)\leq\theta(G)+r-1$ if $r=2$ or $3$, or if $r\geq4$ and $G$ is a line graph of a simple graph, and characterize all  extremal graphs. 
+
 ### Nov 10， 2023,  15:00-16:00 (UTC+8):[Ziming Zhou](zhouziming@mail.nwpu.edu.cn), University of Shanghai for Science and Technology 
 _**On the sum of the two largest signless Laplacian eigenvalues**_  
-[Tencent meeting](https://meeting.tencent.com/dm/xQt6kB2qmdjZ)  
 
 Abstract:   
 Let $G$ be a simple connected graph and let $S_k(G)$ be the sum of the first $k$ largest signless Laplacian eigenvalues of $G$.
@@ -32,16 +46,58 @@ It was conjectured by Ashraf, Omidi and Tayfeh-Rezaibe in 2013 that $S_k(G)\leq 
 They gave a proof for the conjecture when $k = 2$,
 but applied an incorrect key lemma.
 Therefore, the conjecture is still open when $k = 2$.
-In this paper, we prove that $S_2(G)< e(G)+3$ is true for any graphs which also confirm the conjecture when $k = 2$.
+In this paper, we prove that $S_2(G)< e(G)+3$ is true for any graphs which also confirm the conjecture when $k = 2$. 
 
-## Past talks 
-
+### Oct 27， 2023,  15:00-16:00 (UTC+8):[Mingyang Guo](mailto:doriazhang@outlook.com), Xi‘an Jiaotong University
 _**Anti-Ramsey number of matchings in $3$-uniform hypergraphs**_  
 [slides](./slides/2023/anti-ramsey_number.pdf) [video](https://www.bilibili.com/video/BV1Kc411d7wM/?spm_id_from=333.337.search-card.all.click&vd_source=0c771c8e3b71cf60e862646955459cce) 
 
 Abstract:   
 Let $n,s,$ and $k$ be positive integers such that $k\geq 3$, $s\geq 3$ and $n\geq ks$. An $s$-matching $M_s$ in a $k$-uniform hypergraph is a set of $s$ pairwise disjoint edges. The anti-Ramsey number ar(n,k,$M_s$) of an $s$-matching  is the smallest integer $c$ such that each edge-coloring of the $n$-vertex $k$-uniform hypergraph with exactly $c$ colors contains an $s$-matching  with distinct colors.  The value of ar(n,k,$M_s$) was conjectured by \"Ozkahya and Young for all  $n \geq sk$ and $k \geq 3$ in 2013. This conjecture was verified for all $n \geq sk+(s-1)(k-1)$ and $k \geq 3$ by Frankl and Kupavskii in 2019. We aim to determine the value of ar(n,3,$M_s$) for $3s \leq n < 5s-2$ in this paper. Namely,  we prove that if 3s<n<5s-2 and $n$ is large enough, then ar(n,3,M_s)=ex(n,3,$M_{s-1}$)+2. Here ex(n,3,$M_{s-1}$) is the Tur\'an number of an $(s-1)$-matching. Thus this result confirms the conjecture of \"Ozkahya and Young for $k=3$, 3s<n<5s-2 and sufficiently large $n$. For $n=ks$ and $k\geq 3$, we present a new construction for the lower bound of ar(n,k,$M_s$) which shows the conjecture of \"Ozkahya and Young is not true. In particular, for $n=3s$, we prove that ar(n,3,M_s)=ex(n,3,$M_{s-1}$)+5 for sufficiently large $n$. This is joint work with Hongliang Lu and Xing Peng. 
 
+
+## Current Schedule
+
+
+### Dec 7， 2023 :[Xiaoyu Chen](), Nanjing University 
+_**TBC**_  
+
+Abstract:   
+TBC. 
+
+
+## Past talks 
+
+### Nov 24， 2023,  15:30-16:30 (UTC+8):[Yixiao Zhang](), Fuzhou University 
+_**Hypergraphs with infinitely many extremal constructions**_  
+
+Abstract:   
+We give the first exact and stability results for a hypergraph Tur\'{a}n problem with infinitely many  extremal constructions
+that are far from each other in edit-distance. This includes an example of triple systems with Tur\'{a}n density $2/9$, thus answering some questions posed by the third and fourth authors and Reiher about the feasible region of hypergraphs. Our results also provide extremal constructions whose shadow density is a transcendental number. Our novel approach is to construct certain multilinear polynomials that attain their maximum (in the standard simplex) on a line segment and then to use these polynomials to define an operation on hypergraphs that  gives extremal constructions. This is joint work with Jianfeng Hou, Heng Li, Xizhi Liu and Dhruv Mubayi.  
+
+### Nov 17， 2023,  14:00-15:00 (UTC+8):[Yueping Shi](2921014082@qq.com), Sun Yat-sen University 
+_**Upper bounds on the bichromatic number of some graphs**_  
+
+Abstract:   
+For a pair of nonnegative integers $k$ and $l$, a graph $G$ is {\em $(k, l)$-colorable} if its vertices can be partitioned into $k+l$  subsets $S_{1},\ldots,S_{k},C_{1},\ldots,C_{l}$ (possibly empty) such that each $S_{i}$ is an independent set and each $C_{j}$ is a clique in $G$. The {\em bichromatic number } $\chi^{b}(G)$ of $G$ is the least integer $r$ such that for all nonnegative integers $k$ and $l$ with $k+l=r$, $G$ is $(k, l)$-colorable. Let $\chi(G)$ and $\theta(G)$ denote the chromatic number and the clique covering number of $G$, respectively. There is a natural upper bound $\chi^{b}(G)\leq\chi(G)+\theta(G)-1$.  Epple and Huang (2010) characterized all extremal graphs $G$ with $\chi^{b}(G) =  \chi(G)+\theta(G)-1$. Let $r\geq 2$ be an integer, and let $G$ be a graph with  clique number less than $r+1$. In this talk, we show that $\chi^{b}(G)\leq\theta(G)+r-1$ if $r=2$ or $3$, or if $r\geq4$ and $G$ is a line graph of a simple graph, and characterize all  extremal graphs. 
+
+### Nov 10， 2023,  15:00-16:00 (UTC+8):[Ziming Zhou](zhouziming@mail.nwpu.edu.cn), University of Shanghai for Science and Technology 
+_**On the sum of the two largest signless Laplacian eigenvalues**_  
+
+Abstract:   
+Let $G$ be a simple connected graph and let $S_k(G)$ be the sum of the first $k$ largest signless Laplacian eigenvalues of $G$.
+It was conjectured by Ashraf, Omidi and Tayfeh-Rezaibe in 2013 that $S_k(G)\leq e(G)+\binom{k+1}{2}$ holds for $1\leq k\leq n-1$.
+They gave a proof for the conjecture when $k = 2$,
+but applied an incorrect key lemma.
+Therefore, the conjecture is still open when $k = 2$.
+In this paper, we prove that $S_2(G)< e(G)+3$ is true for any graphs which also confirm the conjecture when $k = 2$. 
+
+### Oct 27， 2023,  15:00-16:00 (UTC+8):[Mingyang Guo](mailto:doriazhang@outlook.com), Xi‘an Jiaotong University
+_**Anti-Ramsey number of matchings in $3$-uniform hypergraphs**_  
+[slides](./slides/2023/anti-ramsey_number.pdf) [video](https://www.bilibili.com/video/BV1Kc411d7wM/?spm_id_from=333.337.search-card.all.click&vd_source=0c771c8e3b71cf60e862646955459cce) 
+
+Abstract:   
+Let $n,s,$ and $k$ be positive integers such that $k\geq 3$, $s\geq 3$ and $n\geq ks$. An $s$-matching $M_s$ in a $k$-uniform hypergraph is a set of $s$ pairwise disjoint edges. The anti-Ramsey number ar(n,k,$M_s$) of an $s$-matching  is the smallest integer $c$ such that each edge-coloring of the $n$-vertex $k$-uniform hypergraph with exactly $c$ colors contains an $s$-matching  with distinct colors.  The value of ar(n,k,$M_s$) was conjectured by \"Ozkahya and Young for all  $n \geq sk$ and $k \geq 3$ in 2013. This conjecture was verified for all $n \geq sk+(s-1)(k-1)$ and $k \geq 3$ by Frankl and Kupavskii in 2019. We aim to determine the value of ar(n,3,$M_s$) for $3s \leq n < 5s-2$ in this paper. Namely,  we prove that if 3s<n<5s-2 and $n$ is large enough, then ar(n,3,M_s)=ex(n,3,$M_{s-1}$)+2. Here ex(n,3,$M_{s-1}$) is the Tur\'an number of an $(s-1)$-matching. Thus this result confirms the conjecture of \"Ozkahya and Young for $k=3$, 3s<n<5s-2 and sufficiently large $n$. For $n=ks$ and $k\geq 3$, we present a new construction for the lower bound of ar(n,k,$M_s$) which shows the conjecture of \"Ozkahya and Young is not true. In particular, for $n=3s$, we prove that ar(n,3,M_s)=ex(n,3,$M_{s-1}$)+5 for sufficiently large $n$. This is joint work with Hongliang Lu and Xing Peng. 
 
 ### Oct 13， 2023,  17:00-18:00 (UTC+8):[Jingyuan Zhang](mailto:doriazhang@outlook.com), Xiamen University
 _**On The Edge Reconstruction Of Six Digraph Polynomials**_  
