@@ -26,12 +26,14 @@ Let ${\rm ex}(n,F)$ and ${\rm spex}(n,F)$ be the maximum size and maximum spectr
 
 ### Dec 7， 2023, 14:30-15:30 (UTC+8):[Xiaoyu Chen](), Nanjing University 
 _**Uniqueness and Rapid Mixing in the Bipartite Hardcore Model**_  
+[slides](./slides/2023/1124.pdf) [video]() 
 
 Abstract:   
 Counting the number of independent sets in a bipartite graph (#BIS) is a central open problem in approximate counting. Its weighted variant is known as the bipartite hardcore model. In this work, we study the bipartite hardcore model in the high-temperature regime. We show a uniqueness threshold for bipartite graphs that has almost the same form as the tree uniqueness threshold for general graphs, except with degree bounds only on one side of the bipartition. Moreover, under this uniqueness threshold, we are able to give a nearly linear time sampling algorithm and show that the standard Glauber dynamics mix in polynomial time. 
 
 ### Nov 24， 2023,  15:30-16:30 (UTC+8):[Yixiao Zhang](), Fuzhou University 
 _**Hypergraphs with infinitely many extremal constructions**_  
+[slides](./slides/2023/1124.pdf) [video]() 
 
 Abstract:   
 We give the first exact and stability results for a hypergraph Tur\'{a}n problem with infinitely many  extremal constructions
@@ -39,12 +41,14 @@ that are far from each other in edit-distance. This includes an example of tripl
 
 ### Nov 17， 2023,  14:00-15:00 (UTC+8):[Yueping Shi](2921014082@qq.com), Sun Yat-sen University 
 _**Upper bounds on the bichromatic number of some graphs**_  
+[slides](./slides/2023/1117.pdf) [video](https://www.bilibili.com/video/BV1be411C7NH/?spm_id_from=333.999.0.0) 
 
 Abstract:   
 For a pair of nonnegative integers $k$ and $l$, a graph $G$ is {\em $(k, l)$-colorable} if its vertices can be partitioned into $k+l$  subsets $S_{1},\ldots,S_{k},C_{1},\ldots,C_{l}$ (possibly empty) such that each $S_{i}$ is an independent set and each $C_{j}$ is a clique in $G$. The {\em bichromatic number } $\chi^{b}(G)$ of $G$ is the least integer $r$ such that for all nonnegative integers $k$ and $l$ with $k+l=r$, $G$ is $(k, l)$-colorable. Let $\chi(G)$ and $\theta(G)$ denote the chromatic number and the clique covering number of $G$, respectively. There is a natural upper bound $\chi^{b}(G)\leq\chi(G)+\theta(G)-1$.  Epple and Huang (2010) characterized all extremal graphs $G$ with $\chi^{b}(G) =  \chi(G)+\theta(G)-1$. Let $r\geq 2$ be an integer, and let $G$ be a graph with  clique number less than $r+1$. In this talk, we show that $\chi^{b}(G)\leq\theta(G)+r-1$ if $r=2$ or $3$, or if $r\geq4$ and $G$ is a line graph of a simple graph, and characterize all  extremal graphs. 
 
 ### Nov 10， 2023,  15:00-16:00 (UTC+8):[Ziming Zhou](zhouziming@mail.nwpu.edu.cn), University of Shanghai for Science and Technology 
 _**On the sum of the two largest signless Laplacian eigenvalues**_  
+[slides](./slides/2023/1110.pdf) [video](https://www.bilibili.com/video/BV16a4y1r7FN/?spm_id_from=333.999.0.0) 
 
 Abstract:   
 Let $G$ be a simple connected graph and let $S_k(G)$ be the sum of the first $k$ largest signless Laplacian eigenvalues of $G$.
