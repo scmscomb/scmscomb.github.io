@@ -26,7 +26,7 @@ Let ${\rm ex}(n,F)$ and ${\rm spex}(n,F)$ be the maximum size and maximum spectr
 
 ### Dec 7， 2023, 14:30-15:30 (UTC+8):[Xiaoyu Chen](), Nanjing University 
 _**Uniqueness and Rapid Mixing in the Bipartite Hardcore Model**_  
-[slides](./slides/2023/1124.pdf) [video]() 
+[slides](./slides/2023/1207.pdf) [video]() 
 
 Abstract:   
 Counting the number of independent sets in a bipartite graph (#BIS) is a central open problem in approximate counting. Its weighted variant is known as the bipartite hardcore model. In this work, we study the bipartite hardcore model in the high-temperature regime. We show a uniqueness threshold for bipartite graphs that has almost the same form as the tree uniqueness threshold for general graphs, except with degree bounds only on one side of the bipartition. Moreover, under this uniqueness threshold, we are able to give a nearly linear time sampling algorithm and show that the standard Glauber dynamics mix in polynomial time. 
