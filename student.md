@@ -15,14 +15,20 @@ Organizers: <br>
 [Junxue Zhang](mailto:jxuezhang@163.com), Nankai University. <br>
 
 
-### Dec 7， 2023 :[Xiaoyu Chen](), Nanjing University 
-_**TBC**_  
+### Dec 22， 2023, 10:00-11:00 (UTC+8):[Longfei Fang](lffangmath@qq.com), East China University of Science and Technology 
+_**Uniqueness and Rapid Mixing in the Bipartite Hardcore Model**_  
 
 Abstract:   
-TBC. 
+Let ${\rm ex}(n,F)$ and ${\rm spex}(n,F)$ be the maximum size and maximum spectral radius of an $F$-free graph of order $n$, respectively. The value ${\rm spex}(n,F)$ is called the spectral extremal value of $F$. Nikiforov [J. Graph Theory 62 (2009) 362--368] gave the spectral Stability Lemma, which implies that for every $\varepsilon>0$, sufficiently large $n$ and a non-bipartite graph $H$ with chromatic number $\chi(H)$, the extremal graph for ${\rm spex}(n,H)$ can be obtained from the Tur\'{a}n graph $T_{\chi(H)-1}(n)$ by adding and deleting at most $\varepsilon n^2$ edges. It is still a challenging problem to determine the exact spectral extremal values of many non-bipartite graphs. Given a graph $F$ and an integer $p\geq 2$, the edge blow-up of $F$, denoted by $F^{p+1}$, is the graph obtained from replacing each edge in $F$ by a $K_{p+1}$, where the new vertices of $K_{p+1}$ are all distinct. In this paper, we determine the exact spectral extremal values of the edge blow-up of all non-bipartite graphs and provide the asymptotic spectral extremal values of the edge blow-up of all bipartite graphs for sufficiently large $n$, which can be seen as a spectral version of the theorem on ${\rm ex}(n,F^{p+1})$ given by Yuan [J. Combin. Theory Ser. B 152 (2022) 379--398]. As applications, on the one hand, we generalize several previous results on ${\rm spex}(n,F^{p+1})$ for $F$ being a matching and a star for $p\geq 3$. On the other hand, we obtain the exact values of ${\rm spex}(n,F^{p+1})$ for $F$ being a path, a cycle and a complete graph. This is a joint work with Huiqiu Lin.
 
 
 ## Past talks 
+
+### Dec 7， 2023, 14:30-15:30 (UTC+8):[Xiaoyu Chen](), Nanjing University 
+_**Uniqueness and Rapid Mixing in the Bipartite Hardcore Model**_  
+
+Abstract:   
+Counting the number of independent sets in a bipartite graph (#BIS) is a central open problem in approximate counting. Its weighted variant is known as the bipartite hardcore model. In this work, we study the bipartite hardcore model in the high-temperature regime. We show a uniqueness threshold for bipartite graphs that has almost the same form as the tree uniqueness threshold for general graphs, except with degree bounds only on one side of the bipartition. Moreover, under this uniqueness threshold, we are able to give a nearly linear time sampling algorithm and show that the standard Glauber dynamics mix in polynomial time. 
 
 ### Nov 24， 2023,  15:30-16:30 (UTC+8):[Yixiao Zhang](), Fuzhou University 
 _**Hypergraphs with infinitely many extremal constructions**_  
