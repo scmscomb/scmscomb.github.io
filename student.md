@@ -26,14 +26,14 @@ Let ${\rm ex}(n,F)$ and ${\rm spex}(n,F)$ be the maximum size and maximum spectr
 
 ### Dec 7， 2023, 14:30-15:30 (UTC+8):[Xiaoyu Chen](), Nanjing University 
 _**Uniqueness and Rapid Mixing in the Bipartite Hardcore Model**_  
-[slides](./slides/2023/1207.pdf) [video]() 
+[slides](./slides/2023/1207.pdf) [video](https://www.bilibili.com/video/BV1B64y1p7FQ/?spm_id_from=333.999.0.0&vd_source=0c771c8e3b71cf60e862646955459cce) 
 
 Abstract:   
 Counting the number of independent sets in a bipartite graph (#BIS) is a central open problem in approximate counting. Its weighted variant is known as the bipartite hardcore model. In this work, we study the bipartite hardcore model in the high-temperature regime. We show a uniqueness threshold for bipartite graphs that has almost the same form as the tree uniqueness threshold for general graphs, except with degree bounds only on one side of the bipartition. Moreover, under this uniqueness threshold, we are able to give a nearly linear time sampling algorithm and show that the standard Glauber dynamics mix in polynomial time. 
 
 ### Nov 24， 2023,  15:30-16:30 (UTC+8):[Yixiao Zhang](), Fuzhou University 
 _**Hypergraphs with infinitely many extremal constructions**_  
-[slides](./slides/2023/1124.pdf) [video]() 
+[slides](./slides/2023/1124.pdf) [video](https://www.bilibili.com/video/BV1Ub4y1G7rd/?vd_source=0c771c8e3b71cf60e862646955459cce) 
 
 Abstract:   
 We give the first exact and stability results for a hypergraph Tur\'{a}n problem with infinitely many  extremal constructions
