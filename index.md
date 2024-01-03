@@ -13,19 +13,36 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule 
 
+### Jan 4, 2024, 10:00 (UTC+8): Yifan Jing (Ohio State University)
+_**Sidon sets and sum-product phenomena**_      
+Venue: Room 102, Shanghai Center for Mathematical Sciences     
+[zoom](https://us02web.zoom.us/j/86091086668?pwd=cFBxTjJheHd6ek5vL2NndGo4ZUtuQT09) id 860 9108 6668 pw 121323
+
+Given natural numbers $s$ and $k$, we say that a finite set $X$ of integers is an additive $B_{s}[k]$ set if for any integer $n$, the number of solutions to the equation \\[ n = x_1 + … + x_s, \\] with $x_1, …, x_s$ lying in $X$, is at most $k$, where we consider two such solutions to be the same if they differ only in the ordering of the summands. We define a multiplicative $B_{s}[k]$ set analogously. These sets have been studied thoroughly from various different perspectives in combinatorial and additive number theory. In this talk, we will discuss sum-product phenomena for these sets. We show that there is either an exceptionally large additive $B_{s}[k]$ set, or an exceptionally large multiplicative $B_{s}[k]$ set, with $k \ll s$. This is joint work with Akshat Mudgal.
+
+## Past Talks
+Check [past talks](past) for the full list of past talks with all details.
+
+
+### Dec 18, 2023: Xiaofan Yuan (Arizona State University)        
+_**On Rainbow Thresholds**_       
+
+Abstract: Resolving a recent problem of Bell, Frieze, and Marbach, we establish the threshold result of Frankston-Kahn-Narayanan-Park in the rainbow setting. This is joint work with Jie Han.
+
+
+### Dec 13, 2023: Yan Wang (SJTU)        
+_**Vertex degree sums for perfect matchings in 3-uniform hypergraphs**_      
+
+Let $H_{n, n/3}^2$ be the 3-graph of order $n$, whose vertex set is partitioned into two sets $S$ and $T$ of size $\frac{1}{3}n+1$ and $\frac{2}{3}n -1$, respectively, and whose edge set consists of all triples with at least $2$ vertices in $T$. Suppose that $n$ is sufficiently large and $H$ is a 3-uniform hypergraph of order $n$ with no isolated vertex. Zhang and Lu [Discrete Math. 341 (2018), 748--758] conjectured that if $\deg(u)+\deg(v) > 2(\binom{n-1}{2}-\binom{2n/3}{2})$ for any two vertices $u$ and $v$ that are contained in some edge of $H$, then $H$ contains a perfect matching or $H$ is a subgraph of $H_{n,n/3}^2$. We construct a counter-example to the conjecture. Furthermore, we prove that if $\deg(u)+\deg(v) > (\frac{3}{5}+c)n^2$ for any two vertices $u$ and $v$ that are contained in some edge of $H$, then $H$ contains a perfect matching or $H$ is a subgraph of $H_{n,n/3}^2$. This result implies a result of Zhang, Zhao and Lu [Electron. J. Combin. 25 (3), 2018]. This is joint work with Yi Zhang.
+
+
 ### Oct 13, 2023, 10:00 (UTC+8):  Songling Shan (Auburn University)
 _**Towards the Overfull Conjecture**_      
-[zoom](https://us02web.zoom.us/j/88495230915?pwd=SVdndVpqKyt5YzBVT2pHaXFEMDNQUT09) ID：884 9523 0915   PW：121323     
-
  
 Abstract: Let $G$ be a simple graph with  maximum degree  denoted as $\Delta(G)$. An overfull subgraph $H$ of $G$ is a subgraph satisfying the condition $|E(H)| > \Delta(G)\lfloor \frac{1}{2}\|V(H)\| \rfloor$. In 1986, Chetwynd and Hilton proposed the Overfull Conjecture, stating that a  graph $G$ with  maximum degree $\Delta(G)> \frac{1}{3}\|V(G)\|$  has  chromatic index equal to  $\Delta(G)$ if and only if it does not contain any overfull subgraph. The Overfull Conjecture has many implications.   For example,  it implies  a  polynomial-time algorithm for determining the chromatic index of   graphs $G$ with  $\Delta(G) > \frac{1}{3}\|V(G)\|$, and implies several longstanding conjectures   in the area of graph edge colorings.
 In this paper, we make  the first improvement towards the conjecture when not imposing a minimum degree condition on the graph:  for any  $0<\varepsilon  \le \frac{1}{22}$, there exists  a positive  integer $n_0$  such that if $G$ is a  graph on $n\ge n_0$ vertices with $\Delta(G) \ge (1-\varepsilon)n$, then the
 Overfull Conjecture holds for $G$.  The previous best result in this direction,   due to Chetwynd and Hilton from 1989, asserts the conjecture
 for graphs $G$ with $\Delta(G) \ge \|V(G)\|-3$.
-
-## Past Talks
-Check [past talks](past) for the full list of past talks with all details.
-
 
 ### Sept 25, 2023: Yifan Jing (Ohio State University)     
 _**Measure doubling for small sets in SO(3,R)**_      
