@@ -29,19 +29,51 @@ _**Learning Augmented B^{-}-Trees**_     [bilibili](https://www.bilibili.com/vid
 Abstract: We study learning-augmented search trees via treaps with carefully designed priorities. The result is a simple search tree where the depth of each item is determined by its predicted weight $w_x$ via setting Cartesian tree priorities to $-\lfloor\log\log(1/w_x)\rfloor + U(0, 1)$. This method generalizes the learning-augmented BSTs [Lin-Luo-Woodruff ICML`22] from Zipfian distributions to arbitrary, possibly inaccurate, predictions. It also gives the first external memory data structure that can provably take advantage of localities in access sequences via online self-reorganizations.
 
 ### Dec 18, 2023: Xiaofan Yuan (Arizona State University)        
-_**On Rainbow Thresholds**_       
+_**On Rainbow Thresholds**_        [bilibili](https://www.bilibili.com/video/BV1Pc411t7Wt/)
 
 Abstract: Resolving a recent problem of Bell, Frieze, and Marbach, we establish the threshold result of Frankston-Kahn-Narayanan-Park in the rainbow setting. This is joint work with Jie Han.
 
 
 ### Dec 13, 2023: Yan Wang (SJTU)        
-_**Vertex degree sums for perfect matchings in 3-uniform hypergraphs**_      
+_**Vertex degree sums for perfect matchings in 3-uniform hypergraphs**_       [bilibili](https://www.bilibili.com/video/BV1VT4y1p78C/)      
 
 Let $H_{n, n/3}^2$ be the 3-graph of order $n$, whose vertex set is partitioned into two sets $S$ and $T$ of size $\frac{1}{3}n+1$ and $\frac{2}{3}n -1$, respectively, and whose edge set consists of all triples with at least $2$ vertices in $T$. Suppose that $n$ is sufficiently large and $H$ is a 3-uniform hypergraph of order $n$ with no isolated vertex. Zhang and Lu [Discrete Math. 341 (2018), 748--758] conjectured that if $\deg(u)+\deg(v) > 2(\binom{n-1}{2}-\binom{2n/3}{2})$ for any two vertices $u$ and $v$ that are contained in some edge of $H$, then $H$ contains a perfect matching or $H$ is a subgraph of $H_{n,n/3}^2$. We construct a counter-example to the conjecture. Furthermore, we prove that if $\deg(u)+\deg(v) > (\frac{3}{5}+c)n^2$ for any two vertices $u$ and $v$ that are contained in some edge of $H$, then $H$ contains a perfect matching or $H$ is a subgraph of $H_{n,n/3}^2$. This result implies a result of Zhang, Zhao and Lu [Electron. J. Combin. 25 (3), 2018]. This is joint work with Yi Zhang.
 
+### Oct 18, 2023:  H.A. Kierstead (Arizona State University)      
+_**Sparsity from a game theoretic perspective**_     [bilibili](https://www.bilibili.com/video/BV1ot4y1Z7XV/)     
 
-### Oct 13, 2023, 10:00 (UTC+8):  Songling Shan (Auburn University)
-_**Towards the Overfull Conjecture**_      
+Abstract: Nešetřil and Ossona de Mendez introduced the notion of graph classes
+_with bounded expansion_ and the more general notion of
+_nowhere-dense_ graph classes. These concepts generalize those of
+graph classes with bounded tree-width, minor-closed classes, bounded
+degree classes, etc. This classification is informative as many
+interesting properties of simple sparse classes are shared with more
+general classes, while results on the general classes can often be
+sharpened for simpler classes. Moreover, the Nešetřil-Ossona de
+Mendez formulation is remarkably robust; there are many apparently
+disparate notions that turn out to be equivalent.
+
+In applications it is often useful to use characterizations due to Zhu
+of bounded-expansion or nowhere-dense classes in terms of the
+_generalized coloring numbers_ $scol_r(G)$ of a graph
+$G$. These numbers had been introduced earlier by Yang and me to
+extend the classes of graphs known to have bounded generalized
+_game_ coloring numbers. Zhu's result implies that these are
+exactly the classes with bounded expansion. For each distance $r$,
+the strong $r$-coloring number $scol_r(G)$ is determined
+by an "optimal" ordering of the vertices of $G$. We study the
+question of whether it is possible to find a single "uniform" ordering
+that is "good" for all distances $r$. We show that the answer to
+this question is essentially "yes". Our results give new
+characterizations of bounded-expansion and nowhere-dense graph classes.
+
+Much of this talk will be on joint work with Jan van den Heuvel,
+Department of Mathe-matics, London School of Economics and Political
+Science.
+
+
+### Oct 13, 2023:  Songling Shan (Auburn University)
+_**Towards the Overfull Conjecture**_      [bilibili](https://www.bilibili.com/video/BV1aK4y167Co/)    
  
 Abstract: Let $G$ be a simple graph with  maximum degree  denoted as $\Delta(G)$. An overfull subgraph $H$ of $G$ is a subgraph satisfying the condition $|E(H)| > \Delta(G)\lfloor \frac{1}{2}\|V(H)\| \rfloor$. In 1986, Chetwynd and Hilton proposed the Overfull Conjecture, stating that a  graph $G$ with  maximum degree $\Delta(G)> \frac{1}{3}\|V(G)\|$  has  chromatic index equal to  $\Delta(G)$ if and only if it does not contain any overfull subgraph. The Overfull Conjecture has many implications.   For example,  it implies  a  polynomial-time algorithm for determining the chromatic index of   graphs $G$ with  $\Delta(G) > \frac{1}{3}\|V(G)\|$, and implies several longstanding conjectures   in the area of graph edge colorings.
 In this paper, we make  the first improvement towards the conjecture when not imposing a minimum degree condition on the graph:  for any  $0<\varepsilon  \le \frac{1}{22}$, there exists  a positive  integer $n_0$  such that if $G$ is a  graph on $n\ge n_0$ vertices with $\Delta(G) \ge (1-\varepsilon)n$, then the
@@ -54,7 +86,7 @@ _**Measure doubling for small sets in SO(3,R)**_
 Abstract: Let $SO(3,R)$ be the 3D-rotation group equipped with the real-manifold topology and the normalized Haar measure $\mu$. Confirming a conjecture by Breuillard and Green, we show that if A is an open subset of $SO(3,R)$ with sufficiently small measure, then $\mu(A^2) > 3.99 \mu(A)$. This is joint work with Chieu-Minh Tran (NUS) and Ruixiang Zhang (Berkeley).
 
 ### Sept 18, 2023: Patrice Ossona de Mendez (CNRS and Univ. of Charles)     
-_**Twin-width and permutations**_      
+_**Twin-width and permutations**_     [bilibili](https://www.bilibili.com/video/BV1TN4y1v7sP/)      
 
 Abstract:
 Inspired by a width invariant on permutations  defined by Guillemot and Marx, Bonnet, Kim, Thomassé, and Watrigant introduced the  twin-width of graphs, which  is a parameter describing its structural complexity. This invariant has been further extended to binary structures, in several (basically equivalent) ways. We prove that a class of binary relational structures (that is: edge-colored partially directed graphs) has bounded twin-width if and only if it is a first-order transduction of a proper permutation class. As a by-product, we show that every class with bounded twin-width contains at most $2^{O(n)}$ pairwise non-isomorphic $n$-vertex graphs.
