@@ -13,16 +13,20 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule 
 
-### Jan 4, 2024, 10:00 (UTC+8): Yifan Jing (Ohio State University)
-_**Sidon sets and sum-product phenomena**_      
-Venue: Room 102, Shanghai Center for Mathematical Sciences     
-[zoom](https://us02web.zoom.us/j/86091086668?pwd=cFBxTjJheHd6ek5vL2NndGo4ZUtuQT09) id 860 9108 6668 pw 121323
-
-Given natural numbers $s$ and $k$, we say that a finite set $X$ of integers is an additive $B_{s}[k]$ set if for any integer $n$, the number of solutions to the equation \\[ n = x_1 + … + x_s, \\] with $x_1, …, x_s$ lying in $X$, is at most $k$, where we consider two such solutions to be the same if they differ only in the ordering of the summands. We define a multiplicative $B_{s}[k]$ set analogously. These sets have been studied thoroughly from various different perspectives in combinatorial and additive number theory. In this talk, we will discuss sum-product phenomena for these sets. We show that there is either an exceptionally large additive $B_{s}[k]$ set, or an exceptionally large multiplicative $B_{s}[k]$ set, with $k \ll s$. This is joint work with Akshat Mudgal.
 
 ## Past Talks
 Check [past talks](past) for the full list of past talks with all details.
 
+### Jan 4, 2024: Yifan Jing (Oxford)      
+_**Sidon sets and sum-product phenomena**_      [bilibili](https://www.bilibili.com/video/BV1Xk4y1X7yy/)        
+
+Given natural numbers $s$ and $k$, we say that a finite set $X$ of integers is an additive $B_{s}[k]$ set if for any integer $n$, the number of solutions to the equation \\[ n = x_1 + … + x_s, \\] with $x_1, …, x_s$ lying in $X$, is at most $k$, where we consider two such solutions to be the same if they differ only in the ordering of the summands. We define a multiplicative $B_{s}[k]$ set analogously. These sets have been studied thoroughly from various different perspectives in combinatorial and additive number theory. In this talk, we will discuss sum-product phenomena for these sets. We show that there is either an exceptionally large additive $B_{s}[k]$ set, or an exceptionally large multiplicative $B_{s}[k]$ set, with $k \ll s$. This is joint work with Akshat Mudgal.
+
+
+### Dec 20, 2023: Richard Peng (CMU)      
+_**Learning Augmented B^{-}-Trees**_     [bilibili](https://www.bilibili.com/video/BV1ug4y1Q7v2/)       
+
+Abstract: We study learning-augmented search trees via treaps with carefully designed priorities. The result is a simple search tree where the depth of each item is determined by its predicted weight $w_x$ via setting Cartesian tree priorities to $-\lfloor\log\log(1/w_x)\rfloor + U(0, 1)$. This method generalizes the learning-augmented BSTs [Lin-Luo-Woodruff ICML`22] from Zipfian distributions to arbitrary, possibly inaccurate, predictions. It also gives the first external memory data structure that can provably take advantage of localities in access sequences via online self-reorganizations.
 
 ### Dec 18, 2023: Xiaofan Yuan (Arizona State University)        
 _**On Rainbow Thresholds**_       
@@ -57,15 +61,13 @@ Inspired by a width invariant on permutations  defined by Guillemot and Marx, B
 
 This is a joint work with Edouard Bonnet, Jaroslav Nesetril, Sebastian Siebertz, and Stephan Thomassé.
 
-### Aug 11, 2023, 16:00 (UTC+8): Rose McCarty (Princeton)        
+### Aug 11, 2023: Rose McCarty (Princeton)        
 _**δ-boundedness**_     
-[zoom](https://zoom.us/j/87692863856?pwd=ZUo0K21Sakw2WkF2WFNCMEtOQ0pRdz09) ID：876 9286 3856  PW：121323    
 
 Abstract: There are many classical constructions of graphs that have arbitrarily large minimum degree, but no big bicliques. A class of graphs is "δ-bounded" if, essentially, it avoids all such constructions. We give an overview of this area, focusing on parallels with χ-boundedness. In particular, we'll discuss some recent joint work with Xiying Du, António Girão, Zach Hunter, and Alex Scott which gives reasonably efficient bounding functions.
 
-### July 28, 2023, 16:00 (UTC+8): Thomas Karam (Oxford)         
-_**Small sunflowers and the structure of slice rank decompositions**_       
-[zoom](https://zoom.us/j/86419171815?pwd=RTkwU1o0aDZNcGpCNW8vSWtSa0N4QT09) ID：864 1917 1815  PW：121323      
+### July 28, 2023: Thomas Karam (Oxford)         
+_**Small sunflowers and the structure of slice rank decompositions**_        
 
 Let $d\ge 3$ be an integer. We show that whenever an order-$d$ tensor admits $d+1$ decompositions according to Tao’s slice rank, if the linear subspaces spanned by the one-dimensional functions constitute a sunflower for each choice of special coordinate, then the tensor admits a decomposition where these linear subspaces are contained in the centers of these respective sunflowers. As an application, we deduce that for every nonnegative integer $k$ and every finite field $\mathbb{F}$, there exists an integer $C(d,k,\|\mathbb{F}\|)$ such that every order-$d$ tensor with slice rank $k$ over $\mathbb{F}$ admits at most $C(d,k,\|\mathbb{F}\|)$ decompositions with length $k$, up to a class of transformations that can be easily described.
 
