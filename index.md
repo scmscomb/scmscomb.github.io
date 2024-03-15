@@ -13,6 +13,12 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule 
 
+### Mar 15, 2024, 14:00–15:00 GMT+8: MaxWenqiang Xu (Stanford University)     
+_**Multiplicative energy in additive combinatorics and its application to number theory**_    
+Venue: Room 110, Shanghai Center for Mathematical Sciences    
+
+In this talk I will introduce the multiplicative energy, starting with its original applications in classical problems in additive combinatorics, e.g. sum-product problems. Then I will introduce the random multiplicative function and talk about the recent application of multiplicative energy to its study.
+
 
 ## Past Talks
 Check [past talks](past) for the full list of past talks with all details.
