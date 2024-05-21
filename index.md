@@ -13,15 +13,30 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule 
 
+### May 28, 2024, 16:00–17:00 GMT+8: József Balogh (University of Illinois)     
+_**The Hypergraph Container Method**_     
+Venue: Gu Lecture Hall, Shanghai Center for Mathematical Sciences    
+[Zoom](https://us02web.zoom.us/j/82962040306) meeting ID: 829 6204 0306 Password: 061801    
+
+In this survey we describe a recently-developed technique for bounding the number (and controlling the typical structure) of finite objects with forbidden substructures. This technique exploits a subtle clustering phenomenon exhibited by the independent sets of uniform hypergraphs whose edges are sufficiently evenly distributed; more precisely, it provides a relatively small family of ‘containers’ for the independent sets, each of which contains few edges. We attempt to convey to the reader a general high-level overview of the method, focusing on a small number of illustrative applications in areas such as extremal graph theory, Ramsey theory, additive combinatorics, and discrete geometry, and avoiding technical details as much as possible.
+
+### May 29, 2024, 11:00–11:50 GMT+8: Bernard Lidický (Iowa State University)    
+_**Embedded graph 3-coloring and flows**_    
+Venue: Room 102, Shanghai Center for Mathematical Sciences    
+[Zoom](https://zoom.us/j/87984386196) meeting ID: 879 8438 6196 Password: 061801    
+
+
+Abstract: A graph drawn in a surface is a near-quadrangulation if the sum of the lengths of the faces different from 4-faces is bounded by a fixed constant.  We leverage duality between colorings and flows to design an efficient algorithm for 3-precoloring-extension in near-quadrangulations of orientable surfaces.  Furthermore, we use this duality to strengthen previously known sufficient conditions for 3-colorability of triangle-free graphs drawn in orientable surfaces. This is joint work with Caroline Bang, Zdeněk Dvořák and Emily Heath.
+
+
+## Past Talks
+Check [past talks](past) for the full list of past talks with all details.
+
 ### Mar 15, 2024, 14:00–15:00 GMT+8: MaxWenqiang Xu (Stanford University)     
 _**Multiplicative energy in additive combinatorics and its application to number theory**_    
 Venue: Room 110, Shanghai Center for Mathematical Sciences    
 
 In this talk I will introduce the multiplicative energy, starting with its original applications in classical problems in additive combinatorics, e.g. sum-product problems. Then I will introduce the random multiplicative function and talk about the recent application of multiplicative energy to its study.
-
-
-## Past Talks
-Check [past talks](past) for the full list of past talks with all details.
 
 ### Jan 4, 2024: Yifan Jing (Oxford)      
 _**Sidon sets and sum-product phenomena**_      [bilibili](https://www.bilibili.com/video/BV1Xk4y1X7yy/)        
