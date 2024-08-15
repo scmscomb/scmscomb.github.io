@@ -13,24 +13,33 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 
 ## Current Schedule 
 
-### May 28, 2024, 16:00–17:00 GMT+8: József Balogh (University of Illinois)     
-_**The Hypergraph Container Method**_     
-Venue: Gu Lecture Hall, Shanghai Center for Mathematical Sciences    
-[Zoom](https://us02web.zoom.us/j/82962040306) meeting ID: 829 6204 0306 Password: 061801    
-
-In this survey we describe a recently-developed technique for bounding the number (and controlling the typical structure) of finite objects with forbidden substructures. This technique exploits a subtle clustering phenomenon exhibited by the independent sets of uniform hypergraphs whose edges are sufficiently evenly distributed; more precisely, it provides a relatively small family of ‘containers’ for the independent sets, each of which contains few edges. We attempt to convey to the reader a general high-level overview of the method, focusing on a small number of illustrative applications in areas such as extremal graph theory, Ramsey theory, additive combinatorics, and discrete geometry, and avoiding technical details as much as possible.
-
-### May 29, 2024, 11:00–11:50 GMT+8: Bernard Lidický (Iowa State University)    
-_**Embedded graph 3-coloring and flows**_    
-Venue: Room 102, Shanghai Center for Mathematical Sciences    
-[Zoom](https://zoom.us/j/87984386196) meeting ID: 879 8438 6196 Password: 061801    
-
-
-Abstract: A graph drawn in a surface is a near-quadrangulation if the sum of the lengths of the faces different from 4-faces is bounded by a fixed constant.  We leverage duality between colorings and flows to design an efficient algorithm for 3-precoloring-extension in near-quadrangulations of orientable surfaces.  Furthermore, we use this duality to strengthen previously known sufficient conditions for 3-colorability of triangle-free graphs drawn in orientable surfaces. This is joint work with Caroline Bang, Zdeněk Dvořák and Emily Heath.
-
 
 ## Past Talks
 Check [past talks](past) for the full list of past talks with all details.
+
+### June 21, 2024: Péter Frankl (Alfréd Rényi Institute of Mathematics)    
+_**Old and new problems in extremal set theory**_    [bilibili](https://www.bilibili.com/video/BV1Zf421972F/)    
+
+We consider families of finite sets, that is, subsets of the power set
+of the n-element finite set [n] = {1, 2, . . . , n}. I have spent most of my
+mathematical life concerning easy-to-state (and often hard-to-solve)
+problems, trying to determine the MAXIMAL size of a family (i.e.,
+a subset of $2^{[n]}$) satisfying certain conditions. Let me give just one
+example: suppose that r ≥ 2 , t ≥ 1 are fixed and any r members
+of the family have at least t elements in common. I proved that for
+n > t + 1 the maximum is $2^{n-t}$ if and only if $t < 2^r-r$ but for t > t(r)
+the problem is widely open. In preparation for the lecture try and
+prove the simple bound $2^{n-1}$ in the case t = 1, r = 2.
+
+### May 29, 2024, 11:00–11:50 GMT+8: Bernard Lidický (Iowa State University)    
+_**Embedded graph 3-coloring and flows**_    [bilibili](https://www.bilibili.com/video/BV1Zf421972F/)    
+
+Abstract: A graph drawn in a surface is a near-quadrangulation if the sum of the lengths of the faces different from 4-faces is bounded by a fixed constant.  We leverage duality between colorings and flows to design an efficient algorithm for 3-precoloring-extension in near-quadrangulations of orientable surfaces.  Furthermore, we use this duality to strengthen previously known sufficient conditions for 3-colorability of triangle-free graphs drawn in orientable surfaces. This is joint work with Caroline Bang, Zdeněk Dvořák and Emily Heath.
+
+### May 28, 2024, 16:00–17:00 GMT+8: József Balogh (University of Illinois)     
+_**The Hypergraph Container Method**_      [bilibili](https://www.bilibili.com/video/BV1Vx4y1J7Ec)      
+
+In this survey we describe a recently-developed technique for bounding the number (and controlling the typical structure) of finite objects with forbidden substructures. This technique exploits a subtle clustering phenomenon exhibited by the independent sets of uniform hypergraphs whose edges are sufficiently evenly distributed; more precisely, it provides a relatively small family of ‘containers’ for the independent sets, each of which contains few edges. We attempt to convey to the reader a general high-level overview of the method, focusing on a small number of illustrative applications in areas such as extremal graph theory, Ramsey theory, additive combinatorics, and discrete geometry, and avoiding technical details as much as possible.
 
 ### Mar 15, 2024, 14:00–15:00 GMT+8: MaxWenqiang Xu (Stanford University)     
 _**Multiplicative energy in additive combinatorics and its application to number theory**_    
