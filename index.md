@@ -17,8 +17,22 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Past Talks
 Check [past talks](past) for the full list of past talks with all details.
 
+### Sept 24, 2024:  Bojan Mohar ( Simon Fraser University (Canada)  and University of Ljubljana (Slovenia) )      
+_**Random embeddings of graphs in surfaces**_    [video](https://www.bilibili.com/video/BV1Pp11YREwV/)      
+
+3-connected planar graphs have (essentially) unique embedding in the
+plane. This fact is a basis of many other results, in particular of the
+area known as "graph drawing" and serves as a cornerstone in the theory
+of algorithms on planar graphs. However such a graph has many
+combinatorially nonequivalent embeddings in the torus or in surfaces of
+even higher genus. Counting how many such embeddings are there has
+applications in mainstream mathematics, in theoretical physics and in
+theoretical computer science. The speaker will discuss some of the
+fundamental results about random 2-cell embeddings of graphs in surfaces.  
+
+
 ### June 21, 2024: Péter Frankl (Alfréd Rényi Institute of Mathematics)    
-_**Old and new problems in extremal set theory**_    [bilibili](https://www.bilibili.com/video/BV1Zf421972F/)    
+_**Old and new problems in extremal set theory**_    [video](https://www.bilibili.com/video/BV1Zf421972F/)    
 
 We consider families of finite sets, that is, subsets of the power set
 of the n-element finite set [n] = {1, 2, . . . , n}. I have spent most of my
@@ -32,12 +46,12 @@ the problem is widely open. In preparation for the lecture try and
 prove the simple bound $2^{n-1}$ in the case t = 1, r = 2.
 
 ### May 29, 2024, 11:00–11:50 GMT+8: Bernard Lidický (Iowa State University)    
-_**Embedded graph 3-coloring and flows**_    [bilibili](https://www.bilibili.com/video/BV1Zf421972F/)    
+_**Embedded graph 3-coloring and flows**_    [video](https://www.bilibili.com/video/BV1Zf421972F/)    
 
 Abstract: A graph drawn in a surface is a near-quadrangulation if the sum of the lengths of the faces different from 4-faces is bounded by a fixed constant.  We leverage duality between colorings and flows to design an efficient algorithm for 3-precoloring-extension in near-quadrangulations of orientable surfaces.  Furthermore, we use this duality to strengthen previously known sufficient conditions for 3-colorability of triangle-free graphs drawn in orientable surfaces. This is joint work with Caroline Bang, Zdeněk Dvořák and Emily Heath.
 
 ### May 28, 2024, 16:00–17:00 GMT+8: József Balogh (University of Illinois)     
-_**The Hypergraph Container Method**_      [bilibili](https://www.bilibili.com/video/BV1Vx4y1J7Ec)      
+_**The Hypergraph Container Method**_      [video](https://www.bilibili.com/video/BV1Vx4y1J7Ec)      
 
 In this survey we describe a recently-developed technique for bounding the number (and controlling the typical structure) of finite objects with forbidden substructures. This technique exploits a subtle clustering phenomenon exhibited by the independent sets of uniform hypergraphs whose edges are sufficiently evenly distributed; more precisely, it provides a relatively small family of ‘containers’ for the independent sets, each of which contains few edges. We attempt to convey to the reader a general high-level overview of the method, focusing on a small number of illustrative applications in areas such as extremal graph theory, Ramsey theory, additive combinatorics, and discrete geometry, and avoiding technical details as much as possible.
 
@@ -48,29 +62,29 @@ Venue: Room 110, Shanghai Center for Mathematical Sciences
 In this talk I will introduce the multiplicative energy, starting with its original applications in classical problems in additive combinatorics, e.g. sum-product problems. Then I will introduce the random multiplicative function and talk about the recent application of multiplicative energy to its study.
 
 ### Jan 4, 2024: Yifan Jing (Oxford)      
-_**Sidon sets and sum-product phenomena**_      [bilibili](https://www.bilibili.com/video/BV1Xk4y1X7yy/)        
+_**Sidon sets and sum-product phenomena**_      [video](https://www.bilibili.com/video/BV1Xk4y1X7yy/)        
 
 Given natural numbers $s$ and $k$, we say that a finite set $X$ of integers is an additive $B_{s}[k]$ set if for any integer $n$, the number of solutions to the equation \\[ n = x_1 + … + x_s, \\] with $x_1, …, x_s$ lying in $X$, is at most $k$, where we consider two such solutions to be the same if they differ only in the ordering of the summands. We define a multiplicative $B_{s}[k]$ set analogously. These sets have been studied thoroughly from various different perspectives in combinatorial and additive number theory. In this talk, we will discuss sum-product phenomena for these sets. We show that there is either an exceptionally large additive $B_{s}[k]$ set, or an exceptionally large multiplicative $B_{s}[k]$ set, with $k \ll s$. This is joint work with Akshat Mudgal.
 
 
 ### Dec 20, 2023: Richard Peng (CMU)      
-_**Learning Augmented B^{-}-Trees**_     [bilibili](https://www.bilibili.com/video/BV1ug4y1Q7v2/)       
+_**Learning Augmented B^{-}-Trees**_     [video](https://www.bilibili.com/video/BV1ug4y1Q7v2/)       
 
 Abstract: We study learning-augmented search trees via treaps with carefully designed priorities. The result is a simple search tree where the depth of each item is determined by its predicted weight $w_x$ via setting Cartesian tree priorities to $-\lfloor\log\log(1/w_x)\rfloor + U(0, 1)$. This method generalizes the learning-augmented BSTs [Lin-Luo-Woodruff ICML`22] from Zipfian distributions to arbitrary, possibly inaccurate, predictions. It also gives the first external memory data structure that can provably take advantage of localities in access sequences via online self-reorganizations.
 
 ### Dec 18, 2023: Xiaofan Yuan (Arizona State University)        
-_**On Rainbow Thresholds**_        [bilibili](https://www.bilibili.com/video/BV1Pc411t7Wt/)
+_**On Rainbow Thresholds**_        [video](https://www.bilibili.com/video/BV1Pc411t7Wt/)
 
 Abstract: Resolving a recent problem of Bell, Frieze, and Marbach, we establish the threshold result of Frankston-Kahn-Narayanan-Park in the rainbow setting. This is joint work with Jie Han.
 
 
 ### Dec 13, 2023: Yan Wang (SJTU)        
-_**Vertex degree sums for perfect matchings in 3-uniform hypergraphs**_       [bilibili](https://www.bilibili.com/video/BV1VT4y1p78C/)      
+_**Vertex degree sums for perfect matchings in 3-uniform hypergraphs**_       [video](https://www.bilibili.com/video/BV1VT4y1p78C/)      
 
 Let $H_{n, n/3}^2$ be the 3-graph of order $n$, whose vertex set is partitioned into two sets $S$ and $T$ of size $\frac{1}{3}n+1$ and $\frac{2}{3}n -1$, respectively, and whose edge set consists of all triples with at least $2$ vertices in $T$. Suppose that $n$ is sufficiently large and $H$ is a 3-uniform hypergraph of order $n$ with no isolated vertex. Zhang and Lu [Discrete Math. 341 (2018), 748--758] conjectured that if $\deg(u)+\deg(v) > 2(\binom{n-1}{2}-\binom{2n/3}{2})$ for any two vertices $u$ and $v$ that are contained in some edge of $H$, then $H$ contains a perfect matching or $H$ is a subgraph of $H_{n,n/3}^2$. We construct a counter-example to the conjecture. Furthermore, we prove that if $\deg(u)+\deg(v) > (\frac{3}{5}+c)n^2$ for any two vertices $u$ and $v$ that are contained in some edge of $H$, then $H$ contains a perfect matching or $H$ is a subgraph of $H_{n,n/3}^2$. This result implies a result of Zhang, Zhao and Lu [Electron. J. Combin. 25 (3), 2018]. This is joint work with Yi Zhang.
 
 ### Oct 18, 2023:  H.A. Kierstead (Arizona State University)      
-_**Sparsity from a game theoretic perspective**_     [bilibili](https://www.bilibili.com/video/BV1ot4y1Z7XV/)     
+_**Sparsity from a game theoretic perspective**_     [video](https://www.bilibili.com/video/BV1ot4y1Z7XV/)     
 
 Abstract: Nešetřil and Ossona de Mendez introduced the notion of graph classes
 _with bounded expansion_ and the more general notion of
@@ -103,7 +117,7 @@ Science.
 
 
 ### Oct 13, 2023:  Songling Shan (Auburn University)
-_**Towards the Overfull Conjecture**_      [bilibili](https://www.bilibili.com/video/BV1aK4y167Co/)    
+_**Towards the Overfull Conjecture**_      [video](https://www.bilibili.com/video/BV1aK4y167Co/)    
  
 Abstract: Let $G$ be a simple graph with  maximum degree  denoted as $\Delta(G)$. An overfull subgraph $H$ of $G$ is a subgraph satisfying the condition $|E(H)| > \Delta(G)\lfloor \frac{1}{2}\|V(H)\| \rfloor$. In 1986, Chetwynd and Hilton proposed the Overfull Conjecture, stating that a  graph $G$ with  maximum degree $\Delta(G)> \frac{1}{3}\|V(G)\|$  has  chromatic index equal to  $\Delta(G)$ if and only if it does not contain any overfull subgraph. The Overfull Conjecture has many implications.   For example,  it implies  a  polynomial-time algorithm for determining the chromatic index of   graphs $G$ with  $\Delta(G) > \frac{1}{3}\|V(G)\|$, and implies several longstanding conjectures   in the area of graph edge colorings.
 In this paper, we make  the first improvement towards the conjecture when not imposing a minimum degree condition on the graph:  for any  $0<\varepsilon  \le \frac{1}{22}$, there exists  a positive  integer $n_0$  such that if $G$ is a  graph on $n\ge n_0$ vertices with $\Delta(G) \ge (1-\varepsilon)n$, then the
@@ -116,7 +130,7 @@ _**Measure doubling for small sets in SO(3,R)**_
 Abstract: Let $SO(3,R)$ be the 3D-rotation group equipped with the real-manifold topology and the normalized Haar measure $\mu$. Confirming a conjecture by Breuillard and Green, we show that if A is an open subset of $SO(3,R)$ with sufficiently small measure, then $\mu(A^2) > 3.99 \mu(A)$. This is joint work with Chieu-Minh Tran (NUS) and Ruixiang Zhang (Berkeley).
 
 ### Sept 18, 2023: Patrice Ossona de Mendez (CNRS and Univ. of Charles)     
-_**Twin-width and permutations**_     [bilibili](https://www.bilibili.com/video/BV1TN4y1v7sP/)      
+_**Twin-width and permutations**_     [video](https://www.bilibili.com/video/BV1TN4y1v7sP/)      
 
 Abstract:
 Inspired by a width invariant on permutations  defined by Guillemot and Marx, Bonnet, Kim, Thomassé, and Watrigant introduced the  twin-width of graphs, which  is a parameter describing its structural complexity. This invariant has been further extended to binary structures, in several (basically equivalent) ways. We prove that a class of binary relational structures (that is: edge-colored partially directed graphs) has bounded twin-width if and only if it is a first-order transduction of a proper permutation class. As a by-product, we show that every class with bounded twin-width contains at most $2^{O(n)}$ pairwise non-isomorphic $n$-vertex graphs.
