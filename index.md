@@ -19,6 +19,30 @@ This online seminar is organized by [Ping Hu](https://hupple.github.io/) ([SYSU]
 ## Past Talks
 Check [past talks](past) for the full list of past talks with all details.
 
+### Oct 22, 2024:  András Sebő (CNRS, Laboratoire G-SCOP, Univ. Grenoble)        
+_**The Salesman and the Postman: Frontiers and Gateways in Combinatorial Optimization**_    [video](https://www.bilibili.com/video/BV1Zam2YWEp8/)    [slides](./slides/2024/combinatorial_optimization.pdf)   [ppt](./slides/2024/combinatorial_optimization.ppptx)      
+
+Abstract: Combinatorial optimization has recently witnessed new and also simultaneous applications of probability theory, information theory, algebra, geometry, number theory, semidefinite programming, etc. This lecture aims to showcase some interactions between combinatorics and other branches of mathematics and also beyond the mathematical realm or between some pillars of combinatorics itself.
+The presentation plans to explore frontiers and gateways through various examples with the Traveling Salesman Problem (TSP) and the Chinese Postman Problem serving as primary threads. A potential side-effect of these explanations may be to share some concrete recent ideas related to the TSP itself, and to some other combinatorial problems, including some contributions of the lecturer.     
+
+The history of the TSP demonstrates how generic methods may predict new phenomena, stimulate the development of adapted specialized solutions, and how a synthesis of several methods finally leads to breakthroughs.      
+
+### Oct 22, 2024:  Felix Cleman (IBS)        
+_**Triangles in the Plane**_    [video](https://www.bilibili.com/video/BV1MGm2YMENr/)     [slides](./slides/2024/Almost_Congruent_Triangles.pdf)      
+
+A classical problem in combinatorial geometry, posed by Erdős in
+1946, asks to determine the maximum number of unit segments in a
+set of n points in the plane. Since then a great variety of extremal
+problems in finite planar point sets have been studied. Here, we look
+at such questions concerning triangles. Among others we answer the
+following question asked by Erdős and Purdy almost 50 years ago:
+Given n points in the plane, how many triangles can be approximate
+congruent to equilateral triangles? For our proofs we use hypergraph
+Turán theory. This is joint work with Balogh and Dumitrescu.
+
+The history of the TSP demonstrates how generic methods may predict new phenomena, stimulate the development of adapted specialized solutions, and how a synthesis of several methods finally leads to breakthroughs.      
+
+
 ### Sept 24, 2024:  Bojan Mohar ( Simon Fraser University (Canada)  and University of Ljubljana (Slovenia) )      
 _**Random embeddings of graphs in surfaces**_    [video](https://www.bilibili.com/video/BV1Pp11YREwV/)      
 
