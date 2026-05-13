@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Conference
+layout: template
+filename: conference
 ---
 
 # Conference Title
@@ -9,8 +10,8 @@ title: Conference
 
 Welcome to the conference website.
 
-- [Important Dates](important-dates.html)
-- [Speakers](speakers.html)
-- [Program](program.html)
-- [Venue](venue.html)
-- [Contact](contact.html)
+- [Important Dates](important-dates)
+- [Speakers](speakers)
+- [Program](program)
+- [Venue](venue)
+- [Contact](contact)
