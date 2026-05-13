@@ -24,9 +24,9 @@
       {% assign nav_pages = "index,past,student,conference" | split: "," %}
 
       {% for nav in nav_pages %}
-        {% for page in site.pages %}
-          {% if page.filename == nav %}
-            <a href="{{ page.filename }}" class="btn">{{ page.title }}</a>
+        {% for p in site.pages %}
+          {% if p.filename == nav %}
+            <a href="{{ p.filename }}" class="btn">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
       {% endfor %}
