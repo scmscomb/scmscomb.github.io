@@ -21,7 +21,6 @@ _**To Be Continued**_
 
 ## Past talks 
 
-### Apr 21， 2025, 10:00-11:00 (UTC+8):Zhihan Jin, Xinqi Huang, ETH Zurich 
 ### Apr 21, 2025, 10:00-11:00 (UTC+8): Zhihan Jin, Xinqi Huang, ETH Zurich
 
 _**Colouring random Hasse diagrams and box-Delaunay graphs**_
