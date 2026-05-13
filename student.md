@@ -22,50 +22,72 @@ _**To Be Continued**_
 ## Past talks 
 
 ### Apr 21， 2025, 10:00-11:00 (UTC+8):Zhihan Jin, Xinqi Huang, ETH Zurich 
-_**Colouring random Hasse diagrams and box-Delaunay graphs**_  
+### Apr 21, 2025, 10:00-11:00 (UTC+8): Zhihan Jin, Xinqi Huang, ETH Zurich
 
-Abstract:  
-Fix d\ge2 and consider a uniformly random set P of n points in [0,1]^{d}. Let G be the Hasse diagram of P (with respect to the coordinatewise partial order), or alternatively let G be the Delaunay graph of P with respect to axis-parallel boxes (where we put an edge between u,v\in P whenever there is an axis-parallel box containing u,v and no other points of P).
-In each of these two closely related settings, we show that the chromatic number of G is typically (\log n)^{d-1+o(1)} and the independence number of G is typically n/(\log n)^{d-1+o(1)}. When d=2, we obtain bounds that are sharp up to constant factors: the chromatic number is typically of order \log n/\log\log n and the independence number is typically of order n\log\log n/\log n.
-These results extend and sharpen previous bounds by Chen, Pach, Szegedy and Tardos. In addition, they provide new bounds on the largest possible chromatic number (and lowest possible independence number) of a d-dimensional box-Delaunay graph or Hasse diagram, in particular resolving a conjecture of Tomon.
+_**Colouring random Hasse diagrams and box-Delaunay graphs**_
 
-### Mar 25， 2025, 14:30-15:30 (UTC+8):Mingyuan Rong, Xinqi Huang, University of Science and Technology of China 
-_**Interpolating chromatic and homomorphism thresholds**_  
+Abstract:
+Fix $d\ge2$ and consider a uniformly random set $P$ of $n$ points in $[0,1]^d$. Let $G$ be the Hasse diagram of $P$ (with respect to the coordinatewise partial order), or alternatively let $G$ be the Delaunay graph of $P$ with respect to axis-parallel boxes (where we put an edge between $u,v\in P$ whenever there is an axis-parallel box containing $u,v$ and no other points of $P$).
+In each of these two closely related settings, we show that the chromatic number of $G$ is typically $(\log n)^{d-1+o(1)}$ and the independence number of $G$ is typically $n/(\log n)^{d-1+o(1)}$. When $d=2$, we obtain bounds that are sharp up to constant factors: the chromatic number is typically of order $\log n/\log\log n$ and the independence number is typically of order $n\log\log n/\log n$.
+These results extend and sharpen previous bounds by Chen, Pach, Szegedy and Tardos. In addition, they provide new bounds on the largest possible chromatic number (and lowest possible independence number) of a $d$-dimensional box-Delaunay graph or Hasse diagram, in particular resolving a conjecture of Tomon.
 
-Abstract:  
-The problem of chromatic thresholds seeks for minimum degree conditions that ensure $H$-free graphs to have a bounded chromatic number, or equivalently a bounded size homomorphic image. The strengthened homomorphism thresholds problem further requires that the homomorphic image itself is $H$-free. The purpose of this paper is two-fold. First, we define a generalized notion of threshold which encapsulates and interpolates chromatic and homomorphism thresholds via the theory of VC-dimension. Our first result shows a smooth transition between these two thresholds when varying the restrictions on homomorphic images. In particular, we proved that for $t \ge s \ge 3$ and $\epsilon>0$, if $G$ is an $n$-vertex $K_s$-free graph with VC-dimension $d$ and $\delta(G) \ge (\frac{(s-3)(t-s+2)+1}{(s-2)(t-s+2)+1} + \epsilon)n$, then $G$ is homomorphic to a $K_t$-free graph $H$ with $|H| = O(1)$. Moreover, we construct graphs showing that this minimum degree condition is optimal. This extends and unifies the results of Thomassen, Łuczak and Thomassé, and Goddard, Lyle and Nikiforov, and provides a deeper insight into the cause of existences of homomorphic images with various properties.
-Second, we introduce the blowup threshold $\delta_B(H)$ as the infimum $\alpha$ such that every $n$-vertex maximal $H$-free graph $G$ with $\delta(G)\ge\alpha n$ is a blowup of some $F$ with $|F|=O(1)$. This notion strengthens homomorphism threshold. While the homomorphism thresholds for odd cycles remain unknown, we prove that $\delta_B(C_{2k-1})=1/(2k-1)$ for any integer $k\ge 2$. This strengthens the result of Ebsen and Schacht and answers a question of Schacht and shows that, in sharp contrast to the chromatic thresholds, 0 is an accumulation point for blowup thresholds. Our proofs mix tools from VC-dimension theory and an iterative refining process, and draw connection to a problem concerning codes on graphs.
+### Mar 25, 2025, 14:30-15:30 (UTC+8): Mingyuan Rong, Xinqi Huang, University of Science and Technology of China
 
-### Nov 22， 2024, 17:00-18:00 (UTC+8):Tianhao Wang, Nankai University 
-_**Continuous Edge Chromatic Numbers of Abelian Group Actions**_  
+_**Interpolating chromatic and homomorphism thresholds**_
 
-Abstract:   
-We prove that for any generating set S of \mathbb {Z}^n, the continuous edge chromatic number of the Schreier graph of the Bernoulli shift action G=F(S,2^{\mathbb{Z}^n}) is \chi'_c(G)=\chi'(G)+1. In particular, for the standard generating set, the continuous edge chromatic number of F(2^{\mathbb {Z}^n}) is 2n+1.
+Abstract:
+The problem of chromatic thresholds seeks for minimum degree conditions that ensure $H$-free graphs to have a bounded chromatic number, or equivalently a bounded size homomorphic image. The strengthened homomorphism thresholds problem further requires that the homomorphic image itself is $H$-free.
+The purpose of this paper is two-fold. First, we define a generalized notion of threshold which encapsulates and interpolates chromatic and homomorphism thresholds via the theory of VC-dimension. Our first result shows a smooth transition between these two thresholds when varying the restrictions on homomorphic images.
+In particular, we proved that for $t \ge s \ge 3$ and $\epsilon>0$, if $G$ is an $n$-vertex $K_s$-free graph with VC-dimension $d$ and $\delta(G) \ge \left(\frac{(s-3)(t-s+2)+1}{(s-2)(t-s+2)+1} + \epsilon\right)n$, then $G$ is homomorphic to a $K_t$-free graph $H$ with $|H| = O(1)$.
+Moreover, we construct graphs showing that this minimum degree condition is optimal. This extends and unifies the results of Thomassen, Łuczak and Thomassé, and Goddard, Lyle and Nikiforov, and provides a deeper insight into the cause of existences of homomorphic images with various properties.
+Second, we introduce the blowup threshold $\delta_B(H)$ as the infimum $\alpha$ such that every $n$-vertex maximal $H$-free graph $G$ with $\delta(G)\ge\alpha n$ is a blowup of some $F$ with $|F|=O(1)$. This notion strengthens homomorphism threshold.
+While the homomorphism thresholds for odd cycles remain unknown, we prove that $\delta_B(C_{2k-1})=\frac{1}{2k-1}$ for any integer $k\ge 2$. This strengthens the result of Ebsen and Schacht and answers a question of Schacht and shows that, in sharp contrast to the chromatic thresholds, $0$ is an accumulation point for blowup thresholds.
+Our proofs mix tools from VC-dimension theory and an iterative refining process, and draw connection to a problem concerning codes on graphs.
 
-### Nov 7， 2024, 15:30-16:30 (UTC+8):Shengjie Xie, University of Science and Technology of China 
-_**Finding irregular subgraphs via local adjustments**_  
+### Nov 22, 2024, 17:00-18:00 (UTC+8): Tianhao Wang, Nankai University
 
-Abstract:   
-For a graph H, let m(H,k) denote the number of vertices of degree k in H. A conjecture of Alon and Wei states that for any d\geq 3, every n-vertex d-regular graph contains a spanning subgraph H satisfying |m(H,k)-\frac{n}{d+1}|\leq 2 for every 0\leq k \leq d. This holds easily when d\leq 2. An asymptotic version of this conjecture was initially established by Frieze, Gould, Karoński and Pfender, subsequently improved by Alon and Wei, and most recently enhanced by Fox, Luo and Pham, approaching its complete range. All of these approaches relied on probabilistic methods.
-In this paper, we provide a novel framework to study this conjecture, based on localized deterministic techniques which we call local adjustments. We prove two main results. Firstly, we show that every n-vertex d-regular graph contains a spanning subgraph H satisfying |m(H,k)-\frac{n}{d+1}|\leq 2d^2 for all 0\leq k \leq d, which provides the first bound independent of the value of n. Secondly, we confirm the case d=3 of the Alon-Wei Conjecture in a strong form. Both results can be generalized to multigraphs and yield efficient algorithms for finding the desired subgraphs H. Furthermore, we explore a generalization of the Alon-Wei Conjecture for multigraphs and its connection to the Faudree-Lehel Conjecture concerning irregularity strength.
+_**Continuous Edge Chromatic Numbers of Abelian Group Actions**_
 
-### Oct 23， 2024, 14:30-15:30 (UTC+8):Yupeng Lin, University of Science and Technology of China 
-_**Kohayakawa-Nagle-Rödl-Schacht conjecture for subdivisions**_  
+Abstract:
+We prove that for any generating set $S$ of $\mathbb{Z}^n$, the continuous edge chromatic number of the Schreier graph of the Bernoulli shift action $G=F(S,2^{\mathbb{Z}^n})$ is $\chi'_c(G)=\chi'(G)+1$. In particular, for the standard generating set, the continuous edge chromatic number of $F(2^{\mathbb{Z}^n})$ is $2n+1$.
 
-Abstract:   
-In this paper, we study the well-known Kohayakawa-Nagle-Rödl-Schacht (KNRS) conjecture, with a specific focus on graph subdivisions. The KNRS conjecture asserts that for any graph $H$, locally dense graphs contain asymptotically at least the number of copies of $H$ found in a random graph with the same edge density. We prove the following results about $k$-subdivisions of graphs (obtained by replacing edges with paths of length $k+1$).
+### Nov 7, 2024, 15:30-16:30 (UTC+8): Shengjie Xie, University of Science and Technology of China
+
+_**Finding irregular subgraphs via local adjustments**_
+
+Abstract:
+For a graph $H$, let $m(H,k)$ denote the number of vertices of degree $k$ in $H$. A conjecture of Alon and Wei states that for any $d\geq 3$, every $n$-vertex $d$-regular graph contains a spanning subgraph $H$ satisfying $\left|m(H,k)-\frac{n}{d+1}\right|\leq 2$ for every $0\leq k \leq d$.
+This holds easily when $d\leq 2$. An asymptotic version of this conjecture was initially established by Frieze, Gould, Karoński and Pfender, subsequently improved by Alon and Wei, and most recently enhanced by Fox, Luo and Pham, approaching its complete range. All of these approaches relied on probabilistic methods.
+In this paper, we provide a novel framework to study this conjecture, based on localized deterministic techniques which we call local adjustments. We prove two main results.
+Firstly, we show that every $n$-vertex $d$-regular graph contains a spanning subgraph $H$ satisfying $\left|m(H,k)-\frac{n}{d+1}\right|\leq 2d^2$ for all $0\leq k \leq d$, which provides the first bound independent of the value of $n$.
+Secondly, we confirm the case $d=3$ of the Alon-Wei Conjecture in a strong form. Both results can be generalized to multigraphs and yield efficient algorithms for finding the desired subgraphs $H$.
+Furthermore, we explore a generalization of the Alon-Wei Conjecture for multigraphs and its connection to the Faudree-Lehel Conjecture concerning irregularity strength.
+
+### Oct 23, 2024, 14:30-15:30 (UTC+8): Yupeng Lin, University of Science and Technology of China
+
+_**Kohayakawa-Nagle-Rödl-Schacht conjecture for subdivisions**_
+
+Abstract:
+In this paper, we study the well-known Kohayakawa-Nagle-Rödl-Schacht (KNRS) conjecture, with a specific focus on graph subdivisions. The KNRS conjecture asserts that for any graph $H$, locally dense graphs contain asymptotically at least the number of copies of $H$ found in a random graph with the same edge density.
+We prove the following results about $k$-subdivisions of graphs (obtained by replacing edges with paths of length $k+1$).
 
 - If $H$ satisfies the KNRS conjecture, then its $(2k-1)$-subdivision satisfies Sidorenko’s conjecture, extending a prior result of Conlon, Kim, Lee and Lee;
 - If $H$ satisfies the KNRS conjecture, then its $2k$-subdivision satisfies a constant-fraction version of the KNRS conjecture;
 - If $H$ is regular and satisfies the KNRS conjecture, then its $2k$-subdivision also satisfies the KNRS conjecture.
+- 
+These findings imply that all balanced subdivisions of cliques satisfy the KNRS conjecture, improving upon a recent result of Bradač, Sudakov and Wigerson. Our work provides new insights into this pivotal conjecture in extremal graph theory.
 
-These findings imply that all balanced subdivisions of cliques satisfy the KNRS conjecture, improving upon a recent result of Bradač, Sudakov and Wigerson. Our work provides new insights into this pivotal conjecture in extremal graph theory. †
+### Jun 24, 2024, 14:00-15:00 (UTC+8): Mingyuan Rong, University of Science and Technology of China
 
-### Jun 24， 2024, 14:00-15:00 (UTC+8):Mingyuan Rong, University of Science and Technology of China 
-_**Exact results on traces of sets**_  
+_**Exact results on traces of sets**_
 
-Abstract:   
-For non-negative integers n, m, a and b, we write \left( n,m \right) \rightarrow \left( a,b \right) if for every family \mathcal{F}\subseteq 2^{[n]} with |\mathcal{F}|\geqslant m there is an a-element set T\subseteq [n] such that \left| \mathcal{F}_{\mid T} \right| \geqslant b, where \mathcal{F}_{\mid T}=\{ F \cap T : F \in \mathcal{F} \}. A longstanding problem in extremal set theory asks to determine m(s)=\lim_{n\rightarrow +\infty}\frac{m(n,s)}{n}, where m(n,s) denotes the maximum integer m such that \left( n,m \right) \rightarrow \left( n-1,m-s \right) holds for non-negatives n and s. In this paper, we establish the exact value of m(2^{d-1}-c) for all 1\leqslant c\leqslant d whenever d\geqslant 50, thereby solving an open problem posed by Piga and Schülke. To be precise, we show that m(n,2^{d-1}-c)=\frac{2^{d}-c}{d}n \mbox{ for } 1\leq c\leq d-1 \mbox{ and } d\mid n, \mbox{ and } m(n,2^{d-1}-d)=\frac{2^{d}-d-0.5}{d}n \mbox{ for } 2d\mid n holds for d\geq 50. Furthermore, we provide a proof that confirms a conjecture of Frankl and Watanabe from 1994, demonstrating that m(11)=5.3.
+Abstract:
+
+For non-negative integers $n,m,a$ and $b$, we write $(n,m)\rightarrow(a,b)$ if for every family $\mathcal{F}\subseteq 2^{[n]}$ with $|\mathcal{F}|\geqslant m$ there is an $a$-element set $T\subseteq [n]$ such that $\left| \mathcal{F}_{\mid T} \right| \geqslant b$, where $\mathcal{F}_{\mid T}=\{ F \cap T : F \in \mathcal{F} \}$.
+A longstanding problem in extremal set theory asks to determine $m(s)=\lim_{n\rightarrow +\infty}\frac{m(n,s)}{n}$, where $m(n,s)$ denotes the maximum integer $m$ such that $(n,m)\rightarrow(n-1,m-s)$ holds for non-negatives $n$ and $s$.
+In this paper, we establish the exact value of $m(2^{d-1}-c)$ for all $1\leqslant c\leqslant d$ whenever $d\geqslant 50$, thereby solving an open problem posed by Piga and Schülke.
+To be precise, we show that $m(n,2^{d-1}-c)=\frac{2^{d}-c}{d}n$ for $1\leq c\leq d-1$ and $d\mid n$, and $m(n,2^{d-1}-d)=\frac{2^{d}-d-0.5}{d}n$ for $2d\mid n$ holds for $d\geq 50$.
+Furthermore, we provide a proof that confirms a conjecture of Frankl and Watanabe from 1994, demonstrating that $m(11)=5.3$.
 
 ### Dec 22， 2023, 10:00-11:00 (UTC+8):[Longfei Fang](lffangmath@qq.com), East China University of Science and Technology 
 _**Uniqueness and Rapid Mixing in the Bipartite Hardcore Model**_  
