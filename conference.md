@@ -6,28 +6,30 @@ filename: conference
 ---
 
 <style>
-.conf-page{display:flex;gap:36px;align-items:flex-start}
-.conf-sidebar{width:230px;flex-shrink:0;border-right:1px solid #ddd;padding-right:20px}
-.conf-sidebar a{display:block;padding:9px 0;color:#159957;text-decoration:none;font-weight:600}
-.conf-sidebar a:hover{text-decoration:underline}
+.conf-page{display:flex;gap:36px;align-items:flex-start;margin-left:-35px}
+.conf-sidebar{width:230px;flex-shrink:0}
+.conf-sidebar a{display:block;margin-bottom:10px;padding:11px 14px;border:1px solid #cfcfcf;border-radius:6px;color:#159957;text-decoration:none;font-weight:600;background:#fff}
+.conf-sidebar a:hover{background:#f3f8f5}
+.conf-sidebar a.active{background:#159957;color:#fff;border-color:#159957}
 .conf-content{flex:1;min-width:0}
-.conf-content section{margin-bottom:45px}
-@media(max-width:700px){.conf-page{display:block}.conf-sidebar{width:auto;border-right:0;border-bottom:1px solid #ddd;margin-bottom:25px;padding-bottom:12px}}
+.conf-section{display:none}
+.conf-section.active{display:block}
+@media(max-width:700px){.conf-page{display:block;margin-left:0}.conf-sidebar{width:auto;margin-bottom:25px}}
 </style>
 
 <div class="conf-page">
 
 <div class="conf-sidebar">
-<a href="#home">Home</a>
-<a href="#venue">Conference Venue</a>
-<a href="#speakers">Speakers</a>
-<a href="#accommodation">Accommodation</a>
-<a href="#contact">Contact</a>
+<a href="#home" class="conf-link active" onclick="showSection('home',this)">Home</a>
+<a href="#venue" class="conf-link" onclick="showSection('venue',this)">Conference Venue</a>
+<a href="#speakers" class="conf-link" onclick="showSection('speakers',this)">Speakers</a>
+<a href="#accommodation" class="conf-link" onclick="showSection('accommodation',this)">Accommodation</a>
+<a href="#contact" class="conf-link" onclick="showSection('contact',this)">Contact</a>
 </div>
 
 <div class="conf-content">
 
-<section id="home">
+<section id="home" class="conf-section active">
 
 # Conference
 
@@ -42,7 +44,7 @@ Welcome to the conference website.
 
 </section>
 
-<section id="venue">
+<section id="venue" class="conf-section">
 
 ## Conference Venue
 
@@ -54,7 +56,7 @@ Please add detailed transportation information here, including directions from P
 
 </section>
 
-<section id="speakers">
+<section id="speakers" class="conf-section">
 
 ## Speakers
 
@@ -64,7 +66,7 @@ Please add detailed transportation information here, including directions from P
 
 </section>
 
-<section id="accommodation">
+<section id="accommodation" class="conf-section">
 
 ## Accommodation
 
@@ -76,7 +78,7 @@ Please add lunch, dinner, and coffee break information here.
 
 </section>
 
-<section id="contact">
+<section id="contact" class="conf-section">
 
 ## Contact
 
@@ -89,3 +91,12 @@ For questions, please contact:
 
 </div>
 </div>
+
+<script>
+function showSection(id,el){
+  document.querySelectorAll('.conf-section').forEach(s=>s.classList.remove('active'));
+  document.querySelectorAll('.conf-link').forEach(a=>a.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  el.classList.add('active');
+}
+</script>
