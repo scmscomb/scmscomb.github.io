@@ -2,8 +2,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    
-
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -12,7 +10,7 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-     {% include head-custom.html %}
+    {% include head-custom.html %}
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -20,17 +18,17 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      
+
       {% assign nav_pages = "index,past,student,conference" | split: "," %}
 
       {% for nav in nav_pages %}
         {% for p in site.pages %}
           {% if p.filename == nav %}
-            <a href="{{ p.filename }}" class="btn">{{ p.title }}</a>
+            <a href="{{ p.filename }}" class="btn">{% if p.filename == "conference" %}Conference{% else %}{{ p.title }}{% endif %}</a>
           {% endif %}
         {% endfor %}
       {% endfor %}
-  
+
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
