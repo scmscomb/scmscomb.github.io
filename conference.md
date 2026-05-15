@@ -1,6 +1,7 @@
 ---
-title: Graph theory: structure, surfaces, spectra
-layout: template
+title: "Graph theory: structure, surfaces, spectra"
+description: "Shanghai Center for Mathematical Sciences"
+layout: sub
 filename: conference
 ---
 
