@@ -1,6 +1,6 @@
 ---
 title: "Graph theory: structure, surfaces, spectra"
-description: "Shanghai Center for Mathematical Sciences"
+description: "Shanghai Center for Mathematical Sciences, Shanghai, 24 Sep - 27 Sep, 2026"
 layout: sub
 filename: conference
 ---
