@@ -1,5 +1,5 @@
 ---
-title: Conference
+title: "Graph theory: structure, surfaces, spectra"
 description: "Shanghai Center for Mathematical Sciences, Shanghai, 24 Sep - 27 Sep, 2026"
 layout: sub
 filename: conference
@@ -30,8 +30,6 @@ filename: conference
 <div class="conf-content">
 
 <section id="home" class="conf-section active">
-
-# Graph theory: structure, surfaces, spectra
 
 ## Shanghai, China
 
