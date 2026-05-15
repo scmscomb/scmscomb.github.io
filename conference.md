@@ -1,5 +1,5 @@
 ---
-title: Conference
+title: Graph theory: structure, surfaces, spectra
 layout: template
 filename: conference
 ---
