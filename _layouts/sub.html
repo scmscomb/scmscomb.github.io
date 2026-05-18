@@ -28,13 +28,7 @@
       {% for nav in nav_pages %}
         {% for p in site.pages %}
           {% if p.filename == nav %}
-            <a href="{{ p.filename }}" class="btn">
-              {% if p.filename == "conference" %}
-                Conference
-              {% else %}
-                {{ p.title }}
-              {% endif %}
-            </a>
+            <a href="{{ p.filename }}" class="btn">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
       {% endfor %}
