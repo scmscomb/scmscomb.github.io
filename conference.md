@@ -84,7 +84,7 @@ Additional speakers will be announced later.
 
 ## Conference Venue
 
-The conference will take place at the Shanghai Center for Mathematical Sciences (SCMS), Fudan University, Jiangwan Campus, Shanghai, China.
+The conference will take place at the Shanghai Center for Mathematical Sciences (SCMS), Fudan University.
 
 **Address:**  
 Shanghai Center for Mathematical Sciences  
