@@ -8,18 +8,22 @@ filename: conference
 <style>
 .conf-page{display:flex;gap:36px;align-items:flex-start;margin-left:-35px}
 .conf-sidebar{width:230px;flex-shrink:0}
+.conf-photo{width:100%;border-radius:8px;margin-bottom:12px}
+.conf-note{font-size:14px;line-height:1.5;margin:0 0 18px 0;color:#333}
 .conf-sidebar a{display:block;margin-bottom:10px;padding:11px 14px;border:1px solid #cfcfcf;border-radius:6px;color:#159957;text-decoration:none;font-weight:600;background:#fff}
 .conf-sidebar a:hover{background:#f3f8f5}
 .conf-sidebar a.active{background:#159957;color:#fff;border-color:#159957}
 .conf-content{flex:1;min-width:0}
 .conf-section{display:none}
 .conf-section.active{display:block}
-@media(max-width:700px){.conf-page{display:block;margin-left:0}.conf-sidebar{width:auto;margin-bottom:25px}}
+@media(max-width:700px){.conf-page{display:block;margin-left:0}.conf-sidebar{width:auto;margin-bottom:25px}.conf-photo{max-width:230px}}
 </style>
 
 <div class="conf-page">
 
 <div class="conf-sidebar">
+<img src="/assets/BM_2017.jpg" alt="Bojan Mohar" class="conf-photo">
+<p class="conf-note">This conference celebrates the 70th birthday of Bojan Mohar.</p>
 <a href="#home" class="conf-link active" onclick="showSection('home',this)">Home</a>
 <a href="#venue" class="conf-link" onclick="showSection('venue',this)">Conference Venue</a>
 <a href="#speakers" class="conf-link" onclick="showSection('speakers',this)">Speakers</a>
