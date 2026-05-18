@@ -72,11 +72,9 @@ The Shanghai Center for Mathematical Sciences is located near **Gate 2** of the 
 
 ### Transportation
 
-Participants are encouraged to take the Shanghai Metro to **Guofan Road Station** (国帆路站) on Metro Line 10.
+Fudan University, Jiangwan Campus, can be conveniently reached by metro or taxi from both Pudong International Airport and Hongqiao International Airport / Railway Station.
 
-Please exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to Gate 2 of the Jiangwan Campus.
-
-Shanghai can also be conveniently reached from both Pudong International Airport and Hongqiao International Airport / Railway Station via metro and taxi services.
+Participants are encouraged to take Shanghai Metro Line 10 to **Guofan Road Station** (国帆路站) and exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to **Gate 2** of the Jiangwan Campus.  
 
 </section>
 
