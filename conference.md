@@ -30,7 +30,7 @@ filename: conference
 <a href="#home" class="conf-link active" onclick="showSection('home',this)">Home</a>
 <a href="#venue" class="conf-link" onclick="showSection('venue',this)">Conference Venue</a>
 <a href="#speakers" class="conf-link" onclick="showSection('speakers',this)">Speakers</a>
-<a href="#accommodation" class="conf-link" onclick="showSection('accommodation',this)">Accommodation & Meals</a>
+<a href="#accommodation" class="conf-link" onclick="showSection('accommodation',this)">Travel & Accommodation</a>
 <a href="#contact" class="conf-link" onclick="showSection('contact',this)">Contact</a>
 </div>
 
@@ -47,10 +47,11 @@ The conference will take place from September 24–27, 2026, at the Shanghai Cen
 The meeting will bring together researchers working in graph theory, topological graph theory, combinatorics, and related areas. Topics include structural graph theory, graph embeddings, coloring problems, spectral methods, and interactions with geometry and topology.
 
 **Time:** September 24–27, 2026  
-**Venue:** Shanghai Center for Mathematical Sciences,
-Jiangwan Campus, Fudan University,
-2005 Songhu Road, Yangpu District,
+**Venue:** Shanghai Center for Mathematical Sciences,  
+Jiangwan Campus, Fudan University,  
+2005 Songhu Road, Yangpu District,  
 Shanghai 200438, China  
+
 **Organizer:** SCMS Combinatorics Group
 
 We warmly welcome participants from around the world to Shanghai.
@@ -68,18 +69,20 @@ Shanghai Center for Mathematical Sciences
 Fudan University, Jiangwan Campus  
 No. 2005 Songhu Road, Yangpu District, Shanghai 200438, China
 
+<div style="margin:18px 0 24px 0;">
+  <iframe
+    src="https://www.google.com/maps?q=Shanghai%20Center%20for%20Mathematical%20Sciences%2C%20Fudan%20University%2C%202005%20Songhu%20Road%2C%20Shanghai%2C%20China&output=embed"
+    width="100%"
+    height="360"
+    style="border:0;border-radius:8px;"
+    allowfullscreen=""
+    loading="lazy">
+  </iframe>
+</div>
+
 The Shanghai Center for Mathematical Sciences is located near **Gate 2** of the Jiangwan Campus.
 
-### Transportation
-
-Fudan University, Jiangwan Campus, can be conveniently reached by metro or taxi from both Pudong International Airport and Hongqiao International Airport / Railway Station.
-
-Participants are encouraged to take Shanghai Metro Line 10 to **Guofan Road Station** (国帆路站) and exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to Gate 2 of the Jiangwan Campus.  
-
-### Visa Information
-
-Participants who require a visa to enter China are encouraged to contact the organizers early. Invitation letters can be provided upon request.
-
+Participants are encouraged to take Shanghai Metro Line 10 to **Guofan Road Station** (国帆路站) and exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to Gate 2 of the Jiangwan Campus.
 
 </section>
 
@@ -105,7 +108,7 @@ Additional speakers will be announced later.
 
 <section id="accommodation" class="conf-section" markdown="1">
 
-## Accommodation & Meals
+## Travel & Accommodation
 
 ### Accommodation
 
@@ -113,12 +116,19 @@ Information about recommended hotels and accommodation options near the conferen
 
 Participants are encouraged to stay in the Jiangwan Campus / Wujiaochang area for convenient transportation to the Shanghai Center for Mathematical Sciences.
 
+### Transportation
+
+Fudan University, Jiangwan Campus, can be conveniently reached by metro or taxi from both Pudong International Airport and Hongqiao International Airport / Railway Station.
+
 ### Meals
 
 Coffee breaks and lunches will be provided during the conference.
 
 Additional information regarding the conference dinner and banquet arrangements will be announced later.
 
+### Visa Information
+
+Participants who require a visa to enter China are encouraged to contact the organizers early. Invitation letters can be provided upon request.
 
 </section>
 
