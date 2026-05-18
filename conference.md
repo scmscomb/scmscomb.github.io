@@ -138,16 +138,12 @@ Participants who require a visa to enter China are encouraged to contact the org
 
 ## Contact
 
-### Scientific Organizing Committee
-
-For questions regarding the scientific program and conference participation, please contact:
+For most questions regarding the conference, including participation, accommodation, local arrangements, and invitation letters, please contact:
 
 - cltang22@m.fudan.edu.cn
 - hhwu@fudan.edu.cn
 
-### Administrative Contact
-
-For administrative matters, local arrangements, and invitation letters, please contact:
+You may also contact the SCMS administration:
 
 - zhaoxiaoting@fudan.edu.cn
 
