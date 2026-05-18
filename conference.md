@@ -127,10 +127,18 @@ Participants who require a visa to enter China are encouraged to contact the org
 
 ## Contact
 
-For questions, please contact:
+### Scientific Organizing Committee
 
-**Name:** Contact person  
-**Email:** your-email@example.com
+For questions regarding the scientific program and conference participation, please contact:
+
+- cltang22@m.fudan.edu.cn
+- hhwu@fudan.edu.cn
+
+### Administrative Contact
+
+For administrative matters, local arrangements, and invitation letters, please contact:
+
+- zhaoxiaoting@fudan.edu.cn
 
 </section>
 
