@@ -47,8 +47,11 @@ The conference will take place from September 24–27, 2026, at the Shanghai Cen
 The meeting will bring together researchers working in graph theory, topological graph theory, combinatorics, and related areas. Topics include structural graph theory, graph embeddings, coloring problems, spectral methods, and interactions with geometry and topology.
 
 **Time:** September 24–27, 2026  
-**Venue:** Shanghai Center for Mathematical Sciences, Fudan University, Shanghai, China  
-**Organizer:** SCMS Combinatorics Seminar
+**Venue:** Shanghai Center for Mathematical Sciences,
+Jiangwan Campus, Fudan University,
+2005 Songhu Road, Yangpu District,
+Shanghai 200438, China
+**Organizer:** SCMS Combinatorics Group
 
 We warmly welcome participants from around the world to Shanghai.
 
