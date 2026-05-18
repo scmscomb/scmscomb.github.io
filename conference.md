@@ -78,9 +78,19 @@ Shanghai can also be conveniently reached from both Pudong International Airport
 
 ## Speakers
 
-- Speaker 1, University 1
-- Speaker 2, University 2
-- Speaker 3, University 3
+### Plenary Speakers
+
+- Jørgen Bang-Jensen
+- Chris Godsil
+- Pavol Hell
+- Dan Král’
+- Tomasz Pisanski
+- Bruce Reed
+- Xuding Zhu
+
+### Other Speakers
+
+Additional speakers will be announced later.
 
 </section>
 
