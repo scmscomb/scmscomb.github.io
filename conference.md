@@ -9,7 +9,7 @@ filename: conference
 .conf-page{display:flex;gap:36px;align-items:flex-start;margin-left:-35px}
 .conf-sidebar{width:230px;flex-shrink:0}
 .conf-photo{width:100%;border-radius:8px;margin-bottom:12px}
-.conf-note{font-size:14px;line-height:1.5;margin:0 0 18px 0;color:#333}
+.conf-note{font-size:15px;line-height:1.7;margin:4px 0 22px 0;color:#444;font-style:italic;text-align:center;font-family:Georgia,serif}
 .conf-sidebar a{display:block;margin-bottom:10px;padding:11px 14px;border:1px solid #cfcfcf;border-radius:6px;color:#159957;text-decoration:none;font-weight:600;background:#fff}
 .conf-sidebar a:hover{background:#f3f8f5}
 .conf-sidebar a.active{background:#159957;color:#fff;border-color:#159957}
