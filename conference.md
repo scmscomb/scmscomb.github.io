@@ -6,6 +6,8 @@ filename: conference
 ---
 
 <style>
+.page-header .btn{display:none!important}
+
 .conf-page{display:flex;gap:36px;align-items:flex-start;margin-left:-35px}
 .conf-sidebar{width:230px;flex-shrink:0}
 .conf-photo{width:100%;border-radius:8px;margin-bottom:12px}
@@ -54,7 +56,7 @@ Jiangwan Campus, Fudan University,
 2005 Songhu Road, Yangpu District,  
 Shanghai 200438, China  
 
-**Organizer:** SCMS Combinatorics Group
+**Organizer:** [SCMS Combinatorics Group](https://scmscomb.github.io/) 
 
 We warmly welcome participants from around the world to Shanghai.
 
@@ -92,14 +94,14 @@ Fudan University, Jiangwan Campus
 No. 2005 Songhu Road, Yangpu District, Shanghai 200438, China
 
 <div style="margin:18px 0 24px 0;">
-  <iframe
-    src="https://maps.google.com/maps?q=31.3378624, 121.5088008&z=18&output=embed"
-    width="100%"
-    height="360"
-    style="border:0;border-radius:8px;"
-    allowfullscreen=""
-    loading="lazy">
-  </iframe>
+<iframe
+src="https://maps.google.com/maps?q=31.3378624,121.5088008&z=18&output=embed"
+width="100%"
+height="360"
+style="border:0;border-radius:8px;"
+allowfullscreen=""
+loading="lazy">
+</iframe>
 </div>
 
 The Shanghai Center for Mathematical Sciences is located near **Gate 2** of the Jiangwan Campus.
@@ -154,9 +156,9 @@ You may also contact the SCMS administration:
 
 <script>
 function showSection(id,el){
-  document.querySelectorAll('.conf-section').forEach(s=>s.classList.remove('active'));
-  document.querySelectorAll('.conf-link').forEach(a=>a.classList.remove('active'));
-  document.getElementById(id).classList.add('active');
-  el.classList.add('active');
+document.querySelectorAll('.conf-section').forEach(s=>s.classList.remove('active'));
+document.querySelectorAll('.conf-link').forEach(a=>a.classList.remove('active'));
+document.getElementById(id).classList.add('active');
+el.classList.add('active');
 }
 </script>
