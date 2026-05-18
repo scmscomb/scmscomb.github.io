@@ -82,8 +82,6 @@ No. 2005 Songhu Road, Yangpu District, Shanghai 200438, China
 
 The Shanghai Center for Mathematical Sciences is located near **Gate 2** of the Jiangwan Campus.
 
-Participants are encouraged to take Shanghai Metro Line 10 to **Guofan Road Station** (国帆路站) and exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to Gate 2 of the Jiangwan Campus.
-
 </section>
 
 <section id="speakers" class="conf-section" markdown="1">
@@ -110,15 +108,18 @@ Additional speakers will be announced later.
 
 ## Travel & Accommodation
 
+
+### Transportation
+
+Fudan University, Jiangwan Campus, can be conveniently reached by metro or taxi from both Pudong International Airport and Hongqiao International Airport / Railway Station.
+
+Participants are encouraged to take Shanghai Metro Line 10 to **Guofan Road Station** (国帆路站) and exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to Gate 2 of the Jiangwan Campus.
+
 ### Accommodation
 
 Information about recommended hotels and accommodation options near the conference venue will be announced later.
 
 Participants are encouraged to stay in the Jiangwan Campus / Wujiaochang area for convenient transportation to the Shanghai Center for Mathematical Sciences.
-
-### Transportation
-
-Fudan University, Jiangwan Campus, can be conveniently reached by metro or taxi from both Pudong International Airport and Hongqiao International Airport / Railway Station.
 
 ### Meals
 
