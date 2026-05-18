@@ -27,11 +27,13 @@ filename: conference
 <div class="conf-sidebar">
 <img src="/assets/BM_2017.jpg" alt="Bojan Mohar" class="conf-photo">
 <p class="conf-note">This conference celebrates the 70th birthday of Bojan Mohar.</p>
+
 <a href="#home" class="conf-link active" onclick="showSection('home',this)">Home</a>
-<a href="#venue" class="conf-link" onclick="showSection('venue',this)">Conference Venue</a>
 <a href="#speakers" class="conf-link" onclick="showSection('speakers',this)">Speakers</a>
+<a href="#venue" class="conf-link" onclick="showSection('venue',this)">Conference Venue</a>
 <a href="#accommodation" class="conf-link" onclick="showSection('accommodation',this)">Travel & Accommodation</a>
 <a href="#contact" class="conf-link" onclick="showSection('contact',this)">Contact</a>
+
 </div>
 
 <div class="conf-content">
@@ -58,33 +60,6 @@ We warmly welcome participants from around the world to Shanghai.
 
 </section>
 
-<section id="venue" class="conf-section" markdown="1">
-
-## Conference Venue
-
-The conference will take place at the Shanghai Center for Mathematical Sciences (SCMS), Fudan University, Jiangwan Campus, Shanghai, China.
-
-**Address:**  
-Shanghai Center for Mathematical Sciences  
-Fudan University, Jiangwan Campus  
-No. 2005 Songhu Road, Yangpu District, Shanghai 200438, China
-
-<div style="margin:18px 0 24px 0;">
-  <iframe
-    src="https://www.google.com/maps?q=Shanghai%20Center%20for%20Mathematical%20Sciences%2C%20Fudan%20University%2C%202005%20Songhu%20Road%2C%20Shanghai%2C%20China&output=embed"
-    width="100%"
-    height="360"
-    style="border:0;border-radius:8px;"
-    allowfullscreen=""
-    loading="lazy">
-  </iframe>
-</div>
-
-
-The Shanghai Center for Mathematical Sciences is located near **Gate 2** of the Jiangwan Campus.
-
-</section>
-
 <section id="speakers" class="conf-section" markdown="1">
 
 ## Speakers
@@ -105,10 +80,35 @@ Additional speakers will be announced later.
 
 </section>
 
+<section id="venue" class="conf-section" markdown="1">
+
+## Conference Venue
+
+The conference will take place at the Shanghai Center for Mathematical Sciences (SCMS), Fudan University, Jiangwan Campus, Shanghai, China.
+
+**Address:**  
+Shanghai Center for Mathematical Sciences  
+Fudan University, Jiangwan Campus  
+No. 2005 Songhu Road, Yangpu District, Shanghai 200438, China
+
+<div style="margin:18px 0 24px 0;">
+  <iframe
+    src="https://maps.google.com/maps?q=31.3406,121.5037&z=16&output=embed"
+    width="100%"
+    height="360"
+    style="border:0;border-radius:8px;"
+    allowfullscreen=""
+    loading="lazy">
+  </iframe>
+</div>
+
+The Shanghai Center for Mathematical Sciences is located near **Gate 2** of the Jiangwan Campus.
+
+</section>
+
 <section id="accommodation" class="conf-section" markdown="1">
 
 ## Travel & Accommodation
-
 
 ### Transportation
 
