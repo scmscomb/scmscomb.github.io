@@ -50,7 +50,7 @@ The meeting will bring together researchers working in graph theory, topological
 **Venue:** Shanghai Center for Mathematical Sciences,
 Jiangwan Campus, Fudan University,
 2005 Songhu Road, Yangpu District,
-Shanghai 200438, China
+Shanghai 200438, China  
 **Organizer:** SCMS Combinatorics Group
 
 We warmly welcome participants from around the world to Shanghai.
