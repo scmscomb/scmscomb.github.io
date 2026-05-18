@@ -19,12 +19,12 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       
-      {% assign nav_pages = "index,past,student,people,conference" | split: "," %}
+      {% assign nav_pages = "index,past,student,conference" | split: "," %}
 
       {% for nav in nav_pages %}
         {% for page in site.pages %}
           {% if page.filename == nav %}
-            <a href="{{ page.filename }}" class="btn">{{ page.title }}</a>
+            <a href="{{ page.filename }}" class="btn">{% if page.filename == "conference" %}Conference{% else %}{{ page.title }}{% endif %}</a>
           {% endif %}
         {% endfor %}
       {% endfor %}
