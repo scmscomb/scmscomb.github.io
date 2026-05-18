@@ -76,6 +76,11 @@ Fudan University, Jiangwan Campus, can be conveniently reached by metro or taxi 
 
 Participants are encouraged to take Shanghai Metro Line 10 to **Guofan Road Station** (国帆路站) and exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to Gate 2 of the Jiangwan Campus.  
 
+### Visa Information
+
+Participants who require a visa to enter China are encouraged to contact the organizers early. Invitation letters can be provided upon request.
+
+
 </section>
 
 <section id="speakers" class="conf-section" markdown="1">
@@ -114,13 +119,6 @@ Coffee breaks and lunches will be provided during the conference.
 
 Additional information regarding the conference dinner and banquet arrangements will be announced later.
 
-### Local Transportation
-
-The conference venue is conveniently accessible by Shanghai Metro Line 10 and by taxi services throughout the city.
-
-### Visa Information
-
-Participants who require a visa to enter China are encouraged to contact the organizers early. Invitation letters can be provided upon request.
 
 </section>
 
