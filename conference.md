@@ -35,14 +35,19 @@ filename: conference
 
 <section id="home" class="conf-section active">
 
-## Shanghai, China
+## Graph theory: structure, surfaces, spectra
 
-**Time:** 24 Sep – 27 Sep, 2026  
-**City:** Shanghai, China  
-**Organizer:** Shanghai Center for Mathematical Sciences  
-**Host:** SCMS Combinatorics Seminar  
+We would like to invite you to the conference entitled **“Graph theory: structure, surfaces, spectra”**, celebrating the work of Bojan Mohar on the occasion of his 70th birthday.
 
-Welcome to the conference website.
+The conference will take place from September 24–27, 2026, at the Shanghai Center for Mathematical Sciences, Fudan University, Shanghai, China.
+
+The meeting will bring together researchers working in graph theory, topological graph theory, combinatorics, and related areas. Topics include structural graph theory, graph embeddings, coloring problems, spectral methods, and interactions with geometry and topology.
+
+**Time:** September 24–27, 2026  
+**Venue:** Shanghai Center for Mathematical Sciences, Fudan University, Shanghai, China  
+**Organizer:** SCMS Combinatorics Seminar
+
+We warmly welcome participants from around the world to Shanghai.
 
 </section>
 
@@ -50,11 +55,22 @@ Welcome to the conference website.
 
 ## Conference Venue
 
-**Address:** Shanghai Center for Mathematical Sciences, Fudan University, Shanghai, China.
+The conference will take place at the Shanghai Center for Mathematical Sciences (SCMS), Fudan University, Jiangwan Campus, Shanghai, China.
+
+**Address:**  
+Shanghai Center for Mathematical Sciences  
+Fudan University, Jiangwan Campus  
+No. 2005 Songhu Road, Yangpu District, Shanghai 200438, China
+
+The Shanghai Center for Mathematical Sciences is located near **Gate 2** of the Jiangwan Campus.
 
 ### Transportation
 
-Please add detailed transportation information here, including directions from Pudong International Airport, Hongqiao Railway Station / Airport, and nearby metro stations.
+Participants are encouraged to take the Shanghai Metro to **Guofan Road Station** (国帆路站) on Metro Line 10.
+
+Please exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to Gate 2 of the Jiangwan Campus.
+
+Shanghai can also be conveniently reached from both Pudong International Airport and Hongqiao International Airport / Railway Station via metro and taxi services.
 
 </section>
 
