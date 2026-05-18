@@ -13,7 +13,10 @@ filename: conference
 .conf-sidebar a{display:block;margin-bottom:10px;padding:11px 14px;border:1px solid #cfcfcf;border-radius:6px;color:#159957;text-decoration:none;font-weight:600;background:#fff}
 .conf-sidebar a:hover{background:#f3f8f5}
 .conf-sidebar a.active{background:#159957;color:#fff;border-color:#159957}
-.conf-content{flex:1;min-width:0}
+.conf-content{flex:1;min-width:0;font-family:Georgia,"Times New Roman",serif;font-size:17px;line-height:1.75;color:#333}
+.conf-content h2{font-size:28px;color:#155f4f;margin-top:0}
+.conf-content h3{font-size:21px;color:#157878;margin-top:24px}
+.conf-content strong{color:#222}
 .conf-section{display:none}
 .conf-section.active{display:block}
 @media(max-width:700px){.conf-page{display:block;margin-left:0}.conf-sidebar{width:auto;margin-bottom:25px}.conf-photo{max-width:230px}}
@@ -33,7 +36,7 @@ filename: conference
 
 <div class="conf-content">
 
-<section id="home" class="conf-section active">
+<section id="home" class="conf-section active" markdown="1">
 
 ## Graph theory: structure, surfaces, spectra
 
@@ -51,7 +54,7 @@ We warmly welcome participants from around the world to Shanghai.
 
 </section>
 
-<section id="venue" class="conf-section">
+<section id="venue" class="conf-section" markdown="1">
 
 ## Conference Venue
 
@@ -74,7 +77,7 @@ Shanghai can also be conveniently reached from both Pudong International Airport
 
 </section>
 
-<section id="speakers" class="conf-section">
+<section id="speakers" class="conf-section" markdown="1">
 
 ## Speakers
 
@@ -94,7 +97,7 @@ Additional speakers will be announced later.
 
 </section>
 
-<section id="accommodation" class="conf-section">
+<section id="accommodation" class="conf-section" markdown="1">
 
 ## Accommodation & Meals
 
@@ -120,7 +123,7 @@ Participants who require a visa to enter China are encouraged to contact the org
 
 </section>
 
-<section id="contact" class="conf-section">
+<section id="contact" class="conf-section" markdown="1">
 
 ## Contact
 
