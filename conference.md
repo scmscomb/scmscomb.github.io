@@ -27,7 +27,7 @@ filename: conference
 <a href="#home" class="conf-link active" onclick="showSection('home',this)">Home</a>
 <a href="#venue" class="conf-link" onclick="showSection('venue',this)">Conference Venue</a>
 <a href="#speakers" class="conf-link" onclick="showSection('speakers',this)">Speakers</a>
-<a href="#accommodation" class="conf-link" onclick="showSection('accommodation',this)">Accommodation</a>
+<a href="#accommodation" class="conf-link" onclick="showSection('accommodation',this)">Accommodation & Meals</a>
 <a href="#contact" class="conf-link" onclick="showSection('contact',this)">Contact</a>
 </div>
 
@@ -96,13 +96,27 @@ Additional speakers will be announced later.
 
 <section id="accommodation" class="conf-section">
 
-## Accommodation
+## Accommodation & Meals
 
-Please add hotel and accommodation information here.
+### Accommodation
+
+Information about recommended hotels and accommodation options near the conference venue will be announced later.
+
+Participants are encouraged to stay in the Jiangwan Campus / Wujiaochang area for convenient transportation to the Shanghai Center for Mathematical Sciences.
 
 ### Meals
 
-Please add lunch, dinner, and coffee break information here.
+Coffee breaks and lunches will be provided during the conference.
+
+Additional information regarding the conference dinner and banquet arrangements will be announced later.
+
+### Local Transportation
+
+The conference venue is conveniently accessible by Shanghai Metro Line 10 and by taxi services throughout the city.
+
+### Visa Information
+
+Participants who require a visa to enter China are encouraged to contact the organizers early. Invitation letters can be provided upon request.
 
 </section>
 
