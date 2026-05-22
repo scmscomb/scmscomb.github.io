@@ -129,9 +129,17 @@ Participants are encouraged to take Shanghai Metro Line 10 to **Guofan Road Stat
 
 ### Accommodation
 
-Information about recommended hotels and accommodation options near the conference venue will be announced later.
+Participants are planned to stay at the following hotel during the workshop:
 
-Participants are encouraged to stay in the Jiangwan Campus / Wujiaochang area for convenient transportation to the Shanghai Center for Mathematical Sciences.
+**Fraser Place Wujiaochang Shanghai**  
+(上海五角场辉盛坊公寓酒店)
+
+Address:  
+No. 1258 Yinhang Road, Yangpu District, Shanghai 200433, China
+
+The hotel is located in the Jiangwan / Wujiaochang area and offers convenient transportation to the Shanghai Center for Mathematical Sciences, Fudan University.
+
+It takes approximately 10–15 minutes by taxi to reach the conference venue. The surrounding area also provides convenient access to restaurants, supermarkets, and Shanghai Metro Line 10.
 
 ### Meals
 
