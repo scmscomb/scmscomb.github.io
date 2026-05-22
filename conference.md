@@ -56,7 +56,16 @@ Jiangwan Campus, Fudan University,
 2005 Songhu Road, Yangpu District,  
 Shanghai 200438, China  
 
-**Organizer:** [SCMS Combinatorics Group](https://scmscomb.github.io/) 
+**Organizer:** 
+
+- Peter Bradshaw
+- Zdenek Dvořák
+- Krystal Guo
+- Ken-ichi Kawarabayashi
+- Ararat Harutyunyan
+- Hehui Wu
+- Local Organizers in [SCMS Combinatorics Group](https://scmscomb.github.io/)
+
 
 We warmly welcome participants from around the world to Shanghai.
 
@@ -140,23 +149,11 @@ Participants who require a visa to enter China are encouraged to contact the org
 
 ## Contact
 
-### Organising Committee
+For most questions regarding the conference, including participation, accommodation, local arrangements, and invitation letters, please contact local organizers:
 
-- Peter Bradshaw
-- Zdenek Dvořák
-- Krystal Guo
-- Ken-ichi Kawarabayashi
-- Ararat Harutyunyan
-- Hehui Wu
-
-For most questions regarding the conference, including participation, accommodation, local arrangements, and invitation letters, please contact:
-
-- cltang22@m.fudan.edu.cn
-- hhwu@fudan.edu.cn
-
-You may also contact the SCMS administration:
-
-- zhaoxiaoting@fudan.edu.cn
+- Chaoliang Tang, cltang22@m.fudan.edu.cn
+- Xiaoting Zhao, zhaoxiaoting@fudan.edu.cn
+- Hehui Wu, hhwu@fudan.edu.cn
 
 </section>
 
