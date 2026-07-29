@@ -77,48 +77,47 @@ We warmly welcome participants from around the world to Shanghai.
 
 ### Plenary Speakers
 
+- Jørgen Bang-Jensen
+- Pavol Hell
 - Daniel Král’
+- Tomaž Pisanski
 - Bruce Reed
 - Xuding Zhu
-- Pavol Hell
-- Tomaž Pisanski
-- Jørgen Bang-Jensen
 
 ### Contributed Speakers
 
-- Peter Mark Kayll
-- Patrice Ossona de Mendez
-- Jessica McDonald
-- Gelasio Salazar
-- Riste Škrekovski
-- Gašper Fijavž
 - Drago Bokal
 - Sergio Cabello
-- Robert Šámal
-- Martin Škoviera
-- Yifan Jing
-- Seyyed Aliasghar Hosseini
-- Tomáš Masařík
-- Stephan Kreutzer
-- Ervin Győri
-- David R. Wood
-- Kenta Ozeki
-- Hong Liu
-- Qing Xiang
-- Min Yan
-- Yongtang Shi
-- Jie Ma
-- Genghua Fan
+- MacKenzie Carr
 - Haiyan Chen
+- Genghua Fan
+- Gašper Fijavž
+- Ervin Győri
+- Seyyed Aliasghar Hosseini
+- Sarah Houdaigoui
+- Yuta Inoue
+- Yifan Jing
+- Peter Mark Kayll
+- Stephan Kreutzer
 - Honghai Li
 - Bernard Lidický
-- Sarah Houdaigoui
-- Gil Puig i Surroca
-- Gabriëlle Zwaneveld
-- Lucas Picasarri-Arrieta
-- MacKenzie Carr
-- Yuta Inoue
+- Hong Liu
+- Jie Ma
+- Tomáš Masařík
+- Jessica McDonald
 - Atsuyuki Miyashita
+- Patrice Ossona de Mendez
+- Kenta Ozeki
+- Lucas Picasarri-Arrieta
+- Gil Puig i Surroca
+- Gelasio Salazar
+- Yongtang Shi
+- Riste Škrekovski
+- Martin Škoviera
+- David R. Wood
+- Qing Xiang
+- Min Yan
+- Gabriëlle Zwaneveld
 
 </section>
 
