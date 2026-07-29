@@ -161,7 +161,7 @@ The figure below shows the walking route from Exit 3 of Guofan Road Station, bes
 
 <div style="margin:22px 0 28px 0;text-align:center;">
   <img
-    src="/assets/hotel-to-scms-walking-route.png"
+    src="/assets/Subway.png"
     alt="Walking route from Fraser Place Wujiaochang Shanghai to the Shanghai Center for Mathematical Sciences"
     style="width:100%;max-width:864px;height:auto;border-radius:8px;border:1px solid #ddd;"
     loading="lazy">
