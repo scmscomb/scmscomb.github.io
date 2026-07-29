@@ -162,6 +162,29 @@ The figure below shows the walking route from Exit 3 of Guofan Road Station, bes
 <div style="margin:22px 0 28px 0;text-align:center;">
   <img
     src="/assets/Subway.png"
+    alt="Walking route from Exit 3 of Guofan Road Station to the Shanghai Center for Mathematical Sciences"
+    style="width:100%;max-width:864px;height:auto;border-radius:8px;border:1px solid #ddd;"
+    loading="lazy">
+  <p style="margin-top:8px;font-size:15px;color:#666;font-style:italic;">
+    Walking route from Exit 3 of Guofan Road Station to the Shanghai Center for Mathematical Sciences.
+  </p>
+</div>
+
+### Accommodation
+
+Participants are planned to stay at the following two hotels during the workshop. 
+
+**Fraser Place Wujiaochang Shanghai**  
+(上海五角场辉盛坊公寓酒店)
+
+Address:  
+No. 1258 Yinhang Road, Yangpu District, Shanghai 200433, China
+
+During the conference, shuttle buses will be arranged between the Fraser hotel and the Shanghai Center for Mathematical Sciences. Besides, it takes approximately 5 minutes by taxi, or 25 minutes by foot, to reach the conference venue. The figure below shows the walking route from Fraser Place Hotel to the Shanghai Center for Mathematical Sciences.
+
+<div style="margin:22px 0 28px 0;text-align:center;">
+  <img
+    src="/assets/Hotel.png"
     alt="Walking route from Fraser Place Wujiaochang Shanghai to the Shanghai Center for Mathematical Sciences"
     style="width:100%;max-width:864px;height:auto;border-radius:8px;border:1px solid #ddd;"
     loading="lazy">
@@ -170,25 +193,31 @@ The figure below shows the walking route from Exit 3 of Guofan Road Station, bes
   </p>
 </div>
 
-### Accommodation
-
-Participants are planned to stay at the following hotel during the workshop:
-
-**Fraser Place Wujiaochang Shanghai**  
-(上海五角场辉盛坊公寓酒店)
+**SCMS Guest House**  
+(上海数学中心专家楼)
 
 Address:  
-No. 1258 Yinhang Road, Yangpu District, Shanghai 200433, China
+Opposite Lane 27, Xuede Road,  
+Xinjiangwan City Subdistrict, Yangpu District, Shanghai, China
 
-The hotel is located in the Jiangwan / Wujiaochang area and offers convenient transportation to the Shanghai Center for Mathematical Sciences, Fudan University.
+The SCMS Guest House is located just besides Gate 3 of the Jiangwan Campus, and the figure below shows the walking route from Gate 3 of the Jiangwan Campus to the Shanghai Center for Mathematical Sciences.
 
-It takes approximately 10–15 minutes by taxi to reach the conference venue. The surrounding area also provides convenient access to restaurants, supermarkets, and Shanghai Metro Line 10.
+<div style="margin:22px 0 28px 0;text-align:center;">
+  <img
+    src="/assets/GuestHouse.png"
+    alt="Walking route from Gate 3 of the Jiangwan Campus to the Shanghai Center for Mathematical Sciences"
+    style="width:100%;max-width:864px;height:auto;border-radius:8px;border:1px solid #ddd;"
+    loading="lazy">
+  <p style="margin-top:8px;font-size:15px;color:#666;font-style:italic;">
+    Walking route from Gate 3 of the Jiangwan Campus to the Shanghai Center for Mathematical Sciences.
+  </p>
+</div>
 
 ### Meals
 
 Coffee breaks and lunches will be provided during the conference.
 
-Additional information regarding the conference dinner and banquet arrangements will be announced later.
+Additional information regarding the conference dinner and banquet arrangements will be announced later. 
 
 ### Visa Information
 
