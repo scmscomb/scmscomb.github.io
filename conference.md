@@ -157,6 +157,19 @@ Fudan University, Jiangwan Campus, can be conveniently reached by metro or taxi 
 
 Participants are encouraged to take Shanghai Metro Line 10 to **Guofan Road Station** (国帆路站) and exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to Gate 2 of the Jiangwan Campus.
 
+The figure below shows the walking route from Exit 3 of Guofan Road Station, besides Gate 2 of the Jiangwan Campus, to the Shanghai Center for Mathematical Sciences.
+
+<div style="margin:22px 0 28px 0;text-align:center;">
+  <img
+    src="/assets/hotel-to-scms-walking-route.png"
+    alt="Walking route from Fraser Place Wujiaochang Shanghai to the Shanghai Center for Mathematical Sciences"
+    style="width:100%;max-width:864px;height:auto;border-radius:8px;border:1px solid #ddd;"
+    loading="lazy">
+  <p style="margin-top:8px;font-size:15px;color:#666;font-style:italic;">
+    Walking route from Fraser Place Wujiaochang Shanghai to the Shanghai Center for Mathematical Sciences.
+  </p>
+</div>
+
 ### Accommodation
 
 Participants are planned to stay at the following hotel during the workshop:
