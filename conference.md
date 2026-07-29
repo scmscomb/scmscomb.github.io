@@ -171,9 +171,7 @@ The Shanghai Center for Mathematical Sciences (SCMS) is located on the Jiangwan 
 - **By taxi:** The journey takes approximately 40–60 minutes and costs approximately **RMB 40**, depending on traffic.
 - **By metro:** Take Shanghai Metro Line 3 or Line 4, transfer to Line 10, and get off at **Guofan Road Station** (国帆路站). Use **Exit 3**. The total fare is approximately **RMB 10**.
 
-After leaving Guofan Road Station through Exit 3, participants can walk to the conference venue. Exit 3 is near Gate 2 of the Jiangwan Campus, and SCMS is approximately a 10–15-minute walk from the station.
-
-The figure below shows the walking route from Exit 3 of Guofan Road Station, near Gate 2 of the Jiangwan Campus, to the Shanghai Center for Mathematical Sciences.
+After leaving Guofan Road Station through Exit 3, participants can walk to the conference venue within 10 minute walk, the figure below shows the walking route.
 
 <div style="margin:22px 0 28px 0;text-align:center;">
   <img
@@ -196,7 +194,7 @@ Participants are planned to stay at the following two hotels during the workshop
 Address:  
 No. 1258 Yinhang Road, Yangpu District, Shanghai 200433, China
 
-During the conference, shuttle buses will be arranged between the Fraser hotel and the Shanghai Center for Mathematical Sciences. Besides, it takes approximately 5 minutes by taxi (about 15 RMB), or 25 minutes by foot, to reach the conference venue. The figure below shows the walking route from Fraser Place Hotel to the Shanghai Center for Mathematical Sciences.
+During the conference, shuttle buses will be arranged between the Fraser hotel and SCMS. Besides, it takes approximately 5 minutes by taxi (about 15 RMB), or 25 minutes by foot, to reach the conference venue. 
 
 <div style="margin:22px 0 28px 0;text-align:center;">
   <img
@@ -216,7 +214,7 @@ Address:
 Opposite Lane 27, Xuede Road,  
 Xinjiangwan City Subdistrict, Yangpu District, Shanghai, China
 
-The SCMS Guest House is located just besides Gate 3 of the Jiangwan Campus, and the figure below shows the walking route from Gate 3 of the Jiangwan Campus to the Shanghai Center for Mathematical Sciences.
+The SCMS Guest House is located just besides Gate 3 of the Jiangwan Campus, within 15 minutes walk distance to SCMS.
 
 <div style="margin:22px 0 28px 0;text-align:center;">
   <img
