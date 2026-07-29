@@ -180,7 +180,7 @@ Participants are planned to stay at the following two hotels during the workshop
 Address:  
 No. 1258 Yinhang Road, Yangpu District, Shanghai 200433, China
 
-During the conference, shuttle buses will be arranged between the Fraser hotel and the Shanghai Center for Mathematical Sciences. Besides, it takes approximately 5 minutes by taxi, or 25 minutes by foot, to reach the conference venue. The figure below shows the walking route from Fraser Place Hotel to the Shanghai Center for Mathematical Sciences.
+During the conference, shuttle buses will be arranged between the Fraser hotel and the Shanghai Center for Mathematical Sciences. Besides, it takes approximately 5 minutes by taxi (about 15 RMB), or 25 minutes by foot, to reach the conference venue. The figure below shows the walking route from Fraser Place Hotel to the Shanghai Center for Mathematical Sciences.
 
 <div style="margin:22px 0 28px 0;text-align:center;">
   <img
