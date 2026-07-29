@@ -237,15 +237,16 @@ Additional information regarding the conference dinner and banquet arrangements 
 
 Participants who require a visa to enter China are encouraged to contact the organizers early. Invitation letters can be provided upon request.
 
-</section>
-
-<section id="contact" class="conf-section" markdown="1">
-
 ### Further Information
 
 Participants who wish to explore Shanghai during their free time may find the following website useful:
 
 - [Shanghai Travel Guide](https://www.meet-in-shanghai.net/)
+
+
+</section>
+
+<section id="contact" class="conf-section" markdown="1">
 
 ## Contact
 
