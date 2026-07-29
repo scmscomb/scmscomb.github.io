@@ -153,11 +153,27 @@ The Shanghai Center for Mathematical Sciences is located near **Gate 2** of the 
 
 ### Transportation
 
-Fudan University, Jiangwan Campus, can be conveniently reached by metro or taxi from both Pudong International Airport and Hongqiao International Airport / Railway Station.
+The Shanghai Center for Mathematical Sciences (SCMS) is located on the Jiangwan Campus of Fudan University.
 
-Participants are encouraged to take Shanghai Metro Line 10 to **Guofan Road Station** (国帆路站) and exit from **Exit 3**. The Shanghai Center for Mathematical Sciences is within walking distance from the station and is closest to Gate 2 of the Jiangwan Campus.
+#### From Pudong International Airport (PVG)
 
-The figure below shows the walking route from Exit 3 of Guofan Road Station, besides Gate 2 of the Jiangwan Campus, to the Shanghai Center for Mathematical Sciences.
+- **By taxi:** The journey takes approximately 50–60 minutes and costs about **RMB 170**, depending on traffic.
+- **By metro:** Take Shanghai Metro Line 2 and transfer to Line 10. Get off at **Guofan Road Station** (国帆路站) and use **Exit 3**. The total fare is approximately **RMB 20**.
+- **By Maglev and taxi:** Take the Shanghai Maglev Train to Longyang Road Station, which costs approximately **RMB 50**, and then take a taxi to SCMS, which costs approximately **RMB 60**.
+
+#### From Hongqiao International Airport (SHA) or Hongqiao Railway Station
+
+- **By taxi:** The journey costs approximately **RMB 95**, depending on traffic.
+- **By metro:** Take Shanghai Metro Line 10 directly to **Guofan Road Station** (国帆路站) and use **Exit 3**. The fare is approximately **RMB 5**.
+
+#### From Shanghai Railway Station
+
+- **By taxi:** The journey takes approximately 40–60 minutes and costs approximately **RMB 40**, depending on traffic.
+- **By metro:** Take Shanghai Metro Line 3 or Line 4, transfer to Line 10, and get off at **Guofan Road Station** (国帆路站). Use **Exit 3**. The total fare is approximately **RMB 10**.
+
+After leaving Guofan Road Station through Exit 3, participants can walk to the conference venue. Exit 3 is near Gate 2 of the Jiangwan Campus, and SCMS is approximately a 10–15-minute walk from the station.
+
+The figure below shows the walking route from Exit 3 of Guofan Road Station, near Gate 2 of the Jiangwan Campus, to the Shanghai Center for Mathematical Sciences.
 
 <div style="margin:22px 0 28px 0;text-align:center;">
   <img
