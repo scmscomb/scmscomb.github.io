@@ -243,6 +243,12 @@ Participants who require a visa to enter China are encouraged to contact the org
 
 <section id="contact" class="conf-section" markdown="1">
 
+### Further Information
+
+Participants who wish to explore Shanghai during their free time may find the following website useful:
+
+- [Shanghai Travel Guide](https://www.meet-in-shanghai.net/)
+
 ## Contact
 
 For most questions regarding the conference, including participation, accommodation, local arrangements, and invitation letters, please contact local organizers:
