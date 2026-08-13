@@ -84,7 +84,7 @@ We warmly welcome participants from around the world to Shanghai.
 - Bruce Reed
 - Xuding Zhu
 
-### Contributed Speakers
+### Invited Speakers
 
 - Drago Bokal
 - Sergio Cabello
