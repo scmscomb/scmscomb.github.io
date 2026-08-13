@@ -272,17 +272,17 @@ The SCMS Guest House is located just besides Gate 3 of the Jiangwan Campus, with
   </p>
 </div>
 
-### Payment and Internet Access
-
-Mobile payment is widely used in China. Participants are recommended to install **Alipay** or **WeChat** and link an international bank card before arrival.
-
-**eduroam** will be available at the conference venue, and Wi-Fi will also be available at the hotels. Please note that some international websites may not be directly accessible through local internet connections in mainland China.
-
 ### Meals
 
 Coffee breaks and lunches will be provided during the conference.
 
 Additional information regarding the conference dinner and banquet arrangements will be announced later. 
+
+### Payment and Internet Access
+
+Mobile payment is widely used in China. Participants are recommended to install **Alipay** or **WeChat** and link an international bank card before arrival.
+
+**eduroam** will be available at the conference venue, and Wi-Fi will also be available at the hotels. Please note that some international websites may not be directly accessible through local internet connections in mainland China.
 
 ### Visa Information
 
