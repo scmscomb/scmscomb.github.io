@@ -227,6 +227,74 @@ The SCMS Guest House is located just besides Gate 3 of the Jiangwan Campus, with
   </p>
 </div>
 
+</div>
+
+### Accommodation
+
+Participants are planned to stay at the following two hotels during the workshop. 
+
+**Fraser Place Wujiaochang Shanghai**  
+(上海五角场辉盛坊公寓酒店)
+
+Address:  
+No. 1258 Yinhang Road, Yangpu District, Shanghai 200433, China
+
+During the conference, shuttle buses will be arranged between the Fraser hotel and SCMS. Besides, it takes approximately 5 minutes by taxi (about 15 RMB), or 25 minutes by foot, to reach the conference venue. 
+
+<div style="margin:22px 0 28px 0;text-align:center;">
+  <img
+    src="/assets/Hotel.png"
+    alt="Walking route from Fraser Place Wujiaochang Shanghai to the Shanghai Center for Mathematical Sciences"
+    style="width:100%;max-width:864px;height:auto;border-radius:8px;border:1px solid #ddd;"
+    loading="lazy">
+  <p style="margin-top:8px;font-size:15px;color:#666;font-style:italic;">
+    Walking route from Fraser Place Wujiaochang Shanghai to the Shanghai Center for Mathematical Sciences.
+  </p>
+</div>
+
+**SCMS Guest House**  
+(上海数学中心专家楼)
+
+Address:  
+Opposite Lane 27, Xuede Road,  
+Xinjiangwan City Subdistrict, Yangpu District, Shanghai, China
+
+The SCMS Guest House is located just besides Gate 3 of the Jiangwan Campus, within 15 minutes walk distance to SCMS.
+
+<div style="margin:22px 0 28px 0;text-align:center;">
+  <img
+    src="/assets/GuestHouse.png"
+    alt="Walking route from Gate 3 of the Jiangwan Campus to the Shanghai Center for Mathematical Sciences"
+    style="width:100%;max-width:864px;height:auto;border-radius:8px;border:1px solid #ddd;"
+    loading="lazy">
+  <p style="margin-top:8px;font-size:15px;color:#666;font-style:italic;">
+    Walking route from Gate 3 of the Jiangwan Campus to the Shanghai Center for Mathematical Sciences.
+  </p>
+</div>
+
+### Payment and Internet Access
+
+Mobile payment is widely used in China. Participants are recommended to install **Alipay** or **WeChat** and link an international bank card before arrival.
+
+**eduroam** will be available at the conference venue, and Wi-Fi will also be available at the hotels. Please note that some international websites may not be directly accessible through local internet connections in mainland China.
+
+### Meals
+
+Coffee breaks and lunches will be provided during the conference.
+
+Additional information regarding the conference dinner and banquet arrangements will be announced later. 
+
+### Visa Information
+
+Participants who require a visa to enter China are encouraged to contact the organizers early. Invitation letters can be provided upon request.
+
+### Further Information
+
+Participants who wish to explore Shanghai during their free time may find the following website useful:
+
+- [Shanghai Travel Guide](https://www.meet-in-shanghai.net/)
+
+
 ### Meals
 
 Coffee breaks and lunches will be provided during the conference.
