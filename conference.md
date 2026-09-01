@@ -90,7 +90,6 @@ We warmly welcome participants from around the world to Shanghai.
 - Sergio Cabello
 - MacKenzie Carr
 - Haiyan Chen
-- Genghua Fan
 - Gašper Fijavž
 - Ervin Győri
 - Seyyed Aliasghar Hosseini
@@ -111,7 +110,7 @@ We warmly welcome participants from around the world to Shanghai.
 - Lucas Picasarri-Arrieta
 - Gil Puig i Surroca
 - Gelasio Salazar
-- Robert Samal 
+- Robert Šámal
 - Yongtang Shi
 - Riste Škrekovski
 - Martin Škoviera
