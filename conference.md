@@ -111,6 +111,7 @@ We warmly welcome participants from around the world to Shanghai.
 - Lucas Picasarri-Arrieta
 - Gil Puig i Surroca
 - Gelasio Salazar
+- Robert Samal 
 - Yongtang Shi
 - Riste Škrekovski
 - Martin Škoviera
