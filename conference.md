@@ -121,6 +121,35 @@ We warmly welcome participants from around the world to Shanghai.
 
 </section>
 
+<section id="registration" class="conf-section" markdown="1">
+
+## Participant Registration
+
+Researchers and students interested in attending the conference are warmly invited to register.
+
+A limited number of rooms at the Fudan Guest House may be offered to registered student participants. Accommodation is subject to availability and cannot be guaranteed.
+
+<div style="margin:22px 0;text-align:center;">
+  <img
+    src="/assets/ParticipantRegistration.jpg"
+    alt="Participant registration poster"
+    style="width:100%;max-width:700px;height:auto;border-radius:8px;border:1px solid #ddd;"
+    loading="lazy">
+</div>
+
+<div style="text-align:center;margin:20px 0;">
+  <a href="https://v.wjx.cn/vm/m5XsLHN.aspx"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="display:inline-block;padding:12px 24px;
+            background:#159957;color:#fff;text-decoration:none;
+            border-radius:6px;font-weight:600;">
+    Open the Registration Form
+  </a>
+</div>
+
+</section>
+
 <section id="venue" class="conf-section" markdown="1">
 
 ## Conference Venue
