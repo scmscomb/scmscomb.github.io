@@ -31,6 +31,11 @@ filename: conference
 <p class="conf-note">This conference celebrates the 70th birthday of Bojan Mohar.</p>
 
 <a href="#home" class="conf-link active" onclick="showSection('home',this)">Home</a>
+<a href="#registration"
+   class="conf-link"
+   onclick="showSection('registration',this)">
+  Participant Registration
+</a>
 <a href="#speakers" class="conf-link" onclick="showSection('speakers',this)">Speakers</a>
 <a href="#venue" class="conf-link" onclick="showSection('venue',this)">Conference Venue</a>
 <a href="#accommodation" class="conf-link" onclick="showSection('accommodation',this)">Travel & Accommodation</a>
