@@ -100,7 +100,6 @@ We warmly welcome participants from around the world to Shanghai.
 - Stephan Kreutzer
 - Honghai Li
 - Bernard Lidický
-- Hong Liu
 - Jie Ma
 - Tomáš Masařík
 - Jessica McDonald
