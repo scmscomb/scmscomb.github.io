@@ -131,7 +131,7 @@ A limited number of rooms at the Fudan Guest House may be offered to registered 
 
 <div style="margin:22px 0;text-align:center;">
   <img
-    src="/assets/ParticipantRegistration.jpg"
+    src="/assets/ParticipantRegistration.png"
     alt="Participant registration poster"
     style="width:100%;max-width:700px;height:auto;border-radius:8px;border:1px solid #ddd;"
     loading="lazy">
