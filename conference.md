@@ -105,7 +105,7 @@ We warmly welcome participants from around the world to Shanghai.
 - Stephan Kreutzer, Technische Universität Berlin
 - Honghai Li, Jiangxi Normal University
 - Bernard Lidický, Iowa State University
-- Jie Ma, Tsinghua University (YMSC) / Beijing Institute of Mathematical Sciences and Applications
+- Jie Ma, Tsinghua University / University of Science and Technology of China 
 - Tomáš Masařík, University of Warsaw
 - Jessica McDonald, Auburn University
 - Atsuyuki Miyashita, The University of Tokyo
