@@ -82,47 +82,46 @@ We warmly welcome participants from around the world to Shanghai.
 
 ### Plenary Speakers
 
-- Jørgen Bang-Jensen
-- Pavol Hell
-- Daniel Král’
-- Tomaž Pisanski
-- Bruce Reed
-- Xuding Zhu
+- Jørgen Bang-Jensen, University of Southern Denmark
+- Pavol Hell, Simon Fraser University
+- Daniel Kráľ, Leipzig University
+- Tomaž Pisanski, University of Primorska
+- Bruce Reed, Academia Sinica
+- Xuding Zhu, Zhejiang Normal University
 
 ### Invited Speakers
 
-- Drago Bokal
-- Sergio Cabello
-- MacKenzie Carr
-- Haiyan Chen
-- Gašper Fijavž
-- Ervin Győri
-- Seyyed Aliasghar Hosseini
-- Sarah Houdaigoui
-- Yuta Inoue
-- Yifan Jing
-- Peter Mark Kayll
-- Stephan Kreutzer
-- Honghai Li
-- Bernard Lidický
-- Jie Ma
-- Tomáš Masařík
-- Jessica McDonald
-- Atsuyuki Miyashita
-- Patrice Ossona de Mendez
-- Kenta Ozeki
-- Lucas Picasarri-Arrieta
-- Gil Puig i Surroca
-- Gelasio Salazar
-- Robert Šámal
-- Yongtang Shi
-- Riste Škrekovski
-- Martin Škoviera
-- David R. Wood
-- Qing Xiang
-- Min Yan
-- Gabriëlle Zwaneveld
-
+- Drago Bokal, University of Maribor
+- Sergio Cabello, University of Ljubljana
+- MacKenzie Carr, Toronto Metropolitan University
+- Haiyan Chen, Jimei University
+- Gašper Fijavž, University of Ljubljana
+- Ervin Győri, Alfréd Rényi Institute of Mathematics
+- Seyyed Aliasghar Hosseini， Simon Fraser University
+- Sarah Houdaigoui, National Institute of Informatics / SOKENDAI
+- Yuta Inoue, The University of Tokyo
+- Yifan Jing, The Ohio State University
+- Peter Mark Kayll, University of Montana
+- Stephan Kreutzer, Technische Universität Berlin
+- Honghai Li, Jiangxi Normal University
+- Bernard Lidický, Iowa State University
+- Jie Ma, Tsinghua University (YMSC) / Beijing Institute of Mathematical Sciences and Applications
+- Tomáš Masařík, University of Warsaw
+- Jessica McDonald, Auburn University
+- Atsuyuki Miyashita, The University of Tokyo
+- Patrice Ossona de Mendez, CNRS
+- Kenta Ozeki, Yokohama National University
+- Lucas Picasarri-Arrieta, National Institute of Informatics
+- Gil Puig i Surroca, Université Paris Dauphine–PSL
+- Gelasio Salazar, Universidad Autónoma de San Luis Potosí
+- Robert Šámal, Charles University
+- Yongtang Shi, Nankai University
+- Riste Škrekovski, University of Primorska
+- Martin Škoviera, Comenius University Bratislava
+- David R. Wood, Monash University
+- Qing Xiang, Southern University of Science and Technology
+- Min Yan, The Hong Kong University of Science and Technology
+- Gabriëlle Zwaneveld, University of Amsterdam
 </section>
 
 <section id="registration" class="conf-section" markdown="1">
