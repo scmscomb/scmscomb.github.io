@@ -103,6 +103,7 @@ We warmly welcome participants from around the world to Shanghai.
 - Yifan Jing, The Ohio State University
 - Peter Mark Kayll, University of Montana
 - Stephan Kreutzer, Technische Universität Berlin
+- Caiheng Li, Southern University of Science and Technology
 - Honghai Li, Jiangxi Normal University
 - Bernard Lidický, Iowa State University
 - Jie Ma, Tsinghua University / University of Science and Technology of China 
@@ -115,7 +116,6 @@ We warmly welcome participants from around the world to Shanghai.
 - Gil Puig i Surroca, Université Paris Dauphine–PSL
 - Gelasio Salazar, Universidad Autónoma de San Luis Potosí
 - Robert Šámal, Charles University
-- Yongtang Shi, Nankai University
 - Riste Škrekovski, University of Primorska
 - Martin Škoviera, Comenius University Bratislava
 - David R. Wood, Monash University
