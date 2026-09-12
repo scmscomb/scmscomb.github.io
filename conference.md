@@ -261,9 +261,9 @@ The SCMS Guest House is located just besides Gate 3 of the Jiangwan Campus, with
 
 ### Meals
 
-Coffee breaks and lunches will be provided during the conference.
+Lunches will be served at the dining hall during the conference. Meal vouchers for breakfast and dinner at the dining hall will be provided during the conference. Participants are also encouraged to explore nearby restaurants.
 
-Additional information regarding the conference dinner and banquet arrangements will be announced later. 
+The Mid-Autumn Festival Banquet will be held on the evening of September 25 at Jing Pu Hui (晶浦会), located on the 4th floor of Shanghai Tower (上海中心大厦).
 
 ### Payment and Internet Access
 
