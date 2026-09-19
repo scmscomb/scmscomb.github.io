@@ -292,12 +292,6 @@ Participants who wish to explore Shanghai during their free time may find the fo
 
 ## Contact
 
-For most questions regarding the conference, including participation, accommodation, local arrangements, and invitation letters, please contact local organizers:
-
-- Chaoliang Tang, cltang22@m.fudan.edu.cn
-- Xiaoting Zhao, zhaoxiaoting@fudan.edu.cn
-- Hehui Wu, hhwu@fudan.edu.cn
-
 For most questions regarding the conference, including participation, accommodation, local arrangements, and invitation letters, please contact the local organizers:
 
 - Chaoliang Tang, cltang22@m.fudan.edu.cn, +86 17717979354
