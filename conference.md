@@ -298,6 +298,15 @@ For most questions regarding the conference, including participation, accommodat
 - Xiaoting Zhao, zhaoxiaoting@fudan.edu.cn
 - Hehui Wu, hhwu@fudan.edu.cn
 
+For most questions regarding the conference, including participation, accommodation, local arrangements, and invitation letters, please contact the local organizers:
+
+- Chaoliang Tang, cltang22@m.fudan.edu.cn, +86 17717979354
+- Xiaoting Zhao, zhaoxiaoting@fudan.edu.cn
+- Hehui Wu, hhwu@fudan.edu.cn
+
+For pickup information, if you have any questions, you can also contact:
+- Zimu Xiang, zimuxiang@fudan.edu.cn.
+
 </section>
 
 </div>
