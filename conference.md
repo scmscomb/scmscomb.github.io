@@ -247,6 +247,10 @@ Opposite Lane 27, Xuede Road,
 Xinjiangwan City Subdistrict, Yangpu District, Shanghai, China
 
 The SCMS Guest House is located just besides Gate 3 of the Jiangwan Campus, within 15 minutes walk distance to SCMS.
+- The entrance is an iron gate, which is usually locked. Please ring the doorbell or enter the password **202609** for entry.
+- There is a kitchen on the first floor with a fridge. The top shelf of the fridge will be stocked with milk, jam, bread, and biscuits for breakfast, please feel free to help yourself.
+- Disposable cups and plates in the kitchen are available for guests to use.
+- A washing machine and dryer are also available.
 
 <div style="margin:22px 0 28px 0;text-align:center;">
   <img
