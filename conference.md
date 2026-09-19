@@ -218,7 +218,7 @@ After leaving Guofan Road Station through Exit 3, participants can walk to the c
 
 ### Accommodation
 
-Participants are planned to stay at the following two hotels during the workshop. 
+Participants are planned to stay at Guest House / Fraser Hotel during the workshop. To get to the hotels, take Subway Line 10 and get off at Xinjiangwancheng Station, one stop before Guofan Road.
 
 **Fraser Place Wujiaochang Shanghai**  
 (上海五角场辉盛坊公寓酒店)
