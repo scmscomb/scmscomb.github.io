@@ -330,7 +330,7 @@ After leaving Guofan Road Station through Exit 3, participants can walk to the c
 
 ### Accommodation
 
-Participants are planned to stay at the SCMS Guest House or Fraser Place Wujiaochang Shanghai during the workshop. Both hotels are within a ten-minute walk of **Xinjiangwancheng Station (新江湾城站) on Metro Line 10**. Please use the exit specified for your hotel below.
+Participants are planned to stay at the SCMS Guest House or Fraser Place Wujiaochang Shanghai during the workshop. Both hotels are closed to Jiangwan campus, within a ten-minute walk of **Xinjiangwancheng Station (新江湾城站) on Metro Line 10**, which is one station after Guofan Road. 
 
 **Fraser Place Wujiaochang Shanghai**  
 (上海五角场辉盛坊公寓酒店)
