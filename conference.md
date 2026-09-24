@@ -132,10 +132,10 @@ All talks will take place in **Gu Lecture Hall**, Shanghai Center for Mathematic
 <thead><tr><th>Time</th><th>Speaker / Talk</th></tr></thead>
 <tbody>
 <tr><td>09:00–09:50</td><td><strong>Pavol Hell</strong><br>Ordering Characterizations of Graphs</td></tr>
-<tr class="break-row"><td>09:50–10:00</td><td>Break</td></tr>
-<tr><td>10:00–10:25</td><td><strong>Peter Mark Kayll</strong><br>Motley Mathematical Morsels of Mohar</td></tr>
-<tr><td>10:25–10:50</td><td><strong>Riste Škrekovski</strong><br>The Proper Conflict-Free Coloring</td></tr>
-<tr class="break-row"><td>10:50–11:10</td><td>Coffee break</td></tr>
+<tr class="break-row"><td>09:50–10:10</td><td>Coffee break</td></tr>
+<tr><td>10:10–10:35</td><td><strong>Peter Mark Kayll</strong><br>Motley Mathematical Morsels of Mohar</td></tr>
+<tr><td>10:35–11:00</td><td><strong>Riste Škrekovski</strong><br>The Proper Conflict-Free Coloring</td></tr>
+<tr class="break-row"><td>11:00–11:10</td><td>Break</td></tr>
 <tr><td>11:10–11:35</td><td><strong>Martin Škoviera</strong><br>Nice Subgraphs in Cubic Graphs, 6-Cuts, and the Berge Conjecture</td></tr>
 <tr><td>11:35–12:00</td><td><strong>Stephan Kreutzer</strong><br>Well-Quasi-Ordering Eulerian Digraphs</td></tr>
 <tr class="break-row"><td>12:00–13:30</td><td>Lunch</td></tr>
@@ -150,10 +150,10 @@ All talks will take place in **Gu Lecture Hall**, Shanghai Center for Mathematic
 <thead><tr><th>Time</th><th>Speaker / Talk</th></tr></thead>
 <tbody>
 <tr><td>09:00–09:50</td><td><strong>Xuding Zhu</strong><br>Alon-Tarsi number of line graphs</td></tr>
-<tr class="break-row"><td>09:50–10:00</td><td>Break</td></tr>
-<tr><td>10:00–10:25</td><td><strong>David R. Wood</strong><br>Dominating Models</td></tr>
-<tr><td>10:25–10:50</td><td><strong>Haiyan Chen</strong><br>Discrete Steklov Eigenvalues of Self-Similar Networks</td></tr>
-<tr class="break-row"><td>10:50–11:10</td><td>Coffee break</td></tr>
+<tr class="break-row"><td>09:50–10:10</td><td>Coffee break</td></tr>
+<tr><td>10:10–10:35</td><td><strong>David R. Wood</strong><br>Dominating Models</td></tr>
+<tr><td>10:35–11:00</td><td><strong>Haiyan Chen</strong><br>Discrete Steklov Eigenvalues of Self-Similar Networks</td></tr>
+<tr class="break-row"><td>13:00–11:10</td><td>Break</td></tr>
 <tr><td>11:10–11:35</td><td><strong>Gil Puig i Surroca</strong><br>Dichoosability of Graphs with High Choosability</td></tr>
 <tr><td>11:35–12:00</td><td><strong>Honghai Li</strong><br>Characteristic Polynomial of Uniform Hypertrees</td></tr>
 <tr class="break-row"><td>12:00–13:30</td><td>Lunch</td></tr>
@@ -175,10 +175,10 @@ All talks will take place in **Gu Lecture Hall**, Shanghai Center for Mathematic
 <thead><tr><th>Time</th><th>Speaker / Talk</th></tr></thead>
 <tbody>
 <tr><td>09:00–09:50</td><td><strong>Daniel Kráľ</strong><br>Structural sparsity in algorithm design and optimization</td></tr>
-<tr class="break-row"><td>09:50–10:00</td><td>Break</td></tr>
-<tr><td>10:00–10:25</td><td><strong>Patrice Ossona de Mendez</strong><br>A few words about maps</td></tr>
-<tr><td>10:25–10:50</td><td><strong>Lucas Picasarri-Arrieta</strong><br>A generalisation of Ramsey’s theorem and its applications to degree-boundedness</td></tr>
-<tr class="break-row"><td>10:50–11:10</td><td>Coffee break</td></tr>
+<tr class="break-row"><td>09:50–10:10</td><td>Coffee break</td></tr>
+<tr><td>10:10–10:35</td><td><strong>Patrice Ossona de Mendez</strong><br>A few words about maps</td></tr>
+<tr><td>10:35–11:00</td><td><strong>Lucas Picasarri-Arrieta</strong><br>A generalisation of Ramsey’s theorem and its applications to degree-boundedness</td></tr>
+<tr class="break-row"><td>11:00–11:10</td><td>Break</td></tr>
 <tr><td>11:10–11:35</td><td><strong>Gabriëlle Zwaneveld</strong><br>Seymour-tight Orientations</td></tr>
 <tr><td>11:35–12:00</td><td><strong>Min Yan</strong><br>Tilings of Hyperbolic Surfaces</td></tr>
 <tr class="break-row"><td>12:00–13:30</td><td>Lunch</td></tr>
