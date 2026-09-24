@@ -80,6 +80,7 @@ Shanghai 200438, China
 - Ken-ichi Kawarabayashi
 - Ararat Harutyunyan
 - Hehui Wu
+- Yukun He
 - Local Organizers in [SCMS Combinatorics Group](https://scmscomb.github.io/)
 
 
